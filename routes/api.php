@@ -20,12 +20,15 @@ use App\Http\Controllers\CartController;
 Route::middleware('auth:api')->get('/user', function (Request $request) {
     return $request->user();
 });
+
+
 // AUTH 
+Route::get('profile', [UserController::class, 'getAuthenticatedUser']);
 Route::post('user-register', [UserController::class, 'register']);
 Route::post('user-login', [UserController::class, 'login']);
 
 // USER
-Route::get('user', [UserController::class, 'getAllUser']);
+Route::get('user', [UserController::class, 'getAllUser'])->middleware('superadmin');
 
 // PRODUCT
 Route::resource('product', ProductController::class);

@@ -5,9 +5,14 @@ namespace App\Http\Controllers;
 use Illuminate\Http\Request;
 use App\Models\User;
 use Hash;
+use Auth;
+use JWTAuth;
+use JWTException;
+    
 
 class UserController extends Controller
 {
+
     public function getAllUser(Request $request)
     {
         $users = User::all();
@@ -26,11 +31,23 @@ class UserController extends Controller
     public function login(Request $request)
     {
         $credentials = $request->only('email', 'password');
-        $user = User::where('email', $credentials['email'])->first();
-        if (!$user || !Hash::check($credentials['password'], $user->password)) {
-            return response()->json(['error' => 'Invalid credentials'], 401);
+        // if (!$user || !Hash::check($credentials['password'], $user->password)) {
+        //     return response()->json(['error' => 'Invalid credentials'], 401);
+        // }
+        // return response()->json(['token' => $user->token], 200);
+        // return $credentials;
+        if (!$jwt_token = JWTAuth::attempt($credentials)) {
+            return response()->json([
+                'success' => false,
+                'message' => 'Invalid Email or Password',
+            ]);
         }
-        return response()->json(['token' => $user->token], 200);
+        $user = User::where('email', $credentials['email'])->first();
+        return response()->json([
+            'success' => true,
+            'token' => $jwt_token,
+            'user' => JWTAuth::user()
+        ]);
     }
 
     public function updateProfile()
@@ -43,4 +60,42 @@ class UserController extends Controller
             'data' => $user
         ]);
     }
+
+    public function checkProfile(Request $request)
+    {
+        $user = JWTAuth::user();
+        return $user;
+    }
+
+    public function getAuthenticatedUser()
+    {
+        try {
+
+            if (! $user = JWTAuth::parseToken()->authenticate()) {
+                return response()->json(['user_not_found'], 404);
+            }
+
+        } catch (Tymon\JWTAuth\Exceptions\TokenExpiredException $e) {
+
+            return response()->json(['token_expired'], $e->getStatusCode());
+
+        } catch (Tymon\JWTAuth\Exceptions\TokenInvalidException $e) {
+
+            return response()->json(['token_invalid'], $e->getStatusCode());
+
+        } catch (Tymon\JWTAuth\Exceptions\JWTException $e) {
+
+            return response()->json(['token_absent'], $e->getStatusCode());
+
+        }
+
+        return response()->json($user);
+    }
+
+    // BISA JUGA
+    // public function profile()
+    // {
+    //     $user = JWTAuth::parseToken()->authenticate();
+    //     return $user;
+    // }
 }

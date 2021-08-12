@@ -3,9 +3,10 @@
 namespace App\Http\Middleware;
 
 use Closure;
+use JWTAuth;
 use Illuminate\Http\Request;
 
-class isAdmin
+class Admin
 {
     /**
      * Handle an incoming request.
@@ -16,9 +17,9 @@ class isAdmin
      */
     public function handle(Request $request, Closure $next)
     {
-        // if (auth()->user()->level == 'superadmin') {
-        //     return $next($request);
-        // }
-        // return 'Unauthorized';
+        if (JWTAuth::user()->level == 'admin') {
+            return $next($request);
+        }
     }
+
 }
