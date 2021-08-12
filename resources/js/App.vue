@@ -20,6 +20,7 @@
         </div> -->
         <router-view name="Header"/>
         <router-view name="Slider"/>
+        <router-view name="StartSmallBanner"/>
 
         <router-view/>
         <router-view name="Footer"/>

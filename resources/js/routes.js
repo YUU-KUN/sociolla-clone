@@ -34,7 +34,7 @@ export const routes = [
     {
         path: '/',
         name: 'Dashboard',
-        components: {default: Dashboard, Header, Footer, Slider}
+        components: {default: Dashboard, Header, Footer, Slider, StartSmallBanner}
       },
       {
         path: '/product',

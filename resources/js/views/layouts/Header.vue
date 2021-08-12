@@ -144,7 +144,7 @@
 											<li class="single-menu">
 												<a href="#" class="title-link">Shop Kid's</a>
 												<div class="image">
-													<img src="https://via.placeholder.com/225x155" alt="#">
+													<img src="images/225/1.jpg" alt="#">
 												</div>
 												<div class="inner-link">
 													<a href="#">Kids Toys</a>
@@ -156,7 +156,7 @@
 											<li class="single-menu">
 												<a href="#" class="title-link">Shop Men's</a>
 												<div class="image">
-													<img src="https://via.placeholder.com/225x155" alt="#">
+													<img src="images/225/2.jpg" alt="#">
 												</div>
 												<div class="inner-link">
 													<a href="#">Watch</a>
@@ -168,7 +168,7 @@
 											<li class="single-menu">
 												<a href="#" class="title-link">Shop Women's</a>
 												<div class="image">
-													<img src="https://via.placeholder.com/225x155" alt="#">
+													<img src="images/225/3.jpg" alt="#">
 												</div>
 												<div class="inner-link">
 													<a href="#">Ladies Shirt</a>
