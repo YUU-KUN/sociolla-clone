@@ -1874,6 +1874,7 @@ __webpack_require__.r(__webpack_exports__);
 //
 //
 //
+//
 /* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ({});
 
 /***/ }),
@@ -2014,6 +2015,1533 @@ __webpack_require__.r(__webpack_exports__);
     this.getProduct();
   }
 });
+
+/***/ }),
+
+/***/ "./node_modules/babel-loader/lib/index.js??clonedRuleSet-5[0].rules[0].use[0]!./node_modules/vue-loader/lib/index.js??vue-loader-options!./resources/js/views/Blog.vue?vue&type=script&lang=js&":
+/*!******************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/babel-loader/lib/index.js??clonedRuleSet-5[0].rules[0].use[0]!./node_modules/vue-loader/lib/index.js??vue-loader-options!./resources/js/views/Blog.vue?vue&type=script&lang=js& ***!
+  \******************************************************************************************************************************************************************************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
+/* harmony export */ });
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ({});
+
+/***/ }),
+
+/***/ "./node_modules/babel-loader/lib/index.js??clonedRuleSet-5[0].rules[0].use[0]!./node_modules/vue-loader/lib/index.js??vue-loader-options!./resources/js/views/Cart.vue?vue&type=script&lang=js&":
+/*!******************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/babel-loader/lib/index.js??clonedRuleSet-5[0].rules[0].use[0]!./node_modules/vue-loader/lib/index.js??vue-loader-options!./resources/js/views/Cart.vue?vue&type=script&lang=js& ***!
+  \******************************************************************************************************************************************************************************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
+/* harmony export */ });
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ({});
+
+/***/ }),
+
+/***/ "./node_modules/babel-loader/lib/index.js??clonedRuleSet-5[0].rules[0].use[0]!./node_modules/vue-loader/lib/index.js??vue-loader-options!./resources/js/views/Checkout.vue?vue&type=script&lang=js&":
+/*!**********************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/babel-loader/lib/index.js??clonedRuleSet-5[0].rules[0].use[0]!./node_modules/vue-loader/lib/index.js??vue-loader-options!./resources/js/views/Checkout.vue?vue&type=script&lang=js& ***!
+  \**********************************************************************************************************************************************************************************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
+/* harmony export */ });
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ({});
+
+/***/ }),
+
+/***/ "./node_modules/babel-loader/lib/index.js??clonedRuleSet-5[0].rules[0].use[0]!./node_modules/vue-loader/lib/index.js??vue-loader-options!./resources/js/views/Contact.vue?vue&type=script&lang=js&":
+/*!*********************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/babel-loader/lib/index.js??clonedRuleSet-5[0].rules[0].use[0]!./node_modules/vue-loader/lib/index.js??vue-loader-options!./resources/js/views/Contact.vue?vue&type=script&lang=js& ***!
+  \*********************************************************************************************************************************************************************************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
+/* harmony export */ });
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ({});
 
 /***/ }),
 
@@ -4395,6 +5923,265 @@ __webpack_require__.r(__webpack_exports__);
 
 /***/ }),
 
+/***/ "./node_modules/babel-loader/lib/index.js??clonedRuleSet-5[0].rules[0].use[0]!./node_modules/vue-loader/lib/index.js??vue-loader-options!./resources/js/views/layouts/DashboardHeader.vue?vue&type=script&lang=js&":
+/*!*************************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/babel-loader/lib/index.js??clonedRuleSet-5[0].rules[0].use[0]!./node_modules/vue-loader/lib/index.js??vue-loader-options!./resources/js/views/layouts/DashboardHeader.vue?vue&type=script&lang=js& ***!
+  \*************************************************************************************************************************************************************************************************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
+/* harmony export */ });
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ({});
+
+/***/ }),
+
 /***/ "./node_modules/babel-loader/lib/index.js??clonedRuleSet-5[0].rules[0].use[0]!./node_modules/vue-loader/lib/index.js??vue-loader-options!./resources/js/views/layouts/Footer.vue?vue&type=script&lang=js&":
 /*!****************************************************************************************************************************************************************************************************************!*\
   !*** ./node_modules/babel-loader/lib/index.js??clonedRuleSet-5[0].rules[0].use[0]!./node_modules/vue-loader/lib/index.js??vue-loader-options!./resources/js/views/layouts/Footer.vue?vue&type=script&lang=js& ***!
@@ -4406,6 +6193,79 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
 /* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
 /* harmony export */ });
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
 //
 //
 //
@@ -4518,70 +6378,6 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
 /* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
 /* harmony export */ });
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
 //
 //
 //
@@ -6301,19 +8097,19 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var axios__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! axios */ "./node_modules/axios/index.js");
 /* harmony import */ var axios__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(axios__WEBPACK_IMPORTED_MODULE_2__);
 /* harmony import */ var _routes__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./routes */ "./resources/js/routes.js");
-/* harmony import */ var _public_assets_css_magnific_popup_min_css__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ../../public/assets/css/magnific-popup.min.css */ "./public/assets/css/magnific-popup.min.css");
-/* harmony import */ var _public_assets_css_font_awesome_css__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ../../public/assets/css/font-awesome.css */ "./public/assets/css/font-awesome.css");
-/* harmony import */ var _public_assets_css_jquery_fancybox_min_css__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! ../../public/assets/css/jquery.fancybox.min.css */ "./public/assets/css/jquery.fancybox.min.css");
-/* harmony import */ var _public_assets_css_themify_icons_css__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(/*! ../../public/assets/css/themify-icons.css */ "./public/assets/css/themify-icons.css");
-/* harmony import */ var _public_assets_css_animate_css__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(/*! ../../public/assets/css/animate.css */ "./public/assets/css/animate.css");
-/* harmony import */ var _public_assets_css_flex_slider_min_css__WEBPACK_IMPORTED_MODULE_9__ = __webpack_require__(/*! ../../public/assets/css/flex-slider.min.css */ "./public/assets/css/flex-slider.min.css");
-/* harmony import */ var _public_assets_css_owl_carousel_css__WEBPACK_IMPORTED_MODULE_10__ = __webpack_require__(/*! ../../public/assets/css/owl-carousel.css */ "./public/assets/css/owl-carousel.css");
-/* harmony import */ var _public_assets_css_niceselect_css__WEBPACK_IMPORTED_MODULE_11__ = __webpack_require__(/*! ../../public/assets/css/niceselect.css */ "./public/assets/css/niceselect.css");
-/* harmony import */ var _public_assets_css_slicknav_min_css__WEBPACK_IMPORTED_MODULE_12__ = __webpack_require__(/*! ../../public/assets/css/slicknav.min.css */ "./public/assets/css/slicknav.min.css");
-/* harmony import */ var _public_assets_css_responsive_css__WEBPACK_IMPORTED_MODULE_13__ = __webpack_require__(/*! ../../public/assets/css/responsive.css */ "./public/assets/css/responsive.css");
-/* harmony import */ var _public_assets_css_bootstrap_css__WEBPACK_IMPORTED_MODULE_14__ = __webpack_require__(/*! ../../public/assets/css/bootstrap.css */ "./public/assets/css/bootstrap.css");
-/* harmony import */ var _public_assets_css_reset_css__WEBPACK_IMPORTED_MODULE_15__ = __webpack_require__(/*! ../../public/assets/css/reset.css */ "./public/assets/css/reset.css");
-/* harmony import */ var _public_assets_css_style_css__WEBPACK_IMPORTED_MODULE_16__ = __webpack_require__(/*! ../../public/assets/css/style.css */ "./public/assets/css/style.css");
+/* harmony import */ var _public_assets_css_bootstrap_css__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ../../public/assets/css/bootstrap.css */ "./public/assets/css/bootstrap.css");
+/* harmony import */ var _public_assets_css_reset_css__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ../../public/assets/css/reset.css */ "./public/assets/css/reset.css");
+/* harmony import */ var _public_assets_css_style_css__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! ../../public/assets/css/style.css */ "./public/assets/css/style.css");
+/* harmony import */ var _public_assets_css_responsive_css__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(/*! ../../public/assets/css/responsive.css */ "./public/assets/css/responsive.css");
+/* harmony import */ var _public_assets_css_magnific_popup_min_css__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(/*! ../../public/assets/css/magnific-popup.min.css */ "./public/assets/css/magnific-popup.min.css");
+/* harmony import */ var _public_assets_css_font_awesome_css__WEBPACK_IMPORTED_MODULE_9__ = __webpack_require__(/*! ../../public/assets/css/font-awesome.css */ "./public/assets/css/font-awesome.css");
+/* harmony import */ var _public_assets_css_jquery_fancybox_min_css__WEBPACK_IMPORTED_MODULE_10__ = __webpack_require__(/*! ../../public/assets/css/jquery.fancybox.min.css */ "./public/assets/css/jquery.fancybox.min.css");
+/* harmony import */ var _public_assets_css_themify_icons_css__WEBPACK_IMPORTED_MODULE_11__ = __webpack_require__(/*! ../../public/assets/css/themify-icons.css */ "./public/assets/css/themify-icons.css");
+/* harmony import */ var _public_assets_css_animate_css__WEBPACK_IMPORTED_MODULE_12__ = __webpack_require__(/*! ../../public/assets/css/animate.css */ "./public/assets/css/animate.css");
+/* harmony import */ var _public_assets_css_flex_slider_min_css__WEBPACK_IMPORTED_MODULE_13__ = __webpack_require__(/*! ../../public/assets/css/flex-slider.min.css */ "./public/assets/css/flex-slider.min.css");
+/* harmony import */ var _public_assets_css_owl_carousel_css__WEBPACK_IMPORTED_MODULE_14__ = __webpack_require__(/*! ../../public/assets/css/owl-carousel.css */ "./public/assets/css/owl-carousel.css");
+/* harmony import */ var _public_assets_css_niceselect_css__WEBPACK_IMPORTED_MODULE_15__ = __webpack_require__(/*! ../../public/assets/css/niceselect.css */ "./public/assets/css/niceselect.css");
+/* harmony import */ var _public_assets_css_slicknav_min_css__WEBPACK_IMPORTED_MODULE_16__ = __webpack_require__(/*! ../../public/assets/css/slicknav.min.css */ "./public/assets/css/slicknav.min.css");
 /**
  * First we will load all of this project's JavaScript dependencies which
  * includes Vue and other libraries. It is a great starting point when
@@ -6415,16 +8211,26 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */ });
 /* harmony import */ var _views_Home_vue__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./views/Home.vue */ "./resources/js/views/Home.vue");
 /* harmony import */ var _views_Dashboard_vue__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./views/Dashboard.vue */ "./resources/js/views/Dashboard.vue");
-/* harmony import */ var _views_layouts_Header_vue__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./views/layouts/Header.vue */ "./resources/js/views/layouts/Header.vue");
-/* harmony import */ var _views_layouts_Footer_vue__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./views/layouts/Footer.vue */ "./resources/js/views/layouts/Footer.vue");
-/* harmony import */ var _views_layouts_Product_vue__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ./views/layouts/Product.vue */ "./resources/js/views/layouts/Product.vue");
-/* harmony import */ var _views_layouts_Slider_vue__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ./views/layouts/Slider.vue */ "./resources/js/views/layouts/Slider.vue");
-/* harmony import */ var _views_layouts_StartMediumBanner_vue__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! ./views/layouts/StartMediumBanner.vue */ "./resources/js/views/layouts/StartMediumBanner.vue");
-/* harmony import */ var _views_layouts_StartSmallBanner_vue__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(/*! ./views/layouts/StartSmallBanner.vue */ "./resources/js/views/layouts/StartSmallBanner.vue");
-/* harmony import */ var _components_ProductComponent_vue__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(/*! ./components/ProductComponent.vue */ "./resources/js/components/ProductComponent.vue");
+/* harmony import */ var _views_Cart_vue__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./views/Cart.vue */ "./resources/js/views/Cart.vue");
+/* harmony import */ var _views_Checkout_vue__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./views/Checkout.vue */ "./resources/js/views/Checkout.vue");
+/* harmony import */ var _views_Contact_vue__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ./views/Contact.vue */ "./resources/js/views/Contact.vue");
+/* harmony import */ var _views_Blog_vue__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ./views/Blog.vue */ "./resources/js/views/Blog.vue");
+/* harmony import */ var _views_layouts_DashboardHeader_vue__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! ./views/layouts/DashboardHeader.vue */ "./resources/js/views/layouts/DashboardHeader.vue");
+/* harmony import */ var _views_layouts_Header_vue__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(/*! ./views/layouts/Header.vue */ "./resources/js/views/layouts/Header.vue");
+/* harmony import */ var _views_layouts_Footer_vue__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(/*! ./views/layouts/Footer.vue */ "./resources/js/views/layouts/Footer.vue");
+/* harmony import */ var _views_layouts_Product_vue__WEBPACK_IMPORTED_MODULE_9__ = __webpack_require__(/*! ./views/layouts/Product.vue */ "./resources/js/views/layouts/Product.vue");
+/* harmony import */ var _views_layouts_Slider_vue__WEBPACK_IMPORTED_MODULE_10__ = __webpack_require__(/*! ./views/layouts/Slider.vue */ "./resources/js/views/layouts/Slider.vue");
+/* harmony import */ var _views_layouts_StartMediumBanner_vue__WEBPACK_IMPORTED_MODULE_11__ = __webpack_require__(/*! ./views/layouts/StartMediumBanner.vue */ "./resources/js/views/layouts/StartMediumBanner.vue");
+/* harmony import */ var _views_layouts_StartSmallBanner_vue__WEBPACK_IMPORTED_MODULE_12__ = __webpack_require__(/*! ./views/layouts/StartSmallBanner.vue */ "./resources/js/views/layouts/StartSmallBanner.vue");
+/* harmony import */ var _components_ProductComponent_vue__WEBPACK_IMPORTED_MODULE_13__ = __webpack_require__(/*! ./components/ProductComponent.vue */ "./resources/js/components/ProductComponent.vue");
  // import Product from './views/Product.vue'
 
+
+
+
+
  // layouts
+
 
 
 
@@ -6450,20 +8256,52 @@ var routes = [// {
 //     component: EditProduct
 // }
 {
+  path: '/blog',
+  name: 'Blog',
+  components: {
+    "default": _views_Blog_vue__WEBPACK_IMPORTED_MODULE_5__.default,
+    Header: _views_layouts_Header_vue__WEBPACK_IMPORTED_MODULE_7__.default,
+    Footer: _views_layouts_Footer_vue__WEBPACK_IMPORTED_MODULE_8__.default
+  }
+}, {
+  path: '/contact',
+  name: 'Contact',
+  components: {
+    "default": _views_Contact_vue__WEBPACK_IMPORTED_MODULE_4__.default,
+    Header: _views_layouts_Header_vue__WEBPACK_IMPORTED_MODULE_7__.default,
+    Footer: _views_layouts_Footer_vue__WEBPACK_IMPORTED_MODULE_8__.default
+  }
+}, {
+  path: '/checkout',
+  name: 'Checkout',
+  components: {
+    "default": _views_Checkout_vue__WEBPACK_IMPORTED_MODULE_3__.default,
+    Header: _views_layouts_Header_vue__WEBPACK_IMPORTED_MODULE_7__.default,
+    Footer: _views_layouts_Footer_vue__WEBPACK_IMPORTED_MODULE_8__.default
+  }
+}, {
+  path: '/cart',
+  name: 'Cart',
+  components: {
+    "default": _views_Cart_vue__WEBPACK_IMPORTED_MODULE_2__.default,
+    Header: _views_layouts_Header_vue__WEBPACK_IMPORTED_MODULE_7__.default,
+    Footer: _views_layouts_Footer_vue__WEBPACK_IMPORTED_MODULE_8__.default
+  }
+}, {
   path: '/',
   name: 'Dashboard',
   components: {
     "default": _views_Dashboard_vue__WEBPACK_IMPORTED_MODULE_1__.default,
-    Header: _views_layouts_Header_vue__WEBPACK_IMPORTED_MODULE_2__.default,
-    Footer: _views_layouts_Footer_vue__WEBPACK_IMPORTED_MODULE_3__.default,
-    Slider: _views_layouts_Slider_vue__WEBPACK_IMPORTED_MODULE_5__.default,
-    StartSmallBanner: _views_layouts_StartSmallBanner_vue__WEBPACK_IMPORTED_MODULE_7__.default
+    DashboardHeader: _views_layouts_DashboardHeader_vue__WEBPACK_IMPORTED_MODULE_6__.default,
+    Footer: _views_layouts_Footer_vue__WEBPACK_IMPORTED_MODULE_8__.default,
+    Slider: _views_layouts_Slider_vue__WEBPACK_IMPORTED_MODULE_10__.default,
+    StartSmallBanner: _views_layouts_StartSmallBanner_vue__WEBPACK_IMPORTED_MODULE_12__.default
   }
 }, {
   path: '/product',
   name: 'Product',
   // component: Product
-  component: _components_ProductComponent_vue__WEBPACK_IMPORTED_MODULE_8__.default
+  component: _components_ProductComponent_vue__WEBPACK_IMPORTED_MODULE_13__.default
 }, {
   path: '/vue',
   name: 'Home',
@@ -10919,21 +12757,6 @@ var routes = [// {
 })));
 //# sourceMappingURL=bootstrap.js.map
 
-
-/***/ }),
-
-/***/ "./public/assets/images/logo.png":
-/*!***************************************!*\
-  !*** ./public/assets/images/logo.png ***!
-  \***************************************/
-/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
-
-"use strict";
-__webpack_require__.r(__webpack_exports__);
-/* harmony export */ __webpack_require__.d(__webpack_exports__, {
-/* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
-/* harmony export */ });
-/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ("/images/logo.png?20588d846359015e57dd1f42c7638780");
 
 /***/ }),
 
@@ -22239,7 +24062,7 @@ __webpack_require__.r(__webpack_exports__);
 
 var ___CSS_LOADER_EXPORT___ = _node_modules_laravel_mix_node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_0___default()(function(i){return i[1]});
 // Module
-___CSS_LOADER_EXPORT___.push([module.id, "/* =====================================\nTemplate Name: Eshop\nAuthor Name: Naimur Rahman\nAuthor URI: http://www.wpthemesgrid.com/\nDescription: Eshop - eCommerce HTML5 Template.\nVersion:1.0\n========================================*/\n\n/*--------------------------------------------------------------\n# Normalize\n--------------------------------------------------------------*/\nhtml {\n\tfont-family: 'Poppins', sans-serif;\n\t-moz-text-size-adjust: 100%;\n\t-webkit-text-size-adjust: 100%;\n\ttext-size-adjust: 100%;\n}\nhtml,body {\n\theight: 100%;\n\tmargin: 0;\n}\n*{\n\tpadding:0;\n\tmargin:0;\n}\nbody {\n\tmargin: 0;\n}\nimg{\n\tmax-width:100%;\n}\narticle,\naside,\ndetails,\nfigcaption,\nfigure,\nfooter,\nheader,\nmain,\nmenu,\nnav,\nsection,\nsummary {\n\tdisplay: block;\n}\naudio,\ncanvas,\nprogress,\nvideo {\n\tdisplay: inline-block;\n\tvertical-align: baseline;\n}\naudio:not([controls]) {\n\tdisplay: none;\n\theight: 0;\n}\n[hidden],\ntemplate {\n\tdisplay: none;\n}\na {\n\ttext-decoration:none;\n}\na:active,\na:hover {\n\toutline: 0;\n\ttext-decoration:none;\n}\n.slicknav_menu{\n\tdisplay:none;\n}\n.table {\n\tdisplay: table;\n\twidth: 100%;\n\theight: 100%;\n}\n.table-cell {\n\tdisplay: table-cell;\n\tvertical-align: middle;\n}\nimg {\n\tborder: 0;\n}\nsvg:not(:root) {\n\toverflow: hidden;\n}\nfigure {\n\tmargin: 1em 40px;\n}\nhr {\n\tbox-sizing: content-box;\n\theight: 0;\n}\npre {\n\toverflow: auto;\n}\nbutton,\ninput,\noptgroup,\nselect,\ntextarea {\n\tcolor: inherit;\n\tfont: inherit;\n\tmargin: 0;\n}\nbutton {\n\toverflow: visible;\n}\nbutton,\nselect {\n\ttext-transform: none;\n}\nbutton,\nhtml input[type=\"button\"],\ninput[type=\"reset\"],\ninput[type=\"submit\"] {\n\t-webkit-appearance: button;\n\tcursor: pointer;\n}\nbutton[disabled],\nhtml input[disabled] {\n\tcursor: default;\n}\nbutton::-moz-focus-inner,\ninput::-moz-focus-inner {\n\tborder: 0;\n\tpadding: 0;\n}\ninput {\n\tline-height: normal;\n}\ninput[type=\"checkbox\"],\ninput[type=\"radio\"] {\n\tbox-sizing: border-box;\n\tpadding: 0;\n}\ninput[type=\"number\"]::-webkit-inner-spin-button,\ninput[type=\"number\"]::-webkit-outer-spin-button {\n\theight: auto;\n}\ninput[type=\"search\"]::-webkit-search-cancel-button,\ninput[type=\"search\"]::-webkit-search-decoration {\n\t-webkit-appearance: none;\n}\nlegend {\n\tborder: 0;\n\tpadding: 0;\n}\ntextarea {\n\toverflow: auto;\n}\noptgroup {\n\tfont-weight: bold;\n}\ntable {\n\tborder-collapse: collapse;\n\tborder-spacing: 0;\n}\ntd,\nth {\n\tpadding: 0;\n}\n/*--------------------------------------------------------------\n# Typography\n--------------------------------------------------------------*/\nbody,\nbutton,\ninput,\nselect,\noptgroup,\ntextarea {\n\tcolor: #424646;\n    font-family: 'Poppins', sans-serif;\n\tfont-weight:400;\n\tfont-size: 14px;\n\tline-height: 24px;\n}\nh1, h2, h3, h4, h5, h6 {\n\tfont-weight: 700;\n\tmargin: 0;\n}\np {\n\tcolor:#757575;\n\tmargin: 0;\n\tline-height:24px;\n}\na,button,input{\n\tfont-weight:400;\n}\nimg,a,input,h1, h2, h3, h4, h5, h6{\n\ttransition:all 0.4s ease;\n}\ndfn, cite, em, i {\n\tfont-style: italic;\n}\naddress {\n\tmargin: 0 0 1.5em;\n}\npre {\n\tbackground: #eee;\n\tfont-family: 'Poppins', sans-serif;\n\tfont-size: 15px;\n\tfont-size: 0.9375rem;\n\tline-height: 1.6;\n\tmargin-bottom: 1.6em;\n\tmax-width: 100%;\n\toverflow: auto;\n\tpadding: 1.6em;\n}\ncode, kbd, tt, var {\n\tfont-family: 'Poppins', sans-serif;\n\tfont-size: 15px;\n\tfont-size: 0.9375rem;\n}\n\nabbr, acronym {\n\tborder-bottom: 1px dotted #666;\n\tcursor: help;\n}\n\nmark, ins {\n\tbackground: #fff9c0;\n\ttext-decoration: none;\n}\n\nbig {\n\tfont-size: 125%;\n}\n\n.section {\n\tpadding: 100px 0;\n\tposition: relative;\n}\n.section-title {\n\ttext-align: center;\n\tmargin-bottom: 50px;\n\tpadding: 0 215px;\n}\n.section-title h2 {\n\tfont-size: 30px;\n\tmargin-bottom: 0;\n\ttext-transform: capitalize;\n\tposition: relative;\n\tcolor: #2c2d3f;\n\tfont-weight: 700;\n\tmargin-bottom: 10px;\n\tpadding-bottom: 15px;\n}\n.section-title h2::before {\n\tposition: absolute;\n\tcontent: \"\";\n\theight: 2px;\n\twidth: 50px;\n\tbackground: #F7941D;\n\tleft: 50%;\n\tbottom: 0;\n\tmargin-left: -25px;\n}\n.section-title p {\n\tfont-size: 14px;\n\tcolor: #666;\n}\n.container{\n\tmax-width:1170px;\n}\n.overlay{\n\tposition:relative\n}\n.overlay::before {\n\tposition: absolute;\n\ttop: 0;\n\tleft: 0;\n\twidth: 100%;\n\theight: 100%;\n\topacity: 0.4;\n\tbackground: #000;\n\tcontent: \"\";\n\ttransition:all 0.4s ease;\n}\n/* Bread Crumbs */\n.breadcrumbs {\n\tbackground-color: #F6F7FB;\n\tposition: relative;\n\tpadding: 30px 0px;\n}\n.breadcrumbs .bread-inner {\n\tz-index: 22;\n\ttext-align: left;\n}\n.breadcrumbs .bread-list {\n\tdisplay: inline-block;\n}\n.breadcrumbs ul li{\n\tdisplay: inline-block;\n\tposition: relative;\n}\n.breadcrumbs ul li i {\n\tmargin: 0px 10px;\n\tfont-size: 9px;\n\tfont-weight: 600;\n\tcolor: #333;\n}\n.breadcrumbs ul li a {\n\tcolor: #333;\n\tfont-size: 14px;\n\tfont-weight: 400;\n\ttext-transform: capitalize;\n}\n.breadcrumbs ul li.active a {\n\tcolor: #333;\n\tdisplay: inline-block;\n}\n.breadcrumbs ul li a:hover{\n\tcolor:#F7941D;\n}\n/*=============================\n\tStart Demos CSS \n===============================*/\n.demo-section{\n\twidth: 100%;\n\t/* background-image: url('../images/demo-bg.jpg'); */\n\tbackground-position: center;\n\tbackground-repeat: no-repeat;\n\tbackground-size: cover;\n}\n.demo-section.section {\n\tpadding: 120px 0px 150px 0px;\n}\n.demo-section .demo-content {\n\tposition: relative;\n\ttext-align: left;\n\ttop: 128px;\n}\n.demo-section .demo-content h2 {\n\tcolor: #fff;\n\tfont-weight: 700;\n\tfont-size: 35px;\n\ttext-transform: uppercase;\n}\n.demo-section .demo-content .sub-title {\n\tfont-weight: 600;\n\tfont-size: 15px;\n\tdisplay: block;\n\tmargin-top: 10px;\n\ttext-transform: capitalize;\n\tcolor:#666;\n}\n.demo-section .demo-content p {\n\tcolor: #333;\n\tfont-weight: 400;\n\tfont-size: 14px;\n\tmargin-top: 5px;\n}\n.demo-section .demo-content .logo{\n\tmargin:0;\n\tpadding:0;\n}\n.demo-section .demo-content .button{\n\tmargin-top: 30px;\n}\n.demo-section .demo-content .check-btn {\n\tcolor:#fff;\n}\n.demo-thumb{\n\tbackground:#f9f9f9;\n}\n.demo-thumb .single-heading {\n\tfont-size: 20px;\n\ttext-align: center;\n\tmargin-bottom: 20px;\n\ttext-transform: capitalize;\n\tfont-weight: 400;\n}\n.demo-thumb .single-thumb{\n\tposition:relative;\n\tmargin-bottom:40px;\n\ttransition:all 0.4s ease;\n}\n.demo-thumb .single-thumb.overlay:before{\n\tbackground:#000;\n\tborder-radius:8px;\n\topacity:0;\n\tvisibility:hidden;\n\ttransition:all 0.4s ease;\n\theight:0;\n}\n.demo-thumb .single-thumb.overlay:hover:before{\n\topacity:0.7;\n\tvisibility:visible;\n\theight:100%;\n}\n.demo-thumb .single-thumb a{\n\theight:46px;\n\twidth:150px;\n\tbackground:#fff;\n\ttext-align:center;\n\tcolor:#333;\n\tline-height:44px;\n\tposition:absolute;\n\tleft:50%;\n\ttop:50%;\n\tmargin-top:-50px;\n\tmargin-left:-75px;\n\tborder-radius:30px;\n\tborder:2px solid transparent;\n\ttransition:all 0.4s ease;\n\topacity:0;\n\tvisibility:hidden;\n}\n.demo-thumb .single-thumb a:hover{\n\tbackground:transparent;\n\tcolor:#fff;\n\tborder-color:#fff;\n}\n.demo-thumb .single-thumb:hover a{\n\topacity:1;\n\tvisibility:visible;\n\tmargin-top:-23px;\n}\n.demo-thumb .single-thumb img{\n\theight:100%;\n\twidth:100%;\n\tborder-radius: 8px;\n    box-shadow: 0px 2px 92px 0px rgba(0, 0, 0, 0.18);\n    -moz-box-shadow: 0px 2px 92px 0px rgba(0, 0, 0, 0.18);\n    -webkit-box-shadow: 0px 2px 92px 0px rgba(0, 0, 0, 0.18);\n\ttransition:all 0.4s ease;\n}\n.demo-thumb .single-thumb:hover img{\n\tbox-shadow: 0px 50px 92px 0px rgba(0, 0, 0, 0.18);\n    -moz-box-shadow: 0px 50px 92px 0px rgba(0, 0, 0, 0.18);\n    -webkit-box-shadow: 0px 50px 92px 0px rgba(0, 0, 0, 0.18);\n}\n.demo-thumb .single-thumb a span {\n\tdisplay: block;\n\ttext-align: center;\n\tfont-weight: 600;\n\tmargin-top: 30px;\n\tcolor: #888;\n\ttransition:all 0.4s ease;\n}\n.demo-thumb .single-thumb:hover a span{\n\tcolor:#755ce4;\n}\n/*=============================\n\t/End Demos CSS \n===============================*/\n\n/* Preloader Animaion */\n.cp-preloader {\n\tposition:fixed;\n\ttop:0;\n\tleft:0;\n\tbottom:0;\n\tright:0;\n\tbackground:#fff;\n\tz-index:4444;\n\twidth: 100%;\n\theight: 100%;\n\tdisplay: flex;\n\tjustify-content: center;\n\talign-items: center;\n\ttop: 0;\n\tleft: 0;\n\tz-index: 5555;\n\tbackground: rgba(255, 117, 80, 0.94);\n\t--uiPreloaderColor: var(--cpPreloaderColor, #fff);\n\tcolor:#fff;\n\tcolor:var(--uiPreloaderColor)\n}\n.cp-preloader__box {\n\tposition:relative\n}\n.cp-preloader-inner {\n\tfont-size:var(--uiPreloaderSize);\n\twidth:1em;\n\theight:1em;\n\t--uiPreloaderSize: var(--cpPreloaderSize, 80px);\n\tfont-size: 70px;\n}\n.cp-preloader-inner::after, \n.cp-preloader-inner::before {\n\tcontent: \"\";\n\twidth: 7.5%;\n\theight: 7.5%;\n\tborder-radius: 50%;\n\tbackground-color: currentColor;\n\tposition: absolute;\n\tleft: 0;\n\t-webkit-animation: cp-preloader19_smoke 1s linear .2s infinite backwards;\n\t        animation: cp-preloader19_smoke 1s linear .2s infinite backwards;\n}\n.cp-preloader-inner::before {\n\ttop: 45%;\n}\n.cp-preloader-inner::after {\n\ttop: 55%;\n}\n\n@-webkit-keyframes cp-preloader19_smoke {\n 0%,to {\n  transform:translate3d(.15em,-50%,0);\n  opacity:0\n }\n 5% {\n  opacity:1\n }\n 70% {\n  transform:translate3d(-.75em,-50%,0);\n  opacity:0\n }\n}\n\n@keyframes cp-preloader19_smoke {\n 0%,to {\n  transform:translate3d(.15em,-50%,0);\n  opacity:0\n }\n 5% {\n  opacity:1\n }\n 70% {\n  transform:translate3d(-.75em,-50%,0);\n  opacity:0\n }\n}\n.icon {\n width:75%;\n height:75%;\n top:5%;\n left:0;\n -webkit-animation:cp-preloader-anim 1s linear infinite alternate backwards;\n         animation:cp-preloader-anim 1s linear infinite alternate backwards;\n}\n\n@-webkit-keyframes cp-preloader-anim {\n 0% {\n  transform:translate3d(0,.0375em,0) rotate(45deg)\n }\n to {\n  transform:translate3d(.075em,.075em,0) rotate(45deg)\n }\n}\n\n@keyframes cp-preloader-anim {\n 0% {\n  transform:translate3d(0,.0375em,0) rotate(45deg)\n }\n to {\n  transform:translate3d(.075em,.075em,0) rotate(45deg)\n }\n}\n/*--------------------------------------------------------------\n# Elements\n--------------------------------------------------------------*/\nhtml {\n\tbox-sizing: border-box;\n}\n\n*,\n*:before,\n*:after {\n\t/* Inherit box-sizing to make it easier to change the property for components that leverage other behavior; see https://css-tricks.com/inheriting-box-sizing-probably-slightly-better-best-practice/ */\n\tbox-sizing: inherit;\n}\n\nbody {\n\tbackground: #fff;\n\t/* Fallback for when there is no custom background color defined. */\n}\n\nhr {\n\tbackground-color: #ccc;\n\tborder: 0;\n\theight: 1px;\n\tmargin-bottom: 1.5em;\n}\n\nul,ul li{\n\tlist-style:none;\n\tpadding:0;\n\tmargin:0;\n}\n\nli > ul,\nli > ol {\n\tmargin-bottom: 0;\n\tmargin-left: 1.5em;\n}\n\ndt {\n\tfont-weight: bold;\n}\n\ndd {\n\tmargin: 0 1.5em 1.5em;\n}\n\nimg {\n\theight: auto;\n\t/* Make sure images are scaled correctly. */\n\tmax-width: 100%;\n\t/* Adhere to container width. */\n}\n\nfigure {\n\tmargin: 1em 0;\n\t/* Extra wide images within figure tags don't overflow the content area. */\n}\n\ntable {\n\tmargin: 0 0 1.5em;\n\twidth: 100%;\n}\n\n/*--------------------------------------------------------------\n# Forms\n--------------------------------------------------------------*/\nbutton,\ninput[type=\"button\"],\ninput[type=\"reset\"],\ninput[type=\"submit\"] {\n\tborder: 1px solid;\n\tborder-color: #ccc #ccc #bbb;\n\tborder-radius: 3px;\n\tbackground: #e6e6e6;\n\tcolor: rgba(0, 0, 0, 0.8);\n\tline-height: 1;\n}\n\ninput[type=\"text\"],\ninput[type=\"email\"],\ninput[type=\"url\"],\ninput[type=\"password\"],\ninput[type=\"search\"],\ninput[type=\"number\"],\ninput[type=\"tel\"],\ninput[type=\"range\"],\ninput[type=\"date\"],\ninput[type=\"month\"],\ninput[type=\"week\"],\ninput[type=\"time\"],\ninput[type=\"datetime\"],\ninput[type=\"datetime-local\"],\ninput[type=\"color\"],\ntextarea {\n\tcolor: #666;\n\tborder: 1px solid #ccc;\n\tborder-radius: 3px;\n\tpadding: 3px;\n}\n\ninput[type=\"text\"]:focus,\ninput[type=\"email\"]:focus,\ninput[type=\"url\"]:focus,\ninput[type=\"password\"]:focus,\ninput[type=\"search\"]:focus,\ninput[type=\"number\"]:focus,\ninput[type=\"tel\"]:focus,\ninput[type=\"range\"]:focus,\ninput[type=\"date\"]:focus,\ninput[type=\"month\"]:focus,\ninput[type=\"week\"]:focus,\ninput[type=\"time\"]:focus,\ninput[type=\"datetime\"]:focus,\ninput[type=\"datetime-local\"]:focus,\ninput[type=\"color\"]:focus,\ntextarea:focus {\n\tcolor: #111;\n}\n\nselect {\n\tborder: 1px solid #ccc;\n}\n\ntextarea {\n\twidth: 100%;\n}\n\n/*--------------------------------------------------------------\n# Navigation\n--------------------------------------------------------------*/\n/*--------------------------------------------------------------\n## Links\n--------------------------------------------------------------*/\na {\n\tcolor: inherit;\n}\n\na:visited {\n\tcolor: inherit;\n}\n\na:hover, a:focus, a:active {\n\tcolor: inherit;\n}\n\na:hover, a:active {\n\toutline: 0;\n}\n\n/*--------------------------------------------------------------\n## Menus\n--------------------------------------------------------------*/\n.main-navigation {\n\tclear: both;\n\tdisplay: block;\n\tfloat: left;\n\twidth: 100%;\n}\n\n.main-navigation ul {\n\tdisplay: none;\n\tlist-style: none;\n\tmargin: 0;\n\tpadding-left: 0;\n}\n\n.main-navigation ul ul {\n\tbox-shadow: 0 3px 3px rgba(0, 0, 0, 0.2);\n\tfloat: left;\n\tposition: absolute;\n\ttop: 100%;\n\tleft: -999em;\n\tz-index: 99999;\n}\n\n.main-navigation ul ul ul {\n\tleft: -999em;\n\ttop: 0;\n}\n\n.main-navigation ul ul li:hover > ul,\n.main-navigation ul ul li.focus > ul {\n\tleft: 100%;\n}\n\n.main-navigation ul ul a {\n\twidth: 200px;\n}\n\n.main-navigation ul li:hover > ul,\n.main-navigation ul li.focus > ul {\n\tleft: auto;\n}\n\n.main-navigation li {\n\tfloat: left;\n\tposition: relative;\n}\n\n.main-navigation a {\n\tdisplay: block;\n\ttext-decoration: none;\n}\n\n/* Small menu. */\n.menu-toggle,\n.main-navigation.toggled ul {\n\tdisplay: block;\n}\n\n@media screen and (min-width: 37.5em) {\n\t.menu-toggle {\n\t\tdisplay: none;\n\t}\n\t.main-navigation ul {\n\t\tdisplay: block;\n\t}\n}\n\n.site-main .comment-navigation, .site-main\n.posts-navigation, .site-main\n.post-navigation {\n\tmargin: 0 0 1.5em;\n\toverflow: hidden;\n}\n\n.comment-navigation .nav-previous,\n.posts-navigation .nav-previous,\n.post-navigation .nav-previous {\n\tfloat: left;\n\twidth: 50%;\n}\n\n.comment-navigation .nav-next,\n.posts-navigation .nav-next,\n.post-navigation .nav-next {\n\tfloat: right;\n\ttext-align: right;\n\twidth: 50%;\n}\n\n/*--------------------------------------------------------------\n# Accessibility\n--------------------------------------------------------------*/\n/* Text meant only for screen readers. */\n.screen-reader-text {\n\tborder: 0;\n\tclip: rect(1px, 1px, 1px, 1px);\n\t-webkit-clip-path: inset(50%);\n\t        clip-path: inset(50%);\n\theight: 1px;\n\tmargin: -1px;\n\toverflow: hidden;\n\tpadding: 0;\n\tposition: absolute !important;\n\twidth: 1px;\n\tword-wrap: normal !important; /* Many screen reader and browser combinations announce broken words as they would appear visually. */\n}\n\n.screen-reader-text:focus {\n\tbackground-color: #f1f1f1;\n\tborder-radius: 3px;\n\tbox-shadow: 0 0 2px 2px rgba(0, 0, 0, 0.6);\n\tclip: auto !important;\n\t-webkit-clip-path: none;\n\t        clip-path: none;\n\tcolor: #21759b;\n\tdisplay: block;\n\tfont-size: 14px;\n\tfont-size: 0.875rem;\n\tfont-weight: bold;\n\theight: auto;\n\tleft: 5px;\n\tline-height: normal;\n\tpadding: 15px 23px 14px;\n\ttext-decoration: none;\n\ttop: 5px;\n\twidth: auto;\n\tz-index: 100000;\n\t/* Above WP toolbar. */\n}\n\n/* Do not show the outline on the skip link target. */\n#content[tabindex=\"-1\"]:focus {\n\toutline: 0;\n}\n\n/*--------------------------------------------------------------\n# Alignments\n--------------------------------------------------------------*/\n.alignleft {\n\tdisplay: inline;\n\tfloat: left;\n\tmargin-right: 1.5em;\n}\n\n.alignright {\n\tdisplay: inline;\n\tfloat: right;\n\tmargin-left: 1.5em;\n}\n\n.aligncenter {\n\tclear: both;\n\tdisplay: block;\n\tmargin-left: auto;\n\tmargin-right: auto;\n}\n\n/*--------------------------------------------------------------\n# Clearings\n--------------------------------------------------------------*/\n.clear:before,\n.clear:after,\n.entry-content:before,\n.entry-content:after,\n.comment-content:before,\n.comment-content:after,\n.site-header:before,\n.site-header:after,\n.site-content:before,\n.site-content:after,\n.site-footer:before,\n.site-footer:after {\n\tcontent: \"\";\n\tdisplay: table;\n\ttable-layout: fixed;\n}\n\n.clear:after,\n.entry-content:after,\n.comment-content:after,\n.site-header:after,\n.site-content:after,\n.site-footer:after {\n\tclear: both;\n}\n\n/*--------------------------------------------------------------\n# Widgets\n--------------------------------------------------------------*/\n.widget {\n\tmargin: 0 0 1.5em;\n\t/* Make sure select elements fit in widgets. */\n}\n\n.widget select {\n\tmax-width: 100%;\n}\n\n/*--------------------------------------------------------------\n# Content\n--------------------------------------------------------------*/\n/*--------------------------------------------------------------\n## Posts and pages\n--------------------------------------------------------------*/\n.sticky {\n\tdisplay: block;\n}\n\n.hentry {\n\tmargin: 0 0 1.5em;\n}\n\n.updated:not(.published) {\n\tdisplay: none;\n}\n\n.page-content,\n.entry-content,\n.entry-summary {\n\tmargin: 1.5em 0 0;\n}\n\n.page-links {\n\tclear: both;\n\tmargin: 0 0 1.5em;\n}\n\n/*--------------------------------------------------------------\n## Comments\n--------------------------------------------------------------*/\n.comment-content a {\n\tword-wrap: break-word;\n}\n\n.bypostauthor {\n\tdisplay: block;\n}\n\n/*--------------------------------------------------------------\n# Infinite scroll\n--------------------------------------------------------------*/\n/* Globally hidden elements when Infinite Scroll is supported and in use. */\n.infinite-scroll .posts-navigation,\n.infinite-scroll.neverending .site-footer {\n\t/* Theme Footer (when set to scrolling) */\n\tdisplay: none;\n}\n\n/* When Infinite Scroll has reached its end we need to re-display elements that were hidden (via .neverending) before. */\n.infinity-end.neverending .site-footer {\n\tdisplay: block;\n}\n\n/*--------------------------------------------------------------\n# Media\n--------------------------------------------------------------*/\n.page-content .wp-smiley,\n.entry-content .wp-smiley,\n.comment-content .wp-smiley {\n\tborder: none;\n\tmargin-bottom: 0;\n\tmargin-top: 0;\n\tpadding: 0;\n}\n\n/* Make sure embeds and iframes fit their containers. */\nembed,\niframe,\nobject {\n\tmax-width: 100%;\n}\n\n/* Make sure logo link wraps around logo image. */\n.custom-logo-link {\n\tdisplay: inline-block;\n}\n\n/*--------------------------------------------------------------\n## Captions\n--------------------------------------------------------------*/\n.wp-caption {\n\tmargin-bottom: 1.5em;\n\tmax-width: 100%;\n}\n\n.wp-caption img[class*=\"wp-image-\"] {\n\tdisplay: block;\n\tmargin-left: auto;\n\tmargin-right: auto;\n}\n\n.wp-caption .wp-caption-text {\n\tmargin: 0.8075em 0;\n}\n\n.wp-caption-text {\n\ttext-align: center;\n}\n\n/*--------------------------------------------------------------\n## Galleries\n--------------------------------------------------------------*/\n.gallery {\n\tmargin-bottom: 1.5em;\n}\n\n.gallery-item {\n\tdisplay: inline-block;\n\ttext-align: center;\n\tvertical-align: top;\n\twidth: 100%;\n}\n\n.gallery-columns-2 .gallery-item {\n\tmax-width: 50%;\n}\n\n.gallery-columns-3 .gallery-item {\n\tmax-width: 33.33%;\n}\n\n.gallery-columns-4 .gallery-item {\n\tmax-width: 25%;\n}\n\n.gallery-columns-5 .gallery-item {\n\tmax-width: 20%;\n}\n\n.gallery-columns-6 .gallery-item {\n\tmax-width: 16.66%;\n}\n\n.gallery-columns-7 .gallery-item {\n\tmax-width: 14.28%;\n}\n\n.gallery-columns-8 .gallery-item {\n\tmax-width: 12.5%;\n}\n\n.gallery-columns-9 .gallery-item {\n\tmax-width: 11.11%;\n}\n\n.gallery-caption {\n\tdisplay: block;\n}\n\n\n/* Start Modal Css */\n.modal-dialog .quickview-slider-active{\n\tdisplay:block;\n\theight:100%;\n\twidth:550px;\n\theight:100%;\n}\n.modal-dialog .quickview-slider-active img{\n\tdisplay:inline-block;\n}\n.modal-dialog {\n  margin: 12% auto 8%;\n  max-width: 1358px;\n  width: 1358px;\n}\n\n@media only screen and (min-width: 1366px) and (max-width: 1600px) {\n  .modal-dialog {\n    width: 1145px;\n    max-width: 1145px;\n  }\n}\n\n@media only screen and (min-width: 1200px) and (max-width: 1365px) {\n  .modal-dialog {\n    width: 1145px;\n    max-width: 1145px;\n  }\n}\n\n@media only screen and (min-width: 992px) and (max-width: 1199px) {\n  .modal-dialog {\n    width: 960px;\n    max-width: 960px;\n  }\n}\n\n@media only screen and (min-width: 768px) and (max-width: 991px) {\n  .modal-dialog {\n    width: 720px;\n    max-width: 720px;\n  }\n}\n\n@media only screen and (max-width: 767px) {\n  .modal-dialog {\n    width: 100%;\n    max-width: 100%;\n    padding: 35px 0;\n  }\n}\n\n.modal-dialog .modal-content {\n  border-radius: 0;\n}\n\n.modal-dialog .modal-content .modal-header {\n\tborder: none;\n\tpadding: 0;\n\tright: 10px;\n\ttop: 10px;\n\tposition: absolute;\n\tz-index: 9999;\n}\n\n@media only screen and (max-width: 767px) {\n  .modal-dialog .modal-content .modal-header {\n    right: 0px;\n    top: -10px;\n  }\n}\n.modal-dialog .modal-content .modal-header .close {\n\tcolor: #fff;\n\tcursor: pointer;\n\topacity: 1;\n\tpadding: 0;\n\tmargin: 0;\n\twidth: 40px;\n\theight: 40px;\n\tline-height: 40px;\n\ttext-shadow: none;\n\tfont-size: 11px;\n\tbackground: transparent;\n\tcolor: #737373;\n\tborder-radius: 100%;\n\tborder: 1px solid #eee;\n\ttransition:all 0.4s ease;\n}\n@media only screen and (max-width: 767px) {\n  .modal-dialog .modal-content .modal-header .close {\n    width: 34px;\n    height: 34px;\n    line-height: 34px;\n    font-size: 15px;\n  }\n}\n\n.modal-dialog .modal-content .modal-header .close:hover {\n  color: #fff;\n  border-color:transparent;\n  background:#F7941D;\n}\n.modal-dialog .modal-content .modal-body {\n\tpadding: 0px;\n\toverflow-y: auto;\n\tmax-height: 510px;\n\theight: 700px;\n}\n.quickview-content {\n\tpadding: 40px 40px;\n}\n@media only screen and (min-width: 992px) and (max-width: 1199px) {\n  .quickview-content {\n    padding: 15px 35px 20px;\n  }\n}\n\n@media only screen and (min-width: 768px) and (max-width: 991px) {\n  .quickview-content {\n    padding: 20px 35px 35px;\n  }\n}\n\n@media only screen and (max-width: 767px) {\n  .quickview-content {\n    padding: 15px 15px 15px;\n  }\n}\n\n.quickview-content h2 {\n\tfont-size: 22px;\n\tfont-weight: 600;\n\tmargin: 0 0 6px;\n}\n@media only screen and (max-width: 767px) {\n  .quickview-content h2 {\n    font-size: 26px;\n  }\n}\n\n.quickview-content .quickview-ratting-review {\n  display: flex;\n  align-items: center;\n}\n\n.quickview-content .quickview-ratting-review .quickview-ratting-wrap {\n  display: flex;\n}\n\n.quickview-content .quickview-ratting-review .quickview-ratting-wrap .quickview-ratting i {\n  color: #d5d6d8;\n  font-size: 12px;\n}\n\n.quickview-content .quickview-ratting-review .quickview-ratting-wrap .quickview-ratting i.yellow {\n  color: #f5b223;\n}\n\n.quickview-content .quickview-ratting-review .quickview-ratting-wrap a {\n\tcolor: #262626;\n\tfont-size: 12px;\n\tmargin-left: 5px;\n}\n\n.quickview-content .quickview-ratting-review .quickview-stock {\n  margin-left: 24px;\n}\n\n.quickview-content .quickview-ratting-review .quickview-stock span {\n  font-size: 12px;\n}\n\n.quickview-content .quickview-ratting-review .quickview-stock span i {\n  font-size: 16px;\n  color: #63ab01;\n  margin-right: 2px;\n  position: relative;\n  top: 3px;\n}\n\n.quickview-content h3 {\n\tfont-size: 20px;\n\tmargin: 12px 0 15px;\n\tfont-weight: 600;\n}\n\n.quickview-content  h3 span {\n  text-decoration: line-through;\n  font-size: 14px;\n  margin-right: 5px;\n}\n\n@media only screen and (min-width: 768px) and (max-width: 991px) {\n  .quickview-content > h3 {\n    margin: 20px 0 18px;\n  }\n}\n\n@media only screen and (max-width: 767px) {\n  .quickview-content > h3 {\n    margin: 10px 0 10px;\n  }\n}\n\n.quickview-content .quickview-peragraph p {\n\tfont-size: 14px;\n\tline-height: 24px;\n\tfont-weight: 400;\n\tcolor: #333;\n}\n.quickview-content .size{\n\tmargin-top:20px;\n\tmargin-bottom:20px;\n}\n.quickview-content .size .title {\n\tfont-size: 15px;\n\tfont-weight: 500;\n\ttext-transform: capitalize;\n\tmargin-bottom: 12px;\n}\n.quickview-content .nice-select {\n\tclear: initial;\n\tmargin: 0;\n\theight: 45px;\n\twidth: 100%;\n\ttext-align: center;\n\tbackground: transparent;\n\ttext-transform: capitalize;\n\tpadding: 0 0 0 20px;\n\tline-height: 45px;\n\tfont-size: 14px;\n\tfont-weight: 400;\n\tborder: 1px solid #eee;\n\tborder-radius: 0;\n}\n.quickview-content .nice-select::after {\n\tborder-color: #666;\n\tright: 20px;\n}\n.quickview-content .nice-select .list {\n\tborder-radius:0px;\n\twidth: 100%;\n}\n.quickview-content .nice-select .list li.focus{\n\tfont-weight:400;\n\ttext-transform:lowercase;\n}\n.quickview-content .nice-select .list li {\n\tcolor: #666;\n\tborder-radius: 0px;\n\tfont-size: 14px;\n\tfont-weight: 400;\n\ttext-transform:lowercase;\n}\n.quickview-content .nice-select .list li:hover{\n\tbackground:#F7941D;\n\tcolor:#fff;\n}\n\n.quickview-content .quickview-peragraph ul {\n  margin: 30px 0 0;\n}\n\n.quickview-content .quickview-peragraph ul li {\n  font-size: 14px;\n  line-height: 1;\n  position: relative;\n  padding-left: 12px;\n  margin: 0 0 22px;\n}\n.quickview-content .default-social{\n\tmargin-top:35px;\n}\n\n@media only screen and (max-width: 767px) {\n  .quickview-content .quickview-peragraph ul li {\n    line-height: 24px;\n    margin: 0 0 15px;\n  }\n}\n\n.quickview-content .quickview-peragraph ul li:last-child {\n  margin: 0 0 0px;\n}\n\n.quickview-content .quickview-peragraph ul li::before {\n  width: 5px;\n  height: 5px;\n  border-radius: 100%;\n  background-color: #F7941D;\n  content: \"\";\n  left: 0;\n  top: 50%;\n  transform: translateY(-50%);\n  position: absolute;\n}\n.quickview-content .quickview-action-wrap {\n\tdisplay: flex;\n\talign-items: center;\n\tmargin: 60px 0 30px;\n}\n\n@media only screen and (min-width: 992px) and (max-width: 1199px) {\n  .quickview-content .quickview-action-wrap {\n    margin: 30px 0 30px;\n  }\n}\n\n@media only screen and (min-width: 768px) and (max-width: 991px) {\n  .quickview-content .quickview-action-wrap {\n    margin: 30px 0 30px;\n  }\n}\n\n@media only screen and (max-width: 767px) {\n  .quickview-content .quickview-action-wrap {\n    margin: 20px 0 20px;\n    display: block;\n  }\n}\n\n@media only screen and (min-width: 576px) and (max-width: 767px) {\n  .quickview-content .quickview-action-wrap {\n    display: flex;\n  }\n}\n\n.quickview-content .quickview-action-wrap .quickview-cart {\n  margin: 0 26px 0 10px;\n}\n\n@media only screen and (max-width: 767px) {\n  .quickview-content .quickview-action-wrap .quickview-cart {\n    margin: 0 26px 20px 0px;\n  }\n}\n\n@media only screen and (min-width: 576px) and (max-width: 767px) {\n  .quickview-content .quickview-action-wrap .quickview-cart {\n    margin: 0 26px 0 10px;\n  }\n}\n\n.quickview-content .quickview-action-wrap .quickview-cart a {\n\tdisplay: inline-block;\n\tfont-size: 14px;\n\tcolor: #fff;\n\tpadding: 12px 30px;\n\tbackground-color: #262626;\n\tdisplay: inline-block;\n\tmargin-left: 8px;\n\tborder-radius: 30px;\n}\n\n.quickview-content .quickview-action-wrap .quickview-cart a:hover {\n  background-color: #F7941D;\n  color:#333;\n}\n\n.quickview-content .quickview-action-wrap .quickview-cart.quickview-cart-mrg-none {\n  margin: 0 26px 0 0px;\n}\n\n@media only screen and (max-width: 767px) {\n  .quickview-content .quickview-action-wrap .quickview-cart.quickview-cart-mrg-none {\n    margin: 0 26px 20px 0px;\n  }\n}\n\n@media only screen and (min-width: 576px) and (max-width: 767px) {\n  .quickview-content .quickview-action-wrap .quickview-cart.quickview-cart-mrg-none {\n    margin: 0 26px 0 10px;\n  }\n}\n\n.quickview-content .quickview-action-wrap .affiliate-btn a:hover {\n  background-color: #e77878;\n}\n\n.quickview-content .quickview-action-wrap .quickview-wishlist a, .quickview-content .quickview-action-wrap .quickview-compare a {\n  font-size: 20px;\n  font-weight: bold;\n}\n\n.quickview-content .quickview-action-wrap .quickview-compare {\n  margin-left: 30px;\n}\n.quickview-content .quickview-action-wrap .quickview-wishlist a:hover{\n\tcolor:#F7941D;\n}\n.quickview-content .quickview-action-wrap .quickview-compare a:hover {\n  color:#F7941D;\n}\n@media only screen and (max-width: 767px) {\n  .quickview-content .quickview-action-wrap .quickview-compare {\n    margin-left: 0px;\n    margin-top: 14px;\n  }\n}\n\n@media only screen and (min-width: 576px) and (max-width: 767px) {\n  .quickview-content .quickview-action-wrap .quickview-compare {\n    margin-left: 30px;\n    margin-top: 0px;\n  }\n}\n\n.quickview-content .quickview-meta {\n  margin: 0 0 15px;\n}\n.quickview-content .quickview-meta > span {\n\tdisplay: block;\n\tfont-size: 14px;\n\tmargin: 0 0 11px;\n}\n.quickview-content .quickview-meta > span a:hover {\n  text-decoration: underline;\n}\n.quickview-content .quickview-meta > span:last-child {\n  margin: 0 0 0px;\n}\n.quickview-content.product-details-content {\n  padding: 0 0 0 20px;\n}\n\n@media only screen and (min-width: 992px) and (max-width: 1199px) {\n  .quickview-content.product-details-content {\n    padding: 0 0 0 0px;\n  }\n}\n\n@media only screen and (min-width: 768px) and (max-width: 991px) {\n  .quickview-content.product-details-content {\n    padding: 30px 0 0 0px;\n  }\n}\n\n@media only screen and (max-width: 767px) {\n  .quickview-content.product-details-content {\n    padding: 30px 0 0 0px;\n  }\n}\n\n.quickview-content.product-details-content h2 {\n  margin: 0 0 13px;\n}\n\n.quickview-content.product-details-content h3 {\n  margin: 30px 0 28px;\n}\n\n@media only screen and (min-width: 992px) and (max-width: 1199px) {\n  .quickview-content.product-details-content h3 {\n    margin: 10px 0 12px;\n  }\n}\n\n@media only screen and (min-width: 768px) and (max-width: 991px) {\n  .quickview-content.product-details-content h3 {\n    margin: 10px 0 12px;\n  }\n}\n\n@media only screen and (max-width: 767px) {\n  .quickview-content.product-details-content h3 {\n    margin: 10px 0 12px;\n  }\n}\n\n.quickview-content.product-details-content .quickview-action-wrap {\n  margin: 60px 0 36px;\n}\n\n@media only screen and (min-width: 992px) and (max-width: 1199px) {\n  .quickview-content.product-details-content .quickview-action-wrap {\n    margin: 20px 0 20px;\n  }\n  .quickview-content.product-details-content .quickview-action-wrap .quickview-cart a {\n    padding: 20px 18px;\n  }\n}\n\n@media only screen and (min-width: 768px) and (max-width: 991px) {\n  .quickview-content.product-details-content .quickview-action-wrap {\n    margin: 20px 0 20px;\n  }\n  .quickview-content.product-details-content .quickview-action-wrap .quickview-cart a {\n    padding: 20px 18px;\n  }\n}\n\n@media only screen and (max-width: 767px) {\n  .quickview-content.product-details-content .quickview-action-wrap {\n    margin: 20px 0 20px;\n  }\n  .quickview-content.product-details-content .quickview-action-wrap .quickview-cart a {\n    padding: 12px 18px;\n  }\n}\n\n.quickview-content.product-details-content .quickview-action-wrap.configurable-mrg-dec {\n  margin: 37px 0 37px;\n}\n\n@media only screen and (min-width: 992px) and (max-width: 1199px) {\n  .quickview-content.product-details-content .quickview-action-wrap.configurable-mrg-dec {\n    margin: 25px 0 20px;\n  }\n}\n\n@media only screen and (max-width: 767px) {\n  .quickview-content.product-details-content .quickview-action-wrap.configurable-mrg-dec {\n    margin: 20px 0 15px;\n  }\n}\n\n.quickview-content.product-details-content .quickview-action-wrap.quickview-action-mrg-dec {\n  margin: 30px 0 38px;\n}\n\n@media only screen and (max-width: 767px) {\n  .quickview-content.product-details-content .quickview-action-wrap.quickview-action-mrg-dec {\n    margin: 20px 10px 20px;\n  }\n}\n\n.quickview-content.product-details-content .quickview-meta {\n  margin: 0 0 40px;\n}\n\n@media only screen and (min-width: 992px) and (max-width: 1199px) {\n  .quickview-content.product-details-content .quickview-meta {\n    margin: 0 0 20px;\n  }\n}\n\n@media only screen and (min-width: 768px) and (max-width: 991px) {\n  .quickview-content.product-details-content .quickview-meta {\n    margin: 0 0 20px;\n  }\n}\n\n@media only screen and (max-width: 767px) {\n  .quickview-content.product-details-content .quickview-meta {\n    margin: 0 0 20px;\n  }\n}\n\n.quickview-content.product-details-content.product-details-slider2 {\n  padding: 0;\n  margin: 85px 10px 0;\n}\n\n@media only screen and (max-width: 767px) {\n  .quickview-content.product-details-content.product-details-slider2 {\n    margin: 20px 10px 0;\n  }\n}\n\n.quickview-content .quantity {\n\tdisplay: inline-block;\n\tmargin-right: 10px;\n}\n.quickview-content .quantity .input-group {\n\twidth: 151px;\n\tdisplay: inline-block;\n}\n.modal .product-gallery .single-slider{\n\twidth:100%;\n\theight:100%;\n\tdisplay:block;\n}\n/* Slider Nav */\n.modal .owl-nav{\n\tmargin: 0;\n    position: absolute;\n    top: 50%;\n    width: 100%;\n\tmargin-top:-25px;\n}\n.modal .owl-carousel .owl-nav div {\n\theight: 60px;\n\twidth: 30px;\n\tline-height: 58px;\n\tbackground: #fff;\n\tcolor: #333;\n\tposition: absolute;\n\tmargin: 0;\n\tborder-radius: 0;\n\tfont-size: 15px;\n\ttext-align: center;\n\ttransition:all 0.4s ease;\n\tbox-shadow: 0px 0px 10px #3333331c;\n}\n.modal .owl-carousel .owl-nav div:hover{\n\tcolor:#fff;\n\tbackground:#F7941D;\n}\n.modal .owl-carousel .owl-controls .owl-nav .owl-prev{\n\tleft:0;\n\t\n}\n.modal .owl-carousel .owl-controls .owl-nav .owl-next{\n\tright:0;\n}\n.modal .product-gallery\n.modal .product-gallery img{\n\twidth:100%;\n\theight:100%;\n\tdisplay:block;\n}\n.quickview-content .quantity .button {\n\tdisplay: inline-block;\n\tposition: absolute;\n\ttop: 0;\n\tdisplay:inline-block;\n}\n.quickview-content .quantity .button.minus{\n\tleft:0;\n\tborder-radius:0;\n\toverflow:hidden;\n}\n.quickview-content .quantity .button.plus {\n\tright: 0;\n\tborder-radius:0;\n\toverflow:hidden;\n}\n.quickview-content .quantity .button .btn {\n\tpadding: 0;\n\twidth: 35px;\n\theight: 45px;\n\tline-height: 45px;\n\tborder-radius: 0px;\n\tbackground: transparent;\n\tcolor: #282828;\n\tfont-size: 12px;\n\tborder: none;\n}\n.quickview-content .quantity .button .btn:hover{\n\tcolor:#F7941D;\n}\n.quickview-content .quantity .input-number {\n\tborder: 1px solid #eceded;\n\twidth: 100%;\n\ttext-align: center;\n\theight: 45px;\n\tborder-radius: 0px;\n\toverflow: hidden;\n\tpadding: 0px 38px;\n}\n.quickview-content .add-to-cart {\n\tdisplay:inline-block;\n}\n.quickview-content .add-to-cart .btn {\n\theight: 45px;\n\twidth: auto;\n\tpadding: 0 42px;\n\tline-height: 45px;\n\ttext-align: center;\n\ttext-transform: capitalize;\n\tmargin-right: 5px;\n\tborder-radius: 0px;\n\tbackground: #333;\n\tcolor: #fff;\n\tdisplay: inline-block;\n\tfont-weight: 500;\n}\n.quickview-content .add-to-cart .btn:hover{\n\tcolor:#fff;\n\tbackground:#F7941D;\n}\n.quickview-content .add-to-cart .btn.min {\n\tpadding: 0 20px;\n\tfont-size: 17px;\n\tposition: relative;\n\ttop: 1px;\n\tline-height: 45px;\n}\n\n.default-social ul li {\n  display: inline-block;\n  margin-right: 5px;\n}\n\n.default-social ul li:last-child {\n  margin-right: 0px;\n}\n\n@media only screen and (min-width: 992px) and (max-width: 1199px) {\n  .default-social ul li {\n    margin-right: 5px;\n  }\n}\n\n@media only screen and (min-width: 768px) and (max-width: 991px) {\n  .default-social ul li {\n    margin-right: 8px;\n  }\n}\n.default-social .share-now{\n\tmargin-right:12px;\n\tdisplay:inline-block;\n\tfont-size:14px;\n\tfont-weight:400;\n}\n.default-social ul{\n\tdisplay:inline-block;\n}\n.default-social ul li{\n\tmargin-right:12px;\n\tdisplay:inline-block;\n}\n.default-social ul li:last-child{\n\tmargin-right:0;\n}\n.default-social ul li a {\n\tfont-size: 16px;\n\ttext-align: center;\n\tdisplay: inline-block;\n\tcolor: #262626;\n\ttransition: all .5s;\n\tfont-size: 14px;\n\t/* display: block; */\n}\n/* .default-social ul li a i {\n  \n} */\n.default-social ul li a:hover {\n  color: #F7941D;\n}\n/* End Modal Css */\n\n/* Video Animations */\n\n@-webkit-keyframes waves {\n    0% {\n        transform: scale(0.2, 0.2);\n        opacity: 0;\n        -ms-filter: \"progid:DXImageTransform.Microsoft.Alpha(Opacity=0)\";\n    }\n    50% {\n        opacity: 0.9;\n        -ms-filter: \"progid:DXImageTransform.Microsoft.Alpha(Opacity=90)\";\n    }\n    100% {\n        transform: scale(0.9, 0.9);\n        opacity: 0;\n        -ms-filter: \"progid:DXImageTransform.Microsoft.Alpha(Opacity=0)\";\n    }\n}\n@keyframes waves {\n    0% {\n        transform: scale(0.2, 0.2);\n        opacity: 0;\n        -ms-filter: \"progid:DXImageTransform.Microsoft.Alpha(Opacity=0)\";\n    }\n    50% {\n        opacity: 0.9;\n        -ms-filter: \"progid:DXImageTransform.Microsoft.Alpha(Opacity=90)\";\n    }\n    100% {\n        transform: scale(0.9, 0.9);\n        opacity: 0;\n        -ms-filter: \"progid:DXImageTransform.Microsoft.Alpha(Opacity=0)\";\n    }\n}\n\n\n\n@-webkit-keyframes lineanim {\n 50% {\n  transform:scaleY(1);\n  transform-origin:top left\n }\n 50.1% {\n  transform-origin:bottom left\n }\n 100% {\n  transform:scaleY(0);\n  transform-origin:bottom left\n }\n}\n@keyframes lineanim {\n 50% {\n  transform:scaleY(1);\n  transform-origin:top left\n }\n 50.1% {\n  transform-origin:bottom left\n }\n 100% {\n  transform:scaleY(0);\n  transform-origin:bottom left\n }\n}\n", ""]);
+___CSS_LOADER_EXPORT___.push([module.id, "/* =====================================\nTemplate Name: Eshop\nAuthor Name: Naimur Rahman\nAuthor URI: http://www.wpthemesgrid.com/\nDescription: Eshop - eCommerce HTML5 Template.\nVersion:1.0\n========================================*/\n\n/*--------------------------------------------------------------\n# Normalize\n--------------------------------------------------------------*/\nhtml {\n\tfont-family: 'Poppins', sans-serif;\n\t-moz-text-size-adjust: 100%;\n\t-webkit-text-size-adjust: 100%;\n\ttext-size-adjust: 100%;\n}\nhtml,body {\n\theight: 100%;\n\tmargin: 0;\n}\n*{\n\tpadding:0;\n\tmargin:0;\n}\nbody {\n\tmargin: 0;\n}\nimg{\n\tmax-width:100%;\n}\narticle,\naside,\ndetails,\nfigcaption,\nfigure,\nfooter,\nheader,\nmain,\nmenu,\nnav,\nsection,\nsummary {\n\tdisplay: block;\n}\naudio,\ncanvas,\nprogress,\nvideo {\n\tdisplay: inline-block;\n\tvertical-align: baseline;\n}\naudio:not([controls]) {\n\tdisplay: none;\n\theight: 0;\n}\n[hidden],\ntemplate {\n\tdisplay: none;\n}\na {\n\ttext-decoration:none;\n}\na:active,\na:hover {\n\toutline: 0;\n\ttext-decoration:none;\n}\n.slicknav_menu{\n\tdisplay:none;\n}\n.table {\n\tdisplay: table;\n\twidth: 100%;\n\theight: 100%;\n}\n.table-cell {\n\tdisplay: table-cell;\n\tvertical-align: middle;\n}\nimg {\n\tborder: 0;\n}\nsvg:not(:root) {\n\toverflow: hidden;\n}\nfigure {\n\tmargin: 1em 40px;\n}\nhr {\n\tbox-sizing: content-box;\n\theight: 0;\n}\npre {\n\toverflow: auto;\n}\nbutton,\ninput,\noptgroup,\nselect,\ntextarea {\n\tcolor: inherit;\n\tfont: inherit;\n\tmargin: 0;\n}\nbutton {\n\toverflow: visible;\n}\nbutton,\nselect {\n\ttext-transform: none;\n}\nbutton,\nhtml input[type=\"button\"],\ninput[type=\"reset\"],\ninput[type=\"submit\"] {\n\t-webkit-appearance: button;\n\tcursor: pointer;\n}\nbutton[disabled],\nhtml input[disabled] {\n\tcursor: default;\n}\nbutton::-moz-focus-inner,\ninput::-moz-focus-inner {\n\tborder: 0;\n\tpadding: 0;\n}\ninput {\n\tline-height: normal;\n}\ninput[type=\"checkbox\"],\ninput[type=\"radio\"] {\n\tbox-sizing: border-box;\n\tpadding: 0;\n}\ninput[type=\"number\"]::-webkit-inner-spin-button,\ninput[type=\"number\"]::-webkit-outer-spin-button {\n\theight: auto;\n}\ninput[type=\"search\"]::-webkit-search-cancel-button,\ninput[type=\"search\"]::-webkit-search-decoration {\n\t-webkit-appearance: none;\n}\nlegend {\n\tborder: 0;\n\tpadding: 0;\n}\ntextarea {\n\toverflow: auto;\n}\noptgroup {\n\tfont-weight: bold;\n}\ntable {\n\tborder-collapse: collapse;\n\tborder-spacing: 0;\n}\ntd,\nth {\n\tpadding: 0;\n}\n/*--------------------------------------------------------------\n# Typography\n--------------------------------------------------------------*/\nbody,\nbutton,\ninput,\nselect,\noptgroup,\ntextarea {\n\tcolor: #424646;\n    font-family: 'Poppins', sans-serif;\n\tfont-weight:400;\n\tfont-size: 14px;\n\tline-height: 24px;\n}\nh1, h2, h3, h4, h5, h6 {\n\tfont-weight: 700;\n\tmargin: 0;\n}\np {\n\tcolor:#757575;\n\tmargin: 0;\n\tline-height:24px;\n}\na,button,input{\n\tfont-weight:400;\n}\nimg,a,input,h1, h2, h3, h4, h5, h6{\n\ttransition:all 0.4s ease;\n}\ndfn, cite, em, i {\n\tfont-style: italic;\n}\naddress {\n\tmargin: 0 0 1.5em;\n}\npre {\n\tbackground: #eee;\n\tfont-family: 'Poppins', sans-serif;\n\tfont-size: 15px;\n\tfont-size: 0.9375rem;\n\tline-height: 1.6;\n\tmargin-bottom: 1.6em;\n\tmax-width: 100%;\n\toverflow: auto;\n\tpadding: 1.6em;\n}\ncode, kbd, tt, var {\n\tfont-family: 'Poppins', sans-serif;\n\tfont-size: 15px;\n\tfont-size: 0.9375rem;\n}\n\nabbr, acronym {\n\tborder-bottom: 1px dotted #666;\n\tcursor: help;\n}\n\nmark, ins {\n\tbackground: #fff9c0;\n\ttext-decoration: none;\n}\n\nbig {\n\tfont-size: 125%;\n}\n\n.section {\n\tpadding: 100px 0;\n\tposition: relative;\n}\n.section-title {\n\ttext-align: center;\n\tmargin-bottom: 50px;\n\tpadding: 0 215px;\n}\n.section-title h2 {\n\tfont-size: 30px;\n\tmargin-bottom: 0;\n\ttext-transform: capitalize;\n\tposition: relative;\n\tcolor: #2c2d3f;\n\tfont-weight: 700;\n\tmargin-bottom: 10px;\n\tpadding-bottom: 15px;\n}\n.section-title h2::before {\n\tposition: absolute;\n\tcontent: \"\";\n\theight: 2px;\n\twidth: 50px;\n\tbackground: #79cced;\n\tleft: 50%;\n\tbottom: 0;\n\tmargin-left: -25px;\n}\n.section-title p {\n\tfont-size: 14px;\n\tcolor: #666;\n}\n.container{\n\tmax-width:1170px;\n}\n.overlay{\n\tposition:relative\n}\n.overlay::before {\n\tposition: absolute;\n\ttop: 0;\n\tleft: 0;\n\twidth: 100%;\n\theight: 100%;\n\topacity: 0.4;\n\tbackground: #000;\n\tcontent: \"\";\n\ttransition:all 0.4s ease;\n}\n/* Bread Crumbs */\n.breadcrumbs {\n\t/* background-color: white; */\n\tbackground-color: #F6F7FB;\n\tposition: relative;\n\tpadding: 30px 0px;\n}\n.breadcrumbs .bread-inner {\n\tz-index: 22;\n\ttext-align: left;\n}\n.breadcrumbs .bread-list {\n\tdisplay: inline-block;\n}\n.breadcrumbs ul li{\n\tdisplay: inline-block;\n\tposition: relative;\n}\n.breadcrumbs ul li i {\n\tmargin: 0px 10px;\n\tfont-size: 9px;\n\tfont-weight: 600;\n\tcolor: #333;\n}\n.breadcrumbs ul li a {\n\tcolor: #333;\n\tfont-size: 14px;\n\tfont-weight: 400;\n\ttext-transform: capitalize;\n}\n.breadcrumbs ul li.active a {\n\tcolor: #333;\n\tdisplay: inline-block;\n}\n.breadcrumbs ul li a:hover{\n\tcolor:#79cced;\n}\n/*=============================\n\tStart Demos CSS \n===============================*/\n.demo-section{\n\twidth: 100%;\n\t/* background-image: url('../images/demo-bg.jpg'); */\n\tbackground-position: center;\n\tbackground-repeat: no-repeat;\n\tbackground-size: cover;\n}\n.demo-section.section {\n\tpadding: 120px 0px 150px 0px;\n}\n.demo-section .demo-content {\n\tposition: relative;\n\ttext-align: left;\n\ttop: 128px;\n}\n.demo-section .demo-content h2 {\n\tcolor: #fff;\n\tfont-weight: 700;\n\tfont-size: 35px;\n\ttext-transform: uppercase;\n}\n.demo-section .demo-content .sub-title {\n\tfont-weight: 600;\n\tfont-size: 15px;\n\tdisplay: block;\n\tmargin-top: 10px;\n\ttext-transform: capitalize;\n\tcolor:#666;\n}\n.demo-section .demo-content p {\n\tcolor: #333;\n\tfont-weight: 400;\n\tfont-size: 14px;\n\tmargin-top: 5px;\n}\n.demo-section .demo-content .logo{\n\tmargin:0;\n\tpadding:0;\n}\n.demo-section .demo-content .button{\n\tmargin-top: 30px;\n}\n.demo-section .demo-content .check-btn {\n\tcolor:#fff;\n}\n.demo-thumb{\n\tbackground:#f9f9f9;\n}\n.demo-thumb .single-heading {\n\tfont-size: 20px;\n\ttext-align: center;\n\tmargin-bottom: 20px;\n\ttext-transform: capitalize;\n\tfont-weight: 400;\n}\n.demo-thumb .single-thumb{\n\tposition:relative;\n\tmargin-bottom:40px;\n\ttransition:all 0.4s ease;\n}\n.demo-thumb .single-thumb.overlay:before{\n\tbackground:#000;\n\tborder-radius:8px;\n\topacity:0;\n\tvisibility:hidden;\n\ttransition:all 0.4s ease;\n\theight:0;\n}\n.demo-thumb .single-thumb.overlay:hover:before{\n\topacity:0.7;\n\tvisibility:visible;\n\theight:100%;\n}\n.demo-thumb .single-thumb a{\n\theight:46px;\n\twidth:150px;\n\tbackground:#fff;\n\ttext-align:center;\n\tcolor:#333;\n\tline-height:44px;\n\tposition:absolute;\n\tleft:50%;\n\ttop:50%;\n\tmargin-top:-50px;\n\tmargin-left:-75px;\n\tborder-radius:30px;\n\tborder:2px solid transparent;\n\ttransition:all 0.4s ease;\n\topacity:0;\n\tvisibility:hidden;\n}\n.demo-thumb .single-thumb a:hover{\n\tbackground:transparent;\n\tcolor:#fff;\n\tborder-color:#fff;\n}\n.demo-thumb .single-thumb:hover a{\n\topacity:1;\n\tvisibility:visible;\n\tmargin-top:-23px;\n}\n.demo-thumb .single-thumb img{\n\theight:100%;\n\twidth:100%;\n\tborder-radius: 8px;\n    box-shadow: 0px 2px 92px 0px rgba(0, 0, 0, 0.18);\n    -moz-box-shadow: 0px 2px 92px 0px rgba(0, 0, 0, 0.18);\n    -webkit-box-shadow: 0px 2px 92px 0px rgba(0, 0, 0, 0.18);\n\ttransition:all 0.4s ease;\n}\n.demo-thumb .single-thumb:hover img{\n\tbox-shadow: 0px 50px 92px 0px rgba(0, 0, 0, 0.18);\n    -moz-box-shadow: 0px 50px 92px 0px rgba(0, 0, 0, 0.18);\n    -webkit-box-shadow: 0px 50px 92px 0px rgba(0, 0, 0, 0.18);\n}\n.demo-thumb .single-thumb a span {\n\tdisplay: block;\n\ttext-align: center;\n\tfont-weight: 600;\n\tmargin-top: 30px;\n\tcolor: #888;\n\ttransition:all 0.4s ease;\n}\n.demo-thumb .single-thumb:hover a span{\n\tcolor:#755ce4;\n}\n/*=============================\n\t/End Demos CSS \n===============================*/\n\n/* Preloader Animaion */\n.cp-preloader {\n\tposition:fixed;\n\ttop:0;\n\tleft:0;\n\tbottom:0;\n\tright:0;\n\tbackground:#fff;\n\tz-index:4444;\n\twidth: 100%;\n\theight: 100%;\n\tdisplay: flex;\n\tjustify-content: center;\n\talign-items: center;\n\ttop: 0;\n\tleft: 0;\n\tz-index: 5555;\n\tbackground: rgba(255, 117, 80, 0.94);\n\t--uiPreloaderColor: var(--cpPreloaderColor, #fff);\n\tcolor:#fff;\n\tcolor:var(--uiPreloaderColor)\n}\n.cp-preloader__box {\n\tposition:relative\n}\n.cp-preloader-inner {\n\tfont-size:var(--uiPreloaderSize);\n\twidth:1em;\n\theight:1em;\n\t--uiPreloaderSize: var(--cpPreloaderSize, 80px);\n\tfont-size: 70px;\n}\n.cp-preloader-inner::after, \n.cp-preloader-inner::before {\n\tcontent: \"\";\n\twidth: 7.5%;\n\theight: 7.5%;\n\tborder-radius: 50%;\n\tbackground-color: currentColor;\n\tposition: absolute;\n\tleft: 0;\n\t-webkit-animation: cp-preloader19_smoke 1s linear .2s infinite backwards;\n\t        animation: cp-preloader19_smoke 1s linear .2s infinite backwards;\n}\n.cp-preloader-inner::before {\n\ttop: 45%;\n}\n.cp-preloader-inner::after {\n\ttop: 55%;\n}\n\n@-webkit-keyframes cp-preloader19_smoke {\n 0%,to {\n  transform:translate3d(.15em,-50%,0);\n  opacity:0\n }\n 5% {\n  opacity:1\n }\n 70% {\n  transform:translate3d(-.75em,-50%,0);\n  opacity:0\n }\n}\n\n@keyframes cp-preloader19_smoke {\n 0%,to {\n  transform:translate3d(.15em,-50%,0);\n  opacity:0\n }\n 5% {\n  opacity:1\n }\n 70% {\n  transform:translate3d(-.75em,-50%,0);\n  opacity:0\n }\n}\n.icon {\n width:75%;\n height:75%;\n top:5%;\n left:0;\n -webkit-animation:cp-preloader-anim 1s linear infinite alternate backwards;\n         animation:cp-preloader-anim 1s linear infinite alternate backwards;\n}\n\n@-webkit-keyframes cp-preloader-anim {\n 0% {\n  transform:translate3d(0,.0375em,0) rotate(45deg)\n }\n to {\n  transform:translate3d(.075em,.075em,0) rotate(45deg)\n }\n}\n\n@keyframes cp-preloader-anim {\n 0% {\n  transform:translate3d(0,.0375em,0) rotate(45deg)\n }\n to {\n  transform:translate3d(.075em,.075em,0) rotate(45deg)\n }\n}\n/*--------------------------------------------------------------\n# Elements\n--------------------------------------------------------------*/\nhtml {\n\tbox-sizing: border-box;\n}\n\n*,\n*:before,\n*:after {\n\t/* Inherit box-sizing to make it easier to change the property for components that leverage other behavior; see https://css-tricks.com/inheriting-box-sizing-probably-slightly-better-best-practice/ */\n\tbox-sizing: inherit;\n}\n\nbody {\n\tbackground: #fff;\n\t/* Fallback for when there is no custom background color defined. */\n}\n\nhr {\n\tbackground-color: #ccc;\n\tborder: 0;\n\theight: 1px;\n\tmargin-bottom: 1.5em;\n}\n\nul,ul li{\n\tlist-style:none;\n\tpadding:0;\n\tmargin:0;\n}\n\nli > ul,\nli > ol {\n\tmargin-bottom: 0;\n\tmargin-left: 1.5em;\n}\n\ndt {\n\tfont-weight: bold;\n}\n\ndd {\n\tmargin: 0 1.5em 1.5em;\n}\n\nimg {\n\theight: auto;\n\t/* Make sure images are scaled correctly. */\n\tmax-width: 100%;\n\t/* Adhere to container width. */\n}\n\nfigure {\n\tmargin: 1em 0;\n\t/* Extra wide images within figure tags don't overflow the content area. */\n}\n\ntable {\n\tmargin: 0 0 1.5em;\n\twidth: 100%;\n}\n\n/*--------------------------------------------------------------\n# Forms\n--------------------------------------------------------------*/\nbutton,\ninput[type=\"button\"],\ninput[type=\"reset\"],\ninput[type=\"submit\"] {\n\tborder: 1px solid;\n\tborder-color: #ccc #ccc #bbb;\n\tborder-radius: 3px;\n\tbackground: #e6e6e6;\n\tcolor: rgba(0, 0, 0, 0.8);\n\tline-height: 1;\n}\n\ninput[type=\"text\"],\ninput[type=\"email\"],\ninput[type=\"url\"],\ninput[type=\"password\"],\ninput[type=\"search\"],\ninput[type=\"number\"],\ninput[type=\"tel\"],\ninput[type=\"range\"],\ninput[type=\"date\"],\ninput[type=\"month\"],\ninput[type=\"week\"],\ninput[type=\"time\"],\ninput[type=\"datetime\"],\ninput[type=\"datetime-local\"],\ninput[type=\"color\"],\ntextarea {\n\tcolor: #666;\n\tborder: 1px solid #ccc;\n\tborder-radius: 3px;\n\tpadding: 3px;\n}\n\ninput[type=\"text\"]:focus,\ninput[type=\"email\"]:focus,\ninput[type=\"url\"]:focus,\ninput[type=\"password\"]:focus,\ninput[type=\"search\"]:focus,\ninput[type=\"number\"]:focus,\ninput[type=\"tel\"]:focus,\ninput[type=\"range\"]:focus,\ninput[type=\"date\"]:focus,\ninput[type=\"month\"]:focus,\ninput[type=\"week\"]:focus,\ninput[type=\"time\"]:focus,\ninput[type=\"datetime\"]:focus,\ninput[type=\"datetime-local\"]:focus,\ninput[type=\"color\"]:focus,\ntextarea:focus {\n\tcolor: #111;\n}\n\nselect {\n\tborder: 1px solid #ccc;\n}\n\ntextarea {\n\twidth: 100%;\n}\n\n/*--------------------------------------------------------------\n# Navigation\n--------------------------------------------------------------*/\n/*--------------------------------------------------------------\n## Links\n--------------------------------------------------------------*/\na {\n\tcolor: inherit;\n}\n\na:visited {\n\tcolor: inherit;\n}\n\na:hover, a:focus, a:active {\n\tcolor: inherit;\n}\n\na:hover, a:active {\n\toutline: 0;\n}\n\n/*--------------------------------------------------------------\n## Menus\n--------------------------------------------------------------*/\n.main-navigation {\n\tclear: both;\n\tdisplay: block;\n\tfloat: left;\n\twidth: 100%;\n}\n\n.main-navigation ul {\n\tdisplay: none;\n\tlist-style: none;\n\tmargin: 0;\n\tpadding-left: 0;\n}\n\n.main-navigation ul ul {\n\tbox-shadow: 0 3px 3px rgba(0, 0, 0, 0.2);\n\tfloat: left;\n\tposition: absolute;\n\ttop: 100%;\n\tleft: -999em;\n\tz-index: 99999;\n}\n\n.main-navigation ul ul ul {\n\tleft: -999em;\n\ttop: 0;\n}\n\n.main-navigation ul ul li:hover > ul,\n.main-navigation ul ul li.focus > ul {\n\tleft: 100%;\n}\n\n.main-navigation ul ul a {\n\twidth: 200px;\n}\n\n.main-navigation ul li:hover > ul,\n.main-navigation ul li.focus > ul {\n\tleft: auto;\n}\n\n.main-navigation li {\n\tfloat: left;\n\tposition: relative;\n}\n\n.main-navigation a {\n\tdisplay: block;\n\ttext-decoration: none;\n}\n\n/* Small menu. */\n.menu-toggle,\n.main-navigation.toggled ul {\n\tdisplay: block;\n}\n\n@media screen and (min-width: 37.5em) {\n\t.menu-toggle {\n\t\tdisplay: none;\n\t}\n\t.main-navigation ul {\n\t\tdisplay: block;\n\t}\n}\n\n.site-main .comment-navigation, .site-main\n.posts-navigation, .site-main\n.post-navigation {\n\tmargin: 0 0 1.5em;\n\toverflow: hidden;\n}\n\n.comment-navigation .nav-previous,\n.posts-navigation .nav-previous,\n.post-navigation .nav-previous {\n\tfloat: left;\n\twidth: 50%;\n}\n\n.comment-navigation .nav-next,\n.posts-navigation .nav-next,\n.post-navigation .nav-next {\n\tfloat: right;\n\ttext-align: right;\n\twidth: 50%;\n}\n\n/*--------------------------------------------------------------\n# Accessibility\n--------------------------------------------------------------*/\n/* Text meant only for screen readers. */\n.screen-reader-text {\n\tborder: 0;\n\tclip: rect(1px, 1px, 1px, 1px);\n\t-webkit-clip-path: inset(50%);\n\t        clip-path: inset(50%);\n\theight: 1px;\n\tmargin: -1px;\n\toverflow: hidden;\n\tpadding: 0;\n\tposition: absolute !important;\n\twidth: 1px;\n\tword-wrap: normal !important; /* Many screen reader and browser combinations announce broken words as they would appear visually. */\n}\n\n.screen-reader-text:focus {\n\tbackground-color: #f1f1f1;\n\tborder-radius: 3px;\n\tbox-shadow: 0 0 2px 2px rgba(0, 0, 0, 0.6);\n\tclip: auto !important;\n\t-webkit-clip-path: none;\n\t        clip-path: none;\n\tcolor: #21759b;\n\tdisplay: block;\n\tfont-size: 14px;\n\tfont-size: 0.875rem;\n\tfont-weight: bold;\n\theight: auto;\n\tleft: 5px;\n\tline-height: normal;\n\tpadding: 15px 23px 14px;\n\ttext-decoration: none;\n\ttop: 5px;\n\twidth: auto;\n\tz-index: 100000;\n\t/* Above WP toolbar. */\n}\n\n/* Do not show the outline on the skip link target. */\n#content[tabindex=\"-1\"]:focus {\n\toutline: 0;\n}\n\n/*--------------------------------------------------------------\n# Alignments\n--------------------------------------------------------------*/\n.alignleft {\n\tdisplay: inline;\n\tfloat: left;\n\tmargin-right: 1.5em;\n}\n\n.alignright {\n\tdisplay: inline;\n\tfloat: right;\n\tmargin-left: 1.5em;\n}\n\n.aligncenter {\n\tclear: both;\n\tdisplay: block;\n\tmargin-left: auto;\n\tmargin-right: auto;\n}\n\n/*--------------------------------------------------------------\n# Clearings\n--------------------------------------------------------------*/\n.clear:before,\n.clear:after,\n.entry-content:before,\n.entry-content:after,\n.comment-content:before,\n.comment-content:after,\n.site-header:before,\n.site-header:after,\n.site-content:before,\n.site-content:after,\n.site-footer:before,\n.site-footer:after {\n\tcontent: \"\";\n\tdisplay: table;\n\ttable-layout: fixed;\n}\n\n.clear:after,\n.entry-content:after,\n.comment-content:after,\n.site-header:after,\n.site-content:after,\n.site-footer:after {\n\tclear: both;\n}\n\n/*--------------------------------------------------------------\n# Widgets\n--------------------------------------------------------------*/\n.widget {\n\tmargin: 0 0 1.5em;\n\t/* Make sure select elements fit in widgets. */\n}\n\n.widget select {\n\tmax-width: 100%;\n}\n\n/*--------------------------------------------------------------\n# Content\n--------------------------------------------------------------*/\n/*--------------------------------------------------------------\n## Posts and pages\n--------------------------------------------------------------*/\n.sticky {\n\tdisplay: block;\n}\n\n.hentry {\n\tmargin: 0 0 1.5em;\n}\n\n.updated:not(.published) {\n\tdisplay: none;\n}\n\n.page-content,\n.entry-content,\n.entry-summary {\n\tmargin: 1.5em 0 0;\n}\n\n.page-links {\n\tclear: both;\n\tmargin: 0 0 1.5em;\n}\n\n/*--------------------------------------------------------------\n## Comments\n--------------------------------------------------------------*/\n.comment-content a {\n\tword-wrap: break-word;\n}\n\n.bypostauthor {\n\tdisplay: block;\n}\n\n/*--------------------------------------------------------------\n# Infinite scroll\n--------------------------------------------------------------*/\n/* Globally hidden elements when Infinite Scroll is supported and in use. */\n.infinite-scroll .posts-navigation,\n.infinite-scroll.neverending .site-footer {\n\t/* Theme Footer (when set to scrolling) */\n\tdisplay: none;\n}\n\n/* When Infinite Scroll has reached its end we need to re-display elements that were hidden (via .neverending) before. */\n.infinity-end.neverending .site-footer {\n\tdisplay: block;\n}\n\n/*--------------------------------------------------------------\n# Media\n--------------------------------------------------------------*/\n.page-content .wp-smiley,\n.entry-content .wp-smiley,\n.comment-content .wp-smiley {\n\tborder: none;\n\tmargin-bottom: 0;\n\tmargin-top: 0;\n\tpadding: 0;\n}\n\n/* Make sure embeds and iframes fit their containers. */\nembed,\niframe,\nobject {\n\tmax-width: 100%;\n}\n\n/* Make sure logo link wraps around logo image. */\n.custom-logo-link {\n\tdisplay: inline-block;\n}\n\n/*--------------------------------------------------------------\n## Captions\n--------------------------------------------------------------*/\n.wp-caption {\n\tmargin-bottom: 1.5em;\n\tmax-width: 100%;\n}\n\n.wp-caption img[class*=\"wp-image-\"] {\n\tdisplay: block;\n\tmargin-left: auto;\n\tmargin-right: auto;\n}\n\n.wp-caption .wp-caption-text {\n\tmargin: 0.8075em 0;\n}\n\n.wp-caption-text {\n\ttext-align: center;\n}\n\n/*--------------------------------------------------------------\n## Galleries\n--------------------------------------------------------------*/\n.gallery {\n\tmargin-bottom: 1.5em;\n}\n\n.gallery-item {\n\tdisplay: inline-block;\n\ttext-align: center;\n\tvertical-align: top;\n\twidth: 100%;\n}\n\n.gallery-columns-2 .gallery-item {\n\tmax-width: 50%;\n}\n\n.gallery-columns-3 .gallery-item {\n\tmax-width: 33.33%;\n}\n\n.gallery-columns-4 .gallery-item {\n\tmax-width: 25%;\n}\n\n.gallery-columns-5 .gallery-item {\n\tmax-width: 20%;\n}\n\n.gallery-columns-6 .gallery-item {\n\tmax-width: 16.66%;\n}\n\n.gallery-columns-7 .gallery-item {\n\tmax-width: 14.28%;\n}\n\n.gallery-columns-8 .gallery-item {\n\tmax-width: 12.5%;\n}\n\n.gallery-columns-9 .gallery-item {\n\tmax-width: 11.11%;\n}\n\n.gallery-caption {\n\tdisplay: block;\n}\n\n\n/* Start Modal Css */\n.modal-dialog .quickview-slider-active{\n\tdisplay:block;\n\theight:100%;\n\twidth:550px;\n\theight:100%;\n}\n.modal-dialog .quickview-slider-active img{\n\tdisplay:inline-block;\n}\n.modal-dialog {\n  margin: 12% auto 8%;\n  max-width: 1358px;\n  width: 1358px;\n}\n\n@media only screen and (min-width: 1366px) and (max-width: 1600px) {\n  .modal-dialog {\n    width: 1145px;\n    max-width: 1145px;\n  }\n}\n\n@media only screen and (min-width: 1200px) and (max-width: 1365px) {\n  .modal-dialog {\n    width: 1145px;\n    max-width: 1145px;\n  }\n}\n\n@media only screen and (min-width: 992px) and (max-width: 1199px) {\n  .modal-dialog {\n    width: 960px;\n    max-width: 960px;\n  }\n}\n\n@media only screen and (min-width: 768px) and (max-width: 991px) {\n  .modal-dialog {\n    width: 720px;\n    max-width: 720px;\n  }\n}\n\n@media only screen and (max-width: 767px) {\n  .modal-dialog {\n    width: 100%;\n    max-width: 100%;\n    padding: 35px 0;\n  }\n}\n\n.modal-dialog .modal-content {\n  border-radius: 0;\n}\n\n.modal-dialog .modal-content .modal-header {\n\tborder: none;\n\tpadding: 0;\n\tright: 10px;\n\ttop: 10px;\n\tposition: absolute;\n\tz-index: 9999;\n}\n\n@media only screen and (max-width: 767px) {\n  .modal-dialog .modal-content .modal-header {\n    right: 0px;\n    top: -10px;\n  }\n}\n.modal-dialog .modal-content .modal-header .close {\n\tcolor: #fff;\n\tcursor: pointer;\n\topacity: 1;\n\tpadding: 0;\n\tmargin: 0;\n\twidth: 40px;\n\theight: 40px;\n\tline-height: 40px;\n\ttext-shadow: none;\n\tfont-size: 11px;\n\tbackground: transparent;\n\tcolor: #737373;\n\tborder-radius: 100%;\n\tborder: 1px solid #eee;\n\ttransition:all 0.4s ease;\n}\n@media only screen and (max-width: 767px) {\n  .modal-dialog .modal-content .modal-header .close {\n    width: 34px;\n    height: 34px;\n    line-height: 34px;\n    font-size: 15px;\n  }\n}\n\n.modal-dialog .modal-content .modal-header .close:hover {\n  color: #fff;\n  border-color:transparent;\n  background:#79cced;\n}\n.modal-dialog .modal-content .modal-body {\n\tpadding: 0px;\n\toverflow-y: auto;\n\tmax-height: 510px;\n\theight: 700px;\n}\n.quickview-content {\n\tpadding: 40px 40px;\n}\n@media only screen and (min-width: 992px) and (max-width: 1199px) {\n  .quickview-content {\n    padding: 15px 35px 20px;\n  }\n}\n\n@media only screen and (min-width: 768px) and (max-width: 991px) {\n  .quickview-content {\n    padding: 20px 35px 35px;\n  }\n}\n\n@media only screen and (max-width: 767px) {\n  .quickview-content {\n    padding: 15px 15px 15px;\n  }\n}\n\n.quickview-content h2 {\n\tfont-size: 22px;\n\tfont-weight: 600;\n\tmargin: 0 0 6px;\n}\n@media only screen and (max-width: 767px) {\n  .quickview-content h2 {\n    font-size: 26px;\n  }\n}\n\n.quickview-content .quickview-ratting-review {\n  display: flex;\n  align-items: center;\n}\n\n.quickview-content .quickview-ratting-review .quickview-ratting-wrap {\n  display: flex;\n}\n\n.quickview-content .quickview-ratting-review .quickview-ratting-wrap .quickview-ratting i {\n  color: #d5d6d8;\n  font-size: 12px;\n}\n\n.quickview-content .quickview-ratting-review .quickview-ratting-wrap .quickview-ratting i.yellow {\n  color: #f5b223;\n}\n\n.quickview-content .quickview-ratting-review .quickview-ratting-wrap a {\n\tcolor: #262626;\n\tfont-size: 12px;\n\tmargin-left: 5px;\n}\n\n.quickview-content .quickview-ratting-review .quickview-stock {\n  margin-left: 24px;\n}\n\n.quickview-content .quickview-ratting-review .quickview-stock span {\n  font-size: 12px;\n}\n\n.quickview-content .quickview-ratting-review .quickview-stock span i {\n  font-size: 16px;\n  color: #63ab01;\n  margin-right: 2px;\n  position: relative;\n  top: 3px;\n}\n\n.quickview-content h3 {\n\tfont-size: 20px;\n\tmargin: 12px 0 15px;\n\tfont-weight: 600;\n}\n\n.quickview-content  h3 span {\n  text-decoration: line-through;\n  font-size: 14px;\n  margin-right: 5px;\n}\n\n@media only screen and (min-width: 768px) and (max-width: 991px) {\n  .quickview-content > h3 {\n    margin: 20px 0 18px;\n  }\n}\n\n@media only screen and (max-width: 767px) {\n  .quickview-content > h3 {\n    margin: 10px 0 10px;\n  }\n}\n\n.quickview-content .quickview-peragraph p {\n\tfont-size: 14px;\n\tline-height: 24px;\n\tfont-weight: 400;\n\tcolor: #333;\n}\n.quickview-content .size{\n\tmargin-top:20px;\n\tmargin-bottom:20px;\n}\n.quickview-content .size .title {\n\tfont-size: 15px;\n\tfont-weight: 500;\n\ttext-transform: capitalize;\n\tmargin-bottom: 12px;\n}\n.quickview-content .nice-select {\n\tclear: initial;\n\tmargin: 0;\n\theight: 45px;\n\twidth: 100%;\n\ttext-align: center;\n\tbackground: transparent;\n\ttext-transform: capitalize;\n\tpadding: 0 0 0 20px;\n\tline-height: 45px;\n\tfont-size: 14px;\n\tfont-weight: 400;\n\tborder: 1px solid #eee;\n\tborder-radius: 0;\n}\n.quickview-content .nice-select::after {\n\tborder-color: #666;\n\tright: 20px;\n}\n.quickview-content .nice-select .list {\n\tborder-radius:0px;\n\twidth: 100%;\n}\n.quickview-content .nice-select .list li.focus{\n\tfont-weight:400;\n\ttext-transform:lowercase;\n}\n.quickview-content .nice-select .list li {\n\tcolor: #666;\n\tborder-radius: 0px;\n\tfont-size: 14px;\n\tfont-weight: 400;\n\ttext-transform:lowercase;\n}\n.quickview-content .nice-select .list li:hover{\n\tbackground:#79cced;\n\tcolor:#fff;\n}\n\n.quickview-content .quickview-peragraph ul {\n  margin: 30px 0 0;\n}\n\n.quickview-content .quickview-peragraph ul li {\n  font-size: 14px;\n  line-height: 1;\n  position: relative;\n  padding-left: 12px;\n  margin: 0 0 22px;\n}\n.quickview-content .default-social{\n\tmargin-top:35px;\n}\n\n@media only screen and (max-width: 767px) {\n  .quickview-content .quickview-peragraph ul li {\n    line-height: 24px;\n    margin: 0 0 15px;\n  }\n}\n\n.quickview-content .quickview-peragraph ul li:last-child {\n  margin: 0 0 0px;\n}\n\n.quickview-content .quickview-peragraph ul li::before {\n  width: 5px;\n  height: 5px;\n  border-radius: 100%;\n  background-color: #79cced;\n  content: \"\";\n  left: 0;\n  top: 50%;\n  transform: translateY(-50%);\n  position: absolute;\n}\n.quickview-content .quickview-action-wrap {\n\tdisplay: flex;\n\talign-items: center;\n\tmargin: 60px 0 30px;\n}\n\n@media only screen and (min-width: 992px) and (max-width: 1199px) {\n  .quickview-content .quickview-action-wrap {\n    margin: 30px 0 30px;\n  }\n}\n\n@media only screen and (min-width: 768px) and (max-width: 991px) {\n  .quickview-content .quickview-action-wrap {\n    margin: 30px 0 30px;\n  }\n}\n\n@media only screen and (max-width: 767px) {\n  .quickview-content .quickview-action-wrap {\n    margin: 20px 0 20px;\n    display: block;\n  }\n}\n\n@media only screen and (min-width: 576px) and (max-width: 767px) {\n  .quickview-content .quickview-action-wrap {\n    display: flex;\n  }\n}\n\n.quickview-content .quickview-action-wrap .quickview-cart {\n  margin: 0 26px 0 10px;\n}\n\n@media only screen and (max-width: 767px) {\n  .quickview-content .quickview-action-wrap .quickview-cart {\n    margin: 0 26px 20px 0px;\n  }\n}\n\n@media only screen and (min-width: 576px) and (max-width: 767px) {\n  .quickview-content .quickview-action-wrap .quickview-cart {\n    margin: 0 26px 0 10px;\n  }\n}\n\n.quickview-content .quickview-action-wrap .quickview-cart a {\n\tdisplay: inline-block;\n\tfont-size: 14px;\n\tcolor: #fff;\n\tpadding: 12px 30px;\n\tbackground-color: #262626;\n\tdisplay: inline-block;\n\tmargin-left: 8px;\n\tborder-radius: 30px;\n}\n\n.quickview-content .quickview-action-wrap .quickview-cart a:hover {\n  background-color: #79cced;\n  color:#333;\n}\n\n.quickview-content .quickview-action-wrap .quickview-cart.quickview-cart-mrg-none {\n  margin: 0 26px 0 0px;\n}\n\n@media only screen and (max-width: 767px) {\n  .quickview-content .quickview-action-wrap .quickview-cart.quickview-cart-mrg-none {\n    margin: 0 26px 20px 0px;\n  }\n}\n\n@media only screen and (min-width: 576px) and (max-width: 767px) {\n  .quickview-content .quickview-action-wrap .quickview-cart.quickview-cart-mrg-none {\n    margin: 0 26px 0 10px;\n  }\n}\n\n.quickview-content .quickview-action-wrap .affiliate-btn a:hover {\n  background-color: #e77878;\n}\n\n.quickview-content .quickview-action-wrap .quickview-wishlist a, .quickview-content .quickview-action-wrap .quickview-compare a {\n  font-size: 20px;\n  font-weight: bold;\n}\n\n.quickview-content .quickview-action-wrap .quickview-compare {\n  margin-left: 30px;\n}\n.quickview-content .quickview-action-wrap .quickview-wishlist a:hover{\n\tcolor:#79cced;\n}\n.quickview-content .quickview-action-wrap .quickview-compare a:hover {\n  color:#79cced;\n}\n@media only screen and (max-width: 767px) {\n  .quickview-content .quickview-action-wrap .quickview-compare {\n    margin-left: 0px;\n    margin-top: 14px;\n  }\n}\n\n@media only screen and (min-width: 576px) and (max-width: 767px) {\n  .quickview-content .quickview-action-wrap .quickview-compare {\n    margin-left: 30px;\n    margin-top: 0px;\n  }\n}\n\n.quickview-content .quickview-meta {\n  margin: 0 0 15px;\n}\n.quickview-content .quickview-meta > span {\n\tdisplay: block;\n\tfont-size: 14px;\n\tmargin: 0 0 11px;\n}\n.quickview-content .quickview-meta > span a:hover {\n  text-decoration: underline;\n}\n.quickview-content .quickview-meta > span:last-child {\n  margin: 0 0 0px;\n}\n.quickview-content.product-details-content {\n  padding: 0 0 0 20px;\n}\n\n@media only screen and (min-width: 992px) and (max-width: 1199px) {\n  .quickview-content.product-details-content {\n    padding: 0 0 0 0px;\n  }\n}\n\n@media only screen and (min-width: 768px) and (max-width: 991px) {\n  .quickview-content.product-details-content {\n    padding: 30px 0 0 0px;\n  }\n}\n\n@media only screen and (max-width: 767px) {\n  .quickview-content.product-details-content {\n    padding: 30px 0 0 0px;\n  }\n}\n\n.quickview-content.product-details-content h2 {\n  margin: 0 0 13px;\n}\n\n.quickview-content.product-details-content h3 {\n  margin: 30px 0 28px;\n}\n\n@media only screen and (min-width: 992px) and (max-width: 1199px) {\n  .quickview-content.product-details-content h3 {\n    margin: 10px 0 12px;\n  }\n}\n\n@media only screen and (min-width: 768px) and (max-width: 991px) {\n  .quickview-content.product-details-content h3 {\n    margin: 10px 0 12px;\n  }\n}\n\n@media only screen and (max-width: 767px) {\n  .quickview-content.product-details-content h3 {\n    margin: 10px 0 12px;\n  }\n}\n\n.quickview-content.product-details-content .quickview-action-wrap {\n  margin: 60px 0 36px;\n}\n\n@media only screen and (min-width: 992px) and (max-width: 1199px) {\n  .quickview-content.product-details-content .quickview-action-wrap {\n    margin: 20px 0 20px;\n  }\n  .quickview-content.product-details-content .quickview-action-wrap .quickview-cart a {\n    padding: 20px 18px;\n  }\n}\n\n@media only screen and (min-width: 768px) and (max-width: 991px) {\n  .quickview-content.product-details-content .quickview-action-wrap {\n    margin: 20px 0 20px;\n  }\n  .quickview-content.product-details-content .quickview-action-wrap .quickview-cart a {\n    padding: 20px 18px;\n  }\n}\n\n@media only screen and (max-width: 767px) {\n  .quickview-content.product-details-content .quickview-action-wrap {\n    margin: 20px 0 20px;\n  }\n  .quickview-content.product-details-content .quickview-action-wrap .quickview-cart a {\n    padding: 12px 18px;\n  }\n}\n\n.quickview-content.product-details-content .quickview-action-wrap.configurable-mrg-dec {\n  margin: 37px 0 37px;\n}\n\n@media only screen and (min-width: 992px) and (max-width: 1199px) {\n  .quickview-content.product-details-content .quickview-action-wrap.configurable-mrg-dec {\n    margin: 25px 0 20px;\n  }\n}\n\n@media only screen and (max-width: 767px) {\n  .quickview-content.product-details-content .quickview-action-wrap.configurable-mrg-dec {\n    margin: 20px 0 15px;\n  }\n}\n\n.quickview-content.product-details-content .quickview-action-wrap.quickview-action-mrg-dec {\n  margin: 30px 0 38px;\n}\n\n@media only screen and (max-width: 767px) {\n  .quickview-content.product-details-content .quickview-action-wrap.quickview-action-mrg-dec {\n    margin: 20px 10px 20px;\n  }\n}\n\n.quickview-content.product-details-content .quickview-meta {\n  margin: 0 0 40px;\n}\n\n@media only screen and (min-width: 992px) and (max-width: 1199px) {\n  .quickview-content.product-details-content .quickview-meta {\n    margin: 0 0 20px;\n  }\n}\n\n@media only screen and (min-width: 768px) and (max-width: 991px) {\n  .quickview-content.product-details-content .quickview-meta {\n    margin: 0 0 20px;\n  }\n}\n\n@media only screen and (max-width: 767px) {\n  .quickview-content.product-details-content .quickview-meta {\n    margin: 0 0 20px;\n  }\n}\n\n.quickview-content.product-details-content.product-details-slider2 {\n  padding: 0;\n  margin: 85px 10px 0;\n}\n\n@media only screen and (max-width: 767px) {\n  .quickview-content.product-details-content.product-details-slider2 {\n    margin: 20px 10px 0;\n  }\n}\n\n.quickview-content .quantity {\n\tdisplay: inline-block;\n\tmargin-right: 10px;\n}\n.quickview-content .quantity .input-group {\n\twidth: 151px;\n\tdisplay: inline-block;\n}\n.modal .product-gallery .single-slider{\n\twidth:100%;\n\theight:100%;\n\tdisplay:block;\n}\n/* Slider Nav */\n.modal .owl-nav{\n\tmargin: 0;\n    position: absolute;\n    top: 50%;\n    width: 100%;\n\tmargin-top:-25px;\n}\n.modal .owl-carousel .owl-nav div {\n\theight: 60px;\n\twidth: 30px;\n\tline-height: 58px;\n\tbackground: #fff;\n\tcolor: #333;\n\tposition: absolute;\n\tmargin: 0;\n\tborder-radius: 0;\n\tfont-size: 15px;\n\ttext-align: center;\n\ttransition:all 0.4s ease;\n\tbox-shadow: 0px 0px 10px #3333331c;\n}\n.modal .owl-carousel .owl-nav div:hover{\n\tcolor:#fff;\n\tbackground:#79cced;\n}\n.modal .owl-carousel .owl-controls .owl-nav .owl-prev{\n\tleft:0;\n\t\n}\n.modal .owl-carousel .owl-controls .owl-nav .owl-next{\n\tright:0;\n}\n.modal .product-gallery\n.modal .product-gallery img{\n\twidth:100%;\n\theight:100%;\n\tdisplay:block;\n}\n.quickview-content .quantity .button {\n\tdisplay: inline-block;\n\tposition: absolute;\n\ttop: 0;\n\tdisplay:inline-block;\n}\n.quickview-content .quantity .button.minus{\n\tleft:0;\n\tborder-radius:0;\n\toverflow:hidden;\n}\n.quickview-content .quantity .button.plus {\n\tright: 0;\n\tborder-radius:0;\n\toverflow:hidden;\n}\n.quickview-content .quantity .button .btn {\n\tpadding: 0;\n\twidth: 35px;\n\theight: 45px;\n\tline-height: 45px;\n\tborder-radius: 0px;\n\tbackground: transparent;\n\tcolor: #282828;\n\tfont-size: 12px;\n\tborder: none;\n}\n.quickview-content .quantity .button .btn:hover{\n\tcolor:#79cced;\n}\n.quickview-content .quantity .input-number {\n\tborder: 1px solid #eceded;\n\twidth: 100%;\n\ttext-align: center;\n\theight: 45px;\n\tborder-radius: 0px;\n\toverflow: hidden;\n\tpadding: 0px 38px;\n}\n.quickview-content .add-to-cart {\n\tdisplay:inline-block;\n}\n.quickview-content .add-to-cart .btn {\n\theight: 45px;\n\twidth: auto;\n\tpadding: 0 42px;\n\tline-height: 45px;\n\ttext-align: center;\n\ttext-transform: capitalize;\n\tmargin-right: 5px;\n\tborder-radius: 0px;\n\tbackground: #333;\n\tcolor: #fff;\n\tdisplay: inline-block;\n\tfont-weight: 500;\n}\n.quickview-content .add-to-cart .btn:hover{\n\tcolor:#fff;\n\tbackground:#79cced;\n}\n.quickview-content .add-to-cart .btn.min {\n\tpadding: 0 20px;\n\tfont-size: 17px;\n\tposition: relative;\n\ttop: 1px;\n\tline-height: 45px;\n}\n\n.default-social ul li {\n  display: inline-block;\n  margin-right: 5px;\n}\n\n.default-social ul li:last-child {\n  margin-right: 0px;\n}\n\n@media only screen and (min-width: 992px) and (max-width: 1199px) {\n  .default-social ul li {\n    margin-right: 5px;\n  }\n}\n\n@media only screen and (min-width: 768px) and (max-width: 991px) {\n  .default-social ul li {\n    margin-right: 8px;\n  }\n}\n.default-social .share-now{\n\tmargin-right:12px;\n\tdisplay:inline-block;\n\tfont-size:14px;\n\tfont-weight:400;\n}\n.default-social ul{\n\tdisplay:inline-block;\n}\n.default-social ul li{\n\tmargin-right:12px;\n\tdisplay:inline-block;\n}\n.default-social ul li:last-child{\n\tmargin-right:0;\n}\n.default-social ul li a {\n\tfont-size: 16px;\n\ttext-align: center;\n\tdisplay: inline-block;\n\tcolor: #262626;\n\ttransition: all .5s;\n\tfont-size: 14px;\n\t/* display: block; */\n}\n/* .default-social ul li a i {\n  \n} */\n.default-social ul li a:hover {\n  color: #79cced;\n}\n/* End Modal Css */\n\n/* Video Animations */\n\n@-webkit-keyframes waves {\n    0% {\n        transform: scale(0.2, 0.2);\n        opacity: 0;\n        -ms-filter: \"progid:DXImageTransform.Microsoft.Alpha(Opacity=0)\";\n    }\n    50% {\n        opacity: 0.9;\n        -ms-filter: \"progid:DXImageTransform.Microsoft.Alpha(Opacity=90)\";\n    }\n    100% {\n        transform: scale(0.9, 0.9);\n        opacity: 0;\n        -ms-filter: \"progid:DXImageTransform.Microsoft.Alpha(Opacity=0)\";\n    }\n}\n@keyframes waves {\n    0% {\n        transform: scale(0.2, 0.2);\n        opacity: 0;\n        -ms-filter: \"progid:DXImageTransform.Microsoft.Alpha(Opacity=0)\";\n    }\n    50% {\n        opacity: 0.9;\n        -ms-filter: \"progid:DXImageTransform.Microsoft.Alpha(Opacity=90)\";\n    }\n    100% {\n        transform: scale(0.9, 0.9);\n        opacity: 0;\n        -ms-filter: \"progid:DXImageTransform.Microsoft.Alpha(Opacity=0)\";\n    }\n}\n\n\n\n@-webkit-keyframes lineanim {\n 50% {\n  transform:scaleY(1);\n  transform-origin:top left\n }\n 50.1% {\n  transform-origin:bottom left\n }\n 100% {\n  transform:scaleY(0);\n  transform-origin:bottom left\n }\n}\n@keyframes lineanim {\n 50% {\n  transform:scaleY(1);\n  transform-origin:top left\n }\n 50.1% {\n  transform-origin:bottom left\n }\n 100% {\n  transform:scaleY(0);\n  transform-origin:bottom left\n }\n}\n", ""]);
 // Exports
 /* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (___CSS_LOADER_EXPORT___);
 
@@ -22317,7 +24140,7 @@ __webpack_require__.r(__webpack_exports__);
 var ___CSS_LOADER_EXPORT___ = _node_modules_laravel_mix_node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_0___default()(function(i){return i[1]});
 var ___CSS_LOADER_URL_REPLACEMENT_0___ = _node_modules_laravel_mix_node_modules_css_loader_dist_runtime_getUrl_js__WEBPACK_IMPORTED_MODULE_1___default()(_images_1900_2_jpg__WEBPACK_IMPORTED_MODULE_2__.default);
 // Module
-___CSS_LOADER_EXPORT___.push([module.id, "/* =====================================\nTemplate Name: Eshop\nAuthor Name: Naimur Rahman\nAuthor URI: http://www.wpthemesgrid.com/\nDescription: Eshop - eCommerce HTML5 Template.\nVersion:1.0\n========================================*/\n/*======================================\n[ CSS Table of contents ]\n01. Preloader CSS\n02. Header CSS\n\t+ Logo\n\t+ Category Menu\n\t+ Main Menu\n03. Hero Area CSS\n04. Small Banner CSS\n05. Medium Banner CSS\n06. Single Product CSS\n07. Shop Sidebar CSS\n08. Shop Single CSS\n09. Shop Home List CSS\n10. Cart CSS\n11. Checkout CSS\n12. Login & Register CSS\n13. Cowndown CSS\n14. Shop Services CSS\n15. Newslatter CSS\n16. About Us CSS\n17. Team CSS\n18. Blog CSS\t\n\t+ Blog Archive\n\t+ Blog Sidebar\n\t+ Blog Single\n19. Contact CSS\n20. 404 Error CSS\n21. Footer CSS\n========================================*/\n.color-plate {\n\tposition: fixed;\n\tdisplay: block;\n\tz-index: 99998;\n\tpadding: 20px;\n\twidth: 245px;\n\tbackground: #fff;\n\tright: -245px;\n\ttext-align: left;\n\ttop: 30%;\n\ttransition:all 0.4s ease;\n\tbox-shadow: -3px 0px 25px -2px rgba(0, 0, 0, 0.2);\n}\n.color-plate.active{\n\tright:0;\n}\n.color-plate .color-plate-icon {\n\tposition: absolute;\n\tleft: -48px;\n\twidth: 48px;\n\theight: 45px;\n\tline-height: 45px;\n\tfont-size: 21px;\n\tborder-radius: 5px 0 0 5px;\n\tbackground: #fff;\n\ttext-align: center;\n\tcolor: #333;\n\ttop: 0;\n\tcursor: pointer;\n\tbox-shadow: -4px 0px 5px #00000036;\n}\n.color-plate h4 {\n\tdisplay: block;\n\tfont-size: 15px;\n\tmargin-bottom: 5px;\n\tfont-weight: 500;\n}\n.color-plate p {\n\tfont-size: 13px;\n\tmargin-bottom: 15px;\n\tline-height: 20px;\n}\n.color-plate span {\n\twidth: 42px;\n\theight: 35px;\n\tborder-radius: 0;\n\tcursor: pointer;\n\tdisplay: inline-block;\n\tmargin-right: 3px;\n}\n.color-plate span:hover{\n\tcursor:pointer;\n}\n.color-plate span.color1{\n\tbackground:#F7941D;\n}\n.color-plate span.color2{\n\tbackground:#0088CC;\n}\n.color-plate span.color3{\n\tbackground:#32B87D;\n}\n.color-plate span.color4{\n\tbackground:#FE754A;\n}\n.color-plate span.color5{\n\tbackground:#F82F56;\n}\n.color-plate span.color6{\n\tbackground:#00cec9;\n}\n.color-plate span.color7{\n\tbackground:#6c5ce7;\n}\n.color-plate span.color8{\n\tbackground:#85BA46;\n}\n.color-plate span.color9{\n\tbackground:#fd79a8;\n}\n.color-plate span.color10{\n\tbackground:#a29bfe;\n}\n.color-plate span.color11{\n\tbackground:#badc58;\n}\n.color-plate span.color12{\n\tbackground:#FF1D38;\n}\n/* Preloader */\n.preloader {\n  position: fixed;\n  top: 0;\n  left: 0;\n  z-index: 999999999;\n  width: 100%;\n  height: 100%;\n  background-color: #fff;\n  overflow: hidden;\n}\n.preloader-inner {\n  position: absolute;\n  top: 50%;\n  left: 50%;\n  transform: translate(-50%,-50%);\n}\n.preloader-icon {\n  width: 100px;\n  height: 100px;\n  display: inline-block;\n  padding: 0px;\n}\n.preloader-icon span {\n  position: absolute;\n  display: inline-block;\n  width: 100px;\n  height: 100px;\n  border-radius: 100%;\n  background:#F7941D;\n  -webkit-animation: preloader-fx 1.6s linear infinite;\n  animation: preloader-fx 1.6s linear infinite;\n}\n.preloader-icon span:last-child {\n  animation-delay: -0.8s;\n  -webkit-animation-delay: -0.8s;\n}\n@keyframes preloader-fx {\n  0% {transform: scale(0, 0); opacity:0.5;}\n  100% {transform: scale(1, 1); opacity:0;}\n}\n@-webkit-keyframes preloader-fx {\n  0% {-webkit-transform: scale(0, 0); opacity:0.5;}\n  100% {-webkit-transform: scale(1, 1); opacity:0;}\n}\n/* End Preloader */\n\n.btn {\n\tposition: relative;\n\tfont-weight: 500;\n\tfont-size:14px;\n\tcolor: #fff;\n\tbackground: #333;\n\tdisplay: inline-block;\n\ttransition: all 0.4s ease;\n\tz-index: 5;\n\tdisplay: inline-block;\n\tpadding: 13px 32px;\n\tborder-radius: 0px;\n\ttext-transform:uppercase;\n}\n.btn:hover{\n\tcolor:#fff;\n\tbackground:#F7941D;\n}\n#scrollUp {\n\tright: 10px;\n\tz-index: 33;\n\tbottom: 10px;\n\ttext-align: center;\n}\n#scrollUp i{\n\theight: 40px;\n    width: 40px;\n    line-height: 40px;\n\tbackground:transparent;\n    background:#222;\n    border-radius: 0;\n\tfont-size: 18px;\n transition: all 500ms ease;\n\tdisplay:block;\n\tcolor: #fff;\n\tbox-shadow: 0px 4px 19px #00000038;\n}\n#scrollUp i:hover{\n\tbackground:#F7941D;\n\tcolor:#fff;\n}\n/*======================================\n\t01. Header CSS\n========================================*/\n/* Topbar */\n.topbar {\n\tbackground-color: #fff;\n\tborder-bottom: 1px solid #e2e2e2;\n\tpadding: 15px 0;\n}\n/* Logo */\n.header .logo {\n\tfloat: left;\n\tmargin-top: 35px;\n\ttransition: all 0.4s ease;\n}\n.header .navbar {\n\tpadding: 0;\n}\n/* Main Menu */\n.navbar-expand-lg .navbar-collapse{\n\tdisplay:block !important;\n}\n.header.v3 .navbar-expand-lg .navbar-collapse{\n\tdisplay:block !important;\n\tbackground:#333;\n}\n.header .nav li a i {\n\tmargin-left: 6px;\n\tfont-size: 10px;\n}\n/* Dropdown Menu */\n.header .nav li .dropdown {\n\tbackground: #fff;\n\twidth: 220px;\n\tposition: absolute;\n\ttop: 100%;\n\tz-index: 999;\n\tbox-shadow: 0px 3px 5px #3333334d;\n\ttransform-origin: 0 0 0;\n\ttransform: scaleY(0.2);\n\ttransition: all 0.3s ease 0s;\n\topacity: 0;\n\tvisibility: hidden;\n\tpadding: 10px;\n\tleft: 0;\n\tmargin: 0;\n}\n.header .nav li:hover .dropdown{\n\topacity:1;\n\tvisibility:visible;\n\ttransform:translateY(0px);\n}\n.header .nav li .dropdown li{\n\tfloat:none;\n\tmargin:0;\n}\n.header .nav li .dropdown li a {\n\tpadding: 8px 15px;\n\tcolor: #666;\n\tdisplay: block;\n\tfont-weight: 400;\n\ttext-transform: capitalize;\n\tbackground: transparent;\n}\n.header .nav li .dropdown li a:before{\n\tdisplay:none;\n}\n.header .nav li .dropdown li:last-child a{\n\tborder-bottom:0px;\n}\n.header .nav li .dropdown li:hover a{\n\tcolor:#fff;\n\tbackground:#F7941D;\n}\n.header .nav li .dropdown li a:hover{\n\tborder-color:transparent;\n}\n.header .nav li .dropdown li i {\n\tfloat: right;\n\tmargin-top: 8px;\n\tfont-size:10px;\n\tz-index:5;\n}\n.header .nav li .dropdown.sub-dropdown {\n\tbackground: #fff;\n    width: 220px;\n    position: absolute;\n    left: 186px;\n    top: 0;\n    z-index: 999;\n\tbox-shadow: 0px 3px 10px rgba(0, 0, 0, 0.2);\n\tbox-shadow: 0px 3px 5px #3333334d;\n    transform-origin: 0 0 0;\n    transform: scaleY(0.2);\n    transition: all 0.3s ease 0s;\n    opacity: 0;\n    visibility: hidden;\n    padding: 10px;\n}\n.header .nav li .dropdown li:hover .dropdown.sub-dropdown{\n\topacity:1;\n\tvisibility:visible;\n\ttransform:translateY(0px);\n}\n.header .nav li .dropdown.sub-dropdown li a{\n\tpadding: 8px 15px;\n\tcolor: #666;\n\tdisplay: block;\n\tfont-weight: 400;\n\ttext-transform: capitalize;\n\tbackground: transparent;\n}\n.header .nav li .dropdown li:hover .dropdown.sub-dropdown li a{\n\tbackground:transparent;\n}\n.header .nav li .dropdown li .dropdown.sub-dropdown li a:hover{\n\tcolor:#fff;\n\tbackground:#F7941D;\n}\n.header .nav li .dropdown.sub-dropdown li:last-child a{\n\tborder-bottom:0px solid;\n}\n.mobile-search{\n\tdisplay:none;\n}\n.header.shop .topbar {\n\tborder: none;\n\tpadding: 12px 0px;\n}\n.header.shop .nav-inner {\n\tmargin-right: 188px;\n}\n.header.shop .logo {\n\tfloat: left;\n\tmargin-top: 35px;\n}\n.header.shop .top-contact {\n\tmargin-top:0px;\n}\n.header.shop .topbar p {\n\tcolor: #ccc;\n}\n.header.shop .topbar .login a {\n\tcolor: #F7941D;\n}\n/* Topbar Left Nav */\n.header.shop .left-nav{\n\t\n}\n.header.shop .top-left .list-main li:first-child{\n\tpadding-left:0;\n}\n.header.shop .top-left .list-main li i{\n\tdisplay: inline-block;\n\tmargin-right: 4px;\n\tfont-size: 15px;\n\tcolor: #F7941D;\n\tposition: relative;\n\ttop: 3px;\n}\n.header.shop .right-content{\n\tfloat:right;\n}\n.header.shop .list-main li {\n\tdisplay: inline-block;\n\tcolor: #333;\n\tfont-size: 13px;\n\tfont-weight: 500;\n\tborder-right: 1px solid #f0f0f0;\n\tpadding: 0px 13px;\n}\n.header.shop .list-main li i {\n\tdisplay: inline-block;\n\tmargin-right: 4px;\n\tfont-size: 15px;\n\tcolor: #F7941D;\n\tposition: relative;\n\ttop: 1px;\n}\n.header.shop .list-main li:last-child{\n\tpadding-right:0;\n\tborder:none;\n}\n.header.shop .list-main li a{\n\tcolor:#333;\n}\n.header.shop .list-main li a:hover{\n\tcolor:#F7941D;\n}\n.header.shop .nav li {\n\tmargin-right: 40px;\n\tfloat: left;\n\tposition: relative;\n}\n.header.shop .nav li {\n\tmargin-right: 38px;\n\tposition: relative;\n}\n.header.shop .nav li:last-child {\n\tmargin: 0 !important;\n}\n.header.shop .nav li .new {\n\tbackground: #F7941D;\n\tcolor: #fff;\n\ttext-transform: uppercase;\n\tfont-size: 10px;\n\tpadding: 0px 9px;\n\tposition: absolute;\n\tleft: 0;\n\ttop: 6px;\n\tfont-weight: 500;\n}\n.header.shop .nav li .new::before {\n\tposition: absolute;\n\tcontent: \"\";\n\tleft: 4px;\n\tbottom: -8px;\n\tborder: 4px solid #F7941D;\n\tborder-bottom-color: transparent;\n\tborder-left-color: transparent;\n\tborder-right-color: transparent;\n}\n/* Shopping Cart */\n.header .shopping {\n\tdisplay: inline-block;\n\tz-index: 9999;\n}\n.header .shopping .icon {\n\tposition: relative;\n\tcursor:pointer;\n\tcolor:#222;\n}\n.header .shopping .shopping-item {\n\tposition: absolute;\n\ttop: 68px;\n\tright: 0;\n\twidth: 300px;\n\tbackground: #fff;\n\tpadding: 20px 25px;\n\ttransition: all 0.3s ease 0s;\n\ttransform: translateY(10px);\n\tbox-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);\n\topacity:0;\n\tvisibility:hidden;\n\tz-index:99;\n}\n.header .shopping:hover .shopping-item{\n\ttransform: translateY(0px);\n\topacity:1;\n\tvisibility:visible;\n}\n.header .shopping .dropdown-cart-header{\n\tpadding-bottom: 10px;\n    margin-bottom: 15px;\n\tborder-bottom:1px solid #e6e6e6;\n}\n.header .shopping .dropdown-cart-header span {\n\ttext-transform: uppercase;\n\tcolor: #222;\n\tfont-size: 13px;\n\tfont-weight: 600;\n}\n.header .shopping .dropdown-cart-header a {\n\tfloat: right;\n\ttext-transform: uppercase;\n\tcolor: #222;\n\tfont-size: 13px;\n\tfont-weight: 600;\n}\n.header .shopping .dropdown-cart-header a:hover{\n\tcolor:#F7941D;\n}\n.header .shopping-list li {\n\toverflow: hidden;\n\tborder-bottom: 1px solid #e6e6e6;\n\tpadding-bottom: 15px;\n\tmargin-bottom: 15px;\n\tposition:relative;\n}\n.header .shopping-list li .remove {\n\tposition: absolute;\n\tleft: 0;\n\tbottom: 16px;\n\tmargin-top: -20px;\n\theight: 20px;\n\twidth: 20px;\n\tline-height: 18px;\n\ttext-align: center;\n\tbackground: #fff;\n\tcolor: #222;\n\tborder-radius: 0;\n\tfont-size: 11px;\n\tborder: 1px solid #ededed;\n}\n.header .shopping-list li .remove:hover{\n\tbackground:#222;\n\tcolor:#fff !important;\n\tborder-color:transparent;\n}\n.header .shopping-list .cart-img {\n\tfloat: right;\n\tborder: 1px solid #ededed;\n\toverflow:hidden;\n}\n.header .shopping-list .cart-img img {\n\twidth: 70px;\n\theight: 70px;\n\tborder-radius:0;\n\t\n}\n.header .shopping-list .cart-img:hover img{\n\ttransform:scale(1.09);\n}\n.header .shopping-list .quantity{\n\tline-height: 22px;\n    font-size: 13px;\n\tpadding-bottom: 30px;\n}\n.header .shopping-list h4 {\n\tfont-size: 14px;\n}\n.header .shopping-list h4 a {\n\tfont-weight: 600;\n\tfont-size: 13px;\n\tcolor: #333;\n}\n.header .shopping-list h4 a:hover{\n\tcolor:#F7941D;\n}\n.header .shopping-item .bottom {\n\ttext-align: center;\n}\n.header .shopping-item .total {\n\toverflow:hidden;\n\tdisplay: block;\n    padding-bottom: 10px;\n}\n.header .shopping-item .total span {\n\ttext-transform:uppercase;\n\tcolor:#222;\n\tfont-size:13px;\n\tfont-weight:600;\n\tfloat:left;\n}\n.header .shopping-item .total .total-amount {\n\tfloat:right;\n\tfont-size:14px;\n}\n.header .shopping-item .bottom .btn {\n\tbackground: #222;\n\tpadding: 10px 20px;\n\tdisplay: block;\n\tcolor: #fff;\n\tmargin-top: 10px;\n\tborder-radius: 0px;\n\ttext-transform: uppercase;\n\tfont-size: 14px;\n\tfont-weight: 500;\n}\n.header .shopping-item .bottom .btn:hover{\n\tbackground:#F7941D;\n\tcolor:#fff;\n}\n.header.shop{\n\tbackground:#fff;\n}\n.header.shop .nav-inner {\n\tmargin: 0;\n\tfloat: left;\n}\n.header.shop .topbar {\n\tbackground-color: #fff;\n\tborder: none;\n}\n.header.shop.v3 .topbar{\n\tpadding:0;\n}\n.header.shop.v3 .topbar .inner-content{\n\tborder-bottom:1px solid #eee;\n\tpadding: 12px 0px;\n}\n.header.shop .right-nav li a {\n\tcolor: #333;\n}\n.header.shop .logo {\n\tfloat: left;\n\tmargin: 19px 0 0;\n}\n.header.shop .top-contact {\n\tmargin-top:0px;\n}\n/* Header Middle */\n.header.shop .search-bar-top {\n\ttext-align: center;\n\tmargin-top: 10px;\n}\n.header.shop .search-bar {\n\tmargin-top: 33px;\n\twidth: 460px;\n\theight: 40px;\n\tdisplay: inline-block;\n\tbackground: #fff;\n\tposition: relative;\n}\n.header.shop .search-bar {\n\twidth: 535px;\n\theight: 50px;\n\tdisplay: inline-block;\n\tbackground: #fff;\n\tposition: relative;\n\tmargin: 0;\n\tline-height: 45px;\n\tborder-radius: 5px;\n\tborder: 1px solid #ececec;\n}\n.header.shop .nice-select {\n\tclear: initial;\n\tmargin: 0;\n\theight: 48px;\n\twidth: 150px;\n\tborder: none;\n\ttext-align: center;\n\tbackground: transparent;\n\ttext-transform: capitalize;\n\tpadding: 0 0 0 20px;\n\tborder-right: 1px solid #eee;\n\tline-height: 50px;\n\tfont-size: 14px;\n\tfont-weight: 400;\n}\n.header.shop .nice-select::after {\n\tborder-color: #666;\n\tright: 20px;\n}\n.header.shop .nice-select .list {\n\tborder-radius:0px;\n}\n.header.shop .nice-select .list li.focus{\n\tfont-weight:400;\n}\n.header.shop .nice-select .list li {\n\tcolor: #666;\n\tborder-radius: 0px;\n\tfont-size: 14px;\n\tfont-weight: 400;\n}\n.header.shop .nice-select .list li:hover{\n\tbackground:#F7941D;\n\tcolor:#fff;\n}\n.header.shop .search-bar form {\n\tdisplay: inline-block;\n\tfloat: left;\n\twidth: 260px;\n}\n.header.shop .search-bar input {\n\theight: 48px;\n\tbackground: transparent;\n\tcolor: #666;\n\tborder-radius: 0;\n\tborder: none;\n\tfont-size: 14px;\n\tfont-weight: 400;\n\tpadding: 0 25px 0 20px;\n\twidth: 328px;\n}\n.header.shop .search-bar .btnn {\n\theight: 50px;\n\tline-height: 53px;\n\twidth: 62px;\n\ttext-align: center;\n\tfont-size: 18px;\n\tcolor: #fff;\n\tbackground: #333333;\n\tposition: absolute;\n\tright: -2px;\n\ttop: -1px;\n\tborder: none;\n\tborder-radius: 0 5px 5px 0;\n\ttransition: all 0.4s ease;\n}\n.header.shop .search-bar .btnn:hover{\n\tcolor:#fff;\n\tbackground:#F7941D;\n}\n/* Search Form */\n.header.shop .search-top {\n\topacity: 1;\n\tvisibility: visible;\n\ttop: 0;\n\tbackground: transparent;\n\tborder: none;\n\tbox-shadow: none;\n\tpadding: 0;\n\ttop: 0;\n}\n.header.shop .middle-inner {\n\tpadding: 20px 0;\n\tbackground: #fff;\n\tborder-top: 1px solid #eee;\n}\n.header.shop.v3 .middle-inner {\n\tborder:none;\n}\n.header.shop .header-inner {\n\tbackground: white;\n\t/* background: #eee; */\n\t/* background: #333; */\n}\n.header.shop.v3 .header-inner {\n\tbackground: transparent;\n}\n.header.shop.v2 .header-inner {\n\tbackground: #fff;\n\tborder-top:1px solid #eee;\n}\n.header.shop .topbar p {\n\tcolor: #333;\n}\n.header.shop .all-category {\n\tcolor: #fff;\n\tbackground: transparent;\n\tposition: relative;\n\tbackground: #f7941d;\n}\n.header.shop .all-category h3{\n\tpadding: 20px 25px;\n}\n.header.shop .cat-heading {\n\tfont-size: 20px;\n\tcolor: #fff;\n}\n.header.shop .cat-heading i {\n\tcolor: #fff;\n\tdisplay: inline-block;\n\tmargin-right: 15px;\n\tfont-size: 22px;\n}\n.header.shop .main-category {\n\tposition: absolute;\n\tleft: 0;\n\ttop: 64px;\n\tbackground: #fff;\n\tz-index: 1;\n\twidth: 100%;\n\tbox-shadow: 0px 5px 15px #0000000a;\n}\n.header.shop .main-category li{\n\tdisplay:block;\n\tborder-bottom:1px solid #f6f6f6;\n\tposition:relative;\n}\n.header.shop .main-category li:last-child{\n\tborder:none;\n}\n.header.shop .main-category li a {\n\tfont-size: 14px;\n\tfont-weight: 600;\n\tcolor: #333;\n\tpadding: 13px 25px 13px 25px;\n\tdisplay: block;\n\ttext-transform: uppercase;\n}\n.header.shop .main-category li a i{\n\tdisplay:inline-block;\n\tfloat:right;\n}\n.header.shop .sub-category {\n\tbackground: #fff;\n\twidth: 220px;\n\tposition: absolute;\n\tleft: 238px;\n\ttop: 0;\n\tz-index: 999999;\n\topacity: 0;\n\tvisibility: hidden;\n\ttransition: all 0.4s ease;\n\tborder-left: 3px solid #F7941D;\n\tbox-shadow: 0px 5px 15px #0000000a;\n}\n.header.shop .main-category li:hover .sub-category{\n\topacity:1;\n\tvisibility:visible;\n}\n.header.shop .main-category li a{\n\ttext-transform:capitalize;\n\tfont-weight:400;\n}\n.header.shop .main-category li a:hover{\n\tcolor:#F7941D;\n}\n.header.shop .main-category .main-mega{\n\tposition:relative;\n}\n.header.shop .main-category li .mega-menu {\n\twidth: 850px;\n\tdisplay: inline-block;\n\theight: auto;\n\tposition: absolute;\n\tleft: 238px;\n\ttop: 0;\n\tz-index: 99999;\n\tbackground: #fff;\n\tborder: none;\n\tpadding: 30px;\n\tborder-left: 3px solid #F7941D;\n\topacity:0;\n\tvisibility:hidden;\n\ttransition:all 0.4s ease;\n}\n.header.shop .main-category li:hover .mega-menu{\n\topacity:1;\n\tvisibility:visible;\n}\n.header.shop .main-category li .mega-menu .single-menu {\n\twidth: 33%;\n\tdisplay: inline-block;\n\tborder: none;\n\tpadding: 0;\n\tpadding-right: 20px;\n}\n.header.shop .main-category li .mega-menu .single-menu a{\n\tpadding:0;\n}\n.header.shop .main-category li .mega-menu .single-menu .image{\n\toverflow:hidden;\n}\n.header.shop .main-category li .mega-menu .single-menu img{\n\tdisplay:block;\n\theight:100%;\n\twidth:100%;\n\tcursor:pointer;\n}\n.header.shop .main-category li .mega-menu .single-menu .image:hover img{\n\ttransform:scale(1.1);\n}\n.header.shop .main-category li .mega-menu .single-menu .title-link {\n\tmargin-bottom: 20px;\n\tbackground: #F7941D;\n\tcolor: #fff;\n\tpadding: 2px 13px;\n\tborder-radius: 3px;\n\tdisplay: inline-block;\n\tfont-size: 14px;\n}\n.header.shop .main-category li .mega-menu .single-menu .title-link:hover{\n\tbackground:#333;\n\tcolor:#fff;\n}\n.header.shop .main-category li .mega-menu .single-menu .inner-link{\n\tmargin-top:25px;\n}\n.header.shop .main-category li .mega-menu .single-menu .inner-link a{\n\tmargin-bottom:10px;\n}\n.header.shop .main-category li .mega-menu .single-menu .inner-link a:hover{\n\tcolor:#F7941D;\n\tbackground:transparent;\n}\n.header.shop .main-category li .mega-menu .single-menu .inner-link a:last-child{\n\tmargin-bottom:0px;\n}\n.header.shop .menu-origin {\n\tfloat:none;\n\tdisplay: inline-block;\n\tfloat: right;\n}\n.header.shop .nav li {\n\tmargin-right: 40px;\n\tfloat: left;\n\tposition: relative;\n}\n.header.shop .nav li {\n\tmargin-right:5px;\n\tposition: relative;\n\tfloat: none;\n}\n.header.shop .nav li:last-child{\n\tmargin-right:0;\n}\n.header.shop .nav li .new {\n\tbackground: #F7941D;\n\tcolor: #fff;\n\ttext-transform: uppercase;\n\tfont-size: 9px;\n\tposition: absolute;\n\tleft: 21px;\n\ttop: 2px;\n\tfont-weight: 500;\n\theight: 18px;\n\tline-height: 18px;\n\ttext-align: center;\n\tdisplay: block;\n}\n.header.shop.v2 .nav li a{\n\tcolor:#333;\n}\n.header.shop .nav li a {\n\tcolor: #fff;\n\ttext-transform: capitalize;\n\tfont-size: 15px;\n\tpadding: 20px 15px;\n\tfont-weight: 500;\n\tdisplay: block;\n\tposition: relative;\n\ttransition: all 0.4s ease;\n}\n.header.shop .nav li:hover a{\n\tcolor:#fff;\n\tbackground:#F7941D;\n}\n.header.shop.v2 .nav li:hover a{\n\tcolor:#F7941D;\n\tbackground:transparent;\n}\n.header.shop .nav li.active a{\n\tcolor:#fff;\n\tbackground:#F7941D;\n}\n.header.shop.v2 .nav li.active a{\n\tcolor:#333 !important;\n\tbackground:transparent !important;\n}\n.header.shop.v2 .nav li.active a{\n\tcolor:#F7941D !important;\n}\n.header.shop .nav .dropdown li{\n\tmargin:0;\n}\n.header.shop .nav li .dropdown li:hover a{\n\tbackground:#F7941D;\n}\n.header.shop.v2 .nav li.active .dropdown li a{\n\tcolor:#333 !important;\n}\n.header.shop.v2 .nav li.active .dropdown li a:hover{\n\tcolor:#fff !important;\n\tbackground:#F7941D !important;\n}\n.header.shop.v2 .nav li.active .dropdown li a:hover{\n\tcolor:#fff !important;\n}\n.header.shop.v2 .nav li .dropdown li:hover a{\n\tcolor:#F7941D;\n}\n.header.shop .nav li .dropdown li a {\n\tcolor: #333;\n\tpadding: 8px 15px;\n\tfont-weight: 400;\n\tbackground:#fff;\n}\n.header.shop.v2 .nav li .dropdown li a {\n\tcolor: #333;\n\tbackground:#fff;\n}\n.header.shop .nav li .dropdown li a {\n\tfont-weight: 400;\n\tfont-size: 14px;\n}\n.header.shop .nav li .dropdown li a:hover{\n\tcolor:#fff;\n}\n.header.shop.v2 .nav li .dropdown li a:hover{\n\tcolor:#fff !important;\n\tbackground:#F7941D;\n}\n.header.shop .nav li .dropdown li .dropdown.sub-dropdown li a:hover{\n\tbackground:#F7941D;\n}\n.header.shop .right-bar {\n\tdisplay: inline-block;\n\tpadding: 0;\n\tmargin: 0;\n\ttop: 20px;\n\tfloat: right;\n\tposition: relative;\n}\n.header.shop .right-bar .sinlge-bar.top-search a {\n\ttransform: translateY(3px);\n}\n.header.shop .right-bar .sinlge-bar.top-search a:hover {\n\tcolor:#F7941D;\n}\n.header.shop .right-bar .sinlge-bar .single-icon{\n\tcolor:#333;\n\tfont-size:20px;\n\tposition:relative;\n}\n.header.shop .right-bar .sinlge-bar .single-icon:hover{\n\tcolor:#F7941D;\n}\n.header.shop .right-bar .sinlge-bar .single-icon .total-count {\n\tposition: absolute;\n\ttop: -7px;\n\tright: -8px;\n\tbackground: #f6931d;\n\twidth: 18px;\n\theight: 18px;\n\tline-height: 18px;\n\ttext-align: center;\n\tcolor: #fff;\n\tborder-radius: 100%;\n\tfont-size: 11px;\n}\n.header.shop .right-bar .sinlge-bar{\n\tdisplay:inline-block;\n\tmargin-right:25px;\n}\n.header.shop .right-bar .sinlge-bar:last-child{\n\tmargin-right:0px;\n}\n.header.shop .right-bar .sinlge-bar li a:hover{\n\tcolor:#F7941D;\n}\n.mobile-search{\n\tdisplay:none;\n}\n/* Header Search */\n/* Search */\n.header .search-top{\n\tdisplay:none;\n}\n.header .search-top a{\n\tfont-size:17px;\n}\n.header .search-top a:hover{\n\tcolor:#F7941D;\n}\n.header .search-form {\n\tposition: absolute;\n\tleft: -128px;\n\tz-index: 9999;\n\topacity: 0;\n\tvisibility: hidden;\n\ttransition: all 0.5s ease;\n\ttop: 46px;\n\tbackground: #ffffff75;\n\tpadding: 7px;\n\tborder-radius: 5px;\n\ttransform: scaleY(0);\n\tbox-shadow: 0px 4px 7px #0000003b;\n\tpadding: 0;\n\tborder-radius: 0;\n}\n.header .search-top.active .search-form {\n\topacity:1;\n\tvisibility:visible;\n\ttransform: scaleY(1);\n}\n.header .search-form input {\n\twidth: 220px;\n\theight: 45px;\n\tline-height: 45px;\n\tpadding: 0 60px 0 15px;\n\ttransition: all 0.4s ease;\n\tborder-radius: 3px;\n\tborder: none;\n\tbackground: #fff;\n\tcolor: #333;\n\tborder-radius: 0;\n}\n.header .search-form button {\n\tposition: absolute;\n\tright: 0;\n\theight: 45px;\n\ttop: 0;\n\twidth: 45px;\n\tbackground: transparent;\n\tborder: none;\n\tcolor: #3353ea;\n\tborder-radius: 0 3px 3px 0;\n\tborder-radius: 0;\n\tborder-left: 1px solid #eee;\n\tfont-size: 15px;\n\tcolor: #333;\n\ttransition: all 0.4s ease;\n}\n.header .search-form button:hover{\n\tcolor:#fff;\n\tbackground:#F7941D;\n\tborder-color:transparent;\n}\n/* Header Sticky */\n.header .header-inner{\n\twidth:100%;\n\tz-index:999;\n}\n.header.sticky .all-category{}\n.header.sticky .all-category h3{\n\tcursor:pointer;\n\t\n}\n.header.sticky .all-category .main-category{\n\topacity:0;\n\tvisibility:hidden;\n\ttransition:all 0.4s ease;\n}\n.header.sticky .all-category:hover .main-category{\n\topacity:1;\n\tvisibility:visible;\n}\n/* .header.sticky .header-inner .nav li a {\n\tcolor: #333;\n} */\n.header.sticky.v3 .header-inner .nav li a {\n\tcolor: #fff;\n}\n.header.sticky .header-inner .nav li:hover a{\n\tcolor:#fff;\n}\n.header.sticky.v2 .header-inner .nav li:hover a{\n\tcolor:#F7941D;\n}\n.header.sticky .header-inner .nav li .dropdown li a{\n\tcolor:#333;\n}\n.header.sticky.v2 .header-inner .nav li .dropdown li a{\n\tcolor:#333;\n}\n.header.sticky .header-inner .nav li .dropdown li a:hover{\n\tcolor:#fff;\n}\n.header.sticky .header-inner .nav li.active a {\n\tcolor: #fff;\n}\n.header.sticky .header-inner{\n\tposition:fixed;\n\ttop:0;\n\tleft:0;\n\tbackground:#fff;\n\t-webkit-animation: fadeInDown 1s both 0.2s;\n\t        animation: fadeInDown 1s both 0.2s;\n\tbox-shadow:0px 0px 10px rgba(0, 0, 0, 0.3);\n\tz-index:999;\n}\n.header.sticky.v3 .header-inner{\n\tbox-shadow:none;\n}\n.header.sticky.v3 .navbar-expand-lg .navbar-collapse{\n\t-webkit-animation: fadeInDown 1s both 0.2s;\n\t        animation: fadeInDown 1s both 0.2s;\n\tbox-shadow:0px 0px 10px rgba(0, 0, 0, 0.3);\n}\n/*======================================\n\tEnd Header CSS\n========================================*/\n\n/*======================================\n   Hero Area CSS\n========================================*/ \n.hero-slider {\n\tbackground: #fff;\n\toverflow: hidden;\n}\n.hero-slider .single-slider {\n\t/* height: auto; */\n\t/* background-image: url('https://previews.123rf.com/images/mitdesign/mitdesign2008/mitdesign200800036/153797974-ad-banner-for-simple-beauty-products-mock-ups-decorated-with-natural-leaves-and-cream-strokes-concep.jpg'); */\n\tbackground-image: url(" + ___CSS_LOADER_URL_REPLACEMENT_0___ + ");\n\t/* background-image: url('https://via.placeholder.com/1900x700'); */\n\tbackground-size: cover;\n\tbackground-position: center;\n\tbackground-repeat: no-repeat;\n    height: 510px;\n}\n.hero-slider .text-inner {\n\t\n}\n.hero-slider .hero-text {\n\tpadding: 0 30px;\n\tmargin-top:100px;\n}\n.hero-slider .hero-text h1 {\n\tline-height: 50px;\n\tfont-size: 47px;\n\tfont-weight: 700;\n\tcolor: #F7941D;\n\tmargin-bottom: 20px;\n}\n.hero-slider .hero-text h1 span {\n\tfont-size: 20px;\n\tdisplay: block;\n\tmargin-bottom: 12px;\n\tcolor: #333;\n\tfont-weight: 700;\n\tline-height: initial;\n}\n.hero-slider .hero-text p {\n\tcolor: #333;\n\tmargin-bottom: 35px;\n}\n.hero-slider .hero-text .button{\n\tmargin:0;\n}\n.hero-slider .hero-text .btn {\n\tcolor: #fff;\n\tbackground: #333;\n\tpadding: 13px 30px;\n\tline-height: initial;\n\tborder: none;\n\theight: auto;\n\tz-index: 0;\n}\n.hero-slider .hero-text .btn:hover{\n\tbackground:#F7941D;\n\tcolor:#fff;\n}\n/* Start Hero Area 2 CSS */\n.hero-area2{\n\tposition:relative;\n}\n.hero-area2 .single-slider.overlay:before{\n\tbackground:#F7941D;\n\topacity:0;\n\tvisibility:hidden;\n\ttransform:scale(0.9);\n}\n.hero-area2 .single-slider.overlay:hover:before{\n\topacity:0.9;\n\tvisibility:visible;\n\ttransform:scale(1);\n}\n.hero-area2 .single-slider{\n\theight:500px;\n\tposition:relative;\n\tbackground-size:cover;\n\tbackground-position:center;\n\tbackground-repeat:no-repeat;\n}\n.hero-area2 .single-slider .content{\n\tposition:relative;\n}\n.hero-area2 .single-slider .content {\n\twidth: 100%;\n\tpadding: 15px;\n\tz-index: 2;\n\ttransition:all 0.4s ease;\n\ttext-align: center;\n\tpadding-top: 120px;\n\topacity:0;\n\tvisibility:hidden;\n\ttransform:scale(1.1);\n}\n.hero-area2 .single-slider:hover .content{\n\topacity:1;\n\tvisibility:visible;\n\ttransform:scale(1);\n}\n.hero-area2 .single-slider .content .sub-title{\n\tcolor:#fff;\n\ttext-transform: uppercase;\n\tfont-size:15px;\n\tfont-weight:500;\n}\n.hero-area2 .single-slider .content .title {\n\tcolor: #fff;\n\ttext-transform: uppercase;\n\tfont-size: 24px;\n\tdisplay: block;\n\tmargin-top: 10px;\n\tmargin-bottom: 10px;\n}\n.hero-area2 .single-slider .content .des{\n\tcolor:#fff;\n}\n.hero-area2 .single-slider .content .button{}\n.hero-area2 .single-slider .content .button .btn {\n\tpadding: 9px 25px;\n\tborder: 2px solid #fff;\n\tbackground: transparent;\n\tcolor: #fff;\n\tmargin-top: 25px;\n}\n.hero-area2 .single-slider .content .button .btn:hover{\n\tbackground:#fff;\n\tcolor:#333;\n\tborder-color:transparent;\n}\n/* Owl Nav CSS */\n.hero-area2 .owl-carousel .owl-nav {\n\tmargin: 0;\n    position: absolute;\n    top: 50%;\n    width: 100%;\n\tmargin-top:-30px;\n}\n.hero-area2 .owl-carousel .owl-nav div {\n\theight: 60px;\n\twidth: 40px;\n\tline-height: 60px;\n\ttext-align: center;\n\tbackground: #333;\n\tcolor: #fff;\n\tfont-size: 14px;\n\tposition: absolute;\n\tmargin: 0;\n\ttransition: all 0.4s ease;\n\tpadding: 0;\n\tborder-radius: 0;\n}\n.hero-area2 .owl-carousel .owl-nav div:hover{\n\tbackground:#F7941D;\n\tcolor:#fff;\n}\n.hero-area2 .owl-carousel .owl-controls .owl-nav .owl-prev{\n\tleft:0;\n}\n.hero-area2 .owl-carousel .owl-controls .owl-nav .owl-next{\n\tright:0;\n}\n/* Hero Area 3 */\n.hero-area3{}\n.hero-area3 .big-content{\n\tbackground-image: url('https://via.placeholder.com/850x530');\n\tbackground-size: cover;\n\tbackground-position: center;\n\tbackground-repeat: no-repeat;\n    height: 511px;\n\tmargin-top:30px;\n\tposition:relative;\n}\n.hero-area3 .big-content .inner {\n\tposition: absolute;\n\tright: 0;\n\ttop: 50%;\n\tpadding: 0 50px 0 360px;\n\ttransform: translateY(-50%);\n}\n.hero-area3 .big-content .title {\n\tfont-size: 28px;\n\tmargin-bottom: 20px;\n\tfont-weight: 700;\n\ttext-transform: capitalize;\n\tline-height: 37px;\n}\n.hero-area3 .big-content .title span{\n\tcolor:#F7941D;\n}\n.hero-area3 .big-content .des{}\n.hero-area3 .big-content .button{\n\tmargin-top:40px;\n\tdisplay:block;\n}\n.hero-area3 .big-content .button .btn{\n\tcolor:#fff;\n}\n\n.hero-area3 .small-content{\n\theight:240px;\n\tbackground-size: cover;\n\tbackground-position: center;\n\tbackground-repeat: no-repeat;\n\tmargin-top:30px;\n\tposition:relative;\n}\n.hero-area3 .small-content.first{\n\tbackground-image: url('https://via.placeholder.com/450x300');\n}\n.hero-area3 .small-content.secound{\n\tbackground-image: url('https://via.placeholder.com/450x300');\n}\n.hero-area3 .small-content .inner {\n\tpadding: 30px;\n\ttext-align:right;\n\tposition:absolute;\n\tright:0;\n\tbottom:0;\n}\n.hero-area3 .small-content .title {\n\tfont-size: 18px;\n\tmargin-bottom: 20px;\n\tfont-weight: 600;\n\ttext-transform: capitalize;\n}\n.hero-area3 .small-content .title span{\n\tcolor:#F7941D;\n}\n.hero-area3 .small-content .des{}\n.hero-area3 .small-content .button{\n\tmargin-top:10px;\n\tdisplay:block;\n}\n.hero-area3 .small-content .button .btn {\n\tbackground: transparent;\n\tpadding: 0;\n\tcolor: #333;\n\tborder-bottom: 2px solid #333;\n\tfont-size: 13px;\n}\n.hero-area3 .small-content .button .btn:hover{\n\tcolor:#F7941D;\n\tborder-color:#F7941D;\n}\n/* Hero Area 4 */\n.hero-area4 .big-content{\n\t\n\tbackground-size: cover;\n\tbackground-position: center;\n\tbackground-repeat: no-repeat;\n    height: 510px;\n\tmargin-top:30px;\n\tposition:relative;\n}\n.hero-area4 .big-content .inner {\n\tposition: absolute;\n\tright: 0;\n\ttop: 50%;\n\tpadding: 0 80px 0 50px;\n\ttransform: translateY(-50%);\n}\n.hero-area4 .big-content .title {\n\tfont-size: 32px;\n\tmargin-bottom: 20px;\n\tfont-weight: 700;\n\ttext-transform: capitalize;\n\tline-height: 35px;\n}\n.hero-area4 .big-content .title span{\n\tcolor:#F7941D;\n}\n.hero-area4 .big-content .des{}\n.hero-area4 .big-content .button{\n\tmargin-top:40px;\n\tdisplay:block;\n}\n.hero-area4 .big-content .button .btn{\n\tcolor:#fff;\n}\n.hero-area4 .owl-carousel .owl-nav {\n\tmargin: 0;\n    position: absolute;\n    top: 50%;\n    width: 100%;\n\tmargin-top:-20px;\n}\n.hero-area4 .owl-carousel .owl-nav div {\n\theight: 40px;\n\twidth: 40px;\n\tline-height: 40px;\n\ttext-align: center;\n\tbackground: #333;\n\tcolor: #fff;\n\tfont-size: 14px;\n\tposition: absolute;\n\tmargin: 0;\n\ttransition: all 0.4s ease;\n\tpadding: 0;\n\tborder-radius: 0;\n}\n.hero-area4 .owl-carousel .owl-nav div:hover{\n\tbackground:#F7941D;\n\tcolor:#fff;\n}\n.hero-area4 .owl-carousel .owl-controls .owl-nav .owl-prev{\n\tleft:0;\n}\n.hero-area4 .owl-carousel .owl-controls .owl-nav .owl-next{\n\tright:0;\n}\n\n/*======================================\n   End Hero Area CSS\n========================================*/ \n\n/*======================================\n   Start Small Banner CSS\n========================================*/ \n.small-banner{\n\tpadding:30px 0;\n\tpadding-bottom:0;\n}\n.small-banner .single-banner {\n\toverflow:hidden;\n\tposition:relative;\n}\n.small-banner .single-banner img{\n\theight:100%;\n\twidth:100%;\n\ttransition:all 0.4s ease;\n}\n.small-banner .single-banner .content {\n\tposition: absolute;\n\tleft: 0;\n\ttop: 50%;\n\ttransform: translateY(-50%);\n\tpadding-left: 35px;\n}\n.small-banner .single-banner h3 {\n\tfont-size: 22px;\n\tfont-weight: 700;\n\ttext-transform: capitalize;\n\tcolor: #333;\n}\n.small-banner .single-banner h3 span{\n\tcolor:#F7941D;\n}\n.small-banner .single-banner p {\n\tfont-size: 14px;\n\tcolor: #F7941D;\n\tfont-weight: 500;\n\tmargin-bottom: 5px;\n\ttext-transform: capitalize;\n}\n.small-banner .single-banner a {\n\tcolor: #333;\n\tmargin-top: 22px;\n\tdisplay: block;\n\tfont-size: 12px;\n\tfont-weight:500;\n\tdisplay: inline-block;\n\ttext-transform:uppercase;\n\tborder-bottom:2px solid #333;\n}\n.small-banner .single-banner a:hover{\n\tcolor:#F7941D;\n\tborder-color:#F7941D;\n}\n/*======================================\n   End Small Banner CSS\n========================================*/ \n\n/*======================================\n   Start Mid Banner CSS\n========================================*/ \n.midium-banner{\n\tpadding:0;\n}\n.midium-banner .single-banner{\n\tposition:relative;\n}\n.midium-banner .single-banner img{\n\theight:100%;\n\twidth:100%;\n\ttransition:all 0.4s ease;\n}\n.midium-banner .single-banner .content {\n\tpadding-left:50px;\n\tposition: absolute;\n\tleft: 0;\n\ttop: 50%;\n\ttransform:translateY(-50%);\n}\n.midium-banner .single-banner h3 {\n\tfont-size: 27px;\n\tfont-weight: 700;\n\ttext-transform: uppercase;\n\tcolor: #333;\n\tline-height: 30px;\n}\n.midium-banner .single-banner h3 span{\n\tcolor:#F7941D;\n}\n.midium-banner .single-banner p {\n\tfont-size: 13px;\n\tcolor: #F7941D;\n\tfont-weight: 500;\n\tmargin-bottom: 5px;\n\ttext-transform: uppercase;\n}\n.midium-banner .single-banner a {\n\tdisplay: inline-block;\n\tfont-weight: 600;\n\ttext-align: center;\n\t-webkit-user-select: none;\n\t-moz-user-select: none;\n\t-ms-user-select: none;\n\tuser-select: none;\n\tpadding: .375rem .75rem;\n\tfont-size: 13px;\n\tborder-radius: .25rem;\n\tbackground: #333;\n\tcolor: #fff !important;\n\tpadding: 10px 27px;\n\tborder-radius: 30px;\n\tmargin-top: 25px;\n\ttext-transform: uppercase;\n}\n.midium-banner .single-banner a:hover{\n\tbackground:#F7941D;\n\tcolor:#fff;\n}\n/*======================================\n   End Mid Banner CSS\n========================================*/ \n\n/*======================================\n   Start Most Popular CSS\n========================================*/\n.pro-tab-viewmore-wrap {\n\tposition: relative;\n\ttext-align: center;\n}\n.most-popular .section-title{\n\tmargin-bottom:40px;\n}\n.pro-tab-viewmore-wrap .pro-viewmore {\n  position: absolute;\n  right: 40px;\n  top: 0;\n}\n.most-popular .single-product{\n\tmargin:50px 15px 0 15px;\n}\n/* Slider Nav */\n.most-popular .owl-nav{\n\tmargin: 0;\n    position: absolute;\n    top: 50%;\n    width: 100%;\n\tmargin-top:-25px;\n}\n.most-popular .owl-carousel .owl-nav div {\n\theight: 60px;\n\twidth: 30px;\n\tline-height: 58px;\n\tbackground: #fff;\n\tcolor: #333;\n\tposition: absolute;\n\tmargin: 0;\n\tborder-radius: 0;\n\tfont-size: 15px;\n\ttext-align: center;\n\ttransition:all 0.4s ease;\n\tbox-shadow: 0px 0px 10px #3333331c;\n}\n.most-popular .owl-carousel .owl-nav div:hover{\n\tcolor:#fff;\n\tbackground:#F7941D;\n}\n.most-popular .owl-carousel .owl-controls .owl-nav .owl-prev{\n\tleft:0;\n}\n.most-popular .owl-carousel .owl-controls .owl-nav .owl-next{\n\tright:0;\n}\n/*======================================\n   End Most Popular CSS\n========================================*/\n\n/*======================================\n   Start Single Product CSS\n========================================*/\n.product-area .nav-tabs {\n\ttext-align: center;\n\tdisplay: inline-block;\n\twidth: 100%;\n\tborder:none;\n}\n.product-area .nav-tabs .nav-item {\n\tmargin-bottom: -1px;\n\tdisplay: inline-block;\n}\n.product-area .nav-tabs li a {\n\tcolor: #333;\n\ttext-transform: uppercase;\n\tdisplay: inline-block;\n\tposition: relative;\n\tmargin-right: 5px;\n\tfont-weight: 500;\n\tbackground: #fff;\n\tcolor: #333;\n\tpadding: 3px 14px;\n\tborder-radius: 3px;\n\tfont-size: 13px;\n}\n.product-area .nav-tabs li:last-child a{\n\tborder-color:transparent;\n} \n.product-area .nav-tabs li a i{\n\tmargin-right:10px;\n}\n.product-area .nav-tabs li a.active,\n.product-area .nav-tabs li:hover a{\n\tbackground:#F7941D;\n\tcolor:#fff;\n\tborder-color:transparent;\n}\n/* Sinlge Product */\n.single-product{\n\tmargin-top:50px;\n}\n.single-product .product-img {\n  position: relative;\n  overflow: hidden;\n  cursor:pointer;\n}\n.single-product .product-img a {\n  display: block;\n  position: relative;\n}\n.single-product .product-img a img {\n  width: 100%;\n}\n.single-product .product-img a img.hover-img {\n  position: absolute;\n  left: 0;\n  top: 0;\n  z-index: 1;\n  opacity: 0;\n  transition: opacity 0.5s ease, transform 2s cubic-bezier(0, 0, 0.44, 1.18);\n}\n.single-product .product-img a span.price-dec {\n\tbackground-color: #f6931d;\n\tdisplay: inline-block;\n\tfont-size: 11px;\n\tcolor: #fff;\n\tright: 20px;\n\ttop: 20px;\n\tpadding: 1px 16px;\n\tfont-weight: 700;\n\tborder-radius: 0;\n\ttext-align: center;\n\tposition: absolute;\n\ttext-transform: uppercase;\n\tborder-radius: 30px;\n\theight: 26px;\n\tline-height: 25px;\n}\n.single-product .product-img a span.price-dec-2 {\n\tbackground-color: #f6931d;\n\tdisplay: inline-block;\n\tfont-size: 11px;\n\tcolor: #fff;\n\tright: 20px;\n\ttop: 50px;\n\tpadding: 1px 16px;\n\tfont-weight: 700;\n\tborder-radius: 0;\n\ttext-align: center;\n\tposition: absolute;\n\ttext-transform: uppercase;\n\tborder-radius: 30px;\n\theight: 26px;\n\tline-height: 25px;\n}\n.single-product .product-img a span.new {\n\tbackground-color: #8493ca;\n\tdisplay: inline-block;\n\tfont-size: 11px;\n\tcolor: #fff;\n\tright: 20px;\n\ttop: 20px;\n\tpadding: 1px 16px;\n\tfont-weight: 700;\n\tborder-radius: 0;\n\ttext-align: center;\n\tposition: absolute;\n\ttext-transform: uppercase;\n\tborder-radius: 30px;\n\theight: 26px;\n\tline-height: 24px;\n}\n.single-product .product-img a span.promo {\n\tbackground-color: red;\n\tdisplay: inline-block;\n\tfont-size: 11px;\n\tcolor: #fff;\n\tleft: 20px;\n\ttop: 20px;\n\tpadding: 1px 16px;\n\tfont-weight: 700;\n\tborder-radius: 0;\n\ttext-align: center;\n\tposition: absolute;\n\ttext-transform: uppercase;\n\tborder-radius: 30px;\n\theight: 26px;\n\tline-height: 24px;\n}\n.single-product .product-img a span.out-of-stock {\n\tbackground-color: #ed1b24;\n\tdisplay: inline-block;\n\tfont-size: 11px;\n\tcolor: #fff;\n\tright: 20px;\n\ttop: 20px;\n\tpadding: 1px 16px;\n\tfont-weight: 700;\n\tborder-radius: 0;\n\ttext-align: center;\n\tposition: absolute;\n\ttext-transform: uppercase;\n\tborder-radius: 30px;\n\theight: 26px;\n\tline-height: 24px;\n}\n.single-product .product-img .product-action {\n\tdisplay: inline-block;\n\tposition: absolute;\n\tright: 0;\n\tbottom: 0;\n\tz-index: 99;\n\tborder-radius: 3px;\n}\n.single-product .product-img .product-action a {\n\tbackground-color: transparent;\n\tcolor: #333;\n\tdisplay: block;\n\tfont-size: 16px;\n\tdisplay: inline-block;\n\tmargin-right: 15px;\n\ttext-align: right;\n\theight: 52px;\n\tposition: relative;\n\ttop: 2px;\n}\n.single-product .product-img .product-action a:last-child{\n\tmargin-right:0;\n\tborder:none;\n}\n.single-product .product-img .product-action a i {\n  line-height: 40px;\n}\n.single-product .product-img .product-action a span {\n\tvisibility: hidden;\n\tposition: absolute;\n\tbackground: #F7941D !important;\n\tcolor: #fff !important;\n\ttext-align: center;\n\tpadding: 5px 12px;\n\tz-index: 3;\n\topacity: 0;\n\ttransition: opacity .6s, margin .3s;\n\tfont-size: 11px;\n\tright: 0;\n\tline-height: 14px;\n\ttop: -12px;\n\tmargin-top: -5px;\n\tmargin-right: 0;\n\tdisplay: inline-block;\n\twidth: 120px;\n\tborder-radius:15px 0 0 15px;\n}\n.single-product .product-img .button-head .product-action a span::after {\n\tposition: absolute;\n\tcontent: \"\";\n\tright: 0;\n\tbottom: -12px;\n\tborder: 6px solid #F7941D;\n\tborder-left:0px solid transparent;\n\tborder-right:6px solid transparent;\n\tborder-bottom:6px solid transparent;\n}\n.single-product .product-img .product-action a:hover {\n\tcolor:#F7941D;\n}\n.single-product .product-img .product-action a:hover span {\n  visibility: visible;\n  opacity: 1;\n  color:#333;\n  background:#fff;\n  margin-top: -12px;\n}\n.single-product .product-img .product-action.pro-action-width-dec a {\n  width: 30px;\n  height: 30px;\n  font-size: 14px;\n}\n.single-product .product-img .product-action.pro-action-width-dec a i {\n  line-height: 30px;\n}\n.single-product .product-img .product-action.pro-action-width-dec-2 {\n  bottom: 45px;\n}\n.single-product .product-img .product-action-2 {\n\tposition: absolute;\n\tleft: 0;\n\tbottom: 0;\n\ttext-align: left;\n\tz-index: 99;\n\ttransition: all 250ms ease-out;\n}\n.single-product .product-img .product-action-2 a {\n\tdisplay: block;\n\tbackground-color: transparent;\n\tcolor: #333;\n\ttext-align: left;\n\tfont-size: 12px;\n\tfont-weight: 600;\n\ttext-transform: uppercase;\n\tline-height: 1;\n\tdisplay: inline-block;\n}\n.single-product .product-img .product-action-2 a:hover {\n  color:#F7941D;\n}\n.single-product .button-head {\n\tbackground: #fff;\n\tdisplay: inline-block;\n\theight: 40px;\n\twidth: 100%;\n\tposition: absolute;\n\tleft: 0;\n\tbottom: -50px;\n\tz-index: 9;\n\theight: 50px;\n\tline-height: 50px;\n\ttransition:all 0.4s ease;\n}\n.single-product:hover .button-head{\n\tbottom:0;\n}\n.single-product .product-img .shop-list-quickview {\n  position: absolute;\n  top: 50%;\n  transform: translateY(-50%);\n  left: 0;\n  right: 0;\n  text-align: center;\n  z-index: 99;\n  margin-top: 20px;\n  visibility: hidden;\n  opacity: 0;\n  transition: all .35s ease 0s;\n}\n.single-product .product-img .shop-list-quickview a {\n  color: #000;\n  background-color: #fff;\n  display: inline-block;\n  width: 50px;\n  height: 50px;\n  border-radius: 100%;\n  font-size: 18px;\n}\n.single-product .product-img .shop-list-quickview a:hover {\n  background-color: #222;\n  color: #fff;\n}\n.single-product .product-img .shop-list-quickview a i {\n  line-height: 50px;\n}\n.single-product .product-content{\n\tmargin-top:20px;\n}\n.single-product .product-img:hover.default-overlay::before {\n  background-color: rgba(38, 38, 38, 0.2);\n  z-index: 9;\n  transition: all 250ms ease-out;\n  pointer-events: none;\n  opacity: 1;\n}\n.single-product .product-img:hover.default-overlay.metro-overlay::before {\n  background-color: rgba(38, 38, 38, 0.4);\n  z-index: 9;\n  transition: all 250ms ease-out;\n  pointer-events: none;\n  opacity: 1;\n}\n.single-product .product-img:hover img.hover-img {\n  opacity: 1;\n}\n.single-product .product-content h3 {\n    line-height: 22px;\n}\n.single-product .product-content h3 a {\n\tfont-size: 14px;\n\tfont-weight: 500;\n\tmargin: 0;\n}\n.single-product .product-content h3 a:hover{\n\tcolor:#F7941D;\n}\n.single-product .product-content .product-price {\n  margin: 6px 0 0 0;\n}\n.single-product .product-content .product-price span {\n\tfont-size: 15px;\n\tfont-weight: 500;\n}\n.single-product .product-content .product-price span.old {\n  text-decoration: line-through;\n  opacity: .6;\n  margin-right: 2px;\n}\n/*======================================\n   End Single Product CSS\n========================================*/\n\n/*======================================\n   Start Shop Sidebar CSS\n========================================*/\n.shop-sidebar .single-widget {\n\tmargin-top: 30px;\n\tbackground: #F6F7FB;\n\tpadding: 30px;\n}\n.shop-sidebar .single-widget:first-child {\n\tmargin-top: 0;\n}\n.shop-sidebar .single-widget .title {\n\tposition: relative;\n\tfont-size: 18px;\n\tfont-weight: 500;\n\ttext-transform: capitalize;\n\tmargin-bottom: 25px;\n\tdisplay: block;\n\tborder-bottom: 1px solid #ddd;\n\tpadding-bottom: 15px;\n}\n/* Shop Price */\n.shop .range .price-filter {\n\tdisplay: block;\n\tmargin-top: 20px;\n}\n.shop .range #slider-range {\n\tbox-shadow: none;\n\tborder: none;\n\theight: 4px;\n\tbackground: #F7941D;\n\tcolor: #F7941D;\n\tborder-radius: 0px;\n}\n.shop .range #slider-range .ui-slider-range {\n\tbox-shadow: none;\n\tbackground: #222;\n\tborder-radius: 0px;\n\tborder: none;\n}\n.shop .range .ui-slider-handle.ui-state-default.ui-corner-all {\n\twidth: 14px;\n\theight: 14px;\n\tline-height: 10px;\n\tbackground: #222;\n\tborder: none;\n\tborder-radius: 100%;\n\ttop: -5px;\n}\n.shop .range .label-input {\n\tmargin-top: 15px;\n}\n.shop .range .label-input span{\n\tmargin-right:5px;\n\tcolor:#282828;\n}\n.shop .range .ui-slider-handle.ui-state-default.ui-corner-all {\n\tbackground: #F7941D;\n\tcolor: #F7941D;\n\tcursor:pointer;\n}\n.shop .range .label-input input {\n\tborder: none;\n\tmargin: 0;\n\tfont-weight: 600;\n\tfont-size: 14px;\n\tcolor: #222;\n\tbackground: transparent;\n}\n.shop .range .check-box-list {\n\tmargin-top: 15px;\n}\n.shop .range .check-box-list li {\n\tmargin-bottom: 5px;\n}\n.shop .range .check-box-list li:last-child{\n\tmargin:0;\n}\n.shop .range .check-box-list li label input {\n\tdisplay: inline-block;\n\tmargin-right: 6px;\n\tposition: relative;\n\ttop: 1px;\n}\n.shop .range .check-box-list li label {\n\tmargin: 0;\n\tfont-size: 14px;\n\tfont-weight: 400;\n\tcolor:#333;\n\tcursor:pointer;\n}\n.shop .range .check-box-list .count{\n\tmargin-left:5px;\n\tcolor:#666;\n}\n/* Category List */\n.shop-sidebar .categor-list {\n\tmargin-top: 10px;\n}\n.shop-sidebar .categor-list li{\n\t\n}\n.shop-sidebar .categor-list li {\n\tmargin-bottom: 10px;\n}\n.shop-sidebar .categor-list li:last-child{\n\tmargin-bottom:0px;\n}\n.shop-sidebar .categor-list li a {\n\tdisplay: inline-block;\n\tcolor: #666;\n\tfont-weight: 400;\n\tfont-size: 14px;\n\ttext-transform: capitalize;\n}\n.shop-sidebar .categor-list li a:hover{\n\tcolor:#F7941D;\n}\n/* Recent Post */\n.shop-sidebar .single-post {\n\tposition: relative;\n\tmargin-top: 30px;\n    padding-bottom: 30px;\n\tborder-bottom: 1px solid #ddd;\n}\n.shop-sidebar .single-post.first{\n\tpadding-top:0px;\n}\n.shop-sidebar .single-post:last-child{\n\tpadding-bottom:0px;\n\tborder:none;\n}\n.shop-sidebar .single-post .image img{\n\theight: 80px;\n\twidth: 80px;\n\tposition:absolute;\n\tleft:0;\n\ttop:0;\n\tborder-radius:100%;\n}\n.shop-sidebar .single-post .content{\n\tpadding-left:100px;\n}\n.shop-sidebar .single-post .content h5 {\n\tline-height: 18px;\n}\n.shop-sidebar .single-post .content h5 a {\n\tcolor: #222;\n\tfont-weight: 500;\n\tfont-size: 14px;\n\tfont-weight: 500;\n\tdisplay: block;\n}\n.shop-sidebar .single-post .content h5 a:hover{\n\tcolor:#F7941D;\n}\n.shop-sidebar .single-post .content .price {\n\tdisplay: block;\n\tcolor: #333;\n\tfont-weight: 500;\n\tmargin: 5px 0 0px 0;\n\ttext-transform: uppercase;\n\tfont-size: 14px;\n}\n.shop-sidebar .single-post .reviews li{\n\tdisplay:inline-block;\n}\n.shop-sidebar .single-post .reviews li i{\n\tcolor:#999;\n}\n.shop-sidebar .single-post .reviews li.yellow i{\n\tcolor:#F7941D;\n}\n/* Shop Topbar */\n.shop .shop-top {\n\tclear: both;\n\tbackground: #f6f7fb;\n\tpadding: 18px 20px 50px 20px;\n}\n.shop .shop-shorter {\n\tfloat: left;\n}\n.shop .single-shorter {\n\tdisplay: inline-block;\n\tmargin-right: 10px;\n}\n.shop .single-shorter:last-child{\n\tmargin:0;\n}\n.shop .single-shorter label {\n\tdisplay: inline-block;\n\tfloat: left;\n\tmargin: 4px 5px 0 0;\n\tfont-weight:500;\n}\n.shop .single-shorter option{}\n.shop .nice-select {\n\tclear: initial;\n\tdisplay: inline-block;\n\tmargin: 0;\n\tborder: 1px solid #e6e6e6;\n\tborder-radius: 0px;\n\theight: auto;\n\twidth: auto;\n\tborder-radius: 0px;\n}\n.shop .nice-select::after{\n\tborder-color:#888;\n}\n.shop .nice-select .list {\n\tborder-radius:0px;\n}\n.shop .nice-select .option.selected {\n\tfont-weight: 500;\n}\n.shop .nice-select .list li{\n\tcolor:#666;\n\tborder-radius:0px;\n}\n.shop .nice-select .list li:hover{\n\tbackground:#F7941D;\n\tcolor:#fff;\n}\n.shop .view-mode {\n\tfloat: right;\n}\n.shop .view-mode li {\n\tdisplay: inline-block;\n\tmargin-right: 5px;\n}\n.shop .view-mode li:last-child{\n\tmargin:0;\n}\n.shop .view-mode li a {\n\twidth: 43px;\n\theight: 32px;\n\tbackground: transparent;\n\tborder: 1px solid #77777775;\n\ttext-align: center;\n\tdisplay: block;\n\tline-height: 32px;\n\tcolor: #888;\n\tborder-radius: 0px;\n}\n.shop .view-mode li.active a,\n.shop .view-mode li:hover a {\n\tbackground: #F7941D;\n\tcolor:#fff;\n\tborder-color:transparent;\n}\n/*======================================\n   End Shop Sidebar CSS\n========================================*/\n\n/*======================================\n   Start Shop Single CSS\n========================================*/\n.shop.single{\n\tpadding:70px 0 100px;\n}\n.shop.single .product-gallery {\n\tmargin-top: 30px;\n}\n.shop.single .flexslider-thumbnails {\n\tposition: relative;\n}\n.shop.single .product-gallery .slides li{\n\tposition:relative;\n}\n.shop.single .product-gallery .slides li img{\n\twidth:100%;\n}\n.shop.single .flex-control-nav{\n\tmargin-top:15px;\n}\n.shop.single .flex-control-thumbs li {\n\twidth: 20%;\n\tposition: relative;\n\tmargin: 0 8px 10px -3px;\n}\n.shop.single .flex-control-thumbs li img {\n\tborder: none;\n\tpadding: 0;\n\tborder:1px solid transparent;\n}\n.shop.single .flex-control-thumbs li img.flex-active{\n\tborder-color:#F7941D;\n}\n.shop.single .flex-direction-nav{\n\tdisplay:none;\n}\n.shop.single .product-des{\n\tmargin-top:30px;\n}\n.shop.single .product-des .short h4 {\n\tfont-size: 22px;\n\tfont-weight: 600;\n\tmargin-top: -5px;\n\tline-height: 28px;\n}\n.shop.single .product-des .short .description {\n\tfont-size: 14px;\n\tcolor: #555555;\n\tmargin-top: 20px;\n\tmargin-bottom: 20px;\n\tpadding-bottom: 20px;\n\tborder-bottom: 1px solid #eee;\n}\n.shop.single .product-des {}\n.shop.single .product-des .total-review{\n\tfont-size:14px;\n\tfont-weight:500;\n\tmargin-left:10px;\n\tdisplay:inline-block;\n}\n.shop.single .product-des .total-review:hover{\n\tcolor:#F7941D;\n}\n.shop.single .product-des  .rating{\n\tmargin-top:20px;\n\tdisplay:inline-block;\n}\n.shop.single .product-des .rating li{\n\tdisplay:inline-block;\n}\n.shop.single .product-des .rating li i{\n\tcolor:#F7941D;\n}\n.shop.single .product-des .rating li.dark i{\n\tcolor:#555;\n}\n.shop.single .product-des .price {\n\tfont-size: 20px;\n\tcolor: #333;\n\tfont-weight: 600;\n\tmargin-top: 15px;\n}\n.shop.single .product-des .price s{\n\tcolor:#333;\n}\n.shop.single .product-des .price span{\n\tdisplay:inline-block;\n\tmargin-right:15px;\n\tcolor:#F7941D;\n}\n.shop.single .product-des .product-buy {\n\tmargin-top: 40px;\n}\n.shop.single .product-des .product-buy{}\n.shop.single .product-des .color {\n\tdisplay: inline-block;\n\tmargin-right: 50px;\n}\n.shop.single .product-des .color h4 {\n\tfont-size: 18px;\n\tfont-weight: 600;\n}\n.shop.single .product-des .color h4 span {\n\tdisplay: block;\n\tfont-size: 14px;\n\tfont-weight: 500;\n\tmargin-top: 4px;\n}\n.shop.single .product-des .color ul{\n\tmargin-top: 10px;\n}\n.shop.single .product-des .color ul li{\n\tdisplay:inline-block;\n\tmargin-right:5px;\n}\n.shop.single .product-des .color ul li:last-child{\n\tmargin-right:0;\n}\n.shop.single .product-des .color ul li a{\n\theight:30px;\n\twidth:30px;\n\tline-height:30px;\n\ttext-align:center;\n\tdisplay:block;\n\tbackground:#333;\n}\n.shop.single .product-des .color ul li a i{\n\tfont-size:11px;\n\tcolor:#fff;\n\topacity:0;\n\tvisibility:hidden;\n\ttransition:all 0.4s ease;\n}\n.shop.single .product-des .color ul li a:hover i{\n\topacity:1;\n\tvisibility:visible;\n}\n.shop.single .product-des .color ul li .one{\n\tbackground:#3498db;\n}\n.shop.single .product-des .color ul li .two{\n\tbackground:#F7941D;\n}\n.shop.single .product-des .color ul li .three{\n\tbackground:#8e44ad;\n}\n.shop.single .product-des .color ul li .four{\n\tbackground:#2ecc71;\n}\n/* Size */\n.shop.single .product-des .size{\n\tdisplay:inline-block;\n}\n.shop.single .product-des .size h4{\n\tdisplay: block;\n\tfont-size: 14px;\n\tfont-weight: 500;\n\tmargin-top: 0px;\n}\n.shop.single .product-des .size ul{\n\tdisplay:inline-block;\n\tmargin-top: 10px;\n}\n.shop.single .product-des .size ul li {\n\tdisplay: inline-block;\n\tmargin-right: 5px;\n}\n.shop.single .product-des .size ul li:last-child{\n\tmargin-right:0;\n}\n.shop.single .product-des .size ul li a {\n\tdisplay: block;\n\theight: 30px;\n\twidth: 36px;\n\tborder: 1px solid #eee;\n\ttext-align: center;\n\tline-height: 30px;\n\tfont-size: 14px;\n}\n.shop.single .product-des .size ul li a:hover{\n\tcolor:#F7941D;\n}\n.shop.single .quantity {\n\tdisplay: inline-block;\n\tmargin-right: 10px;\n}\n.shop.single .quantity h6 {\n\tdisplay: inline-block;\n\tmargin-right: 10px;\n\tfont-size: 15px;\n\tfont-weight: 500;\n}\n.shop.single .quantity .input-group {\n\twidth: 151px;\n\tdisplay: inline-block;\n}\n.shop.single .quantity .button {\n\tdisplay: inline-block;\n\tposition: absolute;\n\ttop: 0;\n\tdisplay:inline-block;\n}\n.shop.single .quantity .button.minus{\n\tleft:0;\n\tborder-radius:0;\n\toverflow:hidden;\n}\n.shop.single .quantity .button.plus {\n\tright: 0;\n\tborder-radius:0;\n\toverflow:hidden;\n}\n.shop.single .quantity .button .btn {\n\tpadding: 0;\n\twidth: 35px;\n\theight: 45px;\n\tline-height: 45px;\n\tborder-radius: 0px;\n\tbackground: transparent;\n\tcolor: #282828;\n\tfont-size: 12px;\n\tborder: none;\n}\n.shop.single .quantity .button .btn:hover{\n\tcolor:#F7941D;\n}\n.shop.single .quantity .input-number {\n\tborder: 1px solid #eceded;\n\twidth: 100%;\n\ttext-align: center;\n\theight: 45px;\n\tborder-radius: 0px;\n\toverflow: hidden;\n\tpadding: 0px 38px;\n}\n.shop.single .add-to-cart {\n\tdisplay:inline-block;\n}\n.shop.single .add-to-cart .btn {\n\theight: 45px;\n\twidth: auto;\n\tpadding: 0 42px;\n\tline-height: 45px;\n\ttext-align: center;\n\ttext-transform: capitalize;\n\tmargin-right: 5px;\n\tborder-radius: 0px;\n\tbackground: #333;\n\tcolor: #fff;\n\tdisplay: inline-block;\n\tfont-weight: 500;\n}\n.shop.single .add-to-cart .btn:hover{\n\tcolor:#fff;\n\tbackground:#F7941D;\n}\n.shop.single .add-to-cart .btn.min {\n\tpadding: 0 20px;\n\tfont-size: 17px;\n\tposition: relative;\n\ttop: 1px;\n\tline-height: 45px;\n}\n.shop.single .cat{\n\tfont-size: 14px;\n\tfont-weight: 500;\n\tcolor:#333;\n\tmargin-top:30px;\n}\n.shop.single .cat a{\n\tdisplay:inline-block;\n\tmargin-left:10px;\n}\n.shop.single .cat a:hover{\n\tcolor:#F7941D;\n}\n.shop.single .availability{\n\tcolor:#333;\n\tfont-size:14px;\n\tmargin-top:6px;\n}\n/* Product Tab */\n.shop.single .product-info {\n\tmargin-top: 50px;\n}\n.shop.single .nav-tabs {\n\tborder:none;\n}\n.shop.single .nav-tabs li {\n\tmargin-right: 10px;\n}\n.shop.single .nav-tabs li:last-child{\n\tmargin-right:0;\n}\n.shop.single .nav-tabs li a {\n\tborder: 0px solid;\n\tborder-radius: 0px;\n\tbackground: #fff;\n\tcolor: #333;\n\tpadding: 10px 30px;\n\tfont-weight: 500;\n\tfont-size: 14px;\n\tborder: 1px solid #eee;\n}\n.shop.single .nav-tabs li a i{\n\tmargin-right:10px;\n}\n.shop.single .nav-tabs li a.active,\n.shop.single .nav-tabs li:hover a{\n\tbackground:#F7941D;\n\tcolor:#fff;\n\tborder-color:transparent;\n}\n.shop.single .tab-single {\n\t\n}\n.shop.single .single-des {\n\tmargin-top:35px;\n}\n.shop.single .single-des h4{\n\tmargin-bottom:15px;\n\tfont-weight:500;\n\tfont-size:22px;\n\t\n}\n.shop.single .single-des ul{}\n.shop.single .single-des ul li {\n\tcolor: #555;\n\tdisplay: block;\n\tmargin-bottom: 10px;\n\tposition:relative;\n\tpadding-left:20px;\n}\n.shop.single .single-des ul li::before {\n\tposition: absolute;\n\tcontent: \"\";\n\tleft: 0;\n\ttop: 9px;\n\theight: 7px;\n\twidth: 7px;\n\tbackground: #f7941d;\n\tborder-radius: 50%;\n}\n.shop.single .single-des p{}\n\n.shop.single .item-info {\n\twidth: 100%;\n}\n.shop.single .item-info tbody{}\n.shop.single .item-info tbody tr{}\n.shop.single .item-info tbody td {\n\tborder: 1px solid #e6e6e6;\n\tpadding: 10px;\n}\n.shop.single .item-info tbody strong{}\n.shop.single .ratting-main{}\n.shop.single .avg-ratting {\n\tmargin-bottom: 20px;\n}\n.shop.single .avg-ratting h4 {\n\tfont-size: 18px;\n\tmargin: 0;\n}\n.shop.single .avg-ratting h4 span{\n\tfont-size:14px;\n}\n.shop.single .single-rating {\n\tmargin-bottom: 20px;\n}\n.shop.single .single-rating:last-child{\n\tmargin:0;\n\tborder:none;\n\tpadding:0;\n}\n.shop.single .rating-author {\n\tfloat: left;\n\tmargin-right: 10px;\n\tpadding: 20px;\n\tpadding-right: 10px;\n}\n.shop.single .rating-author img {\n\twidth: 60px;\n\tborder-radius: 100%;\n\theight: 60px;\n}\n.shop.single .rating-des {\n\tpadding-left: 72px;\n\tbackground: #f9f8f8;\n\tpadding: 17px 20px 17px 107px;\n}\n.shop.single .rating-des .ratings {\n\tmargin: 0;\n}\n.shop.single .rating-des h6 {\n\tfont-size: 14px;\n\tfont-weight: 600;\n\tline-height: 18px;\n}\n.shop.single .ratting-main .single-rating ul{}\n.shop.single .ratting-main .single-rating ul li{\n\tdisplay:inline-block;\n}\n.shop.single .ratting-main .single-rating ul li i{\n\tcolor:#F7941D;\n\tfont-size:14px;\n}\n.shop.single .review-inner label {\n\tdisplay: inline-block;\n\tmargin: 0 5px 0 0;\n}\n.shop.single .review-inner .ratings {\n\toverflow: visible;\n\tdisplay: inline-block;\n\tmargin: 0;\n}\n.shop.single .review-inner .ratings ul{\n\tdisplay:inline-block;\n}\n.shop.single .ratting-main .single-rating ul {\n\tdisplay: inline-block;\n\tmargin-right: 5px;\n}\n.shop.single .ratings .rate-count {\n\tdisplay: inline-block;\n\tcolor: #666;\n\tfont-size: 13px;\n}\n.shop.single .comment-review {\n\tmargin-bottom: 30px;\n}\n.shop.single .comment-review .add-review{\n\tmargin-top:30px;\n}\n.shop.single .comment-review .add-review h5{\n\tfont-size: 18px;\n\tfont-weight: 600;\n\tmargin-bottom: 7px;\n}\n.shop.single .comment-review .add-review p{\n\tcolor:#333;\n}\n.shop.single .comment-review h4 {\n\tfont-size: 15px;\n\tfont-weight: 600;\n\tmargin-bottom: 7px;\n\tmargin-top:20px;\n}\n.shop.single .comment-review .review-inner{\n\tmargin-bottom:15px;\n\tdisplay:block;\n}\n.shop.single .comment-review .rating li {\n\tdisplay:inline-block;\n}\n.shop.single .comment-review .rating li i{\n\tcolor:#F7941D;\n\tfont-size: 14px;\n}\n.shop.single .rating-des p{\n\tmargin-top:5px;\n}\n.shop.single .avg-ratting h4 {\n\tfont-size: 20px;\n\tcolor: #333;\n}\n.shop.single .avg-ratting{}\n.shop.single .form .form-group input {\n\twidth: 100%;\n\theight: 45px;\n\tpadding: 10px 20px;\n\tbackground: #fff;\n\tborder: 1px solid #ddd;\n\tresize: none;\n\tborder-radius: 0;\n\tcolor: #333;\n}\n.shop.single .form .form-group button {\n\tborder: none;\n\tpadding: 17px 50px;\n}\n.shop.single .form .form-group textarea {\n\twidth: 100%;\n\theight:200px;\n\tpadding: 20px;\n\tbackground:#fff;\n\tborder:1px solid #ddd;\n\tresize:none;\n\tborder-radius:0;\n\tcolor:#333;\n}\n.shop.single .form .form-group label {\n\tcolor: #333;\n\tposition: relative;\n}\n.shop.single .form .form-group label span {\n\tcolor: #ff2c18;\n\tdisplay: inline-block;\n\tposition: absolute;\n\tright: -12px;\n\ttop: 4px;\n\tfont-size: 16px;\n}\n.shop.single .review-panel{\n\tmargin-top:35px;\n}\n/*======================================\n   End Shop Single CSS\n========================================*/\n\n/*======================================\n   Start Shop Home List CSS\n========================================*/\n.shop-home-list{\n\tpadding:0;\n\tpadding-bottom:100px;\n}\n.shop-home-list .shop-section-title{\n\tmargin-bottom:20px;\n}\n.shop-home-list .shop-section-title h1 {\n\tfont-size: 22px;\n\tmargin-bottom: 0;\n\ttext-transform: capitalize;\n\tposition: relative;\n\tcolor: #2c2d3f;\n\tfont-weight: 700;\n\tmargin-bottom: 10px;\n\tpadding-bottom: 10px;\n}\n.shop-home-list .shop-section-title h1::before {\n\tposition: absolute;\n\tcontent: \"\";\n\theight: 2px;\n\twidth: 50px;\n\tbackground: #F7941D;\n\tleft: 0;\n\tbottom: -1px;\n}\n.shop-home-list .single-list {\n\toverflow: hidden;\n\tposition: relative;\n\tmargin-top: 30px;\n\tborder: 1px solid #eee;\n\tpadding: 10px;\n}\n.shop-home-list .single-list .list-image{\n\tposition:relative;\n}\n.shop-home-list .single-list .list-image.overlay:before{\n\tbackground:#000;\n\topacity:0;\n\tvisibility:hidden;\n\ttransition:all 0.4s ease;\n}\n.shop-home-list .single-list .list-image.overlay:hover:before{\n\topacity:0.3;\n\tvisibility:visible;\n}\n.shop-home-list .single-list .list-image .buy{\n\theight:40px;\n\twidth:40px;\n\tline-height:40px;\n\tfont-size:14px;\n\tcolor:#fff;\n\tbackground:#F7941D;\n\tborder-radius:100%;\n\tdisplay:block;\n\tposition:absolute;\n\tleft:50%;\n\ttop:50%;\n\tmargin-left:-20px;\n\tmargin-top:-20px;\n\ttext-align:center;\n\ttransition:all 0.4s ease;\n\ttransform:scale(0);\n\topacity:0;\n\tvisibility:hidden;\n}\n.shop-home-list .single-list .list-image .buy:hover{\n\tbackground:#fff;\n\tcolor:#333;\n}\n.shop-home-list .single-list .list-image:hover .buy{\n\topacity:1;\n\tvisibility:visible;\n\ttransform:scale(1);\n}\n.shop-home-list .single-list .no-padding{\n\tpadding-right:0px;\n}\n.shop-home-list .single-list img{\n\twidth:100%;\n\theight:100%;\n}\n.shop-home-list .single-list .content {\n\tpadding-top: 45px;\n\tpadding-right: 12px;\n}\n.shop-home-list .single-list .content .title {\n\tline-height: 18px;\n}\n.shop-home-list .single-list .content .title a{\n\tfont-size: 14px;\n\tfont-weight: 600;\n}\n.shop-home-list .single-list .content .titlea {\n\tcolor: #333;\n}\n.shop-home-list .single-list .content a:hover{\n\tcolor: #F7941D;\n}\n.shop-home-list .single-list .content .price {\n\tmargin-top: 15px;\n\tfont-weight: 500;\n\tbackground: #f7941d;\n\tdisplay: inline-block;\n\tcolor: #fff;\n\tpadding: 2px 18px;\n\tborder-radius: 30px;\n\tfont-size: 14px;\n\tfont-weight: 500;\n}\n/*======================================\n   End Shop Home List CSS\n========================================*/\n\n/*======================================\n   Start Shopping Cart CSS\n========================================*/\n.table.shopping-summery {\n\tbackground: #fff;\n}\n.shopping-cart {\n\tbackground: #f6f6f6;\n\tpadding: 50px 0;\n}\n.shopping-summery thead .main-hading{\n\tpadding:0px 50px;\n}\n.shopping-summery thead {\n\tbackground: #F7941D;\n\tcolor: #fff;\n}\n.shopping-summery thead tr th {\n\tborder: none;\n\tfont-weight: 600;\n\tcolor: #fff;\n\ttext-align: center;\n}\n.shopping-summery tbody tr {\n\tborder-bottom: 1px solid #F7941D;\n\tmargin-top: 20px;\n}\n.shopping-summery tbody tr img {\n\tborder-radius: 0;\n\twidth: 80px;\n\theight: 80px;\n}\n.shopping-summery tbody tr:last-child{\n\tborder:none;\n}\n.shopping-summery tbody .product-name a {\n\tfont-weight: 600;\n\tcolor: #282828;\n\tfont-weight: 600;\n\tfont-size: 17px;\n}\n.shopping-cart .table p {\n\tfont-size: 14px;\n\tcolor: #666;\n}\n.shopping-summery tbody .product-name a:hover{\n\tcolor:#F7941D;\n}\n.shopping-summery tbody .product img {\n\tmax-width: 70px;\n\tborder-radius: 100%;\n\tmax-height: 65px;\n\tborder: 1px solid #e6e6e6;\n\tpadding: 4px;\n}\n.shopping-summery tbody .product:hover img{\n\tborder-color:#F7941D;\n\ttransform:rotate(360deg);\n}\n.shopping-cart .border{\n\t\n}\n.shopping-cart .table .remove-icon{\n\tfont-size:16px;\n}\n.shopping-cart .table td {\n\tvertical-align: middle;\n\tborder-top: 1px solid #eee;\n\tpadding: 30px;\n}\n.shopping-summery tbody .price {\n\ttext-align: center;\n}\n.shopping-summery tbody .price span{}\n.shopping-cart tbody .qty .input-group {\n\twidth: 175px;\n\tdisplay: inline-block;\n}\n.shopping-cart .qty .button {\n\tdisplay: inline-block;\n\tposition: absolute;\n\ttop: 0;\n}\n.shopping-cart .qty .button.minus{\n\tleft:0;\n\tborder-radius:0;\n\toverflow:hidden;\n}\n.shopping-cart .qty .button.plus {\n\tright: 0;\n\tborder-radius:0;\n\toverflow:hidden;\n}\n.shopping-cart .qty .button .btn {\n\tpadding: 0;\n\twidth: 44px;\n\theight: 47px;\n\tline-height: 50px;\n\tborder-radius: 0px;\n\tbackground: transparent;\n\tcolor: #282828;\n\tborder: none;\n\tfont-size: 12px;\n}\n.shopping-cart .qty .button .btn:hover{\n\tcolor:#F7941D;\n}\n.shopping-cart .qty .input-number {\n\tborder: 1px solid #eceded;\n\twidth: 100%;\n\ttext-align: center;\n\theight: 47px;\n\tborder-radius:0;\n\toverflow: hidden;\n\tpadding: 0px 45px;\n}\n.shopping-summery tbody .total-amount {\n\ttext-align: center;\n}\n.shopping-summery tbody .total-amount span{}\n.shopping-summery tbody .action {\n\ttext-align: center;\n}\n.shopping-summery tbody .action a:hover{\n\tcolor:#F7941D;\n}\n.shopping-cart .total-amount{\n\tmargin-top:50px;\n}\n.shopping-cart .total-amount .left{}\n.shopping-cart .total-amount .left .coupon{}\n.shopping-cart .total-amount .left .coupon form{}\n.shopping-cart .total-amount .left .coupon form input {\n\twidth: 220px;\n\tdisplay: inline-block;\n\theight: 48px;\n\tcolor: #333;\n\tpadding: 0px 20px;\n\tborder: none;\n\tbox-shadow: 0px 0px 5px #0000000a;\n}\n.shopping-cart .total-amount .left .coupon form .btn {\n\tdisplay: inline-block;\n\theight: 48px;\n\tborder: navajowhite;\n\tmargin-left: 4px;\n\tbackground: transparent;\n\tcolor: #333;\n\tbackground: #fff;\n\tbox-shadow: 0px 0px 5px #00000012;\n}\n.shopping-cart .total-amount .left .coupon form .btn:hover{\n\tbackground:#fff;\n\tcolor:#F7941D;\n}\n.shopping-cart .total-amount .left label{\n\tfont-size:22px;\n\tfont-weight:500;\n\tcolor:#333;\n}\n.shopping-cart .total-amount .left .checkbox {\n\ttext-align: left;\n\tmargin: 0;\n\tmargin-top: 20px;\n}\n.shopping-cart .total-amount .left .checkbox label {\n\tfont-size: 15px;\n\tfont-weight: 400;\n\tcolor: #333;\n\tposition: relative;\n\tpadding-left: 30px;\n}\n.shopping-cart .total-amount .left .checkbox label:hover{\n\tcursor:pointer;\n}\n.shopping-cart .total-amount .left .checkbox label input{\n\tdisplay:none;\n}\n.shopping-cart .total-amount .left .checkbox label::before {\n\tposition: absolute;\n\tcontent: \"\";\n\tleft: 0;\n\ttop: 4px;\n\twidth: 16px;\n\theight: 16px;\n\tborder: 1px solid #555555;\n\tborder-radius: 0px;\n}\n.shopping-cart .total-amount .left .checkbox label::after {\n\tposition: absolute;\n\tcontent: \"\\f00c\";\n\tfont-family: \"Fontawesome\";\n\tleft: 0;\n\ttop: 0;\n\twidth: 22px;\n\theight: 22px;\n\tline-height: 24px;\n\tleft: 3px;\n\ttop: 0px;\n\topacity: 0;\n\tvisibility: hidden;\n\ttransform: scale(0);\n\ttransition: all 0.4s ease;\n\tdisplay: block;\n\tfont-size: 11px;\n}\n.shopping-cart .total-amount .left .checkbox label.checked::after{\n\topacity:1;\n\tvisibility:visible;\n\ttransform:scale(1);\n}\n.shopping-cart .total-amount .right {\n\tpadding-left: 100px;\n}\n.shopping-cart .total-amount .right ul{\n\t\n}\n.shopping-cart .total-amount .right ul li {\n\tfont-size: 15px;\n\tfont-weight: 400;\n\tcolor: #333;\n\tmargin-bottom: 12px;\n}\n.shopping-cart .total-amount .right ul li.last {\n\tpadding-top: 12px;\n\tborder-top: 1px solid #c8c8c8;\n\tcolor: #333;\n\tfont-size: 15px;\n\tfont-weight: 400;\n}\n.shopping-cart .total-amount .right ul li span{\n\tdisplay:inline-block;\n\tfloat:right;\n}\n.shopping-cart .total-amount .right .button5 .btn {\n\ttext-align: center;\n\tborder-radius: 0;\n\twidth: 100%;\n\tmargin-top: 10px;\n\theight: 46px;\n\tline-height: 18px;\n\tfont-size: 13px;\n\tcolor: #fff;\n}\n/*======================================\n   End Shopping Cart CSS\n========================================*/\n\n/*======================================\n   Start Checkout Form CSS\n========================================*/\n.shop.checkout {\n\tpadding: 0;\n\tbackground: #fff;\n\tpadding-top: 20px;\n\tpadding-bottom: 50px;\n}\n.shop.checkout .checkout-form {\n\tmargin-top: 30px;\n}\n.shop.checkout .checkout-form h2 {\n\tfont-size: 25px;\n\tcolor: #333;\n\tfont-weight: 700;\n\tline-height: 27px;\n}\n.shop.checkout .checkout-form p {\n\tfont-size: 16px;\n\tcolor: #333;\n\tfont-weight: 400;\n\tmargin-top: 12px;\n\tmargin-bottom: 30px;\n}\n.shop.checkout .form{}\n.shop.checkout .form .form-group {\n\tmargin-bottom: 25px;\n}\n.shop.checkout .form .form-group label{\n\tcolor:#333;\n\tposition:relative;\n}\n.shop.checkout .form .form-group label span {\n\tcolor: #ff2c18;\n\tdisplay: inline-block;\n\tposition: absolute;\n\tright: -12px;\n\ttop: 4px;\n\tfont-size: 16px;\n}\n.shop.checkout .form .form-group input {\n\twidth: 100%;\n\theight: 45px;\n\tline-height: 50px;\n\tpadding: 0 20px;\n\tborder-radius: 3px;\n\tborder-radius: 0px;\n\tcolor: #333 !important;\n\tborder: none;\n\tbackground: #F6F7FB;\n}\n.shop.checkout .form .form-group input:hover{\n\t\n}\n.shop.checkout .nice-select {\n\twidth: 100%;\n\theight: 45px;\n\tline-height: 50px;\n\tmargin-bottom: 25px;\n\tbackground: #F6F7FB;\n\tborder-radius: 0px;\n\tborder:none;\n}\n.shop.checkout .nice-select .list {\n\twidth: 100%;\n\theight: 300px;\n\toverflow: scroll;\n}\n.shop.checkout .nice-select .list li{}\n.shop.checkout .nice-select .list li.option{\n\tcolor:#333;\n}\n.shop.checkout .nice-select .list li.option:hover{\n\tbackground:#F6F7FB;\n\tcolor:#333;\n}\n.shop.checkout .form .address input {\n\tmargin-bottom: 15px;\n}\n.shop.checkout .form .address input:last-child{\n\tmargin:0;\n}\n.shop.checkout .form .create-account {\n\tmargin: 0;\n}\n.shop.checkout .form .create-account input {\n\twidth: auto;\n\tdisplay: inline-block;\n\theight: auto;\n\tborder-radius: 100%;\n\tmargin-right: 3px;\n}\n.shop.checkout .form .create-account label {\n\tdisplay: inline-block;\n\tmargin: 0;\n}\n.shop.checkout .order-details {\n\tmargin-top: 30px;\n\tbackground: #fff;\n\tpadding: 15px 0 30px 0;\n\tborder: 1px solid #eee;\n}\n.shop.checkout .single-widget {\n\tmargin-bottom: 30px;\n}\n.shop.checkout .single-widget:last-child{\n\tmargin:0;\n}\n.shop.checkout .single-widget h2 {\n\tposition:relative;\n\tfont-size: 15px;\n\tfont-weight: 600;\n\tpadding: 10px 30px;\n\tline-height: 24px;\n\ttext-transform: uppercase;\n\tcolor: #333;\n\tpadding-bottom: 5px;\n}\n.shop.checkout .single-widget h2:before{\n\tposition:absolute;\n\tcontent:\"\";\n\tleft:30px;\n\tbottom:0;\n\theight:2px;\n\twidth:50px;\n\tbackground:#F7941D;\n}\n.shop.checkout .single-widget .content ul{\n\tmargin-top:30px;\n}\n.shop.checkout .single-widget .content ul li {\n\tdisplay: block;\n\tpadding: 0px 30px;\n\tfont-size: 15px;\n\tfont-weight: 400;\n\tcolor: #333;\n\tmargin-bottom: 12px;\n}\n.shop.checkout .single-widget .content ul li span{\n\tdisplay:inline-block;\n\tfloat:right;\n}\n.shop.checkout .single-widget .content ul li.last {\n\tpadding-top: 12px;\n\tborder-top: 1px solid #ebebeb;\n\tdisplay: block;\n\tfont-size: 15px;\n\tfont-weight: 400;\n\tcolor: #333;\n}\n.shop.checkout .single-widget .checkbox {\n\ttext-align: left;\n\tmargin: 0;\n\tpadding: 0px 30px;\n\tmargin-top:30px;\n}\n.shop.checkout .single-widget .checkbox label {\n\tcolor: #555555;\n\tposition: relative;\n\tfont-size: 14px;\n\tpadding-left: 20px;\n\tmargin-top: -5px;\n\tfont-weight: 400;\n\tdisplay: block;\n\tmargin-bottom: 15px;\n}\n.shop.checkout .single-widget .checkbox label:last-child{\n\tmargin-bottom:0;\n}\n.shop.checkout .single-widget .checkbox label:hover{\n\tcursor:pointer;\n}\n.shop.checkout .single-widget .checkbox label input{\n\tdisplay:none;\n}\n.shop.checkout .single-widget .checkbox label::before {\n\tposition: absolute;\n\tcontent: \"\";\n\tleft: 0;\n\ttop: 7px;\n\twidth: 12px;\n\theight: 12px;\n\tline-height: 16px;\n\tborder: 1px solid #666;\n\tborder-radius: 100%;\n}\n.shop.checkout .single-widget .checkbox label::after {\n\tposition: absolute;\n\tcontent: \"\";\n\tleft: 0;\n\ttop: 7px;\n\twidth: 12px;\n\theight: 12px;\n\tline-height: 16px;\n\tborder-radius: 100%;\n\tdisplay:block;\n\tbackground:#666;\n\ttransform:scale(0);\n\ttransition:all 0.4s ease;\n}\n.shop.checkout .single-widget .checkbox label.checked::after{\n\topacity:1;\n\tvisibility:visible;\n\ttransform:scale(1);\n}\n.shop.checkout .single-widget.payement {\n\tpadding: 0px 38px;\n\ttext-align: center;\n\tmargin-top: 30px;\n}\n.shop.checkout .single-widget.get-button {\n\ttext-align: center;\n\tpadding:0px 35px;\n}\n.shop.checkout .single-widget.get-button .btn {\n\theight: 46px;\n\twidth: 100%;\n\tline-height: 19px;\n\ttext-align: center;\n\tborder-radius: 0;\n\ttext-transform: uppercase;\n\tcolor: #fff;\n}\n/*======================================\n   End Checkout Form CSS\n========================================*/\n\n/*======================================\n   Login & Register CSS\n========================================*/\n.shop.login {\n\tpadding: 100px 0;\n}\n.shop.login .login-form h2 {\n\tposition:relative;\n\tfont-size: 35px;\n\tcolor: #333;\n\tfont-weight: 400;\n\tline-height: 27px;\n\ttext-transform: uppercase;\n\tmargin-bottom: 12px;\n\tpadding-bottom: 20px;\n\ttext-align: center;\n}\n.shop.login .login-form h2:before{\n\tposition:absolute;\n\tcontent:\"\";\n\tleft:50%;\n\tbottom:0;\n\theight:2px;\n\twidth:50px;\n\tbackground:#F7941D;\n\tmargin-left:-25px;\n}\n.shop.login .login-form p {\n\tfont-size: 14px;\n\tcolor: #333;\n\tfont-weight: 400;\n\ttext-align: center;\n\tmargin-bottom:50px;\n}\n.shop.login .form {\n\tmargin-top: 30px;\n}\n.shop.login .form .form-group {\n\tmargin-bottom: 22px;\n}\n.shop.login .form .form-group input {\n\twidth: 100%;\n\theight: 45px;\n\tline-height: 50px;\n\tpadding: 0 20px;\n\tborder-radius: 3px;\n\tborder-radius: 0px;\n\tcolor:#333 !important;\n\tborder: none;\n\tbackground:#F6F7FB;\n}\n.shop.login .form .form-group label {\n\tcolor: #333;\n\tposition: relative;\n}\n.shop.login .form .form-group label span {\n\tcolor: #ff2c18;\n\tdisplay: inline-block;\n\tposition: absolute;\n\tright: -12px;\n\ttop: 4px;\n\tfont-size: 16px;\n}\n.shop.login .form .form-group input:hover{\n\tborder-color:#1308a3;\n\tcolor:#1308a3;\n}\n.shop.login .form .form-group.login-btn {\n\tmargin: 0;\n}\n.shop.login .form button {\n\tborder: none;\n}\n.shop.login .form .btn {\n\tdisplay: inline-block;\n\tmargin-right: 10px;\n\theight: 46px;\n\tcolor: #fff;\n\tline-height: 20px;\n}\n.shop.login .form .btn:hover{\n\tbackground:#F7941D;\n\tcolor:#fff;\n}\n.shop.login .login-form .checkbox {\n\ttext-align: left;\n\tmargin: 0;\n\tmargin-top: 20px;\n\tdisplay:inline-block;\n}\n.shop.login .login-form .checkbox label {\n\tfont-size: 14px;\n\tfont-weight: 400;\n\tcolor: #333;\n\tposition: relative;\n\tpadding-left: 20px;\n}\n.shop.login .login-form .checkbox label:hover{\n\tcursor:pointer;\n}\n.shop.login .login-form .checkbox label input{\n\tdisplay:none;\n}\n.shop.login .login-form .checkbox label::before {\n\tposition: absolute;\n\tcontent: \"\";\n\tleft: 0;\n\ttop: 6px;\n\twidth: 12px;\n\theight: 12px;\n\tborder: 1px solid #555555;\n\tborder-radius: 0px;\n}\n.shop.login .login-form .checkbox label::after {\n\tposition: absolute;\n\tcontent: \"\\f00c\";\n\tfont-family: \"Fontawesome\";\n\twidth: 12px;\n\theight: 12px;\n\tline-height: 23px;\n\tleft: 2px;\n\ttop: 0px;\n\topacity: 0;\n\tvisibility: hidden;\n\ttransform: scale(0);\n\ttransition: all 0.4s ease;\n\tdisplay: block;\n\tfont-size: 9px;\n}\n.shop.login .login-form .checkbox label.checked::after{\n\topacity:1;\n\tvisibility:visible;\n\ttransform:scale(1);\n}\n.shop.login .login-form .lost-pass{\n\tdisplay:inline-block;\n\tmargin-left:25px;\n\tcolor:#333;\n\tfont-size:14px;\n\tfont-weight:400;\n}\n.shop.login .login-form .lost-pass:hover{\n\tcolor:#F7941D;\n}\n/*======================================\n\tEnd Login CSS\n========================================*/\n\n/*======================================\n   Start Shop List CSS\n========================================*/\n.shop-list .list-content{\n\tmargin-top:50px;\n}\n.shop-list .list-content .product-price{}\n.shop-list .list-content .product-price span {\n\tfont-size: 14px;\n\tfont-weight: 600;\n\tmargin-bottom: 3px;\n\tdisplay: block;\n}\n.shop-list .list-content .title {\n\tline-height: 20px;\n}\n.shop-list .list-content .title a:hover{\n\tcolor:#F7941D;\n}\n.shop-list .list-content .title a {\n\tfont-size: 18px;\n\tfont-weight: 600;\n}\n.shop-list .list-content .rating {\n\tmargin: 5px 0 8px 0;\n}\n.shop-list .list-content .rating li{\n\tdisplay:inline-block;\n}\n.shop-list .list-content .rating li i{\n\tcolor: #F7941D;\n}\n.shop-list .list-content .rating li.total {\n\tcolor: #333;\n\tfont-size: 12px;\n\tmargin-left: 3px;\n}\n.shop-list .list-content .des{}\n.shop-list .list-content .btn {\n\tmargin-top: 22px;\n\theight: 42px;\n\tline-height: 15px;\n\tcolor: #333;\n\tbackground: transparent;\n\tborder: 1px solid #cecece;\n\tfont-size: 13px;\n\tborder-radius: 30px;\n\theight: auto;\n\tline-height: a;\n\tpadding: 13px 32px;\n}\n.shop-list .list-content .btn:hover{\n\tbackground:#F7941D;\n\tcolor:#fff;\n\tborder-color:transparent;\n}\n/* Pagination CSS */\n.pagination {\n\ttext-align: left;\n\tmargin: 50px 0 0 0;\n\tdisplay:block;\n}\n.pagination.center {\n\ttext-align: center;\n}\n.pagination .pagination-list li {\n\tmargin-right: 5px;\n\tdisplay: inline-block;\n}\n.pagination .pagination-list li:last-child{\n\tmargin-right:0px;\n}\n.pagination .pagination-list li a {\n\tbackground: #F6F7FB;\n\tcolor: #666;\n\tpadding: 6px 18px;\n\tfont-weight: 400;\n\tborder: 1px solid #e1e1e1;\n\tfont-size: 16px;\n\tborder-radius: 0px;\n}\n.pagination .pagination-list li.active a,\n.pagination .pagination-list li:hover a{\n\tbackground: #F7941D;\n\tcolor: #fff;\n\tborder-color: transparent;\n}\n.pagination .pagination-list li a i{\n\tfont-size:13px;\n}\n.pagination .pagination-list li a i{}\n.blog-grids.pagination{\n\tmargin-top:50px;\n\ttext-align:center;\n}\n/*======================================\n   End Shop List CSS\n========================================*/\n\n/*=============================\n\tStart Cowndown CSS\n===============================*/\n.cown-down {\n\tposition: relative;\n\theight: 515px;\n\toverflow:hidden;\n}\n.cown-down .padding-right{\n\tpadding-right:0;\n}\n.cown-down .padding-left{\n\tpadding-left:0;\n}\n.cown-down .image img {\n\twidth:100%;\n\theight:100%;\n}\n.cown-down .content {\n\ttext-align: center;\n\tbackground: #FDFBEF;\n\theight: 100%;\n\tposition:relative;\n}\n.cown-down .content .heading-block{\n\tposition:absolute;\n\tleft:0;\n\ttop:50%;\n\ttransform:translateY(-50%);\n\tpadding: 75px;\n}\n.cown-down .content .small-title {\n\tfont-size: 13px;\n\tcolor: #777;\n\tdisplay: block;\n\ttext-transform: uppercase;\n\tmargin-bottom: 5px;\n\tfont-weight: 600;\n}\n.cown-down .content .title {\n\tfont-size: 25px;\n\tfont-weight: 600;\n\tmargin-bottom: 20px;\n\ttext-transform: capitalize;\n}\n.cown-down .content .price {\n\tmargin-top: 35px;\n\tfont-size: 35px;\n\tfont-weight: 700;\n\tcolor: #F7941D;\n}\n.cown-down .content .price s{\n\tmargin-top: 35px;\n\tfont-size: 24px;\n\tfont-weight: 500;\n\tcolor:#666;\n}\n.cown-down .content .cdown {\n\tfloat: none;\n\ttext-align:center;\n\tmargin-top:40px;\n\twidth: 80px;\n\tdisplay:inline-block;\n\t\n}\n.cown-down .content .cdown {\n\ttext-align: center;\n}\n.cown-down .content .cdown{\n\tdisplay:inline-block;\n}\n.cown-down .content .cdown span {\n\tcolor: #333;\n\tfont-size: 22px;\n\tfont-weight:400;\n\ttext-transform:uppercase;\n}\n.cown-down .content .cdown p{\n\tfont-size:13px;\n\tcolor:#666;\n\ttext-transform:uppercase;\n}\n/*=============================\n\tEnd Cowndown CSS\n===============================*/\n\n/*======================================\n   Start Shop Services CSS\n========================================*/\n.shop-services.section {\n\tpadding: 80px 0 0px 0;\n\tbackground: #fff;\n}\n.shop-services.home{\n\tpadding:60px 0;\n\tbackground:#F6F7FB;\n}\n.shop-services .single-service {\n\tposition: relative;\n\tpadding-left: 65px;\n}\n.shop-services .single-service i {\n\theight: 50px;\n\twidth: 50px;\n\tline-height: 50px;\n\ttext-align: center;\n\tcolor: #333;\n\tbackground: transparent;\n\tborder-radius: 100%;\n\tdisplay: block;\n\tfont-size: 32px;\n\tposition: absolute;\n\tleft: 0;\n\ttop: 0;\n}\n.shop-services .single-service h4 {\n\tfont-size: 14px;\n\tfont-weight: 600;\n\ttext-transform: uppercase;\n\tline-height: 22px;\n\tcolor: #333;\n}\n.shop-services .single-service p {\n\tcolor: #898989;\n\tline-height: 28px;\n\tfont-size:14px;\n}\n/*======================================\n   End Shop Services CSS\n========================================*/\n\n/*======================================\n   Start Shop Newsletter CSS\n========================================*/\n.shop-newsletter{\n\tbackground:#fff;\n}\n.shop-newsletter .inner{\n\ttext-align:center;\n}\n.shop-newsletter .inner h4 {\n\tcolor: #333;\n\tfont-size: 17px;\n\tfont-weight: 600;\n\tmargin-bottom: 5px;\n\ttext-transform: uppercase;\n}\n.shop-newsletter .inner p{\n\tcolor:#777;\n\tfont-size:14px;\n\tfont-weight:400;\n\tmargin-bottom:30px;\n}\n.shop-newsletter .inner p span{\n\tcolor:#F7941D;\n}\n.shop-newsletter .newsletter-inner{\n\tposition:relative;\n\tdisplay: inline-block;\n}\n.shop-newsletter .newsletter-inner input {\n\twidth: 480px;\n\theight: 55px;\n\tborder-radius: 0px;\n\tpadding: 0px 30px;\n\tfont-weight: 400;\n\tdisplay: inline-block;\n\ttext-shadow: none;\n\tbox-shadow: none;\n\tborder-radius: 0;\n\tborder: none;\n\tborder: 1px solid #ececec;\n\tborder-radius: 30px 0 0 30px;\n}\n.shop-newsletter .newsletter-inner button{\n\tborder:none;\n\ttext-shadow:none;\n\tbox-shadow:none;\n\tborder-radius:0;\n}\n.shop-newsletter .newsletter-inner .btn {\n\tdisplay: inline-block;\n\theight: 55px;\n\tpadding: 10px 30px;\n\tposition: relative;\n\ttop: 0;\n\tbackground: #F7941D;\n\tcolor: #fff;\n\tleft: -4px;\n\tborder-radius: 0 30px 30px 0;\n\tfont-size: 14px;\n\tfont-weight: 500;\n\ttext-transform: uppercase;\n}\n.shop-newsletter .newsletter-inner .btn:hover{\n\tbackground:#333;\n\tcolor:#fff;\n}\n/*======================================\n   End Shop Newsletter CSS\n========================================*/\n\n/*=============================\n\tAbout US CSS\n===============================*/\n.about-us{\n\tbackground:#fff;\n}\n.about-us .about-content {\n\tpadding-right: 50px;\n}\n.about-us .about-content .story{\n\tdisplay:block;\n\tcolor:#04AAF4;\n\tmargin-bottom:20px;\n\tfont-size:17px;\n}\n.about-us .about-content .story i{\n\tcolor:#04AAF4;\n\tmargin-right:5px;\n\tfont-size:22px;\n}\n.about-us .about-content h3 {\n\tfont-size: 30px;\n\tfont-weight: 600;\n\tposition: relative;\n\tmargin-bottom: 15px;\n\tpadding-bottom: 15px;\n}\n.about-us .about-content h3::before {\n\tposition: absolute;\n\tcontent: \"\";\n\tleft: 0;\n\tbottom: -1px;\n\theight: 2px;\n\twidth: 60px;\n\tbackground: #F7941D;\n}\n.about-us .about-content h3 span{\n\tdisplay:inline-block;\n\tfont-weight:700;\n\tcolor:#F7941D;\n}\n.about-us .about-content p {\n\tline-height: 26px;\n\tmargin-bottom: 10px;\n}\n.about-us .about-content p:last-child{\n\tmargin:0;\n}\n.about-us .about-content .button{\n\tmargin-top:40px;\n}\n.about-us .about-content .button .btn{\n\tbackground:#333;\n\tcolor:#fff;\n\tmargin-right:15px;\n}\n.about-us .about-content .button .btn:hover{\n\tbackground:#F7941D;\n\tcolor:#fff;\n}\n.about-us .about-content .button .btn.primary{\n\tbackground:#F7941D;\n\tcolor:#fff;\n}\n.about-us .about-content .button .btn.primary:hover{\n\tbackground:#333;\n\tcolor:#fff;\n}\n.about-us .about-content .button .btn:last-child{\n\tmargin:0;\n}\n.about-us .about-img {\n\tposition: relative;\n\tbox-shadow: 0px 0px 5px rgba(0, 0, 0, 0.3);\n\tborder: 10px solid #fff;\n}\n.about-us .about-img:before{\n\topacity:0;\n\tvisibility:hidden;\n\ttransition:all 0.4s ease;\n}\n.about-us .about-img:hover:before{\n\topacity:0.6;\n\tvisibility:visible;\n}\n.about-us .about-img .video {\n\theight: 64px;\n\twidth: 64px;\n\tline-height: 64px;\n\tbackground: #F7941D;\n\tcolor: #fff;\n\tfont-size: 20px;\n\tborder-radius: 100%;\n\tdisplay: block;\n\ttext-align: center;\n\tposition: absolute;\n\tleft: 50%;\n\ttop: 50%;\n\tmargin-left: -32px;\n\tmargin-top: -32px;\n\tpadding-left: 4px;\n\ttransform: scale(0);\n\ttransition: all 0.4s ease;\n}\n.about-us .about-img .video:hover{\n\tbackground:#fff;\n\tcolor:#F7941D;\n}\n.about-us .about-img:hover .video{\n\ttransform:scale(1);\n}\n.about-us .about-img img{\n\theight:100%;\n\twidth:100%;\n\t\n}\n/*=============================\n\tEnd About US CSS\n===============================*/\n\n/*======================================\n  10. Start Team CSS\n========================================*/  \n.team{\n\tbackground:#F6F7FB;\n}\n.team .title-line{\n\tmargin-bottom:40px;\n}\n.team .single-team {\n\tmargin-top: 30px;\n\tposition:relative;\n transition: all 500ms ease;\n\tdisplay: inline-block;\n\toverflow:hidden;\n\ttext-align:center;\n\tbackground:#fff;\n}\n.team .single-team .info-head {\n\tpadding: 35px 30px;\n}\n.team .single-team .image img{\n\theight:100%;\n\twidth:100%;\n}\n.team .single-team .info-box {\n\ttext-align:center;\n}\n.team .single-team .info-box .name {\n\tdisplay: block;\n\tfont-size: 17px;\n\tcolor: #333;\n\tfont-weight: 500;\n\tmargin-bottom: 3px;\n\ttext-transform:capitalize;\n}\n.team .single-team .info-box .designation{\n\tcolor:#aaa;\n\tfont-size:13px;\n}\n.team .single-team .social-links {\n transition: all 500ms ease;\n\tmargin-top:15px;\n}\n.team .single-team .social-links .social li{\n\tdisplay:inline-block;\n\tmargin-right:15px;\n}\n.team .single-team .social-links .social li:last-child{\n\tmargin-right:0px;\n}\n.team .single-team .social-links .social li a {\n\tcolor: #666;\n\tdisplay: block;\n\tfont-size: 14px;\n}\n.team .single-team .social-links .social li a:hover{\n\tcolor:#F7941D;\n}\n/*======================================\n  End Team CSS\n========================================*/ \n\n/*======================================\n   Start Shop Blog CSS\n========================================*/\n.shop-blog.grid .shop-single-blog{\n\tmargin-top:30px;\n}\n.shop-blog .shop-single-blog{\n\ttext-align:center;\n\ttransition:all 0.4s ease;\n}\n.shop-blog .shop-single-blog:hover{\n\tbox-shadow: 0px 10px 10px #0000000a;\n}\n.shop-blog .shop-single-blog img{\n\theight:100%;\n\twidth:100%;\n}\n.shop-blog .shop-single-blog .content {\n\tpadding: 40px;\n}\n.shop-blog .shop-single-blog .content .title {\n\tfont-size: 17px;\n\tfont-weight: 600;\n\tcolor: #333;\n}\n.shop-blog .shop-single-blog .content .title:hover{\n\tcolor:#F7941D;\n}\n.shop-blog .shop-single-blog .content .date {\n\tfont-size: 14px;\n\tfont-weight: 400;\n\tmargin-bottom: 5px;\n\tcolor: #B7B7B7;\n}\n.shop-blog .shop-single-blog .content .more-btn {\n\tfont-size: 14px;\n\tfont-weight: 400;\n\tcolor: #3c3c3c;\n\tmargin-top: 10px;\n\tdisplay: block;\n}\n.shop-blog .shop-single-blog .content .more-btn:hover{\n\tcolor:#F7941D;\n}\n/* Related Product */\n.related-product{\n\tpadding-top:0;\n}\n.related-product .section-title {\n\ttext-align: center;\n\tmargin-bottom: 10px;\n\tpadding: 0;\n}\n.related-product .section-title h2 {\n\tfont-size: 25px;\n\tmargin-bottom: 0;\n\ttext-transform: capitalize;\n\tposition: relative;\n\tcolor: #2c2d3f;\n\tfont-weight: 700;\n\tpadding-bottom: 15px;\n}\n/* Blog Sidebar */\n.main-sidebar {\n\tbackground: #fff;\n\tmargin-top: 30px;\n\tpadding: 40px;\n\tbackground: transparent;\n\tborder: 1px solid #eeeeeec2;\n}\n.main-sidebar .single-widget{\n\tmargin-bottom:50px;\n}\n.main-sidebar .single-widget .title {\n\tposition: relative;\n\tfont-size: 18px;\n\tfont-weight: 600;\n\ttext-transform: capitalize;\n\tmargin-bottom: 30px;\n\tdisplay: block;\n\tbackground: #fff;\n\tpadding-left: 12px;\n}\n.main-sidebar .single-widget .title::before {\n\tposition: absolute;\n\tcontent: \"\";\n\tleft: 0;\n\tbottom: -1px;\n\theight: 100%;\n\twidth: 3px;\n\tbackground: #F7941D;\n}\n.main-sidebar .single-widget:last-child{\n\tmargin:0;\n}\n.main-sidebar .search{\n\tposition:relative;\n}\n.main-sidebar .search input {\n\twidth: 100%;\n\theight: 45px;\n\tbox-shadow: none;\n\ttext-shadow: none;\n\tfont-size: 14px;\n\tborder: none;\n\tcolor: #222;\n\tbackground: transparent;\n\tpadding: 0 70px 0 20px;\n\ttransition: all 0.4s ease;\n\tborder-radius: 0;\n\tborder: 1px solid #eee;\n}\n.main-sidebar .search .button {\n\tposition: absolute;\n\tright: 0;\n\ttop: 0;\n\theight: 44px;\n\twidth: 50px;\n\tline-height: 45px;\n\tbox-shadow: none;\n\ttext-shadow: none;\n\ttext-align: center;\n\tborder: none;\n\tfont-size: 14px;\n\tcolor: #fff;\n\tbackground: #333;\n\ttransition: all 0.4s ease;\n}\n.main-sidebar .search .button:hover {\n\tbackground:#F7941D;\n\tcolor:#fff;\n}\n/* Category List */\n.main-sidebar .categor-list {\n\tmargin-top: 15px;\n}\n.main-sidebar .categor-list li{\n\t\n}\n.main-sidebar .categor-list li {\n\tmargin-bottom: 10px;\n}\n.main-sidebar .categor-list li:last-child{\n\tmargin-bottom:0px;\n}\n.main-sidebar .categor-list li a {\n\tdisplay: inline-block;\n\tcolor: #333;\n\tfont-size:14px;\n}\n.main-sidebar .categor-list li a:hover{\n\tcolor:#F7941D;\n\tpadding-left:7px;\n}\n.main-sidebar .categor-list li a i {\n\tdisplay: inline-block;\n\tmargin-right:0px;\n\tfont-size: 9px;\n\ttransform: translateY(-1px);\n\topacity:0;\n\tvisibility:hidden;\n\ttransition:all 0.4s ease;\n}\n.main-sidebar .categor-list li a:hover i{\n\tmargin-right: 6px;\n\topacity:1;\n\tvisibility:visible;\n}\n/* Recent Post */\n.main-sidebar .recent-post{}\n.main-sidebar .single-post {\n\tposition: relative;\n\tborder-bottom: 1px solid #ddd;\n\tdisplay: inline-block;\n\tpadding: 17px 0;\n}\n.main-sidebar .single-post:last-child{\n\tpadding-bottom:0px;\n\tborder:none;\n}\n.main-sidebar .single-post .image {\n\t\n}\n.main-sidebar .single-post .image img{\n\tfloat: left;\n\twidth: 80px;\n\theight: 80px;\n\tmargin-right: 20px;\n}\n.main-sidebar .single-post .content{\n\tpadding-left:100px;\n}\n.main-sidebar .single-post .content h5 {\n\tline-height: 18px;\n}\n.main-sidebar .single-post .content h5 a {\n\tcolor: #2C2D3F;\n\tfont-weight: 500;\n\tfont-size: 14px;\n\tfont-weight: 500;\n\tmargin-top: 10px;\n\tdisplay: block;\n\tmargin-bottom: 10px;\n\tmargin-top: 0;\n}\n.main-sidebar .single-post .content h5 a:hover{\n\tcolor:#F7941D;\n}\n.main-sidebar .single-post .content .comment{}\n.main-sidebar .single-post .content .comment li{\n\tcolor:#888;\n\tdisplay:inline-block;\n\tmargin-right:15px;\n\tfont-weight:400;\n\tfont-size:14px;\n}\n.main-sidebar .single-post .content .comment li:last-child{\n\tmargin-right:0;\n}\n.main-sidebar .single-post .content .comment li i{\n\tdisplay:inline-block;\n\tmargin-right:5px;\n}\n/* Blog Tags */\n.main-sidebar .side-tags{}\n.main-sidebar .side-tags .tag{\n\tmargin-top:40px;\n}\n.main-sidebar .side-tags .tag li {\n\tdisplay: inline-block;\n\tmargin-right: 7px;\n\tmargin-bottom: 20px;\n}\n.main-sidebar .side-tags .tag li a {\n\tbackground: #fff;\n\tcolor: #333;\n\tpadding: 8px 14px;\n\ttext-transform: capitalize;\n\tborder-radius: 0;\n\tfont-size: 13px;\n\tbackground: #F6F7FB;\n}\n.main-sidebar .side-tags .tag a:hover{\n\tcolor:#fff;\n\tbackground:#F7941D;\n\tborder-color:transparent;\n}\n/* Blog Newslatter CSS */\n.main-sidebar .newsletter{\n\t\n}\n.main-sidebar .newsletter .letter-inner {\n\tposition:relative;\n\tpadding: 35px 30px;\n\tbox-shadow: 0px 0px 12px #00000014;\n\tz-index:2;\n\toverflow:hidden;\n}\n.main-sidebar .newsletter .letter-inner h4 {\n\ttext-transform: capitalize;\n\tmargin-bottom: 25px;\n\tfont-size: 18px;\n\tfont-weight: 600;\n\tline-height: 24px;\n}\n.main-sidebar .newsletter .letter-inner p{\n\tmargin-bottom: 20px;\n}\n.main-sidebar .newsletter .letter-inner .form-inner{\n\tposition:relative;\n}\n.main-sidebar .newsletter .letter-inner input {\n\twidth: 100%;\n\theight: 45px;\n\tbackground: #fff;\n\tborder: none;\n\tborder: 1px solid #ddd;\n\tpadding: 0px 60px 0px 20px;\n\tbox-shadow: none;\n\ttext-shadow: none;\n\tborder-radius: 0;\n}\n.main-sidebar .newsletter .letter-inner .form-inner a {\n\theight: 42px;\n\twidth: 100%;\n\tbackground: #F7941D;\n\tcolor: #fff;\n\tfont-size: 14px;\n\tdisplay: block;\n\ttext-align: center;\n\tline-height: 42px;\n\tmargin-top: 10px;\n\ttext-transform: uppercase;\n\tfont-weight: 500;\n}\n.main-sidebar .newsletter .letter-inner .form-inner a:hover{\n\tbackground:#333;\n\tcolor:#fff;\n}\n/* Blog Single CSS */\n.blog-single{\n\tbackground:#fff;\n\tpadding:70px 0 100px;\n}\n.blog-single .blog-single-main {\n\tmargin-top: 30px;\n\tbackground: #fff;\n}\n.blog-single .blog-detail {\n\tbackground: #fff;\n}\n.blog-single .image{\n\tposition:relative;\n}\n.blog-single .image img{\n\twidth:100%;\n\theight:100%;\n}\n.blog-single .blog-title {\n\tfont-size: 24px;\n\tfont-weight: 600;\n\ttext-transform: capitalize;\n\tmargin: 40px 0 15px 0;\n}\n.blog-single .blog-meta {\n\tmargin-bottom: 0;\n\toverflow: hidden;\n\tborder-bottom: 1px solid #dddddd6e;\n\tpadding-bottom: 20px;\n\tmargin-bottom: 25px;\n}\n.blog-single .blog-meta .author i {\n\tcolor: #F7941D;\n\tmargin-right: 10px;\n\tfont-size: 13px;\n}\n.blog-single .blog-meta .author a {\n\tfont-size: 13px;\n\tborder-right:1px solid #ddd;\n\tpadding:0px 15px;\n}\n.blog-single .blog-meta .author  a:first-child{\n\tpadding-left:0;\n}\n.blog-single .blog-meta .author  a:last-child{\n\tpadding-right:0;\n\tborder:none;\n}\n.blog-single .blog-meta span {\n\tdisplay: inline-block;\n\tfont-size: 14px;\n\tcolor: #666;\n}\n.blog-single .blog-meta span a i {\n\tmargin-right: 10px;\n\tcolor: #F7941D;\n}\n.blog-single .blog-meta span a:hover{\n\tcolor:#F7941D;\n}\n.blog-single .content p {\n\tmargin-bottom: 25px;\n\tline-height: 26px;\n}\n.blog-single .content p:last-child{\n\tmargin:0;\n}\n.blog-single blockquote {\n\tposition: relative;\n\tfont-size: 13px;\n\tfont-weight: 400;\n\tpadding-left: 20px;\n\tpadding: 10px 20px;\n\tbackground: #F6F6F6;\n\tpadding: 30px 40px 30px 70px;\n\tcolor: #555;\n\tborder: none;\n\tmargin-bottom: 25px;\n\tborder-left: 3px solid #F7941D;\n}\n.blog-single blockquote i {\n\tfont-size: 30px;\n\tcolor: #F7941D;\n\tposition: absolute;\n\tleft: 20px;\n\ttop: 20px;\n}\n.blog-single .content .img-post{\n\tmargin-bottom: 25px;\n}\n.blog-single .share-social .content-tags {\n\tposition: relative;\n\tmargin-top: 25px;\n}\n.blog-single .share-social .content-tags h4 {\n\tposition: absolute;\n\tleft: 0;\n\ttop: 7px;\n\tfont-size: 15px;\n\tfont-weight: 500;\n}\n.blog-single .share-social .content-tags .tag-inner{\n\tpadding-left:60px;\n}\n.blog-single .share-social .content-tags .tag-inner li {\n\tdisplay: inline-block;\n\tmargin-right: 7px;\n\tmargin-bottom: 10px;\n\tmargin-top: 4px;\n}\n.blog-single .share-social .content-tags .tag-inner li:last-child{\n\tmargin-right: 0px;\n\tmargin-bottom: 0px;\n}\n.blog-single .share-social .content-tags .tag-inner li a {\n\tborder-radius: 30px;\n\tpadding: 5px 15px;\n\tbackground:#f4f7fc;\n\tfont-size: 13px;\n}\n.blog-single .share-social .content-tags .tag-inner li a:hover{\n\tcolor:#fff;\n\tbackground:#F7941D;\n}\n/* Comments */\n.blog-single .comments{\n\tmargin-top:40px;\n}\n.blog-single .comments .comment-title {\n\tposition: relative;\n\tfont-size: 18px;\n\tfont-weight: 600;\n\ttext-transform: capitalize;\n\tmargin-bottom: 30px;\n\tdisplay: block;\n\tbackground: #fff;\n\tpadding-left: 12px;\n}\n.blog-single .comments .comment-title:before{\n\tposition: absolute;\n\tcontent: \"\";\n\tleft: 0;\n\tbottom: -1px;\n\theight: 100%;\n\twidth: 3px;\n\tbackground:#F7941D;\n}\n.blog-single .comments{\n\t\n}\n.blog-single .comments .single-comment {\n\tposition: relative;\n\tmargin-bottom: 40px;\n\tborder-radius: 5px;\n\tpadding-left: 95px;\n}\n.blog-single .comments .single-comment.left{\n\tmargin-left:110px;\n}\n.blog-single .comments .single-comment img {\n\theight: 70px;\n\twidth: 70px;\n\tborder-radius: 100%;\n\tposition: absolute;\n\tleft: 0;\n}\n.blog-single .single-comment .content {\n\t\n}\n.blog-single .single-comment .content h4 {\n\tcolor: #333;\n\tfont-size: 16px;\n\tfont-weight: 500;\n\tmargin-bottom: 10px;\n\tdisplay: inline-block;\n\tmargin-bottom: 18px;\n\ttext-transform: capitalize;\n}\n.blog-single .single-comment .content h4 span {\n\tdisplay: inline-block;\n\tfont-size: 13px;\n\tcolor: #8D8D8D;\n\tmargin: 0;\n\tfont-weight: 400;\n\ttext-transform: capitalize;\n\tdisplay: block;\n\tmargin-top: 5px;\n}\n.blog-single .single-comment .content p {\n\tcolor: #666;\n\tfont-weight: 400;\n\tdisplay: block;\n\tmargin: 0;\n\tmargin-bottom: 20px;\n\tline-height: 22px;\n}\n.blog-single .single-comment .content .button{}\n.blog-single .single-comment .content .btn {\n\tdisplay: inline-block;\n\tcolor: #666;\n\tfont-weight: 400;\n\tcolor: #6a6a6a;\n\tborder-radius: 4px;\n\ttext-transform: capitalize;\n\tfont-size: 14px;\n\tbackground: transparent;\n\tpadding: 0;\n}\n.blog-single .single-comment .content a i{\n\tdisplay:inline-block;\n\tmargin-right:5px;\n}\n.blog-single .single-comment .content a:hover{\n\tcolor:#F7941D;\n}\n/* Comment Form */\n.blog-single .reply form {\n\tpadding: 40px;\n\tborder: 1px solid #eee;\n}\n.blog-single .reply .reply-title {\n\tposition: relative;\n\tfont-size: 18px;\n\tfont-weight: 600;\n\ttext-transform: capitalize;\n\tmargin-bottom: 30px;\n\tdisplay: block;\n\tbackground: #fff;\n\tpadding-left: 12px;\n}\n.blog-single .reply .reply-title:before{\n\tposition: absolute;\n\tcontent: \"\";\n\tleft: 0;\n\tbottom: -1px;\n\theight: 100%;\n\twidth: 3px;\n\tbackground:#F7941D;\n}\n.blog-single .reply .form-group {\n\tmargin-bottom: 20px;\n}\n.blog-single .reply .form-group input {\n\twidth: 100%;\n\theight: 45px;\n\tline-height: 50px;\n\tpadding: 0 20px;\n\tborder-radius: 0px;\n\tcolor: #333 !important;\n\tborder: none;\n\tborder: 1px solid #eee;\n}\n.blog-single .reply .form-group textarea {\n\twidth: 100%;\n\theight: 200px;\n\tline-height: 50px;\n\tpadding: 0 20px;\n\tborder-radius: 0px;\n\tcolor: #333 !important;\n\tborder: none;\n\tborder: 1px solid #eee;\n}\n.blog-single .reply .form-group label {\n\tcolor: #333;\n\tposition: relative;\n}\n.blog-single .reply .form-group label span {\n\tcolor:#ff2c18;\n\tdisplay: inline-block;\n\tposition: absolute;\n\tright: -12px;\n\ttop: 4px;\n\tfont-size: 16px;\n}\n.blog-single .reply .button {\n\ttext-align: left;\n\tmargin-bottom:0px;\n}\n.blog-single .reply .button .btn {\n\theight: 50px;\n\tborder: none;\n}\n/*======================================\n   End Shop Blog CSS\n========================================*/\n\n\n/*======================================\n  21. Contact CSS\n========================================*/\n.contact-us {\n\tposition: relative;\n\tz-index: 43;\n}\n.contact-us .title{\n\tmargin-bottom: 30px;\n}\n.contact-us .title h4 {\n\tfont-size: 17px;\n\tfont-weight: 500;\n\tmargin-bottom: 5px;\n\tcolor: #F7941D;\n}\n.contact-us .title h3 {\n\tfont-size: 25px;\n\ttext-transform: capitalize;\n\tfont-weight: 600;\n}\n.contact-us .single-head {\n\tpadding: 50px;\n\tbox-shadow: 0px 0px 15px #0000001a;\n\theight: 100%;\n}\n.contact-us .single-info {\n\ttext-align: left;\n\tmargin-bottom:30px;\n}\n.contact-us .single-info i {\n\tcolor: #fff;\n\tfont-size: 18px;\n\tdisplay: inline-block;\n\tmargin-bottom: 15px;\n\theight: 40px;\n\twidth: 40px;\n\tdisplay: block;\n\ttext-align: center;\n\tborder-radius: 3px;\n\tline-height: 40px;\n\tbackground:#F7941D;\n}\n.contact-us .single-info ul\n.contact-us .single-info ul li{\n\tmargin-bottom:5px;\n}\n.contact-us .single-info ul li:last-child{\n\tmargin-bottom:0;\n}\n.contact-us .single-info ul li a{\n\tfont-weight:400;\n}\n.contact-us .single-info ul li a:hover{\n\tcolor:#F7941D;\n}\n.contact-us .single-info .title {\n\tmargin-bottom: 10px;\n\tfont-weight: 500;\n\tcolor: #333;\n\tfont-size: 18px;\n}\n.contact-us .form-main {\n\tbox-shadow: 0px 0px 15px #0000001a;\n\tpadding: 50px;\n}\n.contact-us .form .form-group input {\n\theight: 48px;\n\tline-height: 48px;\n\twidth: 100%;\n\tborder: 1px solid #e6e2f5;\n\tpadding: 0px 20px;\n\tcolor: #333;\n\tborder-radius: 0px;\n\tfont-weight: 400;\n}\n.contact-us .form .form-group textarea {\n\theight: 180px;\n\twidth: 100%;\n\tborder: 1px solid #e6e2f5;\n\tpadding: 15px 20px;\n\tcolor: #333;\n\tborder-radius: 0px;\n\tresize: none;\n\tfont-weight:400;\n}\n.contact-us .form .form-group label {\n\tcolor: #333;\n\tposition: relative;\n}\n.contact-us .form .form-group label span {\n\tcolor: #ff2c18;\n\tdisplay: inline-block;\n\tposition: absolute;\n\tright: -12px;\n\ttop: 4px;\n\tfont-size: 16px;\n}\n.contact-us .form .button {\n\tmargin:0;\n}\n.contact-us .form .button .btn {\n\theight: 50px;\n\tborder: none;\n}\n#myMap {\n\theight: 500px;\n\twidth: 100%;\n}\n/*======================================\n  End Contact CSS\n========================================*/\n\n/* Mail Success */\n.mail-success .mail-inner {\n\ttext-align: center;\n\tbackground: #fff;\n\tpadding: 0px 30px;\n}\n.mail-success .mail-inner h2 {\n\tmargin-bottom: 10px;\n\tdisplay: block;\n\tfont-weight: 600;\n\tcolor: #F7941D;\n\ttext-transform: uppercase;\n\tfont-size: 30px;\n}\n.mail-success .mail-inner p {\n\tfont-size: 14;\n\tcolor: #333;\n\tmargin-bottom: 30px;\n\tline-height: 22px;\n}\n.mail-success .mail-inner .btn {\n\tcolor: #fff;\n\tpadding: 10px 30px;\n}\n.mail-success .mail-inner .btn i{\n\tmargin-right:5px;\n}\n\n/*=============================\n\tStart 404 Error CSS\n===============================*/\n.error-page {\n\tbackground:#fff;\n\twidth: 100%;\n\theight: 100%;\n\toverflow: hidden;\n\tposition:relative;\n}\n.error-page .error-inner {\n\ttext-align: center;\n\tflex-direction: initial;\n\theight: auto;\n\ttext-align: center;\n}\n.error-page .error-inner h2 {\n\tcolor: #F7941D;\n\tmargin-bottom: 0;\n\tfont-weight: 700;\n\tfont-size: 100px;\n\tdisplay: inline-block;\n\tfont-size: 120px;\n}\n.error-page .error-inner h5 {\n\tdisplay: block;\n\tcolor: #444;\n\tfont-size: 20px;\n\tmargin-bottom: 20px;\n\tfont-weight: 600;\n\ttext-transform: capitalize;\n}\n.error-page .error-inner p {\n\tcolor: #666;\n\tfont-weight: 400;\n\tline-height: 22px;\n\tfont-size: 15px;\n\tpadding: 0 30px;\n}\n.error-page .button {\n\tmargin-top: 30px;\n}\n.error-page .button .btn {\n\tmargin-right: 15px;\n\tborder-radius: 30px;\n\tbackground: #333;\n\tcolor: #fff;\n\tfont-weight: 600;\n\tfont-size: 14px;\n\tfont-weight: 500;\n\tborder: 1px solid #d7d7d7;\n\tbackground: transparent;\n\tcolor: #333;\n\tpadding: 10px 28px;\n}\n.error-page .button .btn:hover{\n\tcolor:#fff;\n\tbackground:#F7941D;\n\tborder-color:transparent;\n}\n/*=============================\n\t/End 404 Error CSS\n===============================*/\n\n.free-version-banner {\n  position: relative;\n  background: #333;\n  text-align: center;\n  background-color: #F7941D;\n  margin-bottom:100px;\n}\n\n.free-version-banner .section-title span {\n  font-weight: 500;\n  text-transform: capitalize;\n}\n\n.free-version-banner .section-title {\n  margin: 0;\n  padding: 0;\n  text-align: center;\n}\n\n.free-version-banner .section-title h2 {\n  padding-bottom: 15px;\n}\n\n.free-version-banner .section-title h2::before {\n  background-color: #fff;\n}\n\n.free-version-banner .button {\n  z-index: 5;\n  margin-top: 40px;\n}\n\n.free-version-banner .button .btn {\n  background-color: #fff;\n  color: #333;\n  text-transform:capitalize;\n}\n\n/*=============================\n\t20. Start Footer CSS\n===============================*/\n.footer{\n\tbackground:#222;\n}\n.footer .about {\n\tpadding-right: 50px;\n}\n.footer .single-footer h4 {\n\tfont-size: 17px;\n\tfont-weight: 600;\n\tcolor: #fff;\n\ttext-transform: capitalize;\n\tmargin-bottom: 30px;\n}\n.footer .about .logo{\n\tmargin-bottom:20px;\n}\n.footer .about .logo img{}\n.footer .about .text{\n\tcolor:#fff;\n\tfont-weight: 400;\n}\n.footer .about .call {\n\tcolor: #fff;\n\tmargin-top: 15px;\n\tfont-weight: 400;\n}\n.footer .about .call span{\n\tdisplay: block;\n}\n.footer .about .call a {\n\tcolor: #f7941d;\n\tfont-size: 20px;\n\tfont-weight: 600;\n}\n.footer .links ul{}\n.footer .links ul li {\n\tdisplay: block;\n\tmargin-bottom: 8px;\n}\n.footer .links ul li:last-child{\n\tmargin-bottom:0;\n}\n.footer .links ul li a{\n\tcolor:#fff;\n\tfont-weight: 400;\n}\n.footer .links ul li a:hover{\n\tcolor:#F7941D;\n\tpadding-left:10px;\n}\n.footer .social{}\n.footer .social .contact{}\n.footer .social .contact ul{}\n.footer .social .contact ul li {\n\tcolor: #fff;\n\tdisplay: block;\n\tmargin-bottom: 4px;\n\tfont-weight: 400;\n}\n.footer .contact ul li:last-child{\n\tmargin-bottom:0;\n}\n.footer .social ul {\n\tmargin-top: 20px;\n}\n.footer .social ul li{\n\tdisplay:inline-block;\n\tmargin-right:25px;\n}\n.footer .social ul li:last-child{\n\tmargin-right:0;\n}\n.footer .social ul li a{\n\tcolor:#fff;\n\tdisplay:block;\n\tfont-size:16px;\n}\n.footer .social ul li a:hover{\n\tcolor:#F7941D;\n}\n/* Copyright */\n.footer .copyright{\n\t\n}\n.footer .copyright .inner{\n\tborder-top:1px solid #eeeeee3d;\n\tpadding:20px 0;\n}\n.footer .copyright .left{}\n.footer .copyright .right{\n\tfloat:right;\n}\n.footer .copyright p{\n\tcolor:#fff;\n}\n.footer .copyright p a{\n\tcolor:#fff;\n\ttext-decoration:underline;\n}\n/*=============================\n\tEnd Footer CSS\n===============================*/\n\n", ""]);
+___CSS_LOADER_EXPORT___.push([module.id, "/* =====================================\nTemplate Name: Eshop\nAuthor Name: Naimur Rahman\nAuthor URI: http://www.wpthemesgrid.com/\nDescription: Eshop - eCommerce HTML5 Template.\nVersion:1.0\n========================================*/\n/*======================================\n[ CSS Table of contents ]\n01. Preloader CSS\n02. Header CSS\n\t+ Logo\n\t+ Category Menu\n\t+ Main Menu\n03. Hero Area CSS\n04. Small Banner CSS\n05. Medium Banner CSS\n06. Single Product CSS\n07. Shop Sidebar CSS\n08. Shop Single CSS\n09. Shop Home List CSS\n10. Cart CSS\n11. Checkout CSS\n12. Login & Register CSS\n13. Cowndown CSS\n14. Shop Services CSS\n15. Newslatter CSS\n16. About Us CSS\n17. Team CSS\n18. Blog CSS\t\n\t+ Blog Archive\n\t+ Blog Sidebar\n\t+ Blog Single\n19. Contact CSS\n20. 404 Error CSS\n21. Footer CSS\n========================================*/\n.color-plate {\n\tposition: fixed;\n\tdisplay: block;\n\tz-index: 99998;\n\tpadding: 20px;\n\twidth: 245px;\n\tbackground: #fff;\n\tright: -245px;\n\ttext-align: left;\n\ttop: 30%;\n\ttransition:all 0.4s ease;\n\tbox-shadow: -3px 0px 25px -2px rgba(0, 0, 0, 0.2);\n}\n.color-plate.active{\n\tright:0;\n}\n.color-plate .color-plate-icon {\n\tposition: absolute;\n\tleft: -48px;\n\twidth: 48px;\n\theight: 45px;\n\tline-height: 45px;\n\tfont-size: 21px;\n\tborder-radius: 5px 0 0 5px;\n\tbackground: #fff;\n\ttext-align: center;\n\tcolor: #333;\n\ttop: 0;\n\tcursor: pointer;\n\tbox-shadow: -4px 0px 5px #00000036;\n}\n.color-plate h4 {\n\tdisplay: block;\n\tfont-size: 15px;\n\tmargin-bottom: 5px;\n\tfont-weight: 500;\n}\n.color-plate p {\n\tfont-size: 13px;\n\tmargin-bottom: 15px;\n\tline-height: 20px;\n}\n.color-plate span {\n\twidth: 42px;\n\theight: 35px;\n\tborder-radius: 0;\n\tcursor: pointer;\n\tdisplay: inline-block;\n\tmargin-right: 3px;\n}\n.color-plate span:hover{\n\tcursor:pointer;\n}\n.color-plate span.color1{\n\tbackground:#79cced;\n}\n.color-plate span.color2{\n\tbackground:#0088CC;\n}\n.color-plate span.color3{\n\tbackground:#32B87D;\n}\n.color-plate span.color4{\n\tbackground:#FE754A;\n}\n.color-plate span.color5{\n\tbackground:#F82F56;\n}\n.color-plate span.color6{\n\tbackground:#00cec9;\n}\n.color-plate span.color7{\n\tbackground:#6c5ce7;\n}\n.color-plate span.color8{\n\tbackground:#85BA46;\n}\n.color-plate span.color9{\n\tbackground:#fd79a8;\n}\n.color-plate span.color10{\n\tbackground:#a29bfe;\n}\n.color-plate span.color11{\n\tbackground:#badc58;\n}\n.color-plate span.color12{\n\tbackground:#FF1D38;\n}\n/* Preloader */\n.preloader {\n  position: fixed;\n  top: 0;\n  left: 0;\n  z-index: 999999999;\n  width: 100%;\n  height: 100%;\n  background-color: #fff;\n  overflow: hidden;\n}\n.preloader-inner {\n  position: absolute;\n  top: 50%;\n  left: 50%;\n  transform: translate(-50%,-50%);\n}\n.preloader-icon {\n  width: 100px;\n  height: 100px;\n  display: inline-block;\n  padding: 0px;\n}\n.preloader-icon span {\n  position: absolute;\n  display: inline-block;\n  width: 100px;\n  height: 100px;\n  border-radius: 100%;\n  background:#79cced;\n  -webkit-animation: preloader-fx 1.6s linear infinite;\n  animation: preloader-fx 1.6s linear infinite;\n}\n.preloader-icon span:last-child {\n  animation-delay: -0.8s;\n  -webkit-animation-delay: -0.8s;\n}\n@keyframes preloader-fx {\n  0% {transform: scale(0, 0); opacity:0.5;}\n  100% {transform: scale(1, 1); opacity:0;}\n}\n@-webkit-keyframes preloader-fx {\n  0% {-webkit-transform: scale(0, 0); opacity:0.5;}\n  100% {-webkit-transform: scale(1, 1); opacity:0;}\n}\n/* End Preloader */\n\n.btn {\n\tposition: relative;\n\tfont-weight: 500;\n\tfont-size:14px;\n\tcolor: #fff;\n\tbackground: #333;\n\tdisplay: inline-block;\n\ttransition: all 0.4s ease;\n\tz-index: 5;\n\tdisplay: inline-block;\n\tpadding: 13px 32px;\n\tborder-radius: 0px;\n\ttext-transform:uppercase;\n}\n.btn:hover{\n\tcolor:#fff;\n\tbackground:#79cced;\n}\n#scrollUp {\n\tright: 10px;\n\tz-index: 33;\n\tbottom: 10px;\n\ttext-align: center;\n}\n#scrollUp i{\n\theight: 40px;\n    width: 40px;\n    line-height: 40px;\n\tbackground:transparent;\n    background:#222;\n    border-radius: 0;\n\tfont-size: 18px;\n transition: all 500ms ease;\n\tdisplay:block;\n\tcolor: #fff;\n\tbox-shadow: 0px 4px 19px #00000038;\n}\n#scrollUp i:hover{\n\tbackground:#79cced;\n\tcolor:#fff;\n}\n/*======================================\n\t01. Header CSS\n========================================*/\n/* Topbar */\n.topbar {\n\tbackground-color: #fff;\n\tborder-bottom: 1px solid #e2e2e2;\n\tpadding: 15px 0;\n}\n/* Logo */\n.header .logo {\n\tfloat: left;\n\tmargin-top: 35px;\n\ttransition: all 0.4s ease;\n}\n.header .navbar {\n\tpadding: 0;\n}\n/* Main Menu */\n.navbar-expand-lg .navbar-collapse{\n\tdisplay:block !important;\n}\n.header.v3 .navbar-expand-lg .navbar-collapse{\n\tdisplay:block !important;\n\tbackground:#333;\n}\n.header .nav li a i {\n\tmargin-left: 6px;\n\tfont-size: 10px;\n}\n/* Dropdown Menu */\n.header .nav li .dropdown {\n\tbackground: #fff;\n\twidth: 220px;\n\tposition: absolute;\n\ttop: 100%;\n\tz-index: 999;\n\tbox-shadow: 0px 3px 5px #3333334d;\n\ttransform-origin: 0 0 0;\n\ttransform: scaleY(0.2);\n\ttransition: all 0.3s ease 0s;\n\topacity: 0;\n\tvisibility: hidden;\n\tpadding: 10px;\n\tleft: 0;\n\tmargin: 0;\n}\n.header .nav li:hover .dropdown{\n\topacity:1;\n\tvisibility:visible;\n\ttransform:translateY(0px);\n}\n.header .nav li .dropdown li{\n\tfloat:none;\n\tmargin:0;\n}\n.header .nav li .dropdown li a {\n\tpadding: 8px 15px;\n\tcolor: #666;\n\tdisplay: block;\n\tfont-weight: 400;\n\ttext-transform: capitalize;\n\tbackground: transparent;\n}\n.header .nav li .dropdown li a:before{\n\tdisplay:none;\n}\n.header .nav li .dropdown li:last-child a{\n\tborder-bottom:0px;\n}\n.header .nav li .dropdown li:hover a{\n\tcolor:#fff;\n\tbackground:#79cced;\n}\n.header .nav li .dropdown li a:hover{\n\tborder-color:transparent;\n}\n.header .nav li .dropdown li i {\n\tfloat: right;\n\tmargin-top: 8px;\n\tfont-size:10px;\n\tz-index:5;\n}\n.header .nav li .dropdown.sub-dropdown {\n\tbackground: #fff;\n    width: 220px;\n    position: absolute;\n    left: 186px;\n    top: 0;\n    z-index: 999;\n\tbox-shadow: 0px 3px 10px rgba(0, 0, 0, 0.2);\n\tbox-shadow: 0px 3px 5px #3333334d;\n    transform-origin: 0 0 0;\n    transform: scaleY(0.2);\n    transition: all 0.3s ease 0s;\n    opacity: 0;\n    visibility: hidden;\n    padding: 10px;\n}\n.header .nav li .dropdown li:hover .dropdown.sub-dropdown{\n\topacity:1;\n\tvisibility:visible;\n\ttransform:translateY(0px);\n}\n.header .nav li .dropdown.sub-dropdown li a{\n\tpadding: 8px 15px;\n\tcolor: #666;\n\tdisplay: block;\n\tfont-weight: 400;\n\ttext-transform: capitalize;\n\tbackground: transparent;\n}\n.header .nav li .dropdown li:hover .dropdown.sub-dropdown li a{\n\tbackground:transparent;\n}\n.header .nav li .dropdown li .dropdown.sub-dropdown li a:hover{\n\tcolor:#fff;\n\tbackground:#79cced;\n}\n.header .nav li .dropdown.sub-dropdown li:last-child a{\n\tborder-bottom:0px solid;\n}\n.mobile-search{\n\tdisplay:none;\n}\n.header.shop .topbar {\n\tborder: none;\n\tpadding: 12px 0px;\n}\n.header.shop .nav-inner {\n\tmargin-right: 188px;\n}\n.header.shop .logo {\n\tfloat: left;\n\tmargin-top: 35px;\n}\n.header.shop .top-contact {\n\tmargin-top:0px;\n}\n.header.shop .topbar p {\n\tcolor: #ccc;\n}\n.header.shop .topbar .login a {\n\tcolor: #79cced;\n}\n/* Topbar Left Nav */\n.header.shop .left-nav{\n\t\n}\n.header.shop .top-left .list-main li:first-child{\n\tpadding-left:0;\n}\n.header.shop .top-left .list-main li i{\n\tdisplay: inline-block;\n\tmargin-right: 4px;\n\tfont-size: 15px;\n\tcolor: #79cced;\n\tposition: relative;\n\ttop: 3px;\n}\n.header.shop .right-content{\n\tfloat:right;\n}\n.header.shop .list-main li {\n\tdisplay: inline-block;\n\tcolor: #333;\n\tfont-size: 13px;\n\tfont-weight: 500;\n\tborder-right: 1px solid #f0f0f0;\n\tpadding: 0px 13px;\n}\n.header.shop .list-main li i {\n\tdisplay: inline-block;\n\tmargin-right: 4px;\n\tfont-size: 15px;\n\tcolor: #79cced;\n\tposition: relative;\n\ttop: 1px;\n}\n.header.shop .list-main li:last-child{\n\tpadding-right:0;\n\tborder:none;\n}\n.header.shop .list-main li a{\n\tcolor:#333;\n}\n.header.shop .list-main li a:hover{\n\tcolor:#79cced;\n}\n.header.shop .nav li {\n\tmargin-right: 40px;\n\tfloat: left;\n\tposition: relative;\n}\n.header.shop .nav li {\n\tmargin-right: 38px;\n\tposition: relative;\n}\n.header.shop .nav li:last-child {\n\tmargin: 0 !important;\n}\n.header.shop .nav li .new {\n\tbackground: #79cced;\n\tcolor: #fff;\n\ttext-transform: uppercase;\n\tfont-size: 10px;\n\tpadding: 0px 9px;\n\tposition: absolute;\n\tleft: 0;\n\ttop: 6px;\n\tfont-weight: 500;\n}\n.header.shop .nav li .new::before {\n\tposition: absolute;\n\tcontent: \"\";\n\tleft: 4px;\n\tbottom: -8px;\n\tborder: 4px solid #79cced;\n\tborder-bottom-color: transparent;\n\tborder-left-color: transparent;\n\tborder-right-color: transparent;\n}\n/* Shopping Cart */\n.header .shopping {\n\tdisplay: inline-block;\n\tz-index: 9999;\n}\n.header .shopping .icon {\n\tposition: relative;\n\tcursor:pointer;\n\tcolor:#222;\n}\n.header .shopping .shopping-item {\n\tposition: absolute;\n\ttop: 68px;\n\tright: 0;\n\twidth: 300px;\n\tbackground: #fff;\n\tpadding: 20px 25px;\n\ttransition: all 0.3s ease 0s;\n\ttransform: translateY(10px);\n\tbox-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);\n\topacity:0;\n\tvisibility:hidden;\n\tz-index:99;\n}\n.header .shopping:hover .shopping-item{\n\ttransform: translateY(0px);\n\topacity:1;\n\tvisibility:visible;\n}\n.header .shopping .dropdown-cart-header{\n\tpadding-bottom: 10px;\n    margin-bottom: 15px;\n\tborder-bottom:1px solid #e6e6e6;\n}\n.header .shopping .dropdown-cart-header span {\n\ttext-transform: uppercase;\n\tcolor: #222;\n\tfont-size: 13px;\n\tfont-weight: 600;\n}\n.header .shopping .dropdown-cart-header a {\n\tfloat: right;\n\ttext-transform: uppercase;\n\tcolor: #222;\n\tfont-size: 13px;\n\tfont-weight: 600;\n}\n.header .shopping .dropdown-cart-header a:hover{\n\tcolor:#79cced;\n}\n.header .shopping-list li {\n\toverflow: hidden;\n\tborder-bottom: 1px solid #e6e6e6;\n\tpadding-bottom: 15px;\n\tmargin-bottom: 15px;\n\tposition:relative;\n}\n.header .shopping-list li .remove {\n\tposition: absolute;\n\tleft: 0;\n\tbottom: 16px;\n\tmargin-top: -20px;\n\theight: 20px;\n\twidth: 20px;\n\tline-height: 18px;\n\ttext-align: center;\n\tbackground: #fff;\n\tcolor: #222;\n\tborder-radius: 0;\n\tfont-size: 11px;\n\tborder: 1px solid #ededed;\n}\n.header .shopping-list li .remove:hover{\n\tbackground:#222;\n\tcolor:#fff !important;\n\tborder-color:transparent;\n}\n.header .shopping-list .cart-img {\n\tfloat: right;\n\tborder: 1px solid #ededed;\n\toverflow:hidden;\n}\n.header .shopping-list .cart-img img {\n\twidth: 70px;\n\theight: 70px;\n\tborder-radius:0;\n\t\n}\n.header .shopping-list .cart-img:hover img{\n\ttransform:scale(1.09);\n}\n.header .shopping-list .quantity{\n\tline-height: 22px;\n    font-size: 13px;\n\tpadding-bottom: 30px;\n}\n.header .shopping-list h4 {\n\tfont-size: 14px;\n}\n.header .shopping-list h4 a {\n\tfont-weight: 600;\n\tfont-size: 13px;\n\tcolor: #333;\n}\n.header .shopping-list h4 a:hover{\n\tcolor:#79cced;\n}\n.header .shopping-item .bottom {\n\ttext-align: center;\n}\n.header .shopping-item .total {\n\toverflow:hidden;\n\tdisplay: block;\n    padding-bottom: 10px;\n}\n.header .shopping-item .total span {\n\ttext-transform:uppercase;\n\tcolor:#222;\n\tfont-size:13px;\n\tfont-weight:600;\n\tfloat:left;\n}\n.header .shopping-item .total .total-amount {\n\tfloat:right;\n\tfont-size:14px;\n}\n.header .shopping-item .bottom .btn {\n\tbackground: #222;\n\tpadding: 10px 20px;\n\tdisplay: block;\n\tcolor: #fff;\n\tmargin-top: 10px;\n\tborder-radius: 0px;\n\ttext-transform: uppercase;\n\tfont-size: 14px;\n\tfont-weight: 500;\n}\n.header .shopping-item .bottom .btn:hover{\n\tbackground:#79cced;\n\tcolor:#fff;\n}\n.header.shop{\n\tbackground:#fff;\n}\n.header.shop .nav-inner {\n\tmargin: 0;\n\tfloat: left;\n}\n.header.shop .topbar {\n\tbackground-color: #fff;\n\tborder: none;\n}\n.header.shop.v3 .topbar{\n\tpadding:0;\n}\n.header.shop.v3 .topbar .inner-content{\n\tborder-bottom:1px solid #eee;\n\tpadding: 12px 0px;\n}\n.header.shop .right-nav li a {\n\tcolor: #333;\n}\n.header.shop .logo {\n\tfloat: left;\n\tmargin: 19px 0 0;\n}\n.header.shop .top-contact {\n\tmargin-top:0px;\n}\n/* Header Middle */\n.header.shop .search-bar-top {\n\ttext-align: center;\n\tmargin-top: 10px;\n}\n.header.shop .search-bar {\n\tmargin-top: 33px;\n\twidth: 460px;\n\theight: 40px;\n\tdisplay: inline-block;\n\tbackground: #fff;\n\tposition: relative;\n}\n.header.shop .search-bar {\n\twidth: 535px;\n\theight: 50px;\n\tdisplay: inline-block;\n\tbackground: #fff;\n\tposition: relative;\n\tmargin: 0;\n\tline-height: 45px;\n\tborder-radius: 5px;\n\tborder: 1px solid #ececec;\n}\n.header.shop .nice-select {\n\tclear: initial;\n\tmargin: 0;\n\theight: 48px;\n\twidth: 150px;\n\tborder: none;\n\ttext-align: center;\n\tbackground: transparent;\n\ttext-transform: capitalize;\n\tpadding: 0 0 0 20px;\n\tborder-right: 1px solid #eee;\n\tline-height: 50px;\n\tfont-size: 14px;\n\tfont-weight: 400;\n}\n.header.shop .nice-select::after {\n\tborder-color: #666;\n\tright: 20px;\n}\n.header.shop .nice-select .list {\n\tborder-radius:0px;\n}\n.header.shop .nice-select .list li.focus{\n\tfont-weight:400;\n}\n.header.shop .nice-select .list li {\n\tcolor: #666;\n\tborder-radius: 0px;\n\tfont-size: 14px;\n\tfont-weight: 400;\n}\n.header.shop .nice-select .list li:hover{\n\tbackground:#79cced;\n\tcolor:#fff;\n}\n.header.shop .search-bar form {\n\tdisplay: inline-block;\n\tfloat: left;\n\twidth: 260px;\n}\n.header.shop .search-bar input {\n\theight: 48px;\n\tbackground: transparent;\n\tcolor: #666;\n\tborder-radius: 0;\n\tborder: none;\n\tfont-size: 14px;\n\tfont-weight: 400;\n\tpadding: 0 25px 0 20px;\n\twidth: 328px;\n}\n.header.shop .search-bar .btnn {\n\theight: 50px;\n\tline-height: 53px;\n\twidth: 62px;\n\ttext-align: center;\n\tfont-size: 18px;\n\tcolor: #fff;\n\tbackground: #333333;\n\tposition: absolute;\n\tright: -2px;\n\ttop: -1px;\n\tborder: none;\n\tborder-radius: 0 5px 5px 0;\n\ttransition: all 0.4s ease;\n}\n.header.shop .search-bar .btnn:hover{\n\tcolor:#fff;\n\tbackground:#79cced;\n}\n/* Search Form */\n.header.shop .search-top {\n\topacity: 1;\n\tvisibility: visible;\n\ttop: 0;\n\tbackground: transparent;\n\tborder: none;\n\tbox-shadow: none;\n\tpadding: 0;\n\ttop: 0;\n}\n.header.shop .middle-inner {\n\tpadding: 20px 0;\n\tbackground: #fff;\n\tborder-top: 1px solid #eee;\n}\n.header.shop.v3 .middle-inner {\n\tborder:none;\n}\n.header.shop .header-inner {\n\tbackground: white;\n\t/* background: #eee; */\n\t/* background: #333; */\n}\n.header.shop.v3 .header-inner {\n\tbackground: transparent;\n}\n.header.shop.v2 .header-inner {\n\tbackground: #fff;\n\tborder-top:1px solid #eee;\n}\n.header.shop .topbar p {\n\tcolor: #333;\n}\n.header.shop .all-category {\n\tcolor: #fff;\n\tbackground: transparent;\n\tposition: relative;\n\tbackground: #79cced;\n}\n.header.shop .all-category h3{\n\tpadding: 20px 25px;\n}\n.header.shop .cat-heading {\n\tfont-size: 20px;\n\tcolor: #fff;\n}\n.header.shop .cat-heading i {\n\tcolor: #fff;\n\tdisplay: inline-block;\n\tmargin-right: 15px;\n\tfont-size: 22px;\n}\n.header.shop .main-category {\n\tposition: absolute;\n\tleft: 0;\n\ttop: 64px;\n\tbackground: #fff;\n\tz-index: 1;\n\twidth: 100%;\n\tbox-shadow: 0px 5px 15px #0000000a;\n}\n.header.shop .main-category li{\n\tdisplay:block;\n\tborder-bottom:1px solid #f6f6f6;\n\tposition:relative;\n}\n.header.shop .main-category li:last-child{\n\tborder:none;\n}\n.header.shop .main-category li a {\n\tfont-size: 14px;\n\tfont-weight: 600;\n\tcolor: #333;\n\tpadding: 13px 25px 13px 25px;\n\tdisplay: block;\n\ttext-transform: uppercase;\n}\n.header.shop .main-category li a i{\n\tdisplay:inline-block;\n\tfloat:right;\n}\n.header.shop .sub-category {\n\tbackground: #fff;\n\twidth: 220px;\n\tposition: absolute;\n\tleft: 238px;\n\ttop: 0;\n\tz-index: 999999;\n\topacity: 0;\n\tvisibility: hidden;\n\ttransition: all 0.4s ease;\n\tborder-left: 3px solid #79cced;\n\tbox-shadow: 0px 5px 15px #0000000a;\n}\n.header.shop .main-category li:hover .sub-category{\n\topacity:1;\n\tvisibility:visible;\n}\n.header.shop .main-category li a{\n\ttext-transform:capitalize;\n\tfont-weight:400;\n}\n.header.shop .main-category li a:hover{\n\tcolor:#79cced;\n}\n.header.shop .main-category .main-mega{\n\tposition:relative;\n}\n.header.shop .main-category li .mega-menu {\n\twidth: 850px;\n\tdisplay: inline-block;\n\theight: auto;\n\tposition: absolute;\n\tleft: 238px;\n\ttop: 0;\n\tz-index: 99999;\n\tbackground: #fff;\n\tborder: none;\n\tpadding: 30px;\n\tborder-left: 3px solid #79cced;\n\topacity:0;\n\tvisibility:hidden;\n\ttransition:all 0.4s ease;\n}\n.header.shop .main-category li:hover .mega-menu{\n\topacity:1;\n\tvisibility:visible;\n}\n.header.shop .main-category li .mega-menu .single-menu {\n\twidth: 33%;\n\tdisplay: inline-block;\n\tborder: none;\n\tpadding: 0;\n\tpadding-right: 20px;\n}\n.header.shop .main-category li .mega-menu .single-menu a{\n\tpadding:0;\n}\n.header.shop .main-category li .mega-menu .single-menu .image{\n\toverflow:hidden;\n}\n.header.shop .main-category li .mega-menu .single-menu img{\n\tdisplay:block;\n\theight:100%;\n\twidth:100%;\n\tcursor:pointer;\n}\n.header.shop .main-category li .mega-menu .single-menu .image:hover img{\n\ttransform:scale(1.1);\n}\n.header.shop .main-category li .mega-menu .single-menu .title-link {\n\tmargin-bottom: 20px;\n\tbackground: #79cced;\n\tcolor: #fff;\n\tpadding: 2px 13px;\n\tborder-radius: 3px;\n\tdisplay: inline-block;\n\tfont-size: 14px;\n}\n.header.shop .main-category li .mega-menu .single-menu .title-link:hover{\n\tbackground:#333;\n\tcolor:#fff;\n}\n.header.shop .main-category li .mega-menu .single-menu .inner-link{\n\tmargin-top:25px;\n}\n.header.shop .main-category li .mega-menu .single-menu .inner-link a{\n\tmargin-bottom:10px;\n}\n.header.shop .main-category li .mega-menu .single-menu .inner-link a:hover{\n\tcolor:#79cced;\n\tbackground:transparent;\n}\n.header.shop .main-category li .mega-menu .single-menu .inner-link a:last-child{\n\tmargin-bottom:0px;\n}\n.header.shop .menu-origin {\n\tfloat:none;\n\tdisplay: inline-block;\n\tfloat: right;\n}\n.header.shop .nav li {\n\tmargin-right: 40px;\n\tfloat: left;\n\tposition: relative;\n}\n.header.shop .nav li {\n\tmargin-right:5px;\n\tposition: relative;\n\tfloat: none;\n}\n.header.shop .nav li:last-child{\n\tmargin-right:0;\n}\n.header.shop .nav li .new {\n\tbackground: #79cced;\n\tcolor: #fff;\n\ttext-transform: uppercase;\n\tfont-size: 9px;\n\tposition: absolute;\n\tleft: 21px;\n\ttop: 2px;\n\tfont-weight: 500;\n\theight: 18px;\n\tline-height: 18px;\n\ttext-align: center;\n\tdisplay: block;\n}\n.header.shop.v2 .nav li a{\n\tcolor:#333;\n}\n.header.shop .nav li a {\n\tcolor: #fff;\n\ttext-transform: capitalize;\n\tfont-size: 15px;\n\tpadding: 20px 15px;\n\tfont-weight: 500;\n\tdisplay: block;\n\tposition: relative;\n\ttransition: all 0.4s ease;\n}\n.header.shop .nav li:hover a{\n\tcolor:#fff;\n\tbackground:#79cced;\n}\n.header.shop.v2 .nav li:hover a{\n\tcolor:#79cced;\n\tbackground:transparent;\n}\n.header.shop .nav li.active a{\n\tcolor:#fff;\n\tbackground:#79cced;\n}\n.header.shop.v2 .nav li.active a{\n\tcolor:#333 !important;\n\tbackground:transparent !important;\n}\n.header.shop.v2 .nav li.active a{\n\tcolor:#79cced !important;\n}\n.header.shop .nav .dropdown li{\n\tmargin:0;\n}\n.header.shop .nav li .dropdown li:hover a{\n\tbackground:#79cced;\n}\n.header.shop.v2 .nav li.active .dropdown li a{\n\tcolor:#333 !important;\n}\n.header.shop.v2 .nav li.active .dropdown li a:hover{\n\tcolor:#fff !important;\n\tbackground:#79cced !important;\n}\n.header.shop.v2 .nav li.active .dropdown li a:hover{\n\tcolor:#fff !important;\n}\n.header.shop.v2 .nav li .dropdown li:hover a{\n\tcolor:#79cced;\n}\n.header.shop .nav li .dropdown li a {\n\tcolor: #333;\n\tpadding: 8px 15px;\n\tfont-weight: 400;\n\tbackground:#fff;\n}\n.header.shop.v2 .nav li .dropdown li a {\n\tcolor: #333;\n\tbackground:#fff;\n}\n.header.shop .nav li .dropdown li a {\n\tfont-weight: 400;\n\tfont-size: 14px;\n}\n.header.shop .nav li .dropdown li a:hover{\n\tcolor:#fff;\n}\n.header.shop.v2 .nav li .dropdown li a:hover{\n\tcolor:#fff !important;\n\tbackground:#79cced;\n}\n.header.shop .nav li .dropdown li .dropdown.sub-dropdown li a:hover{\n\tbackground:#79cced;\n}\n.header.shop .right-bar {\n\tdisplay: inline-block;\n\tpadding: 0;\n\tmargin: 0;\n\ttop: 20px;\n\tfloat: right;\n\tposition: relative;\n}\n.header.shop .right-bar .sinlge-bar.top-search a {\n\ttransform: translateY(3px);\n}\n.header.shop .right-bar .sinlge-bar.top-search a:hover {\n\tcolor:#79cced;\n}\n.header.shop .right-bar .sinlge-bar .single-icon{\n\tcolor:#333;\n\tfont-size:20px;\n\tposition:relative;\n}\n.header.shop .right-bar .sinlge-bar .single-icon:hover{\n\tcolor:#79cced;\n}\n.header.shop .right-bar .sinlge-bar .single-icon .total-count {\n\tposition: absolute;\n\ttop: -7px;\n\tright: -8px;\n\tbackground: #f6931d;\n\twidth: 18px;\n\theight: 18px;\n\tline-height: 18px;\n\ttext-align: center;\n\tcolor: #fff;\n\tborder-radius: 100%;\n\tfont-size: 11px;\n}\n.header.shop .right-bar .sinlge-bar{\n\tdisplay:inline-block;\n\tmargin-right:25px;\n}\n.header.shop .right-bar .sinlge-bar:last-child{\n\tmargin-right:0px;\n}\n.header.shop .right-bar .sinlge-bar li a:hover{\n\tcolor:#79cced;\n}\n.mobile-search{\n\tdisplay:none;\n}\n/* Header Search */\n/* Search */\n.header .search-top{\n\tdisplay:none;\n}\n.header .search-top a{\n\tfont-size:17px;\n}\n.header .search-top a:hover{\n\tcolor:#79cced;\n}\n.header .search-form {\n\tposition: absolute;\n\tleft: -128px;\n\tz-index: 9999;\n\topacity: 0;\n\tvisibility: hidden;\n\ttransition: all 0.5s ease;\n\ttop: 46px;\n\tbackground: #ffffff75;\n\tpadding: 7px;\n\tborder-radius: 5px;\n\ttransform: scaleY(0);\n\tbox-shadow: 0px 4px 7px #0000003b;\n\tpadding: 0;\n\tborder-radius: 0;\n}\n.header .search-top.active .search-form {\n\topacity:1;\n\tvisibility:visible;\n\ttransform: scaleY(1);\n}\n.header .search-form input {\n\twidth: 220px;\n\theight: 45px;\n\tline-height: 45px;\n\tpadding: 0 60px 0 15px;\n\ttransition: all 0.4s ease;\n\tborder-radius: 3px;\n\tborder: none;\n\tbackground: #fff;\n\tcolor: #333;\n\tborder-radius: 0;\n}\n.header .search-form button {\n\tposition: absolute;\n\tright: 0;\n\theight: 45px;\n\ttop: 0;\n\twidth: 45px;\n\tbackground: transparent;\n\tborder: none;\n\tcolor: #3353ea;\n\tborder-radius: 0 3px 3px 0;\n\tborder-radius: 0;\n\tborder-left: 1px solid #eee;\n\tfont-size: 15px;\n\tcolor: #333;\n\ttransition: all 0.4s ease;\n}\n.header .search-form button:hover{\n\tcolor:#fff;\n\tbackground:#79cced;\n\tborder-color:transparent;\n}\n/* Header Sticky */\n.header .header-inner{\n\twidth:100%;\n\tz-index:999;\n}\n.header.sticky .all-category{}\n.header.sticky .all-category h3{\n\tcursor:pointer;\n\t\n}\n.header.sticky .all-category .main-category{\n\topacity:0;\n\tvisibility:hidden;\n\ttransition:all 0.4s ease;\n}\n.header.sticky .all-category:hover .main-category{\n\topacity:1;\n\tvisibility:visible;\n}\n/* .header.sticky .header-inner .nav li a {\n\tcolor: #333;\n} */\n.header.sticky.v3 .header-inner .nav li a {\n\tcolor: #fff;\n}\n.header.sticky .header-inner .nav li:hover a{\n\tcolor:#fff;\n}\n.header.sticky.v2 .header-inner .nav li:hover a{\n\tcolor:#79cced;\n}\n.header.sticky .header-inner .nav li .dropdown li a{\n\tcolor:#333;\n}\n.header.sticky.v2 .header-inner .nav li .dropdown li a{\n\tcolor:#333;\n}\n.header.sticky .header-inner .nav li .dropdown li a:hover{\n\tcolor:#fff;\n}\n.header.sticky .header-inner .nav li.active a {\n\tcolor: #fff;\n}\n.header.sticky .header-inner{\n\tposition:fixed;\n\ttop:0;\n\tleft:0;\n\tbackground:#fff;\n\t-webkit-animation: fadeInDown 1s both 0.2s;\n\t        animation: fadeInDown 1s both 0.2s;\n\tbox-shadow:0px 0px 10px rgba(0, 0, 0, 0.3);\n\tz-index:999;\n}\n.header.sticky.v3 .header-inner{\n\tbox-shadow:none;\n}\n.header.sticky.v3 .navbar-expand-lg .navbar-collapse{\n\t-webkit-animation: fadeInDown 1s both 0.2s;\n\t        animation: fadeInDown 1s both 0.2s;\n\tbox-shadow:0px 0px 10px rgba(0, 0, 0, 0.3);\n}\n/*======================================\n\tEnd Header CSS\n========================================*/\n\n/*======================================\n   Hero Area CSS\n========================================*/ \n.hero-slider {\n\tbackground: #fff;\n\toverflow: hidden;\n}\n.hero-slider .single-slider {\n\t/* height: auto; */\n\t/* background-image: url('https://previews.123rf.com/images/mitdesign/mitdesign2008/mitdesign200800036/153797974-ad-banner-for-simple-beauty-products-mock-ups-decorated-with-natural-leaves-and-cream-strokes-concep.jpg'); */\n\tbackground-image: url(" + ___CSS_LOADER_URL_REPLACEMENT_0___ + ");\n\t/* background-image: url('https://via.placeholder.com/1900x700'); */\n\tbackground-size: cover;\n\tbackground-position: center;\n\tbackground-repeat: no-repeat;\n    height: 510px;\n}\n.hero-slider .text-inner {\n\t\n}\n.hero-slider .hero-text {\n\tpadding: 0 30px;\n\tmargin-top:100px;\n}\n.hero-slider .hero-text h1 {\n\tline-height: 50px;\n\tfont-size: 47px;\n\tfont-weight: 700;\n\tcolor: #79cced;\n\tmargin-bottom: 20px;\n}\n.hero-slider .hero-text h1 span {\n\tfont-size: 20px;\n\tdisplay: block;\n\tmargin-bottom: 12px;\n\tcolor: #333;\n\tfont-weight: 700;\n\tline-height: initial;\n}\n.hero-slider .hero-text p {\n\tcolor: #333;\n\tmargin-bottom: 35px;\n}\n.hero-slider .hero-text .button{\n\tmargin:0;\n}\n.hero-slider .hero-text .btn {\n\tcolor: #fff;\n\tbackground: #333;\n\tpadding: 13px 30px;\n\tline-height: initial;\n\tborder: none;\n\theight: auto;\n\tz-index: 0;\n}\n.hero-slider .hero-text .btn:hover{\n\tbackground:#79cced;\n\tcolor:#fff;\n}\n/* Start Hero Area 2 CSS */\n.hero-area2{\n\tposition:relative;\n}\n.hero-area2 .single-slider.overlay:before{\n\tbackground:#79cced;\n\topacity:0;\n\tvisibility:hidden;\n\ttransform:scale(0.9);\n}\n.hero-area2 .single-slider.overlay:hover:before{\n\topacity:0.9;\n\tvisibility:visible;\n\ttransform:scale(1);\n}\n.hero-area2 .single-slider{\n\theight:500px;\n\tposition:relative;\n\tbackground-size:cover;\n\tbackground-position:center;\n\tbackground-repeat:no-repeat;\n}\n.hero-area2 .single-slider .content{\n\tposition:relative;\n}\n.hero-area2 .single-slider .content {\n\twidth: 100%;\n\tpadding: 15px;\n\tz-index: 2;\n\ttransition:all 0.4s ease;\n\ttext-align: center;\n\tpadding-top: 120px;\n\topacity:0;\n\tvisibility:hidden;\n\ttransform:scale(1.1);\n}\n.hero-area2 .single-slider:hover .content{\n\topacity:1;\n\tvisibility:visible;\n\ttransform:scale(1);\n}\n.hero-area2 .single-slider .content .sub-title{\n\tcolor:#fff;\n\ttext-transform: uppercase;\n\tfont-size:15px;\n\tfont-weight:500;\n}\n.hero-area2 .single-slider .content .title {\n\tcolor: #fff;\n\ttext-transform: uppercase;\n\tfont-size: 24px;\n\tdisplay: block;\n\tmargin-top: 10px;\n\tmargin-bottom: 10px;\n}\n.hero-area2 .single-slider .content .des{\n\tcolor:#fff;\n}\n.hero-area2 .single-slider .content .button{}\n.hero-area2 .single-slider .content .button .btn {\n\tpadding: 9px 25px;\n\tborder: 2px solid #fff;\n\tbackground: transparent;\n\tcolor: #fff;\n\tmargin-top: 25px;\n}\n.hero-area2 .single-slider .content .button .btn:hover{\n\tbackground:#fff;\n\tcolor:#333;\n\tborder-color:transparent;\n}\n/* Owl Nav CSS */\n.hero-area2 .owl-carousel .owl-nav {\n\tmargin: 0;\n    position: absolute;\n    top: 50%;\n    width: 100%;\n\tmargin-top:-30px;\n}\n.hero-area2 .owl-carousel .owl-nav div {\n\theight: 60px;\n\twidth: 40px;\n\tline-height: 60px;\n\ttext-align: center;\n\tbackground: #333;\n\tcolor: #fff;\n\tfont-size: 14px;\n\tposition: absolute;\n\tmargin: 0;\n\ttransition: all 0.4s ease;\n\tpadding: 0;\n\tborder-radius: 0;\n}\n.hero-area2 .owl-carousel .owl-nav div:hover{\n\tbackground:#79cced;\n\tcolor:#fff;\n}\n.hero-area2 .owl-carousel .owl-controls .owl-nav .owl-prev{\n\tleft:0;\n}\n.hero-area2 .owl-carousel .owl-controls .owl-nav .owl-next{\n\tright:0;\n}\n/* Hero Area 3 */\n.hero-area3{}\n.hero-area3 .big-content{\n\tbackground-image: url('https://via.placeholder.com/850x530');\n\tbackground-size: cover;\n\tbackground-position: center;\n\tbackground-repeat: no-repeat;\n    height: 511px;\n\tmargin-top:30px;\n\tposition:relative;\n}\n.hero-area3 .big-content .inner {\n\tposition: absolute;\n\tright: 0;\n\ttop: 50%;\n\tpadding: 0 50px 0 360px;\n\ttransform: translateY(-50%);\n}\n.hero-area3 .big-content .title {\n\tfont-size: 28px;\n\tmargin-bottom: 20px;\n\tfont-weight: 700;\n\ttext-transform: capitalize;\n\tline-height: 37px;\n}\n.hero-area3 .big-content .title span{\n\tcolor:#79cced;\n}\n.hero-area3 .big-content .des{}\n.hero-area3 .big-content .button{\n\tmargin-top:40px;\n\tdisplay:block;\n}\n.hero-area3 .big-content .button .btn{\n\tcolor:#fff;\n}\n\n.hero-area3 .small-content{\n\theight:240px;\n\tbackground-size: cover;\n\tbackground-position: center;\n\tbackground-repeat: no-repeat;\n\tmargin-top:30px;\n\tposition:relative;\n}\n.hero-area3 .small-content.first{\n\tbackground-image: url('https://via.placeholder.com/450x300');\n}\n.hero-area3 .small-content.secound{\n\tbackground-image: url('https://via.placeholder.com/450x300');\n}\n.hero-area3 .small-content .inner {\n\tpadding: 30px;\n\ttext-align:right;\n\tposition:absolute;\n\tright:0;\n\tbottom:0;\n}\n.hero-area3 .small-content .title {\n\tfont-size: 18px;\n\tmargin-bottom: 20px;\n\tfont-weight: 600;\n\ttext-transform: capitalize;\n}\n.hero-area3 .small-content .title span{\n\tcolor:#79cced;\n}\n.hero-area3 .small-content .des{}\n.hero-area3 .small-content .button{\n\tmargin-top:10px;\n\tdisplay:block;\n}\n.hero-area3 .small-content .button .btn {\n\tbackground: transparent;\n\tpadding: 0;\n\tcolor: #333;\n\tborder-bottom: 2px solid #333;\n\tfont-size: 13px;\n}\n.hero-area3 .small-content .button .btn:hover{\n\tcolor:#79cced;\n\tborder-color:#79cced;\n}\n/* Hero Area 4 */\n.hero-area4 .big-content{\n\t\n\tbackground-size: cover;\n\tbackground-position: center;\n\tbackground-repeat: no-repeat;\n    height: 510px;\n\tmargin-top:30px;\n\tposition:relative;\n}\n.hero-area4 .big-content .inner {\n\tposition: absolute;\n\tright: 0;\n\ttop: 50%;\n\tpadding: 0 80px 0 50px;\n\ttransform: translateY(-50%);\n}\n.hero-area4 .big-content .title {\n\tfont-size: 32px;\n\tmargin-bottom: 20px;\n\tfont-weight: 700;\n\ttext-transform: capitalize;\n\tline-height: 35px;\n}\n.hero-area4 .big-content .title span{\n\tcolor:#79cced;\n}\n.hero-area4 .big-content .des{}\n.hero-area4 .big-content .button{\n\tmargin-top:40px;\n\tdisplay:block;\n}\n.hero-area4 .big-content .button .btn{\n\tcolor:#fff;\n}\n.hero-area4 .owl-carousel .owl-nav {\n\tmargin: 0;\n    position: absolute;\n    top: 50%;\n    width: 100%;\n\tmargin-top:-20px;\n}\n.hero-area4 .owl-carousel .owl-nav div {\n\theight: 40px;\n\twidth: 40px;\n\tline-height: 40px;\n\ttext-align: center;\n\tbackground: #333;\n\tcolor: #fff;\n\tfont-size: 14px;\n\tposition: absolute;\n\tmargin: 0;\n\ttransition: all 0.4s ease;\n\tpadding: 0;\n\tborder-radius: 0;\n}\n.hero-area4 .owl-carousel .owl-nav div:hover{\n\tbackground:#79cced;\n\tcolor:#fff;\n}\n.hero-area4 .owl-carousel .owl-controls .owl-nav .owl-prev{\n\tleft:0;\n}\n.hero-area4 .owl-carousel .owl-controls .owl-nav .owl-next{\n\tright:0;\n}\n\n/*======================================\n   End Hero Area CSS\n========================================*/ \n\n/*======================================\n   Start Small Banner CSS\n========================================*/ \n.small-banner{\n\tpadding:30px 0;\n\tpadding-bottom:0;\n}\n.small-banner .single-banner {\n\toverflow:hidden;\n\tposition:relative;\n}\n.small-banner .single-banner img{\n\theight:100%;\n\twidth:100%;\n\ttransition:all 0.4s ease;\n}\n.small-banner .single-banner .content {\n\tposition: absolute;\n\tleft: 0;\n\ttop: 50%;\n\ttransform: translateY(-50%);\n\tpadding-left: 35px;\n}\n.small-banner .single-banner h3 {\n\tfont-size: 22px;\n\tfont-weight: 700;\n\ttext-transform: capitalize;\n\tcolor: #333;\n}\n.small-banner .single-banner h3 span{\n\tcolor:#79cced;\n}\n.small-banner .single-banner p {\n\tfont-size: 14px;\n\tcolor: #79cced;\n\tfont-weight: 500;\n\tmargin-bottom: 5px;\n\ttext-transform: capitalize;\n}\n.small-banner .single-banner a {\n\tcolor: #333;\n\tmargin-top: 22px;\n\tdisplay: block;\n\tfont-size: 12px;\n\tfont-weight:500;\n\tdisplay: inline-block;\n\ttext-transform:uppercase;\n\tborder-bottom:2px solid #333;\n}\n.small-banner .single-banner a:hover{\n\tcolor:#79cced;\n\tborder-color:#79cced;\n}\n/*======================================\n   End Small Banner CSS\n========================================*/ \n\n/*======================================\n   Start Mid Banner CSS\n========================================*/ \n.midium-banner{\n\tpadding:0;\n}\n.midium-banner .single-banner{\n\tposition:relative;\n}\n.midium-banner .single-banner img{\n\theight:100%;\n\twidth:100%;\n\ttransition:all 0.4s ease;\n}\n.midium-banner .single-banner .content {\n\tpadding-left:50px;\n\tposition: absolute;\n\tleft: 0;\n\ttop: 50%;\n\ttransform:translateY(-50%);\n}\n.midium-banner .single-banner h3 {\n\tfont-size: 27px;\n\tfont-weight: 700;\n\ttext-transform: uppercase;\n\tcolor: #333;\n\tline-height: 30px;\n}\n.midium-banner .single-banner h3 span{\n\tcolor:#79cced;\n}\n.midium-banner .single-banner p {\n\tfont-size: 13px;\n\tcolor: #79cced;\n\tfont-weight: 500;\n\tmargin-bottom: 5px;\n\ttext-transform: uppercase;\n}\n.midium-banner .single-banner a {\n\tdisplay: inline-block;\n\tfont-weight: 600;\n\ttext-align: center;\n\t-webkit-user-select: none;\n\t-moz-user-select: none;\n\t-ms-user-select: none;\n\tuser-select: none;\n\tpadding: .375rem .75rem;\n\tfont-size: 13px;\n\tborder-radius: .25rem;\n\tbackground: #333;\n\tcolor: #fff !important;\n\tpadding: 10px 27px;\n\tborder-radius: 30px;\n\tmargin-top: 25px;\n\ttext-transform: uppercase;\n}\n.midium-banner .single-banner a:hover{\n\tbackground:#79cced;\n\tcolor:#fff;\n}\n/*======================================\n   End Mid Banner CSS\n========================================*/ \n\n/*======================================\n   Start Most Popular CSS\n========================================*/\n.pro-tab-viewmore-wrap {\n\tposition: relative;\n\ttext-align: center;\n}\n.most-popular .section-title{\n\tmargin-bottom:40px;\n}\n.pro-tab-viewmore-wrap .pro-viewmore {\n  position: absolute;\n  right: 40px;\n  top: 0;\n}\n.most-popular .single-product{\n\tmargin:50px 15px 0 15px;\n}\n/* Slider Nav */\n.most-popular .owl-nav{\n\tmargin: 0;\n    position: absolute;\n    top: 50%;\n    width: 100%;\n\tmargin-top:-25px;\n}\n.most-popular .owl-carousel .owl-nav div {\n\theight: 60px;\n\twidth: 30px;\n\tline-height: 58px;\n\tbackground: #fff;\n\tcolor: #333;\n\tposition: absolute;\n\tmargin: 0;\n\tborder-radius: 0;\n\tfont-size: 15px;\n\ttext-align: center;\n\ttransition:all 0.4s ease;\n\tbox-shadow: 0px 0px 10px #3333331c;\n}\n.most-popular .owl-carousel .owl-nav div:hover{\n\tcolor:#fff;\n\tbackground:#79cced;\n}\n.most-popular .owl-carousel .owl-controls .owl-nav .owl-prev{\n\tleft:0;\n}\n.most-popular .owl-carousel .owl-controls .owl-nav .owl-next{\n\tright:0;\n}\n/*======================================\n   End Most Popular CSS\n========================================*/\n\n/*======================================\n   Start Single Product CSS\n========================================*/\n.product-area .nav-tabs {\n\ttext-align: center;\n\tdisplay: inline-block;\n\twidth: 100%;\n\tborder:none;\n}\n.product-area .nav-tabs .nav-item {\n\tmargin-bottom: -1px;\n\tdisplay: inline-block;\n}\n.product-area .nav-tabs li a {\n\tcolor: #333;\n\ttext-transform: uppercase;\n\tdisplay: inline-block;\n\tposition: relative;\n\tmargin-right: 5px;\n\tfont-weight: 500;\n\tbackground: #fff;\n\tcolor: #333;\n\tpadding: 3px 14px;\n\tborder-radius: 3px;\n\tfont-size: 13px;\n}\n.product-area .nav-tabs li:last-child a{\n\tborder-color:transparent;\n} \n.product-area .nav-tabs li a i{\n\tmargin-right:10px;\n}\n.product-area .nav-tabs li a.active,\n.product-area .nav-tabs li:hover a{\n\tbackground:#79cced;\n\tcolor:#fff;\n\tborder-color:transparent;\n}\n/* Sinlge Product */\n.single-product{\n\tmargin-top:50px;\n}\n.single-product .product-img {\n  position: relative;\n  overflow: hidden;\n  cursor:pointer;\n}\n.single-product .product-img a {\n  display: block;\n  position: relative;\n}\n.single-product .product-img a img {\n  width: 100%;\n}\n.single-product .product-img a img.hover-img {\n  position: absolute;\n  left: 0;\n  top: 0;\n  z-index: 1;\n  opacity: 0;\n  transition: opacity 0.5s ease, transform 2s cubic-bezier(0, 0, 0.44, 1.18);\n}\n.single-product .product-img a span.price-dec {\n\tbackground-color: #f6931d;\n\tdisplay: inline-block;\n\tfont-size: 11px;\n\tcolor: #fff;\n\tright: 20px;\n\ttop: 20px;\n\tpadding: 1px 16px;\n\tfont-weight: 700;\n\tborder-radius: 0;\n\ttext-align: center;\n\tposition: absolute;\n\ttext-transform: uppercase;\n\tborder-radius: 30px;\n\theight: 26px;\n\tline-height: 25px;\n}\n.single-product .product-img a span.price-dec-2 {\n\tbackground-color: #f6931d;\n\tdisplay: inline-block;\n\tfont-size: 11px;\n\tcolor: #fff;\n\tright: 20px;\n\ttop: 50px;\n\tpadding: 1px 16px;\n\tfont-weight: 700;\n\tborder-radius: 0;\n\ttext-align: center;\n\tposition: absolute;\n\ttext-transform: uppercase;\n\tborder-radius: 30px;\n\theight: 26px;\n\tline-height: 25px;\n}\n.single-product .product-img a span.new {\n\tbackground-color: #8493ca;\n\tdisplay: inline-block;\n\tfont-size: 11px;\n\tcolor: #fff;\n\tright: 20px;\n\ttop: 20px;\n\tpadding: 1px 16px;\n\tfont-weight: 700;\n\tborder-radius: 0;\n\ttext-align: center;\n\tposition: absolute;\n\ttext-transform: uppercase;\n\tborder-radius: 30px;\n\theight: 26px;\n\tline-height: 24px;\n}\n.single-product .product-img a span.promo {\n\tbackground-color: red;\n\tdisplay: inline-block;\n\tfont-size: 11px;\n\tcolor: #fff;\n\tleft: 20px;\n\ttop: 20px;\n\tpadding: 1px 16px;\n\tfont-weight: 700;\n\tborder-radius: 0;\n\ttext-align: center;\n\tposition: absolute;\n\ttext-transform: uppercase;\n\tborder-radius: 30px;\n\theight: 26px;\n\tline-height: 24px;\n}\n.single-product .product-img a span.out-of-stock {\n\tbackground-color: #ed1b24;\n\tdisplay: inline-block;\n\tfont-size: 11px;\n\tcolor: #fff;\n\tright: 20px;\n\ttop: 20px;\n\tpadding: 1px 16px;\n\tfont-weight: 700;\n\tborder-radius: 0;\n\ttext-align: center;\n\tposition: absolute;\n\ttext-transform: uppercase;\n\tborder-radius: 30px;\n\theight: 26px;\n\tline-height: 24px;\n}\n.single-product .product-img .product-action {\n\tdisplay: inline-block;\n\tposition: absolute;\n\tright: 0;\n\tbottom: 0;\n\tz-index: 99;\n\tborder-radius: 3px;\n}\n.single-product .product-img .product-action a {\n\tbackground-color: transparent;\n\tcolor: #333;\n\tdisplay: block;\n\tfont-size: 16px;\n\tdisplay: inline-block;\n\tmargin-right: 15px;\n\ttext-align: right;\n\theight: 52px;\n\tposition: relative;\n\ttop: 2px;\n}\n.single-product .product-img .product-action a:last-child{\n\tmargin-right:0;\n\tborder:none;\n}\n.single-product .product-img .product-action a i {\n  line-height: 40px;\n}\n.single-product .product-img .product-action a span {\n\tvisibility: hidden;\n\tposition: absolute;\n\tbackground: #79cced !important;\n\tcolor: #fff !important;\n\ttext-align: center;\n\tpadding: 5px 12px;\n\tz-index: 3;\n\topacity: 0;\n\ttransition: opacity .6s, margin .3s;\n\tfont-size: 11px;\n\tright: 0;\n\tline-height: 14px;\n\ttop: -12px;\n\tmargin-top: -5px;\n\tmargin-right: 0;\n\tdisplay: inline-block;\n\twidth: 120px;\n\tborder-radius:15px 0 0 15px;\n}\n.single-product .product-img .button-head .product-action a span::after {\n\tposition: absolute;\n\tcontent: \"\";\n\tright: 0;\n\tbottom: -12px;\n\tborder: 6px solid #79cced;\n\tborder-left:0px solid transparent;\n\tborder-right:6px solid transparent;\n\tborder-bottom:6px solid transparent;\n}\n.single-product .product-img .product-action a:hover {\n\tcolor:#79cced;\n}\n.single-product .product-img .product-action a:hover span {\n  visibility: visible;\n  opacity: 1;\n  color:#333;\n  background:#fff;\n  margin-top: -12px;\n}\n.single-product .product-img .product-action.pro-action-width-dec a {\n  width: 30px;\n  height: 30px;\n  font-size: 14px;\n}\n.single-product .product-img .product-action.pro-action-width-dec a i {\n  line-height: 30px;\n}\n.single-product .product-img .product-action.pro-action-width-dec-2 {\n  bottom: 45px;\n}\n.single-product .product-img .product-action-2 {\n\tposition: absolute;\n\tleft: 0;\n\tbottom: 0;\n\ttext-align: left;\n\tz-index: 99;\n\ttransition: all 250ms ease-out;\n}\n.single-product .product-img .product-action-2 a {\n\tdisplay: block;\n\tbackground-color: transparent;\n\tcolor: #333;\n\ttext-align: left;\n\tfont-size: 12px;\n\tfont-weight: 600;\n\ttext-transform: uppercase;\n\tline-height: 1;\n\tdisplay: inline-block;\n}\n.single-product .product-img .product-action-2 a:hover {\n  color:#79cced;\n}\n.single-product .button-head {\n\tbackground: #fff;\n\tdisplay: inline-block;\n\theight: 40px;\n\twidth: 100%;\n\tposition: absolute;\n\tleft: 0;\n\tbottom: -50px;\n\tz-index: 9;\n\theight: 50px;\n\tline-height: 50px;\n\ttransition:all 0.4s ease;\n}\n.single-product:hover .button-head{\n\tbottom:0;\n}\n.single-product .product-img .shop-list-quickview {\n  position: absolute;\n  top: 50%;\n  transform: translateY(-50%);\n  left: 0;\n  right: 0;\n  text-align: center;\n  z-index: 99;\n  margin-top: 20px;\n  visibility: hidden;\n  opacity: 0;\n  transition: all .35s ease 0s;\n}\n.single-product .product-img .shop-list-quickview a {\n  color: #000;\n  background-color: #fff;\n  display: inline-block;\n  width: 50px;\n  height: 50px;\n  border-radius: 100%;\n  font-size: 18px;\n}\n.single-product .product-img .shop-list-quickview a:hover {\n  background-color: #222;\n  color: #fff;\n}\n.single-product .product-img .shop-list-quickview a i {\n  line-height: 50px;\n}\n.single-product .product-content{\n\tmargin-top:20px;\n}\n.single-product .product-img:hover.default-overlay::before {\n  background-color: rgba(38, 38, 38, 0.2);\n  z-index: 9;\n  transition: all 250ms ease-out;\n  pointer-events: none;\n  opacity: 1;\n}\n.single-product .product-img:hover.default-overlay.metro-overlay::before {\n  background-color: rgba(38, 38, 38, 0.4);\n  z-index: 9;\n  transition: all 250ms ease-out;\n  pointer-events: none;\n  opacity: 1;\n}\n.single-product .product-img:hover img.hover-img {\n  opacity: 1;\n}\n.single-product .product-content h3 {\n    line-height: 22px;\n}\n.single-product .product-content h3 a {\n\tfont-size: 14px;\n\tfont-weight: 500;\n\tmargin: 0;\n}\n.single-product .product-content h3 a:hover{\n\tcolor:#79cced;\n}\n.single-product .product-content .product-price {\n  margin: 6px 0 0 0;\n}\n.single-product .product-content .product-price span {\n\tfont-size: 15px;\n\tfont-weight: 500;\n}\n.single-product .product-content .product-price span.old {\n  text-decoration: line-through;\n  opacity: .6;\n  margin-right: 2px;\n}\n/*======================================\n   End Single Product CSS\n========================================*/\n\n/*======================================\n   Start Shop Sidebar CSS\n========================================*/\n.shop-sidebar .single-widget {\n\tmargin-top: 30px;\n\tbackground: #F6F7FB;\n\tpadding: 30px;\n}\n.shop-sidebar .single-widget:first-child {\n\tmargin-top: 0;\n}\n.shop-sidebar .single-widget .title {\n\tposition: relative;\n\tfont-size: 18px;\n\tfont-weight: 500;\n\ttext-transform: capitalize;\n\tmargin-bottom: 25px;\n\tdisplay: block;\n\tborder-bottom: 1px solid #ddd;\n\tpadding-bottom: 15px;\n}\n/* Shop Price */\n.shop .range .price-filter {\n\tdisplay: block;\n\tmargin-top: 20px;\n}\n.shop .range #slider-range {\n\tbox-shadow: none;\n\tborder: none;\n\theight: 4px;\n\tbackground: #79cced;\n\tcolor: #79cced;\n\tborder-radius: 0px;\n}\n.shop .range #slider-range .ui-slider-range {\n\tbox-shadow: none;\n\tbackground: #222;\n\tborder-radius: 0px;\n\tborder: none;\n}\n.shop .range .ui-slider-handle.ui-state-default.ui-corner-all {\n\twidth: 14px;\n\theight: 14px;\n\tline-height: 10px;\n\tbackground: #222;\n\tborder: none;\n\tborder-radius: 100%;\n\ttop: -5px;\n}\n.shop .range .label-input {\n\tmargin-top: 15px;\n}\n.shop .range .label-input span{\n\tmargin-right:5px;\n\tcolor:#282828;\n}\n.shop .range .ui-slider-handle.ui-state-default.ui-corner-all {\n\tbackground: #79cced;\n\tcolor: #79cced;\n\tcursor:pointer;\n}\n.shop .range .label-input input {\n\tborder: none;\n\tmargin: 0;\n\tfont-weight: 600;\n\tfont-size: 14px;\n\tcolor: #222;\n\tbackground: transparent;\n}\n.shop .range .check-box-list {\n\tmargin-top: 15px;\n}\n.shop .range .check-box-list li {\n\tmargin-bottom: 5px;\n}\n.shop .range .check-box-list li:last-child{\n\tmargin:0;\n}\n.shop .range .check-box-list li label input {\n\tdisplay: inline-block;\n\tmargin-right: 6px;\n\tposition: relative;\n\ttop: 1px;\n}\n.shop .range .check-box-list li label {\n\tmargin: 0;\n\tfont-size: 14px;\n\tfont-weight: 400;\n\tcolor:#333;\n\tcursor:pointer;\n}\n.shop .range .check-box-list .count{\n\tmargin-left:5px;\n\tcolor:#666;\n}\n/* Category List */\n.shop-sidebar .categor-list {\n\tmargin-top: 10px;\n}\n.shop-sidebar .categor-list li{\n\t\n}\n.shop-sidebar .categor-list li {\n\tmargin-bottom: 10px;\n}\n.shop-sidebar .categor-list li:last-child{\n\tmargin-bottom:0px;\n}\n.shop-sidebar .categor-list li a {\n\tdisplay: inline-block;\n\tcolor: #666;\n\tfont-weight: 400;\n\tfont-size: 14px;\n\ttext-transform: capitalize;\n}\n.shop-sidebar .categor-list li a:hover{\n\tcolor:#79cced;\n}\n/* Recent Post */\n.shop-sidebar .single-post {\n\tposition: relative;\n\tmargin-top: 30px;\n    padding-bottom: 30px;\n\tborder-bottom: 1px solid #ddd;\n}\n.shop-sidebar .single-post.first{\n\tpadding-top:0px;\n}\n.shop-sidebar .single-post:last-child{\n\tpadding-bottom:0px;\n\tborder:none;\n}\n.shop-sidebar .single-post .image img{\n\theight: 80px;\n\twidth: 80px;\n\tposition:absolute;\n\tleft:0;\n\ttop:0;\n\tborder-radius:100%;\n}\n.shop-sidebar .single-post .content{\n\tpadding-left:100px;\n}\n.shop-sidebar .single-post .content h5 {\n\tline-height: 18px;\n}\n.shop-sidebar .single-post .content h5 a {\n\tcolor: #222;\n\tfont-weight: 500;\n\tfont-size: 14px;\n\tfont-weight: 500;\n\tdisplay: block;\n}\n.shop-sidebar .single-post .content h5 a:hover{\n\tcolor:#79cced;\n}\n.shop-sidebar .single-post .content .price {\n\tdisplay: block;\n\tcolor: #333;\n\tfont-weight: 500;\n\tmargin: 5px 0 0px 0;\n\ttext-transform: uppercase;\n\tfont-size: 14px;\n}\n.shop-sidebar .single-post .reviews li{\n\tdisplay:inline-block;\n}\n.shop-sidebar .single-post .reviews li i{\n\tcolor:#999;\n}\n.shop-sidebar .single-post .reviews li.yellow i{\n\tcolor:#79cced;\n}\n/* Shop Topbar */\n.shop .shop-top {\n\tclear: both;\n\tbackground: #f6f7fb;\n\tpadding: 18px 20px 50px 20px;\n}\n.shop .shop-shorter {\n\tfloat: left;\n}\n.shop .single-shorter {\n\tdisplay: inline-block;\n\tmargin-right: 10px;\n}\n.shop .single-shorter:last-child{\n\tmargin:0;\n}\n.shop .single-shorter label {\n\tdisplay: inline-block;\n\tfloat: left;\n\tmargin: 4px 5px 0 0;\n\tfont-weight:500;\n}\n.shop .single-shorter option{}\n.shop .nice-select {\n\tclear: initial;\n\tdisplay: inline-block;\n\tmargin: 0;\n\tborder: 1px solid #e6e6e6;\n\tborder-radius: 0px;\n\theight: auto;\n\twidth: auto;\n\tborder-radius: 0px;\n}\n.shop .nice-select::after{\n\tborder-color:#888;\n}\n.shop .nice-select .list {\n\tborder-radius:0px;\n}\n.shop .nice-select .option.selected {\n\tfont-weight: 500;\n}\n.shop .nice-select .list li{\n\tcolor:#666;\n\tborder-radius:0px;\n}\n.shop .nice-select .list li:hover{\n\tbackground:#79cced;\n\tcolor:#fff;\n}\n.shop .view-mode {\n\tfloat: right;\n}\n.shop .view-mode li {\n\tdisplay: inline-block;\n\tmargin-right: 5px;\n}\n.shop .view-mode li:last-child{\n\tmargin:0;\n}\n.shop .view-mode li a {\n\twidth: 43px;\n\theight: 32px;\n\tbackground: transparent;\n\tborder: 1px solid #77777775;\n\ttext-align: center;\n\tdisplay: block;\n\tline-height: 32px;\n\tcolor: #888;\n\tborder-radius: 0px;\n}\n.shop .view-mode li.active a,\n.shop .view-mode li:hover a {\n\tbackground: #79cced;\n\tcolor:#fff;\n\tborder-color:transparent;\n}\n/*======================================\n   End Shop Sidebar CSS\n========================================*/\n\n/*======================================\n   Start Shop Single CSS\n========================================*/\n.shop.single{\n\tpadding:70px 0 100px;\n}\n.shop.single .product-gallery {\n\tmargin-top: 30px;\n}\n.shop.single .flexslider-thumbnails {\n\tposition: relative;\n}\n.shop.single .product-gallery .slides li{\n\tposition:relative;\n}\n.shop.single .product-gallery .slides li img{\n\twidth:100%;\n}\n.shop.single .flex-control-nav{\n\tmargin-top:15px;\n}\n.shop.single .flex-control-thumbs li {\n\twidth: 20%;\n\tposition: relative;\n\tmargin: 0 8px 10px -3px;\n}\n.shop.single .flex-control-thumbs li img {\n\tborder: none;\n\tpadding: 0;\n\tborder:1px solid transparent;\n}\n.shop.single .flex-control-thumbs li img.flex-active{\n\tborder-color:#79cced;\n}\n.shop.single .flex-direction-nav{\n\tdisplay:none;\n}\n.shop.single .product-des{\n\tmargin-top:30px;\n}\n.shop.single .product-des .short h4 {\n\tfont-size: 22px;\n\tfont-weight: 600;\n\tmargin-top: -5px;\n\tline-height: 28px;\n}\n.shop.single .product-des .short .description {\n\tfont-size: 14px;\n\tcolor: #555555;\n\tmargin-top: 20px;\n\tmargin-bottom: 20px;\n\tpadding-bottom: 20px;\n\tborder-bottom: 1px solid #eee;\n}\n.shop.single .product-des {}\n.shop.single .product-des .total-review{\n\tfont-size:14px;\n\tfont-weight:500;\n\tmargin-left:10px;\n\tdisplay:inline-block;\n}\n.shop.single .product-des .total-review:hover{\n\tcolor:#79cced;\n}\n.shop.single .product-des  .rating{\n\tmargin-top:20px;\n\tdisplay:inline-block;\n}\n.shop.single .product-des .rating li{\n\tdisplay:inline-block;\n}\n.shop.single .product-des .rating li i{\n\tcolor:#79cced;\n}\n.shop.single .product-des .rating li.dark i{\n\tcolor:#555;\n}\n.shop.single .product-des .price {\n\tfont-size: 20px;\n\tcolor: #333;\n\tfont-weight: 600;\n\tmargin-top: 15px;\n}\n.shop.single .product-des .price s{\n\tcolor:#333;\n}\n.shop.single .product-des .price span{\n\tdisplay:inline-block;\n\tmargin-right:15px;\n\tcolor:#79cced;\n}\n.shop.single .product-des .product-buy {\n\tmargin-top: 40px;\n}\n.shop.single .product-des .product-buy{}\n.shop.single .product-des .color {\n\tdisplay: inline-block;\n\tmargin-right: 50px;\n}\n.shop.single .product-des .color h4 {\n\tfont-size: 18px;\n\tfont-weight: 600;\n}\n.shop.single .product-des .color h4 span {\n\tdisplay: block;\n\tfont-size: 14px;\n\tfont-weight: 500;\n\tmargin-top: 4px;\n}\n.shop.single .product-des .color ul{\n\tmargin-top: 10px;\n}\n.shop.single .product-des .color ul li{\n\tdisplay:inline-block;\n\tmargin-right:5px;\n}\n.shop.single .product-des .color ul li:last-child{\n\tmargin-right:0;\n}\n.shop.single .product-des .color ul li a{\n\theight:30px;\n\twidth:30px;\n\tline-height:30px;\n\ttext-align:center;\n\tdisplay:block;\n\tbackground:#333;\n}\n.shop.single .product-des .color ul li a i{\n\tfont-size:11px;\n\tcolor:#fff;\n\topacity:0;\n\tvisibility:hidden;\n\ttransition:all 0.4s ease;\n}\n.shop.single .product-des .color ul li a:hover i{\n\topacity:1;\n\tvisibility:visible;\n}\n.shop.single .product-des .color ul li .one{\n\tbackground:#3498db;\n}\n.shop.single .product-des .color ul li .two{\n\tbackground:#79cced;\n}\n.shop.single .product-des .color ul li .three{\n\tbackground:#8e44ad;\n}\n.shop.single .product-des .color ul li .four{\n\tbackground:#2ecc71;\n}\n/* Size */\n.shop.single .product-des .size{\n\tdisplay:inline-block;\n}\n.shop.single .product-des .size h4{\n\tdisplay: block;\n\tfont-size: 14px;\n\tfont-weight: 500;\n\tmargin-top: 0px;\n}\n.shop.single .product-des .size ul{\n\tdisplay:inline-block;\n\tmargin-top: 10px;\n}\n.shop.single .product-des .size ul li {\n\tdisplay: inline-block;\n\tmargin-right: 5px;\n}\n.shop.single .product-des .size ul li:last-child{\n\tmargin-right:0;\n}\n.shop.single .product-des .size ul li a {\n\tdisplay: block;\n\theight: 30px;\n\twidth: 36px;\n\tborder: 1px solid #eee;\n\ttext-align: center;\n\tline-height: 30px;\n\tfont-size: 14px;\n}\n.shop.single .product-des .size ul li a:hover{\n\tcolor:#79cced;\n}\n.shop.single .quantity {\n\tdisplay: inline-block;\n\tmargin-right: 10px;\n}\n.shop.single .quantity h6 {\n\tdisplay: inline-block;\n\tmargin-right: 10px;\n\tfont-size: 15px;\n\tfont-weight: 500;\n}\n.shop.single .quantity .input-group {\n\twidth: 151px;\n\tdisplay: inline-block;\n}\n.shop.single .quantity .button {\n\tdisplay: inline-block;\n\tposition: absolute;\n\ttop: 0;\n\tdisplay:inline-block;\n}\n.shop.single .quantity .button.minus{\n\tleft:0;\n\tborder-radius:0;\n\toverflow:hidden;\n}\n.shop.single .quantity .button.plus {\n\tright: 0;\n\tborder-radius:0;\n\toverflow:hidden;\n}\n.shop.single .quantity .button .btn {\n\tpadding: 0;\n\twidth: 35px;\n\theight: 45px;\n\tline-height: 45px;\n\tborder-radius: 0px;\n\tbackground: transparent;\n\tcolor: #282828;\n\tfont-size: 12px;\n\tborder: none;\n}\n.shop.single .quantity .button .btn:hover{\n\tcolor:#79cced;\n}\n.shop.single .quantity .input-number {\n\tborder: 1px solid #eceded;\n\twidth: 100%;\n\ttext-align: center;\n\theight: 45px;\n\tborder-radius: 0px;\n\toverflow: hidden;\n\tpadding: 0px 38px;\n}\n.shop.single .add-to-cart {\n\tdisplay:inline-block;\n}\n.shop.single .add-to-cart .btn {\n\theight: 45px;\n\twidth: auto;\n\tpadding: 0 42px;\n\tline-height: 45px;\n\ttext-align: center;\n\ttext-transform: capitalize;\n\tmargin-right: 5px;\n\tborder-radius: 0px;\n\tbackground: #333;\n\tcolor: #fff;\n\tdisplay: inline-block;\n\tfont-weight: 500;\n}\n.shop.single .add-to-cart .btn:hover{\n\tcolor:#fff;\n\tbackground:#79cced;\n}\n.shop.single .add-to-cart .btn.min {\n\tpadding: 0 20px;\n\tfont-size: 17px;\n\tposition: relative;\n\ttop: 1px;\n\tline-height: 45px;\n}\n.shop.single .cat{\n\tfont-size: 14px;\n\tfont-weight: 500;\n\tcolor:#333;\n\tmargin-top:30px;\n}\n.shop.single .cat a{\n\tdisplay:inline-block;\n\tmargin-left:10px;\n}\n.shop.single .cat a:hover{\n\tcolor:#79cced;\n}\n.shop.single .availability{\n\tcolor:#333;\n\tfont-size:14px;\n\tmargin-top:6px;\n}\n/* Product Tab */\n.shop.single .product-info {\n\tmargin-top: 50px;\n}\n.shop.single .nav-tabs {\n\tborder:none;\n}\n.shop.single .nav-tabs li {\n\tmargin-right: 10px;\n}\n.shop.single .nav-tabs li:last-child{\n\tmargin-right:0;\n}\n.shop.single .nav-tabs li a {\n\tborder: 0px solid;\n\tborder-radius: 0px;\n\tbackground: #fff;\n\tcolor: #333;\n\tpadding: 10px 30px;\n\tfont-weight: 500;\n\tfont-size: 14px;\n\tborder: 1px solid #eee;\n}\n.shop.single .nav-tabs li a i{\n\tmargin-right:10px;\n}\n.shop.single .nav-tabs li a.active,\n.shop.single .nav-tabs li:hover a{\n\tbackground:#79cced;\n\tcolor:#fff;\n\tborder-color:transparent;\n}\n.shop.single .tab-single {\n\t\n}\n.shop.single .single-des {\n\tmargin-top:35px;\n}\n.shop.single .single-des h4{\n\tmargin-bottom:15px;\n\tfont-weight:500;\n\tfont-size:22px;\n\t\n}\n.shop.single .single-des ul{}\n.shop.single .single-des ul li {\n\tcolor: #555;\n\tdisplay: block;\n\tmargin-bottom: 10px;\n\tposition:relative;\n\tpadding-left:20px;\n}\n.shop.single .single-des ul li::before {\n\tposition: absolute;\n\tcontent: \"\";\n\tleft: 0;\n\ttop: 9px;\n\theight: 7px;\n\twidth: 7px;\n\tbackground: #79cced;\n\tborder-radius: 50%;\n}\n.shop.single .single-des p{}\n\n.shop.single .item-info {\n\twidth: 100%;\n}\n.shop.single .item-info tbody{}\n.shop.single .item-info tbody tr{}\n.shop.single .item-info tbody td {\n\tborder: 1px solid #e6e6e6;\n\tpadding: 10px;\n}\n.shop.single .item-info tbody strong{}\n.shop.single .ratting-main{}\n.shop.single .avg-ratting {\n\tmargin-bottom: 20px;\n}\n.shop.single .avg-ratting h4 {\n\tfont-size: 18px;\n\tmargin: 0;\n}\n.shop.single .avg-ratting h4 span{\n\tfont-size:14px;\n}\n.shop.single .single-rating {\n\tmargin-bottom: 20px;\n}\n.shop.single .single-rating:last-child{\n\tmargin:0;\n\tborder:none;\n\tpadding:0;\n}\n.shop.single .rating-author {\n\tfloat: left;\n\tmargin-right: 10px;\n\tpadding: 20px;\n\tpadding-right: 10px;\n}\n.shop.single .rating-author img {\n\twidth: 60px;\n\tborder-radius: 100%;\n\theight: 60px;\n}\n.shop.single .rating-des {\n\tpadding-left: 72px;\n\tbackground: #f9f8f8;\n\tpadding: 17px 20px 17px 107px;\n}\n.shop.single .rating-des .ratings {\n\tmargin: 0;\n}\n.shop.single .rating-des h6 {\n\tfont-size: 14px;\n\tfont-weight: 600;\n\tline-height: 18px;\n}\n.shop.single .ratting-main .single-rating ul{}\n.shop.single .ratting-main .single-rating ul li{\n\tdisplay:inline-block;\n}\n.shop.single .ratting-main .single-rating ul li i{\n\tcolor:#79cced;\n\tfont-size:14px;\n}\n.shop.single .review-inner label {\n\tdisplay: inline-block;\n\tmargin: 0 5px 0 0;\n}\n.shop.single .review-inner .ratings {\n\toverflow: visible;\n\tdisplay: inline-block;\n\tmargin: 0;\n}\n.shop.single .review-inner .ratings ul{\n\tdisplay:inline-block;\n}\n.shop.single .ratting-main .single-rating ul {\n\tdisplay: inline-block;\n\tmargin-right: 5px;\n}\n.shop.single .ratings .rate-count {\n\tdisplay: inline-block;\n\tcolor: #666;\n\tfont-size: 13px;\n}\n.shop.single .comment-review {\n\tmargin-bottom: 30px;\n}\n.shop.single .comment-review .add-review{\n\tmargin-top:30px;\n}\n.shop.single .comment-review .add-review h5{\n\tfont-size: 18px;\n\tfont-weight: 600;\n\tmargin-bottom: 7px;\n}\n.shop.single .comment-review .add-review p{\n\tcolor:#333;\n}\n.shop.single .comment-review h4 {\n\tfont-size: 15px;\n\tfont-weight: 600;\n\tmargin-bottom: 7px;\n\tmargin-top:20px;\n}\n.shop.single .comment-review .review-inner{\n\tmargin-bottom:15px;\n\tdisplay:block;\n}\n.shop.single .comment-review .rating li {\n\tdisplay:inline-block;\n}\n.shop.single .comment-review .rating li i{\n\tcolor:#79cced;\n\tfont-size: 14px;\n}\n.shop.single .rating-des p{\n\tmargin-top:5px;\n}\n.shop.single .avg-ratting h4 {\n\tfont-size: 20px;\n\tcolor: #333;\n}\n.shop.single .avg-ratting{}\n.shop.single .form .form-group input {\n\twidth: 100%;\n\theight: 45px;\n\tpadding: 10px 20px;\n\tbackground: #fff;\n\tborder: 1px solid #ddd;\n\tresize: none;\n\tborder-radius: 0;\n\tcolor: #333;\n}\n.shop.single .form .form-group button {\n\tborder: none;\n\tpadding: 17px 50px;\n}\n.shop.single .form .form-group textarea {\n\twidth: 100%;\n\theight:200px;\n\tpadding: 20px;\n\tbackground:#fff;\n\tborder:1px solid #ddd;\n\tresize:none;\n\tborder-radius:0;\n\tcolor:#333;\n}\n.shop.single .form .form-group label {\n\tcolor: #333;\n\tposition: relative;\n}\n.shop.single .form .form-group label span {\n\tcolor: #ff2c18;\n\tdisplay: inline-block;\n\tposition: absolute;\n\tright: -12px;\n\ttop: 4px;\n\tfont-size: 16px;\n}\n.shop.single .review-panel{\n\tmargin-top:35px;\n}\n/*======================================\n   End Shop Single CSS\n========================================*/\n\n/*======================================\n   Start Shop Home List CSS\n========================================*/\n.shop-home-list{\n\tpadding:0;\n\tpadding-bottom:100px;\n}\n.shop-home-list .shop-section-title{\n\tmargin-bottom:20px;\n}\n.shop-home-list .shop-section-title h1 {\n\tfont-size: 22px;\n\tmargin-bottom: 0;\n\ttext-transform: capitalize;\n\tposition: relative;\n\tcolor: #2c2d3f;\n\tfont-weight: 700;\n\tmargin-bottom: 10px;\n\tpadding-bottom: 10px;\n}\n.shop-home-list .shop-section-title h1::before {\n\tposition: absolute;\n\tcontent: \"\";\n\theight: 2px;\n\twidth: 50px;\n\tbackground: #79cced;\n\tleft: 0;\n\tbottom: -1px;\n}\n.shop-home-list .single-list {\n\toverflow: hidden;\n\tposition: relative;\n\tmargin-top: 30px;\n\tborder: 1px solid #eee;\n\tpadding: 10px;\n}\n.shop-home-list .single-list .list-image{\n\tposition:relative;\n}\n.shop-home-list .single-list .list-image.overlay:before{\n\tbackground:#000;\n\topacity:0;\n\tvisibility:hidden;\n\ttransition:all 0.4s ease;\n}\n.shop-home-list .single-list .list-image.overlay:hover:before{\n\topacity:0.3;\n\tvisibility:visible;\n}\n.shop-home-list .single-list .list-image .buy{\n\theight:40px;\n\twidth:40px;\n\tline-height:40px;\n\tfont-size:14px;\n\tcolor:#fff;\n\tbackground:#79cced;\n\tborder-radius:100%;\n\tdisplay:block;\n\tposition:absolute;\n\tleft:50%;\n\ttop:50%;\n\tmargin-left:-20px;\n\tmargin-top:-20px;\n\ttext-align:center;\n\ttransition:all 0.4s ease;\n\ttransform:scale(0);\n\topacity:0;\n\tvisibility:hidden;\n}\n.shop-home-list .single-list .list-image .buy:hover{\n\tbackground:#fff;\n\tcolor:#333;\n}\n.shop-home-list .single-list .list-image:hover .buy{\n\topacity:1;\n\tvisibility:visible;\n\ttransform:scale(1);\n}\n.shop-home-list .single-list .no-padding{\n\tpadding-right:0px;\n}\n.shop-home-list .single-list img{\n\twidth:100%;\n\theight:100%;\n}\n.shop-home-list .single-list .content {\n\tpadding-top: 45px;\n\tpadding-right: 12px;\n}\n.shop-home-list .single-list .content .title {\n\tline-height: 18px;\n}\n.shop-home-list .single-list .content .title a{\n\tfont-size: 14px;\n\tfont-weight: 600;\n}\n.shop-home-list .single-list .content .titlea {\n\tcolor: #333;\n}\n.shop-home-list .single-list .content a:hover{\n\tcolor: #79cced;\n}\n.shop-home-list .single-list .content .price {\n\tmargin-top: 15px;\n\tfont-weight: 500;\n\tbackground: #79cced;\n\tdisplay: inline-block;\n\tcolor: #fff;\n\tpadding: 2px 18px;\n\tborder-radius: 30px;\n\tfont-size: 14px;\n\tfont-weight: 500;\n}\n/*======================================\n   End Shop Home List CSS\n========================================*/\n\n/*======================================\n   Start Shopping Cart CSS\n========================================*/\n.table.shopping-summery {\n\tbackground: #fff;\n}\n.shopping-cart {\n\tbackground: #f6f6f6;\n\tpadding: 50px 0;\n}\n.shopping-summery thead .main-hading{\n\tpadding:0px 50px;\n}\n.shopping-summery thead {\n\tbackground: #79cced;\n\tcolor: #fff;\n}\n.shopping-summery thead tr th {\n\tborder: none;\n\tfont-weight: 600;\n\tcolor: #fff;\n\ttext-align: center;\n}\n.shopping-summery tbody tr {\n\tborder-bottom: 1px solid #79cced;\n\tmargin-top: 20px;\n}\n.shopping-summery tbody tr img {\n\tborder-radius: 0;\n\twidth: 80px;\n\theight: 80px;\n}\n.shopping-summery tbody tr:last-child{\n\tborder:none;\n}\n.shopping-summery tbody .product-name a {\n\tfont-weight: 600;\n\tcolor: #282828;\n\tfont-weight: 600;\n\tfont-size: 17px;\n}\n.shopping-cart .table p {\n\tfont-size: 14px;\n\tcolor: #666;\n}\n.shopping-summery tbody .product-name a:hover{\n\tcolor:#79cced;\n}\n.shopping-summery tbody .product img {\n\tmax-width: 70px;\n\tborder-radius: 100%;\n\tmax-height: 65px;\n\tborder: 1px solid #e6e6e6;\n\tpadding: 4px;\n}\n.shopping-summery tbody .product:hover img{\n\tborder-color:#79cced;\n\ttransform:rotate(360deg);\n}\n.shopping-cart .border{\n\t\n}\n.shopping-cart .table .remove-icon{\n\tfont-size:16px;\n}\n.shopping-cart .table td {\n\tvertical-align: middle;\n\tborder-top: 1px solid #eee;\n\tpadding: 30px;\n}\n.shopping-summery tbody .price {\n\ttext-align: center;\n}\n.shopping-summery tbody .price span{}\n.shopping-cart tbody .qty .input-group {\n\twidth: 175px;\n\tdisplay: inline-block;\n}\n.shopping-cart .qty .button {\n\tdisplay: inline-block;\n\tposition: absolute;\n\ttop: 0;\n}\n.shopping-cart .qty .button.minus{\n\tleft:0;\n\tborder-radius:0;\n\toverflow:hidden;\n}\n.shopping-cart .qty .button.plus {\n\tright: 0;\n\tborder-radius:0;\n\toverflow:hidden;\n}\n.shopping-cart .qty .button .btn {\n\tpadding: 0;\n\twidth: 44px;\n\theight: 47px;\n\tline-height: 50px;\n\tborder-radius: 0px;\n\tbackground: transparent;\n\tcolor: #282828;\n\tborder: none;\n\tfont-size: 12px;\n}\n.shopping-cart .qty .button .btn:hover{\n\tcolor:#79cced;\n}\n.shopping-cart .qty .input-number {\n\tborder: 1px solid #eceded;\n\twidth: 100%;\n\ttext-align: center;\n\theight: 47px;\n\tborder-radius:0;\n\toverflow: hidden;\n\tpadding: 0px 45px;\n}\n.shopping-summery tbody .total-amount {\n\ttext-align: center;\n}\n.shopping-summery tbody .total-amount span{}\n.shopping-summery tbody .action {\n\ttext-align: center;\n}\n.shopping-summery tbody .action a:hover{\n\tcolor:#79cced;\n}\n.shopping-cart .total-amount{\n\tmargin-top:50px;\n}\n.shopping-cart .total-amount .left{}\n.shopping-cart .total-amount .left .coupon{}\n.shopping-cart .total-amount .left .coupon form{}\n.shopping-cart .total-amount .left .coupon form input {\n\twidth: 220px;\n\tdisplay: inline-block;\n\theight: 48px;\n\tcolor: #333;\n\tpadding: 0px 20px;\n\tborder: none;\n\tbox-shadow: 0px 0px 5px #0000000a;\n}\n.shopping-cart .total-amount .left .coupon form .btn {\n\tdisplay: inline-block;\n\theight: 48px;\n\tborder: navajowhite;\n\tmargin-left: 4px;\n\tbackground: transparent;\n\tcolor: #333;\n\tbackground: #fff;\n\tbox-shadow: 0px 0px 5px #00000012;\n}\n.shopping-cart .total-amount .left .coupon form .btn:hover{\n\tbackground:#fff;\n\tcolor:#79cced;\n}\n.shopping-cart .total-amount .left label{\n\tfont-size:22px;\n\tfont-weight:500;\n\tcolor:#333;\n}\n.shopping-cart .total-amount .left .checkbox {\n\ttext-align: left;\n\tmargin: 0;\n\tmargin-top: 20px;\n}\n.shopping-cart .total-amount .left .checkbox label {\n\tfont-size: 15px;\n\tfont-weight: 400;\n\tcolor: #333;\n\tposition: relative;\n\tpadding-left: 30px;\n}\n.shopping-cart .total-amount .left .checkbox label:hover{\n\tcursor:pointer;\n}\n.shopping-cart .total-amount .left .checkbox label input{\n\tdisplay:none;\n}\n.shopping-cart .total-amount .left .checkbox label::before {\n\tposition: absolute;\n\tcontent: \"\";\n\tleft: 0;\n\ttop: 4px;\n\twidth: 16px;\n\theight: 16px;\n\tborder: 1px solid #555555;\n\tborder-radius: 0px;\n}\n.shopping-cart .total-amount .left .checkbox label::after {\n\tposition: absolute;\n\tcontent: \"\\f00c\";\n\tfont-family: \"Fontawesome\";\n\tleft: 0;\n\ttop: 0;\n\twidth: 22px;\n\theight: 22px;\n\tline-height: 24px;\n\tleft: 3px;\n\ttop: 0px;\n\topacity: 0;\n\tvisibility: hidden;\n\ttransform: scale(0);\n\ttransition: all 0.4s ease;\n\tdisplay: block;\n\tfont-size: 11px;\n}\n.shopping-cart .total-amount .left .checkbox label.checked::after{\n\topacity:1;\n\tvisibility:visible;\n\ttransform:scale(1);\n}\n.shopping-cart .total-amount .right {\n\tpadding-left: 100px;\n}\n.shopping-cart .total-amount .right ul{\n\t\n}\n.shopping-cart .total-amount .right ul li {\n\tfont-size: 15px;\n\tfont-weight: 400;\n\tcolor: #333;\n\tmargin-bottom: 12px;\n}\n.shopping-cart .total-amount .right ul li.last {\n\tpadding-top: 12px;\n\tborder-top: 1px solid #c8c8c8;\n\tcolor: #333;\n\tfont-size: 15px;\n\tfont-weight: 400;\n}\n.shopping-cart .total-amount .right ul li span{\n\tdisplay:inline-block;\n\tfloat:right;\n}\n.shopping-cart .total-amount .right .button5 .btn {\n\ttext-align: center;\n\tborder-radius: 0;\n\twidth: 100%;\n\tmargin-top: 10px;\n\theight: 46px;\n\tline-height: 18px;\n\tfont-size: 13px;\n\tcolor: #fff;\n}\n/*======================================\n   End Shopping Cart CSS\n========================================*/\n\n/*======================================\n   Start Checkout Form CSS\n========================================*/\n.shop.checkout {\n\tpadding: 0;\n\tbackground: #fff;\n\tpadding-top: 20px;\n\tpadding-bottom: 50px;\n}\n.shop.checkout .checkout-form {\n\tmargin-top: 30px;\n}\n.shop.checkout .checkout-form h2 {\n\tfont-size: 25px;\n\tcolor: #333;\n\tfont-weight: 700;\n\tline-height: 27px;\n}\n.shop.checkout .checkout-form p {\n\tfont-size: 16px;\n\tcolor: #333;\n\tfont-weight: 400;\n\tmargin-top: 12px;\n\tmargin-bottom: 30px;\n}\n.shop.checkout .form{}\n.shop.checkout .form .form-group {\n\tmargin-bottom: 25px;\n}\n.shop.checkout .form .form-group label{\n\tcolor:#333;\n\tposition:relative;\n}\n.shop.checkout .form .form-group label span {\n\tcolor: #ff2c18;\n\tdisplay: inline-block;\n\tposition: absolute;\n\tright: -12px;\n\ttop: 4px;\n\tfont-size: 16px;\n}\n.shop.checkout .form .form-group input {\n\twidth: 100%;\n\theight: 45px;\n\tline-height: 50px;\n\tpadding: 0 20px;\n\tborder-radius: 3px;\n\tborder-radius: 0px;\n\tcolor: #333 !important;\n\tborder: none;\n\tbackground: #F6F7FB;\n}\n.shop.checkout .form .form-group input:hover{\n\t\n}\n.shop.checkout .nice-select {\n\twidth: 100%;\n\theight: 45px;\n\tline-height: 50px;\n\tmargin-bottom: 25px;\n\tbackground: #F6F7FB;\n\tborder-radius: 0px;\n\tborder:none;\n}\n.shop.checkout .nice-select .list {\n\twidth: 100%;\n\theight: 300px;\n\toverflow: scroll;\n}\n.shop.checkout .nice-select .list li{}\n.shop.checkout .nice-select .list li.option{\n\tcolor:#333;\n}\n.shop.checkout .nice-select .list li.option:hover{\n\tbackground:#F6F7FB;\n\tcolor:#333;\n}\n.shop.checkout .form .address input {\n\tmargin-bottom: 15px;\n}\n.shop.checkout .form .address input:last-child{\n\tmargin:0;\n}\n.shop.checkout .form .create-account {\n\tmargin: 0;\n}\n.shop.checkout .form .create-account input {\n\twidth: auto;\n\tdisplay: inline-block;\n\theight: auto;\n\tborder-radius: 100%;\n\tmargin-right: 3px;\n}\n.shop.checkout .form .create-account label {\n\tdisplay: inline-block;\n\tmargin: 0;\n}\n.shop.checkout .order-details {\n\tmargin-top: 30px;\n\tbackground: #fff;\n\tpadding: 15px 0 30px 0;\n\tborder: 1px solid #eee;\n}\n.shop.checkout .single-widget {\n\tmargin-bottom: 30px;\n}\n.shop.checkout .single-widget:last-child{\n\tmargin:0;\n}\n.shop.checkout .single-widget h2 {\n\tposition:relative;\n\tfont-size: 15px;\n\tfont-weight: 600;\n\tpadding: 10px 30px;\n\tline-height: 24px;\n\ttext-transform: uppercase;\n\tcolor: #333;\n\tpadding-bottom: 5px;\n}\n.shop.checkout .single-widget h2:before{\n\tposition:absolute;\n\tcontent:\"\";\n\tleft:30px;\n\tbottom:0;\n\theight:2px;\n\twidth:50px;\n\tbackground:#79cced;\n}\n.shop.checkout .single-widget .content ul{\n\tmargin-top:30px;\n}\n.shop.checkout .single-widget .content ul li {\n\tdisplay: block;\n\tpadding: 0px 30px;\n\tfont-size: 15px;\n\tfont-weight: 400;\n\tcolor: #333;\n\tmargin-bottom: 12px;\n}\n.shop.checkout .single-widget .content ul li span{\n\tdisplay:inline-block;\n\tfloat:right;\n}\n.shop.checkout .single-widget .content ul li.last {\n\tpadding-top: 12px;\n\tborder-top: 1px solid #ebebeb;\n\tdisplay: block;\n\tfont-size: 15px;\n\tfont-weight: 400;\n\tcolor: #333;\n}\n.shop.checkout .single-widget .checkbox {\n\ttext-align: left;\n\tmargin: 0;\n\tpadding: 0px 30px;\n\tmargin-top:30px;\n}\n.shop.checkout .single-widget .checkbox label {\n\tcolor: #555555;\n\tposition: relative;\n\tfont-size: 14px;\n\tpadding-left: 20px;\n\tmargin-top: -5px;\n\tfont-weight: 400;\n\tdisplay: block;\n\tmargin-bottom: 15px;\n}\n.shop.checkout .single-widget .checkbox label:last-child{\n\tmargin-bottom:0;\n}\n.shop.checkout .single-widget .checkbox label:hover{\n\tcursor:pointer;\n}\n.shop.checkout .single-widget .checkbox label input{\n\tdisplay:none;\n}\n.shop.checkout .single-widget .checkbox label::before {\n\tposition: absolute;\n\tcontent: \"\";\n\tleft: 0;\n\ttop: 7px;\n\twidth: 12px;\n\theight: 12px;\n\tline-height: 16px;\n\tborder: 1px solid #666;\n\tborder-radius: 100%;\n}\n.shop.checkout .single-widget .checkbox label::after {\n\tposition: absolute;\n\tcontent: \"\";\n\tleft: 0;\n\ttop: 7px;\n\twidth: 12px;\n\theight: 12px;\n\tline-height: 16px;\n\tborder-radius: 100%;\n\tdisplay:block;\n\tbackground:#666;\n\ttransform:scale(0);\n\ttransition:all 0.4s ease;\n}\n.shop.checkout .single-widget .checkbox label.checked::after{\n\topacity:1;\n\tvisibility:visible;\n\ttransform:scale(1);\n}\n.shop.checkout .single-widget.payement {\n\tpadding: 0px 38px;\n\ttext-align: center;\n\tmargin-top: 30px;\n}\n.shop.checkout .single-widget.get-button {\n\ttext-align: center;\n\tpadding:0px 35px;\n}\n.shop.checkout .single-widget.get-button .btn {\n\theight: 46px;\n\twidth: 100%;\n\tline-height: 19px;\n\ttext-align: center;\n\tborder-radius: 0;\n\ttext-transform: uppercase;\n\tcolor: #fff;\n}\n/*======================================\n   End Checkout Form CSS\n========================================*/\n\n/*======================================\n   Login & Register CSS\n========================================*/\n.shop.login {\n\tpadding: 100px 0;\n}\n.shop.login .login-form h2 {\n\tposition:relative;\n\tfont-size: 35px;\n\tcolor: #333;\n\tfont-weight: 400;\n\tline-height: 27px;\n\ttext-transform: uppercase;\n\tmargin-bottom: 12px;\n\tpadding-bottom: 20px;\n\ttext-align: center;\n}\n.shop.login .login-form h2:before{\n\tposition:absolute;\n\tcontent:\"\";\n\tleft:50%;\n\tbottom:0;\n\theight:2px;\n\twidth:50px;\n\tbackground:#79cced;\n\tmargin-left:-25px;\n}\n.shop.login .login-form p {\n\tfont-size: 14px;\n\tcolor: #333;\n\tfont-weight: 400;\n\ttext-align: center;\n\tmargin-bottom:50px;\n}\n.shop.login .form {\n\tmargin-top: 30px;\n}\n.shop.login .form .form-group {\n\tmargin-bottom: 22px;\n}\n.shop.login .form .form-group input {\n\twidth: 100%;\n\theight: 45px;\n\tline-height: 50px;\n\tpadding: 0 20px;\n\tborder-radius: 3px;\n\tborder-radius: 0px;\n\tcolor:#333 !important;\n\tborder: none;\n\tbackground:#F6F7FB;\n}\n.shop.login .form .form-group label {\n\tcolor: #333;\n\tposition: relative;\n}\n.shop.login .form .form-group label span {\n\tcolor: #ff2c18;\n\tdisplay: inline-block;\n\tposition: absolute;\n\tright: -12px;\n\ttop: 4px;\n\tfont-size: 16px;\n}\n.shop.login .form .form-group input:hover{\n\tborder-color:#1308a3;\n\tcolor:#1308a3;\n}\n.shop.login .form .form-group.login-btn {\n\tmargin: 0;\n}\n.shop.login .form button {\n\tborder: none;\n}\n.shop.login .form .btn {\n\tdisplay: inline-block;\n\tmargin-right: 10px;\n\theight: 46px;\n\tcolor: #fff;\n\tline-height: 20px;\n}\n.shop.login .form .btn:hover{\n\tbackground:#79cced;\n\tcolor:#fff;\n}\n.shop.login .login-form .checkbox {\n\ttext-align: left;\n\tmargin: 0;\n\tmargin-top: 20px;\n\tdisplay:inline-block;\n}\n.shop.login .login-form .checkbox label {\n\tfont-size: 14px;\n\tfont-weight: 400;\n\tcolor: #333;\n\tposition: relative;\n\tpadding-left: 20px;\n}\n.shop.login .login-form .checkbox label:hover{\n\tcursor:pointer;\n}\n.shop.login .login-form .checkbox label input{\n\tdisplay:none;\n}\n.shop.login .login-form .checkbox label::before {\n\tposition: absolute;\n\tcontent: \"\";\n\tleft: 0;\n\ttop: 6px;\n\twidth: 12px;\n\theight: 12px;\n\tborder: 1px solid #555555;\n\tborder-radius: 0px;\n}\n.shop.login .login-form .checkbox label::after {\n\tposition: absolute;\n\tcontent: \"\\f00c\";\n\tfont-family: \"Fontawesome\";\n\twidth: 12px;\n\theight: 12px;\n\tline-height: 23px;\n\tleft: 2px;\n\ttop: 0px;\n\topacity: 0;\n\tvisibility: hidden;\n\ttransform: scale(0);\n\ttransition: all 0.4s ease;\n\tdisplay: block;\n\tfont-size: 9px;\n}\n.shop.login .login-form .checkbox label.checked::after{\n\topacity:1;\n\tvisibility:visible;\n\ttransform:scale(1);\n}\n.shop.login .login-form .lost-pass{\n\tdisplay:inline-block;\n\tmargin-left:25px;\n\tcolor:#333;\n\tfont-size:14px;\n\tfont-weight:400;\n}\n.shop.login .login-form .lost-pass:hover{\n\tcolor:#79cced;\n}\n/*======================================\n\tEnd Login CSS\n========================================*/\n\n/*======================================\n   Start Shop List CSS\n========================================*/\n.shop-list .list-content{\n\tmargin-top:50px;\n}\n.shop-list .list-content .product-price{}\n.shop-list .list-content .product-price span {\n\tfont-size: 14px;\n\tfont-weight: 600;\n\tmargin-bottom: 3px;\n\tdisplay: block;\n}\n.shop-list .list-content .title {\n\tline-height: 20px;\n}\n.shop-list .list-content .title a:hover{\n\tcolor:#79cced;\n}\n.shop-list .list-content .title a {\n\tfont-size: 18px;\n\tfont-weight: 600;\n}\n.shop-list .list-content .rating {\n\tmargin: 5px 0 8px 0;\n}\n.shop-list .list-content .rating li{\n\tdisplay:inline-block;\n}\n.shop-list .list-content .rating li i{\n\tcolor: #79cced;\n}\n.shop-list .list-content .rating li.total {\n\tcolor: #333;\n\tfont-size: 12px;\n\tmargin-left: 3px;\n}\n.shop-list .list-content .des{}\n.shop-list .list-content .btn {\n\tmargin-top: 22px;\n\theight: 42px;\n\tline-height: 15px;\n\tcolor: #333;\n\tbackground: transparent;\n\tborder: 1px solid #cecece;\n\tfont-size: 13px;\n\tborder-radius: 30px;\n\theight: auto;\n\tline-height: a;\n\tpadding: 13px 32px;\n}\n.shop-list .list-content .btn:hover{\n\tbackground:#79cced;\n\tcolor:#fff;\n\tborder-color:transparent;\n}\n/* Pagination CSS */\n.pagination {\n\ttext-align: left;\n\tmargin: 50px 0 0 0;\n\tdisplay:block;\n}\n.pagination.center {\n\ttext-align: center;\n}\n.pagination .pagination-list li {\n\tmargin-right: 5px;\n\tdisplay: inline-block;\n}\n.pagination .pagination-list li:last-child{\n\tmargin-right:0px;\n}\n.pagination .pagination-list li a {\n\tbackground: #F6F7FB;\n\tcolor: #666;\n\tpadding: 6px 18px;\n\tfont-weight: 400;\n\tborder: 1px solid #e1e1e1;\n\tfont-size: 16px;\n\tborder-radius: 0px;\n}\n.pagination .pagination-list li.active a,\n.pagination .pagination-list li:hover a{\n\tbackground: #79cced;\n\tcolor: #fff;\n\tborder-color: transparent;\n}\n.pagination .pagination-list li a i{\n\tfont-size:13px;\n}\n.pagination .pagination-list li a i{}\n.blog-grids.pagination{\n\tmargin-top:50px;\n\ttext-align:center;\n}\n/*======================================\n   End Shop List CSS\n========================================*/\n\n/*=============================\n\tStart Cowndown CSS\n===============================*/\n.cown-down {\n\tposition: relative;\n\theight: 515px;\n\toverflow:hidden;\n}\n.cown-down .padding-right{\n\tpadding-right:0;\n}\n.cown-down .padding-left{\n\tpadding-left:0;\n}\n.cown-down .image img {\n\twidth:100%;\n\theight:100%;\n}\n.cown-down .content {\n\ttext-align: center;\n\tbackground: #FDFBEF;\n\theight: 100%;\n\tposition:relative;\n}\n.cown-down .content .heading-block{\n\tposition:absolute;\n\tleft:0;\n\ttop:50%;\n\ttransform:translateY(-50%);\n\tpadding: 75px;\n}\n.cown-down .content .small-title {\n\tfont-size: 13px;\n\tcolor: #777;\n\tdisplay: block;\n\ttext-transform: uppercase;\n\tmargin-bottom: 5px;\n\tfont-weight: 600;\n}\n.cown-down .content .title {\n\tfont-size: 25px;\n\tfont-weight: 600;\n\tmargin-bottom: 20px;\n\ttext-transform: capitalize;\n}\n.cown-down .content .price {\n\tmargin-top: 35px;\n\tfont-size: 35px;\n\tfont-weight: 700;\n\tcolor: #79cced;\n}\n.cown-down .content .price s{\n\tmargin-top: 35px;\n\tfont-size: 24px;\n\tfont-weight: 500;\n\tcolor:#666;\n}\n.cown-down .content .cdown {\n\tfloat: none;\n\ttext-align:center;\n\tmargin-top:40px;\n\twidth: 80px;\n\tdisplay:inline-block;\n\t\n}\n.cown-down .content .cdown {\n\ttext-align: center;\n}\n.cown-down .content .cdown{\n\tdisplay:inline-block;\n}\n.cown-down .content .cdown span {\n\tcolor: #333;\n\tfont-size: 22px;\n\tfont-weight:400;\n\ttext-transform:uppercase;\n}\n.cown-down .content .cdown p{\n\tfont-size:13px;\n\tcolor:#666;\n\ttext-transform:uppercase;\n}\n/*=============================\n\tEnd Cowndown CSS\n===============================*/\n\n/*======================================\n   Start Shop Services CSS\n========================================*/\n.shop-services.section {\n\tpadding: 80px 0 0px 0;\n\tbackground: #fff;\n}\n.shop-services.home{\n\tpadding:60px 0;\n\tbackground:#F6F7FB;\n}\n.shop-services .single-service {\n\tposition: relative;\n\tpadding-left: 65px;\n}\n.shop-services .single-service i {\n\theight: 50px;\n\twidth: 50px;\n\tline-height: 50px;\n\ttext-align: center;\n\tcolor: #333;\n\tbackground: transparent;\n\tborder-radius: 100%;\n\tdisplay: block;\n\tfont-size: 32px;\n\tposition: absolute;\n\tleft: 0;\n\ttop: 0;\n}\n.shop-services .single-service h4 {\n\tfont-size: 14px;\n\tfont-weight: 600;\n\ttext-transform: uppercase;\n\tline-height: 22px;\n\tcolor: #333;\n}\n.shop-services .single-service p {\n\tcolor: #898989;\n\tline-height: 28px;\n\tfont-size:14px;\n}\n/*======================================\n   End Shop Services CSS\n========================================*/\n\n/*======================================\n   Start Shop Newsletter CSS\n========================================*/\n.shop-newsletter{\n\tbackground:#fff;\n}\n.shop-newsletter .inner{\n\ttext-align:center;\n}\n.shop-newsletter .inner h4 {\n\tcolor: #333;\n\tfont-size: 17px;\n\tfont-weight: 600;\n\tmargin-bottom: 5px;\n\ttext-transform: uppercase;\n}\n.shop-newsletter .inner p{\n\tcolor:#777;\n\tfont-size:14px;\n\tfont-weight:400;\n\tmargin-bottom:30px;\n}\n.shop-newsletter .inner p span{\n\tcolor:#79cced;\n}\n.shop-newsletter .newsletter-inner{\n\tposition:relative;\n\tdisplay: inline-block;\n}\n.shop-newsletter .newsletter-inner input {\n\twidth: 480px;\n\theight: 55px;\n\tborder-radius: 0px;\n\tpadding: 0px 30px;\n\tfont-weight: 400;\n\tdisplay: inline-block;\n\ttext-shadow: none;\n\tbox-shadow: none;\n\tborder-radius: 0;\n\tborder: none;\n\tborder: 1px solid #ececec;\n\tborder-radius: 30px 0 0 30px;\n}\n.shop-newsletter .newsletter-inner button{\n\tborder:none;\n\ttext-shadow:none;\n\tbox-shadow:none;\n\tborder-radius:0;\n}\n.shop-newsletter .newsletter-inner .btn {\n\tdisplay: inline-block;\n\theight: 55px;\n\tpadding: 10px 30px;\n\tposition: relative;\n\ttop: 0;\n\tbackground: #79cced;\n\tcolor: #fff;\n\tleft: -4px;\n\tborder-radius: 0 30px 30px 0;\n\tfont-size: 14px;\n\tfont-weight: 500;\n\ttext-transform: uppercase;\n}\n.shop-newsletter .newsletter-inner .btn:hover{\n\tbackground:#333;\n\tcolor:#fff;\n}\n/*======================================\n   End Shop Newsletter CSS\n========================================*/\n\n/*=============================\n\tAbout US CSS\n===============================*/\n.about-us{\n\tbackground:#fff;\n}\n.about-us .about-content {\n\tpadding-right: 50px;\n}\n.about-us .about-content .story{\n\tdisplay:block;\n\tcolor:#04AAF4;\n\tmargin-bottom:20px;\n\tfont-size:17px;\n}\n.about-us .about-content .story i{\n\tcolor:#04AAF4;\n\tmargin-right:5px;\n\tfont-size:22px;\n}\n.about-us .about-content h3 {\n\tfont-size: 30px;\n\tfont-weight: 600;\n\tposition: relative;\n\tmargin-bottom: 15px;\n\tpadding-bottom: 15px;\n}\n.about-us .about-content h3::before {\n\tposition: absolute;\n\tcontent: \"\";\n\tleft: 0;\n\tbottom: -1px;\n\theight: 2px;\n\twidth: 60px;\n\tbackground: #79cced;\n}\n.about-us .about-content h3 span{\n\tdisplay:inline-block;\n\tfont-weight:700;\n\tcolor:#79cced;\n}\n.about-us .about-content p {\n\tline-height: 26px;\n\tmargin-bottom: 10px;\n}\n.about-us .about-content p:last-child{\n\tmargin:0;\n}\n.about-us .about-content .button{\n\tmargin-top:40px;\n}\n.about-us .about-content .button .btn{\n\tbackground:#333;\n\tcolor:#fff;\n\tmargin-right:15px;\n}\n.about-us .about-content .button .btn:hover{\n\tbackground:#79cced;\n\tcolor:#fff;\n}\n.about-us .about-content .button .btn.primary{\n\tbackground:#79cced;\n\tcolor:#fff;\n}\n.about-us .about-content .button .btn.primary:hover{\n\tbackground:#333;\n\tcolor:#fff;\n}\n.about-us .about-content .button .btn:last-child{\n\tmargin:0;\n}\n.about-us .about-img {\n\tposition: relative;\n\tbox-shadow: 0px 0px 5px rgba(0, 0, 0, 0.3);\n\tborder: 10px solid #fff;\n}\n.about-us .about-img:before{\n\topacity:0;\n\tvisibility:hidden;\n\ttransition:all 0.4s ease;\n}\n.about-us .about-img:hover:before{\n\topacity:0.6;\n\tvisibility:visible;\n}\n.about-us .about-img .video {\n\theight: 64px;\n\twidth: 64px;\n\tline-height: 64px;\n\tbackground: #79cced;\n\tcolor: #fff;\n\tfont-size: 20px;\n\tborder-radius: 100%;\n\tdisplay: block;\n\ttext-align: center;\n\tposition: absolute;\n\tleft: 50%;\n\ttop: 50%;\n\tmargin-left: -32px;\n\tmargin-top: -32px;\n\tpadding-left: 4px;\n\ttransform: scale(0);\n\ttransition: all 0.4s ease;\n}\n.about-us .about-img .video:hover{\n\tbackground:#fff;\n\tcolor:#79cced;\n}\n.about-us .about-img:hover .video{\n\ttransform:scale(1);\n}\n.about-us .about-img img{\n\theight:100%;\n\twidth:100%;\n\t\n}\n/*=============================\n\tEnd About US CSS\n===============================*/\n\n/*======================================\n  10. Start Team CSS\n========================================*/  \n.team{\n\tbackground:#F6F7FB;\n}\n.team .title-line{\n\tmargin-bottom:40px;\n}\n.team .single-team {\n\tmargin-top: 30px;\n\tposition:relative;\n transition: all 500ms ease;\n\tdisplay: inline-block;\n\toverflow:hidden;\n\ttext-align:center;\n\tbackground:#fff;\n}\n.team .single-team .info-head {\n\tpadding: 35px 30px;\n}\n.team .single-team .image img{\n\theight:100%;\n\twidth:100%;\n}\n.team .single-team .info-box {\n\ttext-align:center;\n}\n.team .single-team .info-box .name {\n\tdisplay: block;\n\tfont-size: 17px;\n\tcolor: #333;\n\tfont-weight: 500;\n\tmargin-bottom: 3px;\n\ttext-transform:capitalize;\n}\n.team .single-team .info-box .designation{\n\tcolor:#aaa;\n\tfont-size:13px;\n}\n.team .single-team .social-links {\n transition: all 500ms ease;\n\tmargin-top:15px;\n}\n.team .single-team .social-links .social li{\n\tdisplay:inline-block;\n\tmargin-right:15px;\n}\n.team .single-team .social-links .social li:last-child{\n\tmargin-right:0px;\n}\n.team .single-team .social-links .social li a {\n\tcolor: #666;\n\tdisplay: block;\n\tfont-size: 14px;\n}\n.team .single-team .social-links .social li a:hover{\n\tcolor:#79cced;\n}\n/*======================================\n  End Team CSS\n========================================*/ \n\n/*======================================\n   Start Shop Blog CSS\n========================================*/\n.shop-blog.grid .shop-single-blog{\n\tmargin-top:30px;\n}\n.shop-blog .shop-single-blog{\n\ttext-align:center;\n\ttransition:all 0.4s ease;\n}\n.shop-blog .shop-single-blog:hover{\n\tbox-shadow: 0px 10px 10px #0000000a;\n}\n.shop-blog .shop-single-blog img{\n\theight:100%;\n\twidth:100%;\n}\n.shop-blog .shop-single-blog .content {\n\tpadding: 40px;\n}\n.shop-blog .shop-single-blog .content .title {\n\tfont-size: 17px;\n\tfont-weight: 600;\n\tcolor: #333;\n}\n.shop-blog .shop-single-blog .content .title:hover{\n\tcolor:#79cced;\n}\n.shop-blog .shop-single-blog .content .date {\n\tfont-size: 14px;\n\tfont-weight: 400;\n\tmargin-bottom: 5px;\n\tcolor: #B7B7B7;\n}\n.shop-blog .shop-single-blog .content .more-btn {\n\tfont-size: 14px;\n\tfont-weight: 400;\n\tcolor: #3c3c3c;\n\tmargin-top: 10px;\n\tdisplay: block;\n}\n.shop-blog .shop-single-blog .content .more-btn:hover{\n\tcolor:#79cced;\n}\n/* Related Product */\n.related-product{\n\tpadding-top:0;\n}\n.related-product .section-title {\n\ttext-align: center;\n\tmargin-bottom: 10px;\n\tpadding: 0;\n}\n.related-product .section-title h2 {\n\tfont-size: 25px;\n\tmargin-bottom: 0;\n\ttext-transform: capitalize;\n\tposition: relative;\n\tcolor: #2c2d3f;\n\tfont-weight: 700;\n\tpadding-bottom: 15px;\n}\n/* Blog Sidebar */\n.main-sidebar {\n\tbackground: #fff;\n\tmargin-top: 30px;\n\tpadding: 40px;\n\tbackground: transparent;\n\tborder: 1px solid #eeeeeec2;\n}\n.main-sidebar .single-widget{\n\tmargin-bottom:50px;\n}\n.main-sidebar .single-widget .title {\n\tposition: relative;\n\tfont-size: 18px;\n\tfont-weight: 600;\n\ttext-transform: capitalize;\n\tmargin-bottom: 30px;\n\tdisplay: block;\n\tbackground: #fff;\n\tpadding-left: 12px;\n}\n.main-sidebar .single-widget .title::before {\n\tposition: absolute;\n\tcontent: \"\";\n\tleft: 0;\n\tbottom: -1px;\n\theight: 100%;\n\twidth: 3px;\n\tbackground: #79cced;\n}\n.main-sidebar .single-widget:last-child{\n\tmargin:0;\n}\n.main-sidebar .search{\n\tposition:relative;\n}\n.main-sidebar .search input {\n\twidth: 100%;\n\theight: 45px;\n\tbox-shadow: none;\n\ttext-shadow: none;\n\tfont-size: 14px;\n\tborder: none;\n\tcolor: #222;\n\tbackground: transparent;\n\tpadding: 0 70px 0 20px;\n\ttransition: all 0.4s ease;\n\tborder-radius: 0;\n\tborder: 1px solid #eee;\n}\n.main-sidebar .search .button {\n\tposition: absolute;\n\tright: 0;\n\ttop: 0;\n\theight: 44px;\n\twidth: 50px;\n\tline-height: 45px;\n\tbox-shadow: none;\n\ttext-shadow: none;\n\ttext-align: center;\n\tborder: none;\n\tfont-size: 14px;\n\tcolor: #fff;\n\tbackground: #333;\n\ttransition: all 0.4s ease;\n}\n.main-sidebar .search .button:hover {\n\tbackground:#79cced;\n\tcolor:#fff;\n}\n/* Category List */\n.main-sidebar .categor-list {\n\tmargin-top: 15px;\n}\n.main-sidebar .categor-list li{\n\t\n}\n.main-sidebar .categor-list li {\n\tmargin-bottom: 10px;\n}\n.main-sidebar .categor-list li:last-child{\n\tmargin-bottom:0px;\n}\n.main-sidebar .categor-list li a {\n\tdisplay: inline-block;\n\tcolor: #333;\n\tfont-size:14px;\n}\n.main-sidebar .categor-list li a:hover{\n\tcolor:#79cced;\n\tpadding-left:7px;\n}\n.main-sidebar .categor-list li a i {\n\tdisplay: inline-block;\n\tmargin-right:0px;\n\tfont-size: 9px;\n\ttransform: translateY(-1px);\n\topacity:0;\n\tvisibility:hidden;\n\ttransition:all 0.4s ease;\n}\n.main-sidebar .categor-list li a:hover i{\n\tmargin-right: 6px;\n\topacity:1;\n\tvisibility:visible;\n}\n/* Recent Post */\n.main-sidebar .recent-post{}\n.main-sidebar .single-post {\n\tposition: relative;\n\tborder-bottom: 1px solid #ddd;\n\tdisplay: inline-block;\n\tpadding: 17px 0;\n}\n.main-sidebar .single-post:last-child{\n\tpadding-bottom:0px;\n\tborder:none;\n}\n.main-sidebar .single-post .image {\n\t\n}\n.main-sidebar .single-post .image img{\n\tfloat: left;\n\twidth: 80px;\n\theight: 80px;\n\tmargin-right: 20px;\n}\n.main-sidebar .single-post .content{\n\tpadding-left:100px;\n}\n.main-sidebar .single-post .content h5 {\n\tline-height: 18px;\n}\n.main-sidebar .single-post .content h5 a {\n\tcolor: #2C2D3F;\n\tfont-weight: 500;\n\tfont-size: 14px;\n\tfont-weight: 500;\n\tmargin-top: 10px;\n\tdisplay: block;\n\tmargin-bottom: 10px;\n\tmargin-top: 0;\n}\n.main-sidebar .single-post .content h5 a:hover{\n\tcolor:#79cced;\n}\n.main-sidebar .single-post .content .comment{}\n.main-sidebar .single-post .content .comment li{\n\tcolor:#888;\n\tdisplay:inline-block;\n\tmargin-right:15px;\n\tfont-weight:400;\n\tfont-size:14px;\n}\n.main-sidebar .single-post .content .comment li:last-child{\n\tmargin-right:0;\n}\n.main-sidebar .single-post .content .comment li i{\n\tdisplay:inline-block;\n\tmargin-right:5px;\n}\n/* Blog Tags */\n.main-sidebar .side-tags{}\n.main-sidebar .side-tags .tag{\n\tmargin-top:40px;\n}\n.main-sidebar .side-tags .tag li {\n\tdisplay: inline-block;\n\tmargin-right: 7px;\n\tmargin-bottom: 20px;\n}\n.main-sidebar .side-tags .tag li a {\n\tbackground: #fff;\n\tcolor: #333;\n\tpadding: 8px 14px;\n\ttext-transform: capitalize;\n\tborder-radius: 0;\n\tfont-size: 13px;\n\tbackground: #F6F7FB;\n}\n.main-sidebar .side-tags .tag a:hover{\n\tcolor:#fff;\n\tbackground:#79cced;\n\tborder-color:transparent;\n}\n/* Blog Newslatter CSS */\n.main-sidebar .newsletter{\n\t\n}\n.main-sidebar .newsletter .letter-inner {\n\tposition:relative;\n\tpadding: 35px 30px;\n\tbox-shadow: 0px 0px 12px #00000014;\n\tz-index:2;\n\toverflow:hidden;\n}\n.main-sidebar .newsletter .letter-inner h4 {\n\ttext-transform: capitalize;\n\tmargin-bottom: 25px;\n\tfont-size: 18px;\n\tfont-weight: 600;\n\tline-height: 24px;\n}\n.main-sidebar .newsletter .letter-inner p{\n\tmargin-bottom: 20px;\n}\n.main-sidebar .newsletter .letter-inner .form-inner{\n\tposition:relative;\n}\n.main-sidebar .newsletter .letter-inner input {\n\twidth: 100%;\n\theight: 45px;\n\tbackground: #fff;\n\tborder: none;\n\tborder: 1px solid #ddd;\n\tpadding: 0px 60px 0px 20px;\n\tbox-shadow: none;\n\ttext-shadow: none;\n\tborder-radius: 0;\n}\n.main-sidebar .newsletter .letter-inner .form-inner a {\n\theight: 42px;\n\twidth: 100%;\n\tbackground: #79cced;\n\tcolor: #fff;\n\tfont-size: 14px;\n\tdisplay: block;\n\ttext-align: center;\n\tline-height: 42px;\n\tmargin-top: 10px;\n\ttext-transform: uppercase;\n\tfont-weight: 500;\n}\n.main-sidebar .newsletter .letter-inner .form-inner a:hover{\n\tbackground:#333;\n\tcolor:#fff;\n}\n/* Blog Single CSS */\n.blog-single{\n\tbackground:#fff;\n\tpadding:70px 0 100px;\n}\n.blog-single .blog-single-main {\n\tmargin-top: 30px;\n\tbackground: #fff;\n}\n.blog-single .blog-detail {\n\tbackground: #fff;\n}\n.blog-single .image{\n\tposition:relative;\n}\n.blog-single .image img{\n\twidth:100%;\n\theight:100%;\n}\n.blog-single .blog-title {\n\tfont-size: 24px;\n\tfont-weight: 600;\n\ttext-transform: capitalize;\n\tmargin: 40px 0 15px 0;\n}\n.blog-single .blog-meta {\n\tmargin-bottom: 0;\n\toverflow: hidden;\n\tborder-bottom: 1px solid #dddddd6e;\n\tpadding-bottom: 20px;\n\tmargin-bottom: 25px;\n}\n.blog-single .blog-meta .author i {\n\tcolor: #79cced;\n\tmargin-right: 10px;\n\tfont-size: 13px;\n}\n.blog-single .blog-meta .author a {\n\tfont-size: 13px;\n\tborder-right:1px solid #ddd;\n\tpadding:0px 15px;\n}\n.blog-single .blog-meta .author  a:first-child{\n\tpadding-left:0;\n}\n.blog-single .blog-meta .author  a:last-child{\n\tpadding-right:0;\n\tborder:none;\n}\n.blog-single .blog-meta span {\n\tdisplay: inline-block;\n\tfont-size: 14px;\n\tcolor: #666;\n}\n.blog-single .blog-meta span a i {\n\tmargin-right: 10px;\n\tcolor: #79cced;\n}\n.blog-single .blog-meta span a:hover{\n\tcolor:#79cced;\n}\n.blog-single .content p {\n\tmargin-bottom: 25px;\n\tline-height: 26px;\n}\n.blog-single .content p:last-child{\n\tmargin:0;\n}\n.blog-single blockquote {\n\tposition: relative;\n\tfont-size: 13px;\n\tfont-weight: 400;\n\tpadding-left: 20px;\n\tpadding: 10px 20px;\n\tbackground: #F6F6F6;\n\tpadding: 30px 40px 30px 70px;\n\tcolor: #555;\n\tborder: none;\n\tmargin-bottom: 25px;\n\tborder-left: 3px solid #79cced;\n}\n.blog-single blockquote i {\n\tfont-size: 30px;\n\tcolor: #79cced;\n\tposition: absolute;\n\tleft: 20px;\n\ttop: 20px;\n}\n.blog-single .content .img-post{\n\tmargin-bottom: 25px;\n}\n.blog-single .share-social .content-tags {\n\tposition: relative;\n\tmargin-top: 25px;\n}\n.blog-single .share-social .content-tags h4 {\n\tposition: absolute;\n\tleft: 0;\n\ttop: 7px;\n\tfont-size: 15px;\n\tfont-weight: 500;\n}\n.blog-single .share-social .content-tags .tag-inner{\n\tpadding-left:60px;\n}\n.blog-single .share-social .content-tags .tag-inner li {\n\tdisplay: inline-block;\n\tmargin-right: 7px;\n\tmargin-bottom: 10px;\n\tmargin-top: 4px;\n}\n.blog-single .share-social .content-tags .tag-inner li:last-child{\n\tmargin-right: 0px;\n\tmargin-bottom: 0px;\n}\n.blog-single .share-social .content-tags .tag-inner li a {\n\tborder-radius: 30px;\n\tpadding: 5px 15px;\n\tbackground:#f4f7fc;\n\tfont-size: 13px;\n}\n.blog-single .share-social .content-tags .tag-inner li a:hover{\n\tcolor:#fff;\n\tbackground:#79cced;\n}\n/* Comments */\n.blog-single .comments{\n\tmargin-top:40px;\n}\n.blog-single .comments .comment-title {\n\tposition: relative;\n\tfont-size: 18px;\n\tfont-weight: 600;\n\ttext-transform: capitalize;\n\tmargin-bottom: 30px;\n\tdisplay: block;\n\tbackground: #fff;\n\tpadding-left: 12px;\n}\n.blog-single .comments .comment-title:before{\n\tposition: absolute;\n\tcontent: \"\";\n\tleft: 0;\n\tbottom: -1px;\n\theight: 100%;\n\twidth: 3px;\n\tbackground:#79cced;\n}\n.blog-single .comments{\n\t\n}\n.blog-single .comments .single-comment {\n\tposition: relative;\n\tmargin-bottom: 40px;\n\tborder-radius: 5px;\n\tpadding-left: 95px;\n}\n.blog-single .comments .single-comment.left{\n\tmargin-left:110px;\n}\n.blog-single .comments .single-comment img {\n\theight: 70px;\n\twidth: 70px;\n\tborder-radius: 100%;\n\tposition: absolute;\n\tleft: 0;\n}\n.blog-single .single-comment .content {\n\t\n}\n.blog-single .single-comment .content h4 {\n\tcolor: #333;\n\tfont-size: 16px;\n\tfont-weight: 500;\n\tmargin-bottom: 10px;\n\tdisplay: inline-block;\n\tmargin-bottom: 18px;\n\ttext-transform: capitalize;\n}\n.blog-single .single-comment .content h4 span {\n\tdisplay: inline-block;\n\tfont-size: 13px;\n\tcolor: #8D8D8D;\n\tmargin: 0;\n\tfont-weight: 400;\n\ttext-transform: capitalize;\n\tdisplay: block;\n\tmargin-top: 5px;\n}\n.blog-single .single-comment .content p {\n\tcolor: #666;\n\tfont-weight: 400;\n\tdisplay: block;\n\tmargin: 0;\n\tmargin-bottom: 20px;\n\tline-height: 22px;\n}\n.blog-single .single-comment .content .button{}\n.blog-single .single-comment .content .btn {\n\tdisplay: inline-block;\n\tcolor: #666;\n\tfont-weight: 400;\n\tcolor: #6a6a6a;\n\tborder-radius: 4px;\n\ttext-transform: capitalize;\n\tfont-size: 14px;\n\tbackground: transparent;\n\tpadding: 0;\n}\n.blog-single .single-comment .content a i{\n\tdisplay:inline-block;\n\tmargin-right:5px;\n}\n.blog-single .single-comment .content a:hover{\n\tcolor:#79cced;\n}\n/* Comment Form */\n.blog-single .reply form {\n\tpadding: 40px;\n\tborder: 1px solid #eee;\n}\n.blog-single .reply .reply-title {\n\tposition: relative;\n\tfont-size: 18px;\n\tfont-weight: 600;\n\ttext-transform: capitalize;\n\tmargin-bottom: 30px;\n\tdisplay: block;\n\tbackground: #fff;\n\tpadding-left: 12px;\n}\n.blog-single .reply .reply-title:before{\n\tposition: absolute;\n\tcontent: \"\";\n\tleft: 0;\n\tbottom: -1px;\n\theight: 100%;\n\twidth: 3px;\n\tbackground:#79cced;\n}\n.blog-single .reply .form-group {\n\tmargin-bottom: 20px;\n}\n.blog-single .reply .form-group input {\n\twidth: 100%;\n\theight: 45px;\n\tline-height: 50px;\n\tpadding: 0 20px;\n\tborder-radius: 0px;\n\tcolor: #333 !important;\n\tborder: none;\n\tborder: 1px solid #eee;\n}\n.blog-single .reply .form-group textarea {\n\twidth: 100%;\n\theight: 200px;\n\tline-height: 50px;\n\tpadding: 0 20px;\n\tborder-radius: 0px;\n\tcolor: #333 !important;\n\tborder: none;\n\tborder: 1px solid #eee;\n}\n.blog-single .reply .form-group label {\n\tcolor: #333;\n\tposition: relative;\n}\n.blog-single .reply .form-group label span {\n\tcolor:#ff2c18;\n\tdisplay: inline-block;\n\tposition: absolute;\n\tright: -12px;\n\ttop: 4px;\n\tfont-size: 16px;\n}\n.blog-single .reply .button {\n\ttext-align: left;\n\tmargin-bottom:0px;\n}\n.blog-single .reply .button .btn {\n\theight: 50px;\n\tborder: none;\n}\n/*======================================\n   End Shop Blog CSS\n========================================*/\n\n\n/*======================================\n  21. Contact CSS\n========================================*/\n.contact-us {\n\tposition: relative;\n\tz-index: 43;\n}\n.contact-us .title{\n\tmargin-bottom: 30px;\n}\n.contact-us .title h4 {\n\tfont-size: 17px;\n\tfont-weight: 500;\n\tmargin-bottom: 5px;\n\tcolor: #79cced;\n}\n.contact-us .title h3 {\n\tfont-size: 25px;\n\ttext-transform: capitalize;\n\tfont-weight: 600;\n}\n.contact-us .single-head {\n\tpadding: 50px;\n\tbox-shadow: 0px 0px 15px #0000001a;\n\theight: 100%;\n}\n.contact-us .single-info {\n\ttext-align: left;\n\tmargin-bottom:30px;\n}\n.contact-us .single-info i {\n\tcolor: #fff;\n\tfont-size: 18px;\n\tdisplay: inline-block;\n\tmargin-bottom: 15px;\n\theight: 40px;\n\twidth: 40px;\n\tdisplay: block;\n\ttext-align: center;\n\tborder-radius: 3px;\n\tline-height: 40px;\n\tbackground:#79cced;\n}\n.contact-us .single-info ul\n.contact-us .single-info ul li{\n\tmargin-bottom:5px;\n}\n.contact-us .single-info ul li:last-child{\n\tmargin-bottom:0;\n}\n.contact-us .single-info ul li a{\n\tfont-weight:400;\n}\n.contact-us .single-info ul li a:hover{\n\tcolor:#79cced;\n}\n.contact-us .single-info .title {\n\tmargin-bottom: 10px;\n\tfont-weight: 500;\n\tcolor: #333;\n\tfont-size: 18px;\n}\n.contact-us .form-main {\n\tbox-shadow: 0px 0px 15px #0000001a;\n\tpadding: 50px;\n}\n.contact-us .form .form-group input {\n\theight: 48px;\n\tline-height: 48px;\n\twidth: 100%;\n\tborder: 1px solid #e6e2f5;\n\tpadding: 0px 20px;\n\tcolor: #333;\n\tborder-radius: 0px;\n\tfont-weight: 400;\n}\n.contact-us .form .form-group textarea {\n\theight: 180px;\n\twidth: 100%;\n\tborder: 1px solid #e6e2f5;\n\tpadding: 15px 20px;\n\tcolor: #333;\n\tborder-radius: 0px;\n\tresize: none;\n\tfont-weight:400;\n}\n.contact-us .form .form-group label {\n\tcolor: #333;\n\tposition: relative;\n}\n.contact-us .form .form-group label span {\n\tcolor: #ff2c18;\n\tdisplay: inline-block;\n\tposition: absolute;\n\tright: -12px;\n\ttop: 4px;\n\tfont-size: 16px;\n}\n.contact-us .form .button {\n\tmargin:0;\n}\n.contact-us .form .button .btn {\n\theight: 50px;\n\tborder: none;\n}\n#myMap {\n\theight: 500px;\n\twidth: 100%;\n}\n/*======================================\n  End Contact CSS\n========================================*/\n\n/* Mail Success */\n.mail-success .mail-inner {\n\ttext-align: center;\n\tbackground: #fff;\n\tpadding: 0px 30px;\n}\n.mail-success .mail-inner h2 {\n\tmargin-bottom: 10px;\n\tdisplay: block;\n\tfont-weight: 600;\n\tcolor: #79cced;\n\ttext-transform: uppercase;\n\tfont-size: 30px;\n}\n.mail-success .mail-inner p {\n\tfont-size: 14;\n\tcolor: #333;\n\tmargin-bottom: 30px;\n\tline-height: 22px;\n}\n.mail-success .mail-inner .btn {\n\tcolor: #fff;\n\tpadding: 10px 30px;\n}\n.mail-success .mail-inner .btn i{\n\tmargin-right:5px;\n}\n\n/*=============================\n\tStart 404 Error CSS\n===============================*/\n.error-page {\n\tbackground:#fff;\n\twidth: 100%;\n\theight: 100%;\n\toverflow: hidden;\n\tposition:relative;\n}\n.error-page .error-inner {\n\ttext-align: center;\n\tflex-direction: initial;\n\theight: auto;\n\ttext-align: center;\n}\n.error-page .error-inner h2 {\n\tcolor: #79cced;\n\tmargin-bottom: 0;\n\tfont-weight: 700;\n\tfont-size: 100px;\n\tdisplay: inline-block;\n\tfont-size: 120px;\n}\n.error-page .error-inner h5 {\n\tdisplay: block;\n\tcolor: #444;\n\tfont-size: 20px;\n\tmargin-bottom: 20px;\n\tfont-weight: 600;\n\ttext-transform: capitalize;\n}\n.error-page .error-inner p {\n\tcolor: #666;\n\tfont-weight: 400;\n\tline-height: 22px;\n\tfont-size: 15px;\n\tpadding: 0 30px;\n}\n.error-page .button {\n\tmargin-top: 30px;\n}\n.error-page .button .btn {\n\tmargin-right: 15px;\n\tborder-radius: 30px;\n\tbackground: #333;\n\tcolor: #fff;\n\tfont-weight: 600;\n\tfont-size: 14px;\n\tfont-weight: 500;\n\tborder: 1px solid #d7d7d7;\n\tbackground: transparent;\n\tcolor: #333;\n\tpadding: 10px 28px;\n}\n.error-page .button .btn:hover{\n\tcolor:#fff;\n\tbackground:#79cced;\n\tborder-color:transparent;\n}\n/*=============================\n\t/End 404 Error CSS\n===============================*/\n\n.free-version-banner {\n  position: relative;\n  background: #333;\n  text-align: center;\n  background-color: #79cced;\n  margin-bottom:100px;\n}\n\n.free-version-banner .section-title span {\n  font-weight: 500;\n  text-transform: capitalize;\n}\n\n.free-version-banner .section-title {\n  margin: 0;\n  padding: 0;\n  text-align: center;\n}\n\n.free-version-banner .section-title h2 {\n  padding-bottom: 15px;\n}\n\n.free-version-banner .section-title h2::before {\n  background-color: #fff;\n}\n\n.free-version-banner .button {\n  z-index: 5;\n  margin-top: 40px;\n}\n\n.free-version-banner .button .btn {\n  background-color: #fff;\n  color: #333;\n  text-transform:capitalize;\n}\n\n/*=============================\n\t20. Start Footer CSS\n===============================*/\n.footer{\n\tbackground:#222;\n}\n.footer .about {\n\tpadding-right: 50px;\n}\n.footer .single-footer h4 {\n\tfont-size: 17px;\n\tfont-weight: 600;\n\tcolor: #fff;\n\ttext-transform: capitalize;\n\tmargin-bottom: 30px;\n}\n.footer .about .logo{\n\tmargin-bottom:20px;\n}\n.footer .about .logo img{}\n.footer .about .text{\n\tcolor:#fff;\n\tfont-weight: 400;\n}\n.footer .about .call {\n\tcolor: #fff;\n\tmargin-top: 15px;\n\tfont-weight: 400;\n}\n.footer .about .call span{\n\tdisplay: block;\n}\n.footer .about .call a {\n\tcolor: #79cced;\n\tfont-size: 20px;\n\tfont-weight: 600;\n}\n.footer .links ul{}\n.footer .links ul li {\n\tdisplay: block;\n\tmargin-bottom: 8px;\n}\n.footer .links ul li:last-child{\n\tmargin-bottom:0;\n}\n.footer .links ul li a{\n\tcolor:#fff;\n\tfont-weight: 400;\n}\n.footer .links ul li a:hover{\n\tcolor:#79cced;\n\tpadding-left:10px;\n}\n.footer .social{}\n.footer .social .contact{}\n.footer .social .contact ul{}\n.footer .social .contact ul li {\n\tcolor: #fff;\n\tdisplay: block;\n\tmargin-bottom: 4px;\n\tfont-weight: 400;\n}\n.footer .contact ul li:last-child{\n\tmargin-bottom:0;\n}\n.footer .social ul {\n\tmargin-top: 20px;\n}\n.footer .social ul li{\n\tdisplay:inline-block;\n\tmargin-right:25px;\n}\n.footer .social ul li:last-child{\n\tmargin-right:0;\n}\n.footer .social ul li a{\n\tcolor:#fff;\n\tdisplay:block;\n\tfont-size:16px;\n}\n.footer .social ul li a:hover{\n\tcolor:#79cced;\n}\n/* Copyright */\n.footer .copyright{\n\t\n}\n.footer .copyright .inner{\n\tborder-top:1px solid #eeeeee3d;\n\tpadding:20px 0;\n}\n.footer .copyright .left{}\n.footer .copyright .right{\n\tfloat:right;\n}\n.footer .copyright p{\n\tcolor:#fff;\n}\n.footer .copyright p a{\n\tcolor:#fff;\n\ttext-decoration:underline;\n}\n\n/*=============================\n\tEnd Footer CSS\n===============================*/\n\n\n/* NEW EDITED CSS */\n.brand-img {\n\twidth: 50px;\n\theight: 50px;\n}\n", ""]);
 // Exports
 /* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (___CSS_LOADER_EXPORT___);
 
@@ -22406,6 +24229,30 @@ __webpack_require__.r(__webpack_exports__);
 var ___CSS_LOADER_EXPORT___ = _node_modules_laravel_mix_node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_0___default()(function(i){return i[1]});
 // Module
 ___CSS_LOADER_EXPORT___.push([module.id, "\nh3[data-v-1d11828b] {\n  margin: 40px 0 0;\n}\nul[data-v-1d11828b] {\n  list-style-type: none;\n  padding: 0;\n}\nli[data-v-1d11828b] {\n  display: inline-block;\n  margin: 0 10px;\n}\na[data-v-1d11828b] {\n  color: #42b983;\n}\n\n", ""]);
+// Exports
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (___CSS_LOADER_EXPORT___);
+
+
+/***/ }),
+
+/***/ "./node_modules/laravel-mix/node_modules/css-loader/dist/cjs.js??clonedRuleSet-9[0].rules[0].use[1]!./node_modules/vue-loader/lib/loaders/stylePostLoader.js!./node_modules/postcss-loader/dist/cjs.js??clonedRuleSet-9[0].rules[0].use[2]!./node_modules/vue-loader/lib/index.js??vue-loader-options!./resources/js/views/layouts/DashboardHeader.vue?vue&type=style&index=0&id=04aebb6c&scoped=true&lang=css&":
+/*!**********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/laravel-mix/node_modules/css-loader/dist/cjs.js??clonedRuleSet-9[0].rules[0].use[1]!./node_modules/vue-loader/lib/loaders/stylePostLoader.js!./node_modules/postcss-loader/dist/cjs.js??clonedRuleSet-9[0].rules[0].use[2]!./node_modules/vue-loader/lib/index.js??vue-loader-options!./resources/js/views/layouts/DashboardHeader.vue?vue&type=style&index=0&id=04aebb6c&scoped=true&lang=css& ***!
+  \**********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+/***/ ((module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
+/* harmony export */ });
+/* harmony import */ var _node_modules_laravel_mix_node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ../../../../node_modules/laravel-mix/node_modules/css-loader/dist/runtime/api.js */ "./node_modules/laravel-mix/node_modules/css-loader/dist/runtime/api.js");
+/* harmony import */ var _node_modules_laravel_mix_node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_node_modules_laravel_mix_node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_0__);
+// Imports
+
+var ___CSS_LOADER_EXPORT___ = _node_modules_laravel_mix_node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_0___default()(function(i){return i[1]});
+// Module
+___CSS_LOADER_EXPORT___.push([module.id, "\n.menu-area ul.navbar-nav li a[data-v-04aebb6c]{\n\tcolor: black;\n\t/* color:red */\n}\n", ""]);
 // Exports
 /* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (___CSS_LOADER_EXPORT___);
 
@@ -43056,6 +44903,36 @@ var update = _node_modules_style_loader_dist_runtime_injectStylesIntoStyleTag_js
 
 /***/ }),
 
+/***/ "./node_modules/style-loader/dist/cjs.js!./node_modules/laravel-mix/node_modules/css-loader/dist/cjs.js??clonedRuleSet-9[0].rules[0].use[1]!./node_modules/vue-loader/lib/loaders/stylePostLoader.js!./node_modules/postcss-loader/dist/cjs.js??clonedRuleSet-9[0].rules[0].use[2]!./node_modules/vue-loader/lib/index.js??vue-loader-options!./resources/js/views/layouts/DashboardHeader.vue?vue&type=style&index=0&id=04aebb6c&scoped=true&lang=css&":
+/*!**************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/style-loader/dist/cjs.js!./node_modules/laravel-mix/node_modules/css-loader/dist/cjs.js??clonedRuleSet-9[0].rules[0].use[1]!./node_modules/vue-loader/lib/loaders/stylePostLoader.js!./node_modules/postcss-loader/dist/cjs.js??clonedRuleSet-9[0].rules[0].use[2]!./node_modules/vue-loader/lib/index.js??vue-loader-options!./resources/js/views/layouts/DashboardHeader.vue?vue&type=style&index=0&id=04aebb6c&scoped=true&lang=css& ***!
+  \**************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
+/* harmony export */ });
+/* harmony import */ var _node_modules_style_loader_dist_runtime_injectStylesIntoStyleTag_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! !../../../../node_modules/style-loader/dist/runtime/injectStylesIntoStyleTag.js */ "./node_modules/style-loader/dist/runtime/injectStylesIntoStyleTag.js");
+/* harmony import */ var _node_modules_style_loader_dist_runtime_injectStylesIntoStyleTag_js__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_node_modules_style_loader_dist_runtime_injectStylesIntoStyleTag_js__WEBPACK_IMPORTED_MODULE_0__);
+/* harmony import */ var _node_modules_laravel_mix_node_modules_css_loader_dist_cjs_js_clonedRuleSet_9_0_rules_0_use_1_node_modules_vue_loader_lib_loaders_stylePostLoader_js_node_modules_postcss_loader_dist_cjs_js_clonedRuleSet_9_0_rules_0_use_2_node_modules_vue_loader_lib_index_js_vue_loader_options_DashboardHeader_vue_vue_type_style_index_0_id_04aebb6c_scoped_true_lang_css___WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! !!../../../../node_modules/laravel-mix/node_modules/css-loader/dist/cjs.js??clonedRuleSet-9[0].rules[0].use[1]!../../../../node_modules/vue-loader/lib/loaders/stylePostLoader.js!../../../../node_modules/postcss-loader/dist/cjs.js??clonedRuleSet-9[0].rules[0].use[2]!../../../../node_modules/vue-loader/lib/index.js??vue-loader-options!./DashboardHeader.vue?vue&type=style&index=0&id=04aebb6c&scoped=true&lang=css& */ "./node_modules/laravel-mix/node_modules/css-loader/dist/cjs.js??clonedRuleSet-9[0].rules[0].use[1]!./node_modules/vue-loader/lib/loaders/stylePostLoader.js!./node_modules/postcss-loader/dist/cjs.js??clonedRuleSet-9[0].rules[0].use[2]!./node_modules/vue-loader/lib/index.js??vue-loader-options!./resources/js/views/layouts/DashboardHeader.vue?vue&type=style&index=0&id=04aebb6c&scoped=true&lang=css&");
+
+            
+
+var options = {};
+
+options.insert = "head";
+options.singleton = false;
+
+var update = _node_modules_style_loader_dist_runtime_injectStylesIntoStyleTag_js__WEBPACK_IMPORTED_MODULE_0___default()(_node_modules_laravel_mix_node_modules_css_loader_dist_cjs_js_clonedRuleSet_9_0_rules_0_use_1_node_modules_vue_loader_lib_loaders_stylePostLoader_js_node_modules_postcss_loader_dist_cjs_js_clonedRuleSet_9_0_rules_0_use_2_node_modules_vue_loader_lib_index_js_vue_loader_options_DashboardHeader_vue_vue_type_style_index_0_id_04aebb6c_scoped_true_lang_css___WEBPACK_IMPORTED_MODULE_1__.default, options);
+
+
+
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (_node_modules_laravel_mix_node_modules_css_loader_dist_cjs_js_clonedRuleSet_9_0_rules_0_use_1_node_modules_vue_loader_lib_loaders_stylePostLoader_js_node_modules_postcss_loader_dist_cjs_js_clonedRuleSet_9_0_rules_0_use_2_node_modules_vue_loader_lib_index_js_vue_loader_options_DashboardHeader_vue_vue_type_style_index_0_id_04aebb6c_scoped_true_lang_css___WEBPACK_IMPORTED_MODULE_1__.default.locals || {});
+
+/***/ }),
+
 /***/ "./node_modules/style-loader/dist/cjs.js!./node_modules/laravel-mix/node_modules/css-loader/dist/cjs.js??clonedRuleSet-9[0].rules[0].use[1]!./node_modules/vue-loader/lib/loaders/stylePostLoader.js!./node_modules/postcss-loader/dist/cjs.js??clonedRuleSet-9[0].rules[0].use[2]!./node_modules/vue-loader/lib/index.js??vue-loader-options!./resources/js/views/layouts/Header.vue?vue&type=style&index=0&id=201dc39c&scoped=true&lang=css&":
 /*!*****************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
   !*** ./node_modules/style-loader/dist/cjs.js!./node_modules/laravel-mix/node_modules/css-loader/dist/cjs.js??clonedRuleSet-9[0].rules[0].use[1]!./node_modules/vue-loader/lib/loaders/stylePostLoader.js!./node_modules/postcss-loader/dist/cjs.js??clonedRuleSet-9[0].rules[0].use[2]!./node_modules/vue-loader/lib/index.js??vue-loader-options!./resources/js/views/layouts/Header.vue?vue&type=style&index=0&id=201dc39c&scoped=true&lang=css& ***!
@@ -43537,6 +45414,162 @@ component.options.__file = "resources/js/components/ProductComponent.vue"
 
 /***/ }),
 
+/***/ "./resources/js/views/Blog.vue":
+/*!*************************************!*\
+  !*** ./resources/js/views/Blog.vue ***!
+  \*************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
+/* harmony export */ });
+/* harmony import */ var _Blog_vue_vue_type_template_id_78b5237e___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./Blog.vue?vue&type=template&id=78b5237e& */ "./resources/js/views/Blog.vue?vue&type=template&id=78b5237e&");
+/* harmony import */ var _Blog_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./Blog.vue?vue&type=script&lang=js& */ "./resources/js/views/Blog.vue?vue&type=script&lang=js&");
+/* harmony import */ var _node_modules_vue_loader_lib_runtime_componentNormalizer_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! !../../../node_modules/vue-loader/lib/runtime/componentNormalizer.js */ "./node_modules/vue-loader/lib/runtime/componentNormalizer.js");
+
+
+
+
+
+/* normalize component */
+;
+var component = (0,_node_modules_vue_loader_lib_runtime_componentNormalizer_js__WEBPACK_IMPORTED_MODULE_2__.default)(
+  _Blog_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_1__.default,
+  _Blog_vue_vue_type_template_id_78b5237e___WEBPACK_IMPORTED_MODULE_0__.render,
+  _Blog_vue_vue_type_template_id_78b5237e___WEBPACK_IMPORTED_MODULE_0__.staticRenderFns,
+  false,
+  null,
+  null,
+  null
+  
+)
+
+/* hot reload */
+if (false) { var api; }
+component.options.__file = "resources/js/views/Blog.vue"
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (component.exports);
+
+/***/ }),
+
+/***/ "./resources/js/views/Cart.vue":
+/*!*************************************!*\
+  !*** ./resources/js/views/Cart.vue ***!
+  \*************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
+/* harmony export */ });
+/* harmony import */ var _Cart_vue_vue_type_template_id_29106a82___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./Cart.vue?vue&type=template&id=29106a82& */ "./resources/js/views/Cart.vue?vue&type=template&id=29106a82&");
+/* harmony import */ var _Cart_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./Cart.vue?vue&type=script&lang=js& */ "./resources/js/views/Cart.vue?vue&type=script&lang=js&");
+/* harmony import */ var _node_modules_vue_loader_lib_runtime_componentNormalizer_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! !../../../node_modules/vue-loader/lib/runtime/componentNormalizer.js */ "./node_modules/vue-loader/lib/runtime/componentNormalizer.js");
+
+
+
+
+
+/* normalize component */
+;
+var component = (0,_node_modules_vue_loader_lib_runtime_componentNormalizer_js__WEBPACK_IMPORTED_MODULE_2__.default)(
+  _Cart_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_1__.default,
+  _Cart_vue_vue_type_template_id_29106a82___WEBPACK_IMPORTED_MODULE_0__.render,
+  _Cart_vue_vue_type_template_id_29106a82___WEBPACK_IMPORTED_MODULE_0__.staticRenderFns,
+  false,
+  null,
+  null,
+  null
+  
+)
+
+/* hot reload */
+if (false) { var api; }
+component.options.__file = "resources/js/views/Cart.vue"
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (component.exports);
+
+/***/ }),
+
+/***/ "./resources/js/views/Checkout.vue":
+/*!*****************************************!*\
+  !*** ./resources/js/views/Checkout.vue ***!
+  \*****************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
+/* harmony export */ });
+/* harmony import */ var _Checkout_vue_vue_type_template_id_bb718336___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./Checkout.vue?vue&type=template&id=bb718336& */ "./resources/js/views/Checkout.vue?vue&type=template&id=bb718336&");
+/* harmony import */ var _Checkout_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./Checkout.vue?vue&type=script&lang=js& */ "./resources/js/views/Checkout.vue?vue&type=script&lang=js&");
+/* harmony import */ var _node_modules_vue_loader_lib_runtime_componentNormalizer_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! !../../../node_modules/vue-loader/lib/runtime/componentNormalizer.js */ "./node_modules/vue-loader/lib/runtime/componentNormalizer.js");
+
+
+
+
+
+/* normalize component */
+;
+var component = (0,_node_modules_vue_loader_lib_runtime_componentNormalizer_js__WEBPACK_IMPORTED_MODULE_2__.default)(
+  _Checkout_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_1__.default,
+  _Checkout_vue_vue_type_template_id_bb718336___WEBPACK_IMPORTED_MODULE_0__.render,
+  _Checkout_vue_vue_type_template_id_bb718336___WEBPACK_IMPORTED_MODULE_0__.staticRenderFns,
+  false,
+  null,
+  null,
+  null
+  
+)
+
+/* hot reload */
+if (false) { var api; }
+component.options.__file = "resources/js/views/Checkout.vue"
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (component.exports);
+
+/***/ }),
+
+/***/ "./resources/js/views/Contact.vue":
+/*!****************************************!*\
+  !*** ./resources/js/views/Contact.vue ***!
+  \****************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
+/* harmony export */ });
+/* harmony import */ var _Contact_vue_vue_type_template_id_1d91a851___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./Contact.vue?vue&type=template&id=1d91a851& */ "./resources/js/views/Contact.vue?vue&type=template&id=1d91a851&");
+/* harmony import */ var _Contact_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./Contact.vue?vue&type=script&lang=js& */ "./resources/js/views/Contact.vue?vue&type=script&lang=js&");
+/* harmony import */ var _node_modules_vue_loader_lib_runtime_componentNormalizer_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! !../../../node_modules/vue-loader/lib/runtime/componentNormalizer.js */ "./node_modules/vue-loader/lib/runtime/componentNormalizer.js");
+
+
+
+
+
+/* normalize component */
+;
+var component = (0,_node_modules_vue_loader_lib_runtime_componentNormalizer_js__WEBPACK_IMPORTED_MODULE_2__.default)(
+  _Contact_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_1__.default,
+  _Contact_vue_vue_type_template_id_1d91a851___WEBPACK_IMPORTED_MODULE_0__.render,
+  _Contact_vue_vue_type_template_id_1d91a851___WEBPACK_IMPORTED_MODULE_0__.staticRenderFns,
+  false,
+  null,
+  null,
+  null
+  
+)
+
+/* hot reload */
+if (false) { var api; }
+component.options.__file = "resources/js/views/Contact.vue"
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (component.exports);
+
+/***/ }),
+
 /***/ "./resources/js/views/Dashboard.vue":
 /*!******************************************!*\
   !*** ./resources/js/views/Dashboard.vue ***!
@@ -43611,6 +45644,47 @@ var component = (0,_node_modules_vue_loader_lib_runtime_componentNormalizer_js__
 /* hot reload */
 if (false) { var api; }
 component.options.__file = "resources/js/views/Home.vue"
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (component.exports);
+
+/***/ }),
+
+/***/ "./resources/js/views/layouts/DashboardHeader.vue":
+/*!********************************************************!*\
+  !*** ./resources/js/views/layouts/DashboardHeader.vue ***!
+  \********************************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
+/* harmony export */ });
+/* harmony import */ var _DashboardHeader_vue_vue_type_template_id_04aebb6c_scoped_true___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./DashboardHeader.vue?vue&type=template&id=04aebb6c&scoped=true& */ "./resources/js/views/layouts/DashboardHeader.vue?vue&type=template&id=04aebb6c&scoped=true&");
+/* harmony import */ var _DashboardHeader_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./DashboardHeader.vue?vue&type=script&lang=js& */ "./resources/js/views/layouts/DashboardHeader.vue?vue&type=script&lang=js&");
+/* harmony import */ var _DashboardHeader_vue_vue_type_style_index_0_id_04aebb6c_scoped_true_lang_css___WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./DashboardHeader.vue?vue&type=style&index=0&id=04aebb6c&scoped=true&lang=css& */ "./resources/js/views/layouts/DashboardHeader.vue?vue&type=style&index=0&id=04aebb6c&scoped=true&lang=css&");
+/* harmony import */ var _node_modules_vue_loader_lib_runtime_componentNormalizer_js__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! !../../../../node_modules/vue-loader/lib/runtime/componentNormalizer.js */ "./node_modules/vue-loader/lib/runtime/componentNormalizer.js");
+
+
+
+;
+
+
+/* normalize component */
+
+var component = (0,_node_modules_vue_loader_lib_runtime_componentNormalizer_js__WEBPACK_IMPORTED_MODULE_3__.default)(
+  _DashboardHeader_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_1__.default,
+  _DashboardHeader_vue_vue_type_template_id_04aebb6c_scoped_true___WEBPACK_IMPORTED_MODULE_0__.render,
+  _DashboardHeader_vue_vue_type_template_id_04aebb6c_scoped_true___WEBPACK_IMPORTED_MODULE_0__.staticRenderFns,
+  false,
+  null,
+  "04aebb6c",
+  null
+  
+)
+
+/* hot reload */
+if (false) { var api; }
+component.options.__file = "resources/js/views/layouts/DashboardHeader.vue"
 /* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (component.exports);
 
 /***/ }),
@@ -43915,6 +45989,70 @@ __webpack_require__.r(__webpack_exports__);
 
 /***/ }),
 
+/***/ "./resources/js/views/Blog.vue?vue&type=script&lang=js&":
+/*!**************************************************************!*\
+  !*** ./resources/js/views/Blog.vue?vue&type=script&lang=js& ***!
+  \**************************************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
+/* harmony export */ });
+/* harmony import */ var _node_modules_babel_loader_lib_index_js_clonedRuleSet_5_0_rules_0_use_0_node_modules_vue_loader_lib_index_js_vue_loader_options_Blog_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../node_modules/babel-loader/lib/index.js??clonedRuleSet-5[0].rules[0].use[0]!../../../node_modules/vue-loader/lib/index.js??vue-loader-options!./Blog.vue?vue&type=script&lang=js& */ "./node_modules/babel-loader/lib/index.js??clonedRuleSet-5[0].rules[0].use[0]!./node_modules/vue-loader/lib/index.js??vue-loader-options!./resources/js/views/Blog.vue?vue&type=script&lang=js&");
+ /* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (_node_modules_babel_loader_lib_index_js_clonedRuleSet_5_0_rules_0_use_0_node_modules_vue_loader_lib_index_js_vue_loader_options_Blog_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0__.default); 
+
+/***/ }),
+
+/***/ "./resources/js/views/Cart.vue?vue&type=script&lang=js&":
+/*!**************************************************************!*\
+  !*** ./resources/js/views/Cart.vue?vue&type=script&lang=js& ***!
+  \**************************************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
+/* harmony export */ });
+/* harmony import */ var _node_modules_babel_loader_lib_index_js_clonedRuleSet_5_0_rules_0_use_0_node_modules_vue_loader_lib_index_js_vue_loader_options_Cart_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../node_modules/babel-loader/lib/index.js??clonedRuleSet-5[0].rules[0].use[0]!../../../node_modules/vue-loader/lib/index.js??vue-loader-options!./Cart.vue?vue&type=script&lang=js& */ "./node_modules/babel-loader/lib/index.js??clonedRuleSet-5[0].rules[0].use[0]!./node_modules/vue-loader/lib/index.js??vue-loader-options!./resources/js/views/Cart.vue?vue&type=script&lang=js&");
+ /* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (_node_modules_babel_loader_lib_index_js_clonedRuleSet_5_0_rules_0_use_0_node_modules_vue_loader_lib_index_js_vue_loader_options_Cart_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0__.default); 
+
+/***/ }),
+
+/***/ "./resources/js/views/Checkout.vue?vue&type=script&lang=js&":
+/*!******************************************************************!*\
+  !*** ./resources/js/views/Checkout.vue?vue&type=script&lang=js& ***!
+  \******************************************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
+/* harmony export */ });
+/* harmony import */ var _node_modules_babel_loader_lib_index_js_clonedRuleSet_5_0_rules_0_use_0_node_modules_vue_loader_lib_index_js_vue_loader_options_Checkout_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../node_modules/babel-loader/lib/index.js??clonedRuleSet-5[0].rules[0].use[0]!../../../node_modules/vue-loader/lib/index.js??vue-loader-options!./Checkout.vue?vue&type=script&lang=js& */ "./node_modules/babel-loader/lib/index.js??clonedRuleSet-5[0].rules[0].use[0]!./node_modules/vue-loader/lib/index.js??vue-loader-options!./resources/js/views/Checkout.vue?vue&type=script&lang=js&");
+ /* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (_node_modules_babel_loader_lib_index_js_clonedRuleSet_5_0_rules_0_use_0_node_modules_vue_loader_lib_index_js_vue_loader_options_Checkout_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0__.default); 
+
+/***/ }),
+
+/***/ "./resources/js/views/Contact.vue?vue&type=script&lang=js&":
+/*!*****************************************************************!*\
+  !*** ./resources/js/views/Contact.vue?vue&type=script&lang=js& ***!
+  \*****************************************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
+/* harmony export */ });
+/* harmony import */ var _node_modules_babel_loader_lib_index_js_clonedRuleSet_5_0_rules_0_use_0_node_modules_vue_loader_lib_index_js_vue_loader_options_Contact_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../node_modules/babel-loader/lib/index.js??clonedRuleSet-5[0].rules[0].use[0]!../../../node_modules/vue-loader/lib/index.js??vue-loader-options!./Contact.vue?vue&type=script&lang=js& */ "./node_modules/babel-loader/lib/index.js??clonedRuleSet-5[0].rules[0].use[0]!./node_modules/vue-loader/lib/index.js??vue-loader-options!./resources/js/views/Contact.vue?vue&type=script&lang=js&");
+ /* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (_node_modules_babel_loader_lib_index_js_clonedRuleSet_5_0_rules_0_use_0_node_modules_vue_loader_lib_index_js_vue_loader_options_Contact_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0__.default); 
+
+/***/ }),
+
 /***/ "./resources/js/views/Dashboard.vue?vue&type=script&lang=js&":
 /*!*******************************************************************!*\
   !*** ./resources/js/views/Dashboard.vue?vue&type=script&lang=js& ***!
@@ -43944,6 +46082,22 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */ });
 /* harmony import */ var _node_modules_babel_loader_lib_index_js_clonedRuleSet_5_0_rules_0_use_0_node_modules_vue_loader_lib_index_js_vue_loader_options_Home_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../node_modules/babel-loader/lib/index.js??clonedRuleSet-5[0].rules[0].use[0]!../../../node_modules/vue-loader/lib/index.js??vue-loader-options!./Home.vue?vue&type=script&lang=js& */ "./node_modules/babel-loader/lib/index.js??clonedRuleSet-5[0].rules[0].use[0]!./node_modules/vue-loader/lib/index.js??vue-loader-options!./resources/js/views/Home.vue?vue&type=script&lang=js&");
  /* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (_node_modules_babel_loader_lib_index_js_clonedRuleSet_5_0_rules_0_use_0_node_modules_vue_loader_lib_index_js_vue_loader_options_Home_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0__.default); 
+
+/***/ }),
+
+/***/ "./resources/js/views/layouts/DashboardHeader.vue?vue&type=script&lang=js&":
+/*!*********************************************************************************!*\
+  !*** ./resources/js/views/layouts/DashboardHeader.vue?vue&type=script&lang=js& ***!
+  \*********************************************************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
+/* harmony export */ });
+/* harmony import */ var _node_modules_babel_loader_lib_index_js_clonedRuleSet_5_0_rules_0_use_0_node_modules_vue_loader_lib_index_js_vue_loader_options_DashboardHeader_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../../node_modules/babel-loader/lib/index.js??clonedRuleSet-5[0].rules[0].use[0]!../../../../node_modules/vue-loader/lib/index.js??vue-loader-options!./DashboardHeader.vue?vue&type=script&lang=js& */ "./node_modules/babel-loader/lib/index.js??clonedRuleSet-5[0].rules[0].use[0]!./node_modules/vue-loader/lib/index.js??vue-loader-options!./resources/js/views/layouts/DashboardHeader.vue?vue&type=script&lang=js&");
+ /* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (_node_modules_babel_loader_lib_index_js_clonedRuleSet_5_0_rules_0_use_0_node_modules_vue_loader_lib_index_js_vue_loader_options_DashboardHeader_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0__.default); 
 
 /***/ }),
 
@@ -44069,6 +46223,19 @@ __webpack_require__.r(__webpack_exports__);
 
 /***/ }),
 
+/***/ "./resources/js/views/layouts/DashboardHeader.vue?vue&type=style&index=0&id=04aebb6c&scoped=true&lang=css&":
+/*!*****************************************************************************************************************!*\
+  !*** ./resources/js/views/layouts/DashboardHeader.vue?vue&type=style&index=0&id=04aebb6c&scoped=true&lang=css& ***!
+  \*****************************************************************************************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _node_modules_style_loader_dist_cjs_js_node_modules_laravel_mix_node_modules_css_loader_dist_cjs_js_clonedRuleSet_9_0_rules_0_use_1_node_modules_vue_loader_lib_loaders_stylePostLoader_js_node_modules_postcss_loader_dist_cjs_js_clonedRuleSet_9_0_rules_0_use_2_node_modules_vue_loader_lib_index_js_vue_loader_options_DashboardHeader_vue_vue_type_style_index_0_id_04aebb6c_scoped_true_lang_css___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../../node_modules/style-loader/dist/cjs.js!../../../../node_modules/laravel-mix/node_modules/css-loader/dist/cjs.js??clonedRuleSet-9[0].rules[0].use[1]!../../../../node_modules/vue-loader/lib/loaders/stylePostLoader.js!../../../../node_modules/postcss-loader/dist/cjs.js??clonedRuleSet-9[0].rules[0].use[2]!../../../../node_modules/vue-loader/lib/index.js??vue-loader-options!./DashboardHeader.vue?vue&type=style&index=0&id=04aebb6c&scoped=true&lang=css& */ "./node_modules/style-loader/dist/cjs.js!./node_modules/laravel-mix/node_modules/css-loader/dist/cjs.js??clonedRuleSet-9[0].rules[0].use[1]!./node_modules/vue-loader/lib/loaders/stylePostLoader.js!./node_modules/postcss-loader/dist/cjs.js??clonedRuleSet-9[0].rules[0].use[2]!./node_modules/vue-loader/lib/index.js??vue-loader-options!./resources/js/views/layouts/DashboardHeader.vue?vue&type=style&index=0&id=04aebb6c&scoped=true&lang=css&");
+
+
+/***/ }),
+
 /***/ "./resources/js/views/layouts/Header.vue?vue&type=style&index=0&id=201dc39c&scoped=true&lang=css&":
 /*!********************************************************************************************************!*\
   !*** ./resources/js/views/layouts/Header.vue?vue&type=style&index=0&id=201dc39c&scoped=true&lang=css& ***!
@@ -44150,6 +46317,74 @@ __webpack_require__.r(__webpack_exports__);
 
 /***/ }),
 
+/***/ "./resources/js/views/Blog.vue?vue&type=template&id=78b5237e&":
+/*!********************************************************************!*\
+  !*** ./resources/js/views/Blog.vue?vue&type=template&id=78b5237e& ***!
+  \********************************************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   "render": () => (/* reexport safe */ _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_Blog_vue_vue_type_template_id_78b5237e___WEBPACK_IMPORTED_MODULE_0__.render),
+/* harmony export */   "staticRenderFns": () => (/* reexport safe */ _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_Blog_vue_vue_type_template_id_78b5237e___WEBPACK_IMPORTED_MODULE_0__.staticRenderFns)
+/* harmony export */ });
+/* harmony import */ var _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_Blog_vue_vue_type_template_id_78b5237e___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!../../../node_modules/vue-loader/lib/index.js??vue-loader-options!./Blog.vue?vue&type=template&id=78b5237e& */ "./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/vue-loader/lib/index.js??vue-loader-options!./resources/js/views/Blog.vue?vue&type=template&id=78b5237e&");
+
+
+/***/ }),
+
+/***/ "./resources/js/views/Cart.vue?vue&type=template&id=29106a82&":
+/*!********************************************************************!*\
+  !*** ./resources/js/views/Cart.vue?vue&type=template&id=29106a82& ***!
+  \********************************************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   "render": () => (/* reexport safe */ _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_Cart_vue_vue_type_template_id_29106a82___WEBPACK_IMPORTED_MODULE_0__.render),
+/* harmony export */   "staticRenderFns": () => (/* reexport safe */ _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_Cart_vue_vue_type_template_id_29106a82___WEBPACK_IMPORTED_MODULE_0__.staticRenderFns)
+/* harmony export */ });
+/* harmony import */ var _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_Cart_vue_vue_type_template_id_29106a82___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!../../../node_modules/vue-loader/lib/index.js??vue-loader-options!./Cart.vue?vue&type=template&id=29106a82& */ "./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/vue-loader/lib/index.js??vue-loader-options!./resources/js/views/Cart.vue?vue&type=template&id=29106a82&");
+
+
+/***/ }),
+
+/***/ "./resources/js/views/Checkout.vue?vue&type=template&id=bb718336&":
+/*!************************************************************************!*\
+  !*** ./resources/js/views/Checkout.vue?vue&type=template&id=bb718336& ***!
+  \************************************************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   "render": () => (/* reexport safe */ _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_Checkout_vue_vue_type_template_id_bb718336___WEBPACK_IMPORTED_MODULE_0__.render),
+/* harmony export */   "staticRenderFns": () => (/* reexport safe */ _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_Checkout_vue_vue_type_template_id_bb718336___WEBPACK_IMPORTED_MODULE_0__.staticRenderFns)
+/* harmony export */ });
+/* harmony import */ var _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_Checkout_vue_vue_type_template_id_bb718336___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!../../../node_modules/vue-loader/lib/index.js??vue-loader-options!./Checkout.vue?vue&type=template&id=bb718336& */ "./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/vue-loader/lib/index.js??vue-loader-options!./resources/js/views/Checkout.vue?vue&type=template&id=bb718336&");
+
+
+/***/ }),
+
+/***/ "./resources/js/views/Contact.vue?vue&type=template&id=1d91a851&":
+/*!***********************************************************************!*\
+  !*** ./resources/js/views/Contact.vue?vue&type=template&id=1d91a851& ***!
+  \***********************************************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   "render": () => (/* reexport safe */ _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_Contact_vue_vue_type_template_id_1d91a851___WEBPACK_IMPORTED_MODULE_0__.render),
+/* harmony export */   "staticRenderFns": () => (/* reexport safe */ _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_Contact_vue_vue_type_template_id_1d91a851___WEBPACK_IMPORTED_MODULE_0__.staticRenderFns)
+/* harmony export */ });
+/* harmony import */ var _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_Contact_vue_vue_type_template_id_1d91a851___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!../../../node_modules/vue-loader/lib/index.js??vue-loader-options!./Contact.vue?vue&type=template&id=1d91a851& */ "./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/vue-loader/lib/index.js??vue-loader-options!./resources/js/views/Contact.vue?vue&type=template&id=1d91a851&");
+
+
+/***/ }),
+
 /***/ "./resources/js/views/Dashboard.vue?vue&type=template&id=1f79daf6&":
 /*!*************************************************************************!*\
   !*** ./resources/js/views/Dashboard.vue?vue&type=template&id=1f79daf6& ***!
@@ -44180,6 +46415,23 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */   "staticRenderFns": () => (/* reexport safe */ _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_Home_vue_vue_type_template_id_63cd6604___WEBPACK_IMPORTED_MODULE_0__.staticRenderFns)
 /* harmony export */ });
 /* harmony import */ var _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_Home_vue_vue_type_template_id_63cd6604___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!../../../node_modules/vue-loader/lib/index.js??vue-loader-options!./Home.vue?vue&type=template&id=63cd6604& */ "./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/vue-loader/lib/index.js??vue-loader-options!./resources/js/views/Home.vue?vue&type=template&id=63cd6604&");
+
+
+/***/ }),
+
+/***/ "./resources/js/views/layouts/DashboardHeader.vue?vue&type=template&id=04aebb6c&scoped=true&":
+/*!***************************************************************************************************!*\
+  !*** ./resources/js/views/layouts/DashboardHeader.vue?vue&type=template&id=04aebb6c&scoped=true& ***!
+  \***************************************************************************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   "render": () => (/* reexport safe */ _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_DashboardHeader_vue_vue_type_template_id_04aebb6c_scoped_true___WEBPACK_IMPORTED_MODULE_0__.render),
+/* harmony export */   "staticRenderFns": () => (/* reexport safe */ _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_DashboardHeader_vue_vue_type_template_id_04aebb6c_scoped_true___WEBPACK_IMPORTED_MODULE_0__.staticRenderFns)
+/* harmony export */ });
+/* harmony import */ var _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_DashboardHeader_vue_vue_type_template_id_04aebb6c_scoped_true___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../../node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!../../../../node_modules/vue-loader/lib/index.js??vue-loader-options!./DashboardHeader.vue?vue&type=template&id=04aebb6c&scoped=true& */ "./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/vue-loader/lib/index.js??vue-loader-options!./resources/js/views/layouts/DashboardHeader.vue?vue&type=template&id=04aebb6c&scoped=true&");
 
 
 /***/ }),
@@ -44306,6 +46558,8 @@ var render = function() {
     "div",
     { attrs: { id: "app" } },
     [
+      _c("router-view", { attrs: { name: "DashboardHeader" } }),
+      _vm._v(" "),
       _c("router-view", { attrs: { name: "Header" } }),
       _vm._v(" "),
       _c("router-view", { attrs: { name: "Slider" } }),
@@ -44682,6 +46936,3344 @@ var render = function() {
   )
 }
 var staticRenderFns = []
+render._withStripped = true
+
+
+
+/***/ }),
+
+/***/ "./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/vue-loader/lib/index.js??vue-loader-options!./resources/js/views/Blog.vue?vue&type=template&id=78b5237e&":
+/*!***********************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/vue-loader/lib/index.js??vue-loader-options!./resources/js/views/Blog.vue?vue&type=template&id=78b5237e& ***!
+  \***********************************************************************************************************************************************************************************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   "render": () => (/* binding */ render),
+/* harmony export */   "staticRenderFns": () => (/* binding */ staticRenderFns)
+/* harmony export */ });
+var render = function() {
+  var _vm = this
+  var _h = _vm.$createElement
+  var _c = _vm._self._c || _h
+  return _c("div", [
+    _c("div", { staticClass: "breadcrumbs" }, [
+      _c("div", { staticClass: "container" }, [
+        _c("div", { staticClass: "row" }, [
+          _c("div", { staticClass: "col-12" }, [
+            _c("div", { staticClass: "bread-inner" }, [
+              _c("ul", { staticClass: "bread-list" }, [
+                _c(
+                  "li",
+                  [
+                    _c("router-link", { attrs: { to: "/" } }, [
+                      _vm._v("Home"),
+                      _c("i", { staticClass: "ti-arrow-right" })
+                    ])
+                  ],
+                  1
+                ),
+                _vm._v(" "),
+                _c(
+                  "li",
+                  { staticClass: "active" },
+                  [
+                    _c("router-link", { attrs: { to: "/" } }, [
+                      _vm._v("Blog Single Sidebar")
+                    ])
+                  ],
+                  1
+                )
+              ])
+            ])
+          ])
+        ])
+      ])
+    ]),
+    _vm._v(" "),
+    _vm._m(0)
+  ])
+}
+var staticRenderFns = [
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("section", { staticClass: "blog-single section" }, [
+      _c("div", { staticClass: "container" }, [
+        _c("div", { staticClass: "row" }, [
+          _c("div", { staticClass: "col-lg-8 col-12" }, [
+            _c("div", { staticClass: "blog-single-main" }, [
+              _c("div", { staticClass: "row" }, [
+                _c("div", { staticClass: "col-12" }, [
+                  _c("div", { staticClass: "image" }, [
+                    _c("img", {
+                      attrs: {
+                        src: "https://via.placeholder.com/950x460",
+                        alt: "#"
+                      }
+                    })
+                  ]),
+                  _vm._v(" "),
+                  _c("div", { staticClass: "blog-detail" }, [
+                    _c("h2", { staticClass: "blog-title" }, [
+                      _vm._v("What are the secrets to start- up success?")
+                    ]),
+                    _vm._v(" "),
+                    _c("div", { staticClass: "blog-meta" }, [
+                      _c("span", { staticClass: "author" }, [
+                        _c("a", { attrs: { href: "#" } }, [
+                          _c("i", { staticClass: "fa fa-user" }),
+                          _vm._v("By Admin")
+                        ]),
+                        _c("a", { attrs: { href: "#" } }, [
+                          _c("i", { staticClass: "fa fa-calendar" }),
+                          _vm._v("Dec 24, 2018")
+                        ]),
+                        _c("a", { attrs: { href: "#" } }, [
+                          _c("i", { staticClass: "fa fa-comments" }),
+                          _vm._v("Comment (15)")
+                        ])
+                      ])
+                    ]),
+                    _vm._v(" "),
+                    _c("div", { staticClass: "content" }, [
+                      _c("p", [
+                        _vm._v(
+                          "What a crazy time. I have five children in colleghigh school graduates.jpge or pursing post graduate studies  Each of my children attends college far from home, the closest of which is more than 800 miles away. While I miss being with my older children, I know that a college experience can be the source of great growth and experience can be the source of source of great growth and can provide them with even greater in future."
+                        )
+                      ]),
+                      _vm._v(" "),
+                      _c("blockquote", [
+                        _c("i", { staticClass: "fa fa-quote-left" }),
+                        _vm._v(
+                          " Do what you love to do and give it your very best. Whether it's business or baseball, or the theater, or any field. If you don't love what you're doing and you can't give it your best, get out of it. Life is too short. You'll be an old man before you know it. risus. Ut tincidunt, erat eget feugiat eleifend, eros magna dapibus diam."
+                        )
+                      ]),
+                      _vm._v(" "),
+                      _c("p", [
+                        _vm._v(
+                          "What a crazy time. I have five children in colleghigh school graduates.jpge or pursing post graduate studies  Each of my children attends college far from home, the closest of which is more than 800 miles away. While I miss being with my older children, I know that a college experience can be the source of great growth and experience can be the source of source of great growth and can provide them with even greater in future."
+                        )
+                      ]),
+                      _vm._v(" "),
+                      _c("p", [
+                        _vm._v(
+                          "What a crazy time. I have five children in colleghigh school graduates.jpge or pursing post graduate studies  Each of my children attends college far from home, the closest of which is more than 800 miles away. While I miss being with my older children, I know that a college experience can be the source of great growth and experience can be the source of source of great growth and can provide them with even greater in future."
+                        )
+                      ])
+                    ])
+                  ]),
+                  _vm._v(" "),
+                  _c("div", { staticClass: "share-social" }, [
+                    _c("div", { staticClass: "row" }, [
+                      _c("div", { staticClass: "col-12" }, [
+                        _c("div", { staticClass: "content-tags" }, [
+                          _c("h4", [_vm._v("Tags:")]),
+                          _vm._v(" "),
+                          _c("ul", { staticClass: "tag-inner" }, [
+                            _c("li", [
+                              _c("a", { attrs: { href: "#" } }, [
+                                _vm._v("Glass")
+                              ])
+                            ]),
+                            _vm._v(" "),
+                            _c("li", [
+                              _c("a", { attrs: { href: "#" } }, [
+                                _vm._v("Pant")
+                              ])
+                            ]),
+                            _vm._v(" "),
+                            _c("li", [
+                              _c("a", { attrs: { href: "#" } }, [
+                                _vm._v("t-shirt")
+                              ])
+                            ]),
+                            _vm._v(" "),
+                            _c("li", [
+                              _c("a", { attrs: { href: "#" } }, [
+                                _vm._v("swater")
+                              ])
+                            ])
+                          ])
+                        ])
+                      ])
+                    ])
+                  ])
+                ]),
+                _vm._v(" "),
+                _c("div", { staticClass: "col-12" }, [
+                  _c("div", { staticClass: "comments" }, [
+                    _c("h3", { staticClass: "comment-title" }, [
+                      _vm._v("Comments (3)")
+                    ]),
+                    _vm._v(" "),
+                    _c("div", { staticClass: "single-comment" }, [
+                      _c("img", {
+                        attrs: {
+                          src: "https://via.placeholder.com/80x80",
+                          alt: "#"
+                        }
+                      }),
+                      _vm._v(" "),
+                      _c("div", { staticClass: "content" }, [
+                        _c("h4", [
+                          _vm._v("Alisa harm "),
+                          _c("span", [_vm._v("At 8:59 pm On Feb 28, 2018")])
+                        ]),
+                        _vm._v(" "),
+                        _c("p", [
+                          _vm._v(
+                            "Enthusiastically leverage existing premium quality vectors with enterprise-wide innovation collaboration Phosfluorescently leverage others enterprisee  Phosfluorescently leverage."
+                          )
+                        ]),
+                        _vm._v(" "),
+                        _c("div", { staticClass: "button" }, [
+                          _c(
+                            "a",
+                            { staticClass: "btn", attrs: { href: "#" } },
+                            [
+                              _c("i", {
+                                staticClass: "fa fa-reply",
+                                attrs: { "aria-hidden": "true" }
+                              }),
+                              _vm._v("Reply")
+                            ]
+                          )
+                        ])
+                      ])
+                    ]),
+                    _vm._v(" "),
+                    _c("div", { staticClass: "single-comment left" }, [
+                      _c("img", {
+                        attrs: {
+                          src: "https://via.placeholder.com/80x80",
+                          alt: "#"
+                        }
+                      }),
+                      _vm._v(" "),
+                      _c("div", { staticClass: "content" }, [
+                        _c("h4", [
+                          _vm._v("john deo "),
+                          _c("span", [_vm._v("Feb 28, 2018 at 8:59 pm")])
+                        ]),
+                        _vm._v(" "),
+                        _c("p", [
+                          _vm._v(
+                            "Enthusiastically leverage existing premium quality vectors with enterprise-wide innovation collaboration Phosfluorescently leverage others enterprisee  Phosfluorescently leverage."
+                          )
+                        ]),
+                        _vm._v(" "),
+                        _c("div", { staticClass: "button" }, [
+                          _c(
+                            "a",
+                            { staticClass: "btn", attrs: { href: "#" } },
+                            [
+                              _c("i", {
+                                staticClass: "fa fa-reply",
+                                attrs: { "aria-hidden": "true" }
+                              }),
+                              _vm._v("Reply")
+                            ]
+                          )
+                        ])
+                      ])
+                    ]),
+                    _vm._v(" "),
+                    _c("div", { staticClass: "single-comment" }, [
+                      _c("img", {
+                        attrs: {
+                          src: "https://via.placeholder.com/80x80",
+                          alt: "#"
+                        }
+                      }),
+                      _vm._v(" "),
+                      _c("div", { staticClass: "content" }, [
+                        _c("h4", [
+                          _vm._v("megan mart "),
+                          _c("span", [_vm._v("Feb 28, 2018 at 8:59 pm")])
+                        ]),
+                        _vm._v(" "),
+                        _c("p", [
+                          _vm._v(
+                            "Enthusiastically leverage existing premium quality vectors with enterprise-wide innovation collaboration Phosfluorescently leverage others enterprisee  Phosfluorescently leverage."
+                          )
+                        ]),
+                        _vm._v(" "),
+                        _c("div", { staticClass: "button" }, [
+                          _c(
+                            "a",
+                            { staticClass: "btn", attrs: { href: "#" } },
+                            [
+                              _c("i", {
+                                staticClass: "fa fa-reply",
+                                attrs: { "aria-hidden": "true" }
+                              }),
+                              _vm._v("Reply")
+                            ]
+                          )
+                        ])
+                      ])
+                    ])
+                  ])
+                ]),
+                _vm._v(" "),
+                _c("div", { staticClass: "col-12" }, [
+                  _c("div", { staticClass: "reply" }, [
+                    _c("div", { staticClass: "reply-head" }, [
+                      _c("h2", { staticClass: "reply-title" }, [
+                        _vm._v("Leave a Comment")
+                      ]),
+                      _vm._v(" "),
+                      _c(
+                        "form",
+                        { staticClass: "form", attrs: { action: "#" } },
+                        [
+                          _c("div", { staticClass: "row" }, [
+                            _c(
+                              "div",
+                              { staticClass: "col-lg-6 col-md-6 col-12" },
+                              [
+                                _c("div", { staticClass: "form-group" }, [
+                                  _c("label", [
+                                    _vm._v("Your Name"),
+                                    _c("span", [_vm._v("*")])
+                                  ]),
+                                  _vm._v(" "),
+                                  _c("input", {
+                                    attrs: {
+                                      type: "text",
+                                      name: "name",
+                                      placeholder: "",
+                                      required: "required"
+                                    }
+                                  })
+                                ])
+                              ]
+                            ),
+                            _vm._v(" "),
+                            _c(
+                              "div",
+                              { staticClass: "col-lg-6 col-md-6 col-12" },
+                              [
+                                _c("div", { staticClass: "form-group" }, [
+                                  _c("label", [
+                                    _vm._v("Your Email"),
+                                    _c("span", [_vm._v("*")])
+                                  ]),
+                                  _vm._v(" "),
+                                  _c("input", {
+                                    attrs: {
+                                      type: "email",
+                                      name: "email",
+                                      placeholder: "",
+                                      required: "required"
+                                    }
+                                  })
+                                ])
+                              ]
+                            ),
+                            _vm._v(" "),
+                            _c("div", { staticClass: "col-12" }, [
+                              _c("div", { staticClass: "form-group" }, [
+                                _c("label", [
+                                  _vm._v("Your Message"),
+                                  _c("span", [_vm._v("*")])
+                                ]),
+                                _vm._v(" "),
+                                _c("textarea", {
+                                  attrs: { name: "message", placeholder: "" }
+                                })
+                              ])
+                            ]),
+                            _vm._v(" "),
+                            _c("div", { staticClass: "col-12" }, [
+                              _c("div", { staticClass: "form-group button" }, [
+                                _c(
+                                  "button",
+                                  {
+                                    staticClass: "btn",
+                                    attrs: { type: "submit" }
+                                  },
+                                  [_vm._v("Post comment")]
+                                )
+                              ])
+                            ])
+                          ])
+                        ]
+                      )
+                    ])
+                  ])
+                ])
+              ])
+            ])
+          ]),
+          _vm._v(" "),
+          _c("div", { staticClass: "col-lg-4 col-12" }, [
+            _c("div", { staticClass: "main-sidebar" }, [
+              _c("div", { staticClass: "single-widget search" }, [
+                _c("div", { staticClass: "form" }, [
+                  _c("input", {
+                    attrs: { type: "email", placeholder: "Search Here..." }
+                  }),
+                  _vm._v(" "),
+                  _c("a", { staticClass: "button", attrs: { href: "#" } }, [
+                    _c("i", { staticClass: "fa fa-search" })
+                  ])
+                ])
+              ]),
+              _vm._v(" "),
+              _c("div", { staticClass: "single-widget category" }, [
+                _c("h3", { staticClass: "title" }, [_vm._v("Blog Categories")]),
+                _vm._v(" "),
+                _c("ul", { staticClass: "categor-list" }, [
+                  _c("li", [
+                    _c("a", { attrs: { href: "#" } }, [_vm._v("Men's Apparel")])
+                  ]),
+                  _vm._v(" "),
+                  _c("li", [
+                    _c("a", { attrs: { href: "#" } }, [
+                      _vm._v("Women's Apparel")
+                    ])
+                  ]),
+                  _vm._v(" "),
+                  _c("li", [
+                    _c("a", { attrs: { href: "#" } }, [
+                      _vm._v("Bags Collection")
+                    ])
+                  ]),
+                  _vm._v(" "),
+                  _c("li", [
+                    _c("a", { attrs: { href: "#" } }, [_vm._v("Accessories")])
+                  ]),
+                  _vm._v(" "),
+                  _c("li", [
+                    _c("a", { attrs: { href: "#" } }, [_vm._v("Sun Glasses")])
+                  ])
+                ])
+              ]),
+              _vm._v(" "),
+              _c("div", { staticClass: "single-widget recent-post" }, [
+                _c("h3", { staticClass: "title" }, [_vm._v("Recent post")]),
+                _vm._v(" "),
+                _c("div", { staticClass: "single-post" }, [
+                  _c("div", { staticClass: "image" }, [
+                    _c("img", {
+                      attrs: {
+                        src: "https://via.placeholder.com/100x100",
+                        alt: "#"
+                      }
+                    })
+                  ]),
+                  _vm._v(" "),
+                  _c("div", { staticClass: "content" }, [
+                    _c("h5", [
+                      _c("a", { attrs: { href: "#" } }, [
+                        _vm._v("Top 10 Beautyful Women Dress in the world")
+                      ])
+                    ]),
+                    _vm._v(" "),
+                    _c("ul", { staticClass: "comment" }, [
+                      _c("li", [
+                        _c("i", {
+                          staticClass: "fa fa-calendar",
+                          attrs: { "aria-hidden": "true" }
+                        }),
+                        _vm._v("Jan 11, 2020")
+                      ]),
+                      _vm._v(" "),
+                      _c("li", [
+                        _c("i", {
+                          staticClass: "fa fa-commenting-o",
+                          attrs: { "aria-hidden": "true" }
+                        }),
+                        _vm._v("35")
+                      ])
+                    ])
+                  ])
+                ]),
+                _vm._v(" "),
+                _c("div", { staticClass: "single-post" }, [
+                  _c("div", { staticClass: "image" }, [
+                    _c("img", {
+                      attrs: {
+                        src: "https://via.placeholder.com/100x100",
+                        alt: "#"
+                      }
+                    })
+                  ]),
+                  _vm._v(" "),
+                  _c("div", { staticClass: "content" }, [
+                    _c("h5", [
+                      _c("a", { attrs: { href: "#" } }, [
+                        _vm._v("Top 10 Beautyful Women Dress in the world")
+                      ])
+                    ]),
+                    _vm._v(" "),
+                    _c("ul", { staticClass: "comment" }, [
+                      _c("li", [
+                        _c("i", {
+                          staticClass: "fa fa-calendar",
+                          attrs: { "aria-hidden": "true" }
+                        }),
+                        _vm._v("Mar 05, 2019")
+                      ]),
+                      _vm._v(" "),
+                      _c("li", [
+                        _c("i", {
+                          staticClass: "fa fa-commenting-o",
+                          attrs: { "aria-hidden": "true" }
+                        }),
+                        _vm._v("59")
+                      ])
+                    ])
+                  ])
+                ]),
+                _vm._v(" "),
+                _c("div", { staticClass: "single-post" }, [
+                  _c("div", { staticClass: "image" }, [
+                    _c("img", {
+                      attrs: {
+                        src: "https://via.placeholder.com/100x100",
+                        alt: "#"
+                      }
+                    })
+                  ]),
+                  _vm._v(" "),
+                  _c("div", { staticClass: "content" }, [
+                    _c("h5", [
+                      _c("a", { attrs: { href: "#" } }, [
+                        _vm._v("Top 10 Beautyful Women Dress in the world")
+                      ])
+                    ]),
+                    _vm._v(" "),
+                    _c("ul", { staticClass: "comment" }, [
+                      _c("li", [
+                        _c("i", {
+                          staticClass: "fa fa-calendar",
+                          attrs: { "aria-hidden": "true" }
+                        }),
+                        _vm._v("June 09, 2019")
+                      ]),
+                      _vm._v(" "),
+                      _c("li", [
+                        _c("i", {
+                          staticClass: "fa fa-commenting-o",
+                          attrs: { "aria-hidden": "true" }
+                        }),
+                        _vm._v("44")
+                      ])
+                    ])
+                  ])
+                ])
+              ]),
+              _vm._v(" "),
+              _c("div", { staticClass: "single-widget side-tags" }, [
+                _c("h3", { staticClass: "title" }, [_vm._v("Tags")]),
+                _vm._v(" "),
+                _c("ul", { staticClass: "tag" }, [
+                  _c("li", [
+                    _c("a", { attrs: { href: "#" } }, [_vm._v("business")])
+                  ]),
+                  _vm._v(" "),
+                  _c("li", [
+                    _c("a", { attrs: { href: "#" } }, [_vm._v("wordpress")])
+                  ]),
+                  _vm._v(" "),
+                  _c("li", [
+                    _c("a", { attrs: { href: "#" } }, [_vm._v("html")])
+                  ]),
+                  _vm._v(" "),
+                  _c("li", [
+                    _c("a", { attrs: { href: "#" } }, [_vm._v("multipurpose")])
+                  ]),
+                  _vm._v(" "),
+                  _c("li", [
+                    _c("a", { attrs: { href: "#" } }, [_vm._v("education")])
+                  ]),
+                  _vm._v(" "),
+                  _c("li", [
+                    _c("a", { attrs: { href: "#" } }, [_vm._v("template")])
+                  ]),
+                  _vm._v(" "),
+                  _c("li", [
+                    _c("a", { attrs: { href: "#" } }, [_vm._v("Ecommerce")])
+                  ])
+                ])
+              ]),
+              _vm._v(" "),
+              _c("div", { staticClass: "single-widget newsletter" }, [
+                _c("h3", { staticClass: "title" }, [_vm._v("Newslatter")]),
+                _vm._v(" "),
+                _c("div", { staticClass: "letter-inner" }, [
+                  _c("h4", [
+                    _vm._v("Subscribe & get news "),
+                    _c("br"),
+                    _vm._v(" latest updates.")
+                  ]),
+                  _vm._v(" "),
+                  _c("div", { staticClass: "form-inner" }, [
+                    _c("input", {
+                      attrs: { type: "email", placeholder: "Enter your email" }
+                    }),
+                    _vm._v(" "),
+                    _c("a", { attrs: { href: "#" } }, [_vm._v("Submit")])
+                  ])
+                ])
+              ])
+            ])
+          ])
+        ])
+      ])
+    ])
+  }
+]
+render._withStripped = true
+
+
+
+/***/ }),
+
+/***/ "./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/vue-loader/lib/index.js??vue-loader-options!./resources/js/views/Cart.vue?vue&type=template&id=29106a82&":
+/*!***********************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/vue-loader/lib/index.js??vue-loader-options!./resources/js/views/Cart.vue?vue&type=template&id=29106a82& ***!
+  \***********************************************************************************************************************************************************************************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   "render": () => (/* binding */ render),
+/* harmony export */   "staticRenderFns": () => (/* binding */ staticRenderFns)
+/* harmony export */ });
+var render = function() {
+  var _vm = this
+  var _h = _vm.$createElement
+  var _c = _vm._self._c || _h
+  return _vm._m(0)
+}
+var staticRenderFns = [
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("div", [
+      _c("div", { staticClass: "breadcrumbs" }, [
+        _c("div", { staticClass: "container" }, [
+          _c("div", { staticClass: "row" }, [
+            _c("div", { staticClass: "col-12" }, [
+              _c("div", { staticClass: "bread-inner" }, [
+                _c("ul", { staticClass: "bread-list" }, [
+                  _c("li", [
+                    _c("a", { attrs: { href: "index1.html" } }, [
+                      _vm._v("Home"),
+                      _c("i", { staticClass: "ti-arrow-right" })
+                    ])
+                  ]),
+                  _vm._v(" "),
+                  _c("li", { staticClass: "active" }, [
+                    _c("a", { attrs: { href: "blog-single.html" } }, [
+                      _vm._v("Cart")
+                    ])
+                  ])
+                ])
+              ])
+            ])
+          ])
+        ])
+      ]),
+      _vm._v(" "),
+      _c("div", { staticClass: "shopping-cart section" }, [
+        _c("div", { staticClass: "container" }, [
+          _c("div", { staticClass: "row" }, [
+            _c("div", { staticClass: "col-12" }, [
+              _c("table", { staticClass: "table shopping-summery" }, [
+                _c("thead", [
+                  _c("tr", { staticClass: "main-hading" }, [
+                    _c("th", [_vm._v("PRODUCT")]),
+                    _vm._v(" "),
+                    _c("th", [_vm._v("NAME")]),
+                    _vm._v(" "),
+                    _c("th", { staticClass: "text-center" }, [
+                      _vm._v("UNIT PRICE")
+                    ]),
+                    _vm._v(" "),
+                    _c("th", { staticClass: "text-center" }, [
+                      _vm._v("QUANTITY")
+                    ]),
+                    _vm._v(" "),
+                    _c("th", { staticClass: "text-center" }, [_vm._v("TOTAL")]),
+                    _vm._v(" "),
+                    _c("th", { staticClass: "text-center" }, [
+                      _c("i", { staticClass: "ti-trash remove-icon" })
+                    ])
+                  ])
+                ]),
+                _vm._v(" "),
+                _c("tbody", [
+                  _c("tr", [
+                    _c(
+                      "td",
+                      { staticClass: "image", attrs: { "data-title": "No" } },
+                      [
+                        _c("img", {
+                          attrs: { src: "images/100x100/1.jpg", alt: "#" }
+                        })
+                      ]
+                    ),
+                    _vm._v(" "),
+                    _c(
+                      "td",
+                      {
+                        staticClass: "product-des",
+                        attrs: { "data-title": "Description" }
+                      },
+                      [
+                        _c("p", { staticClass: "product-name" }, [
+                          _c("a", { attrs: { href: "#" } }, [
+                            _vm._v("Women Dress")
+                          ])
+                        ]),
+                        _vm._v(" "),
+                        _c("p", { staticClass: "product-des" }, [
+                          _vm._v(
+                            "\n                                        Maboriosam in a tonto nesciung eget\n                                        distingy magndapibus.\n                                    "
+                          )
+                        ])
+                      ]
+                    ),
+                    _vm._v(" "),
+                    _c(
+                      "td",
+                      {
+                        staticClass: "price",
+                        attrs: { "data-title": "Price" }
+                      },
+                      [_c("span", [_vm._v("$110.00 ")])]
+                    ),
+                    _vm._v(" "),
+                    _c(
+                      "td",
+                      { staticClass: "qty", attrs: { "data-title": "Qty" } },
+                      [
+                        _c("div", { staticClass: "input-group" }, [
+                          _c("div", { staticClass: "button minus" }, [
+                            _c(
+                              "button",
+                              {
+                                staticClass: "btn btn-primary btn-number",
+                                attrs: {
+                                  type: "button",
+                                  disabled: "disabled",
+                                  "data-type": "minus",
+                                  "data-field": "quant[1]"
+                                }
+                              },
+                              [_c("i", { staticClass: "ti-minus" })]
+                            )
+                          ]),
+                          _vm._v(" "),
+                          _c("input", {
+                            staticClass: "input-number",
+                            attrs: {
+                              type: "text",
+                              name: "quant[1]",
+                              "data-min": "1",
+                              "data-max": "100",
+                              value: "1"
+                            }
+                          }),
+                          _vm._v(" "),
+                          _c("div", { staticClass: "button plus" }, [
+                            _c(
+                              "button",
+                              {
+                                staticClass: "btn btn-primary btn-number",
+                                attrs: {
+                                  type: "button",
+                                  "data-type": "plus",
+                                  "data-field": "quant[1]"
+                                }
+                              },
+                              [_c("i", { staticClass: "ti-plus" })]
+                            )
+                          ])
+                        ])
+                      ]
+                    ),
+                    _vm._v(" "),
+                    _c(
+                      "td",
+                      {
+                        staticClass: "total-amount",
+                        attrs: { "data-title": "Total" }
+                      },
+                      [_c("span", [_vm._v("$220.88")])]
+                    ),
+                    _vm._v(" "),
+                    _c(
+                      "td",
+                      {
+                        staticClass: "action",
+                        attrs: { "data-title": "Remove" }
+                      },
+                      [
+                        _c("a", { attrs: { href: "#" } }, [
+                          _c("i", { staticClass: "ti-trash remove-icon" })
+                        ])
+                      ]
+                    )
+                  ]),
+                  _vm._v(" "),
+                  _c("tr", [
+                    _c(
+                      "td",
+                      { staticClass: "image", attrs: { "data-title": "No" } },
+                      [
+                        _c("img", {
+                          attrs: { src: "images/100x100/2.jpg", alt: "#" }
+                        })
+                      ]
+                    ),
+                    _vm._v(" "),
+                    _c(
+                      "td",
+                      {
+                        staticClass: "product-des",
+                        attrs: { "data-title": "Description" }
+                      },
+                      [
+                        _c("p", { staticClass: "product-name" }, [
+                          _c("a", { attrs: { href: "#" } }, [
+                            _vm._v("Women Dress")
+                          ])
+                        ]),
+                        _vm._v(" "),
+                        _c("p", { staticClass: "product-des" }, [
+                          _vm._v(
+                            "\n                                        Maboriosam in a tonto nesciung eget\n                                        distingy magndapibus.\n                                    "
+                          )
+                        ])
+                      ]
+                    ),
+                    _vm._v(" "),
+                    _c(
+                      "td",
+                      {
+                        staticClass: "price",
+                        attrs: { "data-title": "Price" }
+                      },
+                      [_c("span", [_vm._v("$110.00 ")])]
+                    ),
+                    _vm._v(" "),
+                    _c(
+                      "td",
+                      { staticClass: "qty", attrs: { "data-title": "Qty" } },
+                      [
+                        _c("div", { staticClass: "input-group" }, [
+                          _c("div", { staticClass: "button minus" }, [
+                            _c(
+                              "button",
+                              {
+                                staticClass: "btn btn-primary btn-number",
+                                attrs: {
+                                  type: "button",
+                                  disabled: "disabled",
+                                  "data-type": "minus",
+                                  "data-field": "quant[2]"
+                                }
+                              },
+                              [_c("i", { staticClass: "ti-minus" })]
+                            )
+                          ]),
+                          _vm._v(" "),
+                          _c("input", {
+                            staticClass: "input-number",
+                            attrs: {
+                              type: "text",
+                              name: "quant[2]",
+                              "data-min": "1",
+                              "data-max": "100",
+                              value: "2"
+                            }
+                          }),
+                          _vm._v(" "),
+                          _c("div", { staticClass: "button plus" }, [
+                            _c(
+                              "button",
+                              {
+                                staticClass: "btn btn-primary btn-number",
+                                attrs: {
+                                  type: "button",
+                                  "data-type": "plus",
+                                  "data-field": "quant[2]"
+                                }
+                              },
+                              [_c("i", { staticClass: "ti-plus" })]
+                            )
+                          ])
+                        ])
+                      ]
+                    ),
+                    _vm._v(" "),
+                    _c(
+                      "td",
+                      {
+                        staticClass: "total-amount",
+                        attrs: { "data-title": "Total" }
+                      },
+                      [_c("span", [_vm._v("$220.88")])]
+                    ),
+                    _vm._v(" "),
+                    _c(
+                      "td",
+                      {
+                        staticClass: "action",
+                        attrs: { "data-title": "Remove" }
+                      },
+                      [
+                        _c("a", { attrs: { href: "#" } }, [
+                          _c("i", { staticClass: "ti-trash remove-icon" })
+                        ])
+                      ]
+                    )
+                  ]),
+                  _vm._v(" "),
+                  _c("tr", [
+                    _c(
+                      "td",
+                      { staticClass: "image", attrs: { "data-title": "No" } },
+                      [
+                        _c("img", {
+                          attrs: { src: "images/100x100/3.jpg", alt: "#" }
+                        })
+                      ]
+                    ),
+                    _vm._v(" "),
+                    _c(
+                      "td",
+                      {
+                        staticClass: "product-des",
+                        attrs: { "data-title": "Description" }
+                      },
+                      [
+                        _c("p", { staticClass: "product-name" }, [
+                          _c("a", { attrs: { href: "#" } }, [
+                            _vm._v("Women Dress")
+                          ])
+                        ]),
+                        _vm._v(" "),
+                        _c("p", { staticClass: "product-des" }, [
+                          _vm._v(
+                            "\n                                        Maboriosam in a tonto nesciung eget\n                                        distingy magndapibus.\n                                    "
+                          )
+                        ])
+                      ]
+                    ),
+                    _vm._v(" "),
+                    _c(
+                      "td",
+                      {
+                        staticClass: "price",
+                        attrs: { "data-title": "Price" }
+                      },
+                      [_c("span", [_vm._v("$110.00 ")])]
+                    ),
+                    _vm._v(" "),
+                    _c(
+                      "td",
+                      { staticClass: "qty", attrs: { "data-title": "Qty" } },
+                      [
+                        _c("div", { staticClass: "input-group" }, [
+                          _c("div", { staticClass: "button minus" }, [
+                            _c(
+                              "button",
+                              {
+                                staticClass: "btn btn-primary btn-number",
+                                attrs: {
+                                  type: "button",
+                                  disabled: "disabled",
+                                  "data-type": "minus",
+                                  "data-field": "quant[3]"
+                                }
+                              },
+                              [_c("i", { staticClass: "ti-minus" })]
+                            )
+                          ]),
+                          _vm._v(" "),
+                          _c("input", {
+                            staticClass: "input-number",
+                            attrs: {
+                              type: "text",
+                              name: "quant[3]",
+                              "data-min": "1",
+                              "data-max": "100",
+                              value: "3"
+                            }
+                          }),
+                          _vm._v(" "),
+                          _c("div", { staticClass: "button plus" }, [
+                            _c(
+                              "button",
+                              {
+                                staticClass: "btn btn-primary btn-number",
+                                attrs: {
+                                  type: "button",
+                                  "data-type": "plus",
+                                  "data-field": "quant[3]"
+                                }
+                              },
+                              [_c("i", { staticClass: "ti-plus" })]
+                            )
+                          ])
+                        ])
+                      ]
+                    ),
+                    _vm._v(" "),
+                    _c(
+                      "td",
+                      {
+                        staticClass: "total-amount",
+                        attrs: { "data-title": "Total" }
+                      },
+                      [_c("span", [_vm._v("$220.88")])]
+                    ),
+                    _vm._v(" "),
+                    _c(
+                      "td",
+                      {
+                        staticClass: "action",
+                        attrs: { "data-title": "Remove" }
+                      },
+                      [
+                        _c("a", { attrs: { href: "#" } }, [
+                          _c("i", { staticClass: "ti-trash remove-icon" })
+                        ])
+                      ]
+                    )
+                  ])
+                ])
+              ])
+            ])
+          ]),
+          _vm._v(" "),
+          _c("div", { staticClass: "row" }, [
+            _c("div", { staticClass: "col-12" }, [
+              _c("div", { staticClass: "total-amount" }, [
+                _c("div", { staticClass: "row" }, [
+                  _c("div", { staticClass: "col-lg-8 col-md-5 col-12" }, [
+                    _c("div", { staticClass: "left" }, [
+                      _c("div", { staticClass: "coupon" }, [
+                        _c(
+                          "form",
+                          { attrs: { action: "#", target: "_blank" } },
+                          [
+                            _c("input", {
+                              attrs: {
+                                name: "Coupon",
+                                placeholder: "Enter Your Coupon"
+                              }
+                            }),
+                            _vm._v(" "),
+                            _c("button", { staticClass: "btn" }, [
+                              _vm._v(
+                                "\n                                                Apply\n                                            "
+                              )
+                            ])
+                          ]
+                        )
+                      ]),
+                      _vm._v(" "),
+                      _c("div", { staticClass: "checkbox" }, [
+                        _c(
+                          "label",
+                          {
+                            staticClass: "checkbox-inline",
+                            attrs: { for: "2" }
+                          },
+                          [
+                            _c("input", {
+                              attrs: { name: "news", id: "2", type: "checkbox" }
+                            }),
+                            _vm._v(
+                              "\n                                            Shipping (+10$)"
+                            )
+                          ]
+                        )
+                      ])
+                    ])
+                  ]),
+                  _vm._v(" "),
+                  _c("div", { staticClass: "col-lg-4 col-md-7 col-12" }, [
+                    _c("div", { staticClass: "right" }, [
+                      _c("ul", [
+                        _c("li", [
+                          _vm._v(
+                            "\n                                            Cart Subtotal"
+                          ),
+                          _c("span", [_vm._v("$330.00")])
+                        ]),
+                        _vm._v(" "),
+                        _c("li", [
+                          _vm._v("Shipping"),
+                          _c("span", [_vm._v("Free")])
+                        ]),
+                        _vm._v(" "),
+                        _c("li", [
+                          _vm._v("You Save"),
+                          _c("span", [_vm._v("$20.00")])
+                        ]),
+                        _vm._v(" "),
+                        _c("li", { staticClass: "last" }, [
+                          _vm._v(
+                            "\n                                            You Pay"
+                          ),
+                          _c("span", [_vm._v("$310.00")])
+                        ])
+                      ]),
+                      _vm._v(" "),
+                      _c("div", { staticClass: "button5" }, [
+                        _c("a", { staticClass: "btn", attrs: { href: "#" } }, [
+                          _vm._v("Checkout")
+                        ]),
+                        _vm._v(" "),
+                        _c("a", { staticClass: "btn", attrs: { href: "#" } }, [
+                          _vm._v("Continue shopping")
+                        ])
+                      ])
+                    ])
+                  ])
+                ])
+              ])
+            ])
+          ])
+        ])
+      ]),
+      _vm._v(" "),
+      _c("section", { staticClass: "shop-services section" }, [
+        _c("div", { staticClass: "container" }, [
+          _c("div", { staticClass: "row" }, [
+            _c("div", { staticClass: "col-lg-3 col-md-6 col-12" }, [
+              _c("div", { staticClass: "single-service" }, [
+                _c("i", { staticClass: "ti-rocket" }),
+                _vm._v(" "),
+                _c("h4", [_vm._v("Free shiping")]),
+                _vm._v(" "),
+                _c("p", [_vm._v("Orders over $100")])
+              ])
+            ]),
+            _vm._v(" "),
+            _c("div", { staticClass: "col-lg-3 col-md-6 col-12" }, [
+              _c("div", { staticClass: "single-service" }, [
+                _c("i", { staticClass: "ti-reload" }),
+                _vm._v(" "),
+                _c("h4", [_vm._v("Free Return")]),
+                _vm._v(" "),
+                _c("p", [_vm._v("Within 30 days returns")])
+              ])
+            ]),
+            _vm._v(" "),
+            _c("div", { staticClass: "col-lg-3 col-md-6 col-12" }, [
+              _c("div", { staticClass: "single-service" }, [
+                _c("i", { staticClass: "ti-lock" }),
+                _vm._v(" "),
+                _c("h4", [_vm._v("Sucure Payment")]),
+                _vm._v(" "),
+                _c("p", [_vm._v("100% secure payment")])
+              ])
+            ]),
+            _vm._v(" "),
+            _c("div", { staticClass: "col-lg-3 col-md-6 col-12" }, [
+              _c("div", { staticClass: "single-service" }, [
+                _c("i", { staticClass: "ti-tag" }),
+                _vm._v(" "),
+                _c("h4", [_vm._v("Best Peice")]),
+                _vm._v(" "),
+                _c("p", [_vm._v("Guaranteed price")])
+              ])
+            ])
+          ])
+        ])
+      ]),
+      _vm._v(" "),
+      _c("section", { staticClass: "shop-newsletter section" }, [
+        _c("div", { staticClass: "container" }, [
+          _c("div", { staticClass: "inner-top" }, [
+            _c("div", { staticClass: "row" }, [
+              _c("div", { staticClass: "col-lg-8 offset-lg-2 col-12" }, [
+                _c("div", { staticClass: "inner" }, [
+                  _c("h4", [_vm._v("Newsletter")]),
+                  _vm._v(" "),
+                  _c("p", [
+                    _vm._v(
+                      "\n                                Subscribe to our newsletter and get\n                                "
+                    ),
+                    _c("span", [_vm._v("10%")]),
+                    _vm._v(
+                      " off your first purchase\n                            "
+                    )
+                  ]),
+                  _vm._v(" "),
+                  _c(
+                    "form",
+                    {
+                      staticClass: "newsletter-inner",
+                      attrs: {
+                        action: "mail/mail.php",
+                        method: "get",
+                        target: "_blank"
+                      }
+                    },
+                    [
+                      _c("input", {
+                        attrs: {
+                          name: "EMAIL",
+                          placeholder: "Your email address",
+                          required: "",
+                          type: "email"
+                        }
+                      }),
+                      _vm._v(" "),
+                      _c("button", { staticClass: "btn" }, [
+                        _vm._v("Subscribe")
+                      ])
+                    ]
+                  )
+                ])
+              ])
+            ])
+          ])
+        ])
+      ]),
+      _vm._v(" "),
+      _c(
+        "div",
+        {
+          staticClass: "modal fade",
+          attrs: { id: "exampleModal", tabindex: "-1", role: "dialog" }
+        },
+        [
+          _c(
+            "div",
+            { staticClass: "modal-dialog", attrs: { role: "document" } },
+            [
+              _c("div", { staticClass: "modal-content" }, [
+                _c("div", { staticClass: "modal-header" }, [
+                  _c(
+                    "button",
+                    {
+                      staticClass: "close",
+                      attrs: {
+                        type: "button",
+                        "data-dismiss": "modal",
+                        "aria-label": "Close"
+                      }
+                    },
+                    [
+                      _c("span", {
+                        staticClass: "ti-close",
+                        attrs: { "aria-hidden": "true" }
+                      })
+                    ]
+                  )
+                ]),
+                _vm._v(" "),
+                _c("div", { staticClass: "modal-body" }, [
+                  _c("div", { staticClass: "row no-gutters" }, [
+                    _c(
+                      "div",
+                      { staticClass: "col-lg-6 col-md-12 col-sm-12 col-xs-12" },
+                      [
+                        _c("div", { staticClass: "product-gallery" }, [
+                          _c(
+                            "div",
+                            { staticClass: "quickview-slider-active" },
+                            [
+                              _c("div", { staticClass: "single-slider" }, [
+                                _c("img", {
+                                  attrs: { src: "images/modal1.jpg", alt: "#" }
+                                })
+                              ]),
+                              _vm._v(" "),
+                              _c("div", { staticClass: "single-slider" }, [
+                                _c("img", {
+                                  attrs: { src: "images/modal2.jpg", alt: "#" }
+                                })
+                              ]),
+                              _vm._v(" "),
+                              _c("div", { staticClass: "single-slider" }, [
+                                _c("img", {
+                                  attrs: { src: "images/modal3.jpg", alt: "#" }
+                                })
+                              ]),
+                              _vm._v(" "),
+                              _c("div", { staticClass: "single-slider" }, [
+                                _c("img", {
+                                  attrs: { src: "images/modal4.jpg", alt: "#" }
+                                })
+                              ])
+                            ]
+                          )
+                        ])
+                      ]
+                    ),
+                    _vm._v(" "),
+                    _c(
+                      "div",
+                      { staticClass: "col-lg-6 col-md-12 col-sm-12 col-xs-12" },
+                      [
+                        _c("div", { staticClass: "quickview-content" }, [
+                          _c("h2", [_vm._v("Flared Shift Dress")]),
+                          _vm._v(" "),
+                          _c(
+                            "div",
+                            { staticClass: "quickview-ratting-review" },
+                            [
+                              _c(
+                                "div",
+                                { staticClass: "quickview-ratting-wrap" },
+                                [
+                                  _c(
+                                    "div",
+                                    { staticClass: "quickview-ratting" },
+                                    [
+                                      _c("i", {
+                                        staticClass: "yellow fa fa-star"
+                                      }),
+                                      _vm._v(" "),
+                                      _c("i", {
+                                        staticClass: "yellow fa fa-star"
+                                      }),
+                                      _vm._v(" "),
+                                      _c("i", {
+                                        staticClass: "yellow fa fa-star"
+                                      }),
+                                      _vm._v(" "),
+                                      _c("i", {
+                                        staticClass: "yellow fa fa-star"
+                                      }),
+                                      _vm._v(" "),
+                                      _c("i", { staticClass: "fa fa-star" })
+                                    ]
+                                  ),
+                                  _vm._v(" "),
+                                  _c("a", { attrs: { href: "#" } }, [
+                                    _vm._v(" (1 customer review)")
+                                  ])
+                                ]
+                              ),
+                              _vm._v(" "),
+                              _c("div", { staticClass: "quickview-stock" }, [
+                                _c("span", [
+                                  _c("i", {
+                                    staticClass: "fa fa-check-circle-o"
+                                  }),
+                                  _vm._v(
+                                    "\n                                            in stock"
+                                  )
+                                ])
+                              ])
+                            ]
+                          ),
+                          _vm._v(" "),
+                          _c("h3", [_vm._v("$29.00")]),
+                          _vm._v(" "),
+                          _c("div", { staticClass: "quickview-peragraph" }, [
+                            _c("p", [
+                              _vm._v(
+                                "\n                                        Lorem ipsum dolor sit amet,\n                                        consectetur adipisicing elit.\n                                        Mollitia iste laborum ad impedit\n                                        pariatur esse optio tempora sint\n                                        ullam autem deleniti nam in quos qui\n                                        nemo ipsum numquam.\n                                    "
+                              )
+                            ])
+                          ]),
+                          _vm._v(" "),
+                          _c("div", { staticClass: "size" }, [
+                            _c("div", { staticClass: "row" }, [
+                              _c("div", { staticClass: "col-lg-6 col-12" }, [
+                                _c("h5", { staticClass: "title" }, [
+                                  _vm._v("Size")
+                                ]),
+                                _vm._v(" "),
+                                _c("select", [
+                                  _c(
+                                    "option",
+                                    { attrs: { selected: "selected" } },
+                                    [_vm._v("s")]
+                                  ),
+                                  _vm._v(" "),
+                                  _c("option", [_vm._v("m")]),
+                                  _vm._v(" "),
+                                  _c("option", [_vm._v("l")]),
+                                  _vm._v(" "),
+                                  _c("option", [_vm._v("xl")])
+                                ])
+                              ]),
+                              _vm._v(" "),
+                              _c("div", { staticClass: "col-lg-6 col-12" }, [
+                                _c("h5", { staticClass: "title" }, [
+                                  _vm._v("Color")
+                                ]),
+                                _vm._v(" "),
+                                _c("select", [
+                                  _c(
+                                    "option",
+                                    { attrs: { selected: "selected" } },
+                                    [_vm._v("orange")]
+                                  ),
+                                  _vm._v(" "),
+                                  _c("option", [_vm._v("purple")]),
+                                  _vm._v(" "),
+                                  _c("option", [_vm._v("black")]),
+                                  _vm._v(" "),
+                                  _c("option", [_vm._v("pink")])
+                                ])
+                              ])
+                            ])
+                          ]),
+                          _vm._v(" "),
+                          _c("div", { staticClass: "quantity" }, [
+                            _c("div", { staticClass: "input-group" }, [
+                              _c("div", { staticClass: "button minus" }, [
+                                _c(
+                                  "button",
+                                  {
+                                    staticClass: "btn btn-primary btn-number",
+                                    attrs: {
+                                      type: "button",
+                                      disabled: "disabled",
+                                      "data-type": "minus",
+                                      "data-field": "quant[1]"
+                                    }
+                                  },
+                                  [_c("i", { staticClass: "ti-minus" })]
+                                )
+                              ]),
+                              _vm._v(" "),
+                              _c("input", {
+                                staticClass: "input-number",
+                                attrs: {
+                                  type: "text",
+                                  name: "quant[1]",
+                                  "data-min": "1",
+                                  "data-max": "1000",
+                                  value: "1"
+                                }
+                              }),
+                              _vm._v(" "),
+                              _c("div", { staticClass: "button plus" }, [
+                                _c(
+                                  "button",
+                                  {
+                                    staticClass: "btn btn-primary btn-number",
+                                    attrs: {
+                                      type: "button",
+                                      "data-type": "plus",
+                                      "data-field": "quant[1]"
+                                    }
+                                  },
+                                  [_c("i", { staticClass: "ti-plus" })]
+                                )
+                              ])
+                            ])
+                          ]),
+                          _vm._v(" "),
+                          _c("div", { staticClass: "add-to-cart" }, [
+                            _c(
+                              "a",
+                              { staticClass: "btn", attrs: { href: "#" } },
+                              [_vm._v("Add to cart")]
+                            ),
+                            _vm._v(" "),
+                            _c(
+                              "a",
+                              { staticClass: "btn min", attrs: { href: "#" } },
+                              [_c("i", { staticClass: "ti-heart" })]
+                            ),
+                            _vm._v(" "),
+                            _c(
+                              "a",
+                              { staticClass: "btn min", attrs: { href: "#" } },
+                              [_c("i", { staticClass: "fa fa-compress" })]
+                            )
+                          ]),
+                          _vm._v(" "),
+                          _c("div", { staticClass: "default-social" }, [
+                            _c("h4", { staticClass: "share-now" }, [
+                              _vm._v("Share:")
+                            ]),
+                            _vm._v(" "),
+                            _c("ul", [
+                              _c("li", [
+                                _c(
+                                  "a",
+                                  {
+                                    staticClass: "facebook",
+                                    attrs: { href: "#" }
+                                  },
+                                  [_c("i", { staticClass: "fa fa-facebook" })]
+                                )
+                              ]),
+                              _vm._v(" "),
+                              _c("li", [
+                                _c(
+                                  "a",
+                                  {
+                                    staticClass: "twitter",
+                                    attrs: { href: "#" }
+                                  },
+                                  [_c("i", { staticClass: "fa fa-twitter" })]
+                                )
+                              ]),
+                              _vm._v(" "),
+                              _c("li", [
+                                _c(
+                                  "a",
+                                  {
+                                    staticClass: "youtube",
+                                    attrs: { href: "#" }
+                                  },
+                                  [
+                                    _c("i", {
+                                      staticClass: "fa fa-pinterest-p"
+                                    })
+                                  ]
+                                )
+                              ]),
+                              _vm._v(" "),
+                              _c("li", [
+                                _c(
+                                  "a",
+                                  {
+                                    staticClass: "dribbble",
+                                    attrs: { href: "#" }
+                                  },
+                                  [
+                                    _c("i", {
+                                      staticClass: "fa fa-google-plus"
+                                    })
+                                  ]
+                                )
+                              ])
+                            ])
+                          ])
+                        ])
+                      ]
+                    )
+                  ])
+                ])
+              ])
+            ]
+          )
+        ]
+      )
+    ])
+  }
+]
+render._withStripped = true
+
+
+
+/***/ }),
+
+/***/ "./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/vue-loader/lib/index.js??vue-loader-options!./resources/js/views/Checkout.vue?vue&type=template&id=bb718336&":
+/*!***************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/vue-loader/lib/index.js??vue-loader-options!./resources/js/views/Checkout.vue?vue&type=template&id=bb718336& ***!
+  \***************************************************************************************************************************************************************************************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   "render": () => (/* binding */ render),
+/* harmony export */   "staticRenderFns": () => (/* binding */ staticRenderFns)
+/* harmony export */ });
+var render = function() {
+  var _vm = this
+  var _h = _vm.$createElement
+  var _c = _vm._self._c || _h
+  return _c("div", [
+    _c("div", { staticClass: "breadcrumbs" }, [
+      _c("div", { staticClass: "container" }, [
+        _c("div", { staticClass: "row" }, [
+          _c("div", { staticClass: "col-12" }, [
+            _c("div", { staticClass: "bread-inner" }, [
+              _c("ul", { staticClass: "bread-list" }, [
+                _c(
+                  "li",
+                  [
+                    _c("router-link", { attrs: { to: "/" } }, [
+                      _vm._v("Home"),
+                      _c("i", { staticClass: "ti-arrow-right" })
+                    ])
+                  ],
+                  1
+                ),
+                _vm._v(" "),
+                _c(
+                  "li",
+                  { staticClass: "active" },
+                  [
+                    _c("router-link", { attrs: { to: "" } }, [
+                      _vm._v("Checkout")
+                    ])
+                  ],
+                  1
+                )
+              ])
+            ])
+          ])
+        ])
+      ])
+    ]),
+    _vm._v(" "),
+    _vm._m(0),
+    _vm._v(" "),
+    _vm._m(1),
+    _vm._v(" "),
+    _vm._m(2)
+  ])
+}
+var staticRenderFns = [
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("section", { staticClass: "shop checkout section" }, [
+      _c("div", { staticClass: "container" }, [
+        _c("div", { staticClass: "row" }, [
+          _c("div", { staticClass: "col-lg-8 col-12" }, [
+            _c("div", { staticClass: "checkout-form" }, [
+              _c("h2", [_vm._v("Make Your Checkout Here")]),
+              _vm._v(" "),
+              _c("p", [
+                _vm._v("Please register in order to checkout more quickly")
+              ]),
+              _vm._v(" "),
+              _c(
+                "form",
+                { staticClass: "form", attrs: { method: "post", action: "#" } },
+                [
+                  _c("div", { staticClass: "row" }, [
+                    _c("div", { staticClass: "col-lg-6 col-md-6 col-12" }, [
+                      _c("div", { staticClass: "form-group" }, [
+                        _c("label", [
+                          _vm._v("First Name"),
+                          _c("span", [_vm._v("*")])
+                        ]),
+                        _vm._v(" "),
+                        _c("input", {
+                          attrs: {
+                            type: "text",
+                            name: "name",
+                            placeholder: "",
+                            required: "required"
+                          }
+                        })
+                      ])
+                    ]),
+                    _vm._v(" "),
+                    _c("div", { staticClass: "col-lg-6 col-md-6 col-12" }, [
+                      _c("div", { staticClass: "form-group" }, [
+                        _c("label", [
+                          _vm._v("Last Name"),
+                          _c("span", [_vm._v("*")])
+                        ]),
+                        _vm._v(" "),
+                        _c("input", {
+                          attrs: {
+                            type: "text",
+                            name: "name",
+                            placeholder: "",
+                            required: "required"
+                          }
+                        })
+                      ])
+                    ]),
+                    _vm._v(" "),
+                    _c("div", { staticClass: "col-lg-6 col-md-6 col-12" }, [
+                      _c("div", { staticClass: "form-group" }, [
+                        _c("label", [
+                          _vm._v("Email Address"),
+                          _c("span", [_vm._v("*")])
+                        ]),
+                        _vm._v(" "),
+                        _c("input", {
+                          attrs: {
+                            type: "email",
+                            name: "email",
+                            placeholder: "",
+                            required: "required"
+                          }
+                        })
+                      ])
+                    ]),
+                    _vm._v(" "),
+                    _c("div", { staticClass: "col-lg-6 col-md-6 col-12" }, [
+                      _c("div", { staticClass: "form-group" }, [
+                        _c("label", [
+                          _vm._v("Phone Number"),
+                          _c("span", [_vm._v("*")])
+                        ]),
+                        _vm._v(" "),
+                        _c("input", {
+                          attrs: {
+                            type: "number",
+                            name: "number",
+                            placeholder: "",
+                            required: "required"
+                          }
+                        })
+                      ])
+                    ]),
+                    _vm._v(" "),
+                    _c("div", { staticClass: "col-lg-6 col-md-6 col-12" }, [
+                      _c("div", { staticClass: "form-group" }, [
+                        _c("label", [
+                          _vm._v("Country"),
+                          _c("span", [_vm._v("*")])
+                        ]),
+                        _vm._v(" "),
+                        _c(
+                          "select",
+                          { attrs: { name: "country_name", id: "country" } },
+                          [
+                            _c("option", { attrs: { value: "AF" } }, [
+                              _vm._v("Afghanistan")
+                            ]),
+                            _vm._v(" "),
+                            _c("option", { attrs: { value: "AX" } }, [
+                              _vm._v("Åland Islands")
+                            ]),
+                            _vm._v(" "),
+                            _c("option", { attrs: { value: "AL" } }, [
+                              _vm._v("Albania")
+                            ]),
+                            _vm._v(" "),
+                            _c("option", { attrs: { value: "DZ" } }, [
+                              _vm._v("Algeria")
+                            ]),
+                            _vm._v(" "),
+                            _c("option", { attrs: { value: "AS" } }, [
+                              _vm._v("American Samoa")
+                            ]),
+                            _vm._v(" "),
+                            _c("option", { attrs: { value: "AD" } }, [
+                              _vm._v("Andorra")
+                            ]),
+                            _vm._v(" "),
+                            _c("option", { attrs: { value: "AO" } }, [
+                              _vm._v("Angola")
+                            ]),
+                            _vm._v(" "),
+                            _c("option", { attrs: { value: "AI" } }, [
+                              _vm._v("Anguilla")
+                            ]),
+                            _vm._v(" "),
+                            _c("option", { attrs: { value: "AQ" } }, [
+                              _vm._v("Antarctica")
+                            ]),
+                            _vm._v(" "),
+                            _c("option", { attrs: { value: "AG" } }, [
+                              _vm._v("Antigua and Barbuda")
+                            ]),
+                            _vm._v(" "),
+                            _c("option", { attrs: { value: "AR" } }, [
+                              _vm._v("Argentina")
+                            ]),
+                            _vm._v(" "),
+                            _c("option", { attrs: { value: "AM" } }, [
+                              _vm._v("Armenia")
+                            ]),
+                            _vm._v(" "),
+                            _c("option", { attrs: { value: "AW" } }, [
+                              _vm._v("Aruba")
+                            ]),
+                            _vm._v(" "),
+                            _c("option", { attrs: { value: "AU" } }, [
+                              _vm._v("Australia")
+                            ]),
+                            _vm._v(" "),
+                            _c("option", { attrs: { value: "AT" } }, [
+                              _vm._v("Austria")
+                            ]),
+                            _vm._v(" "),
+                            _c("option", { attrs: { value: "AZ" } }, [
+                              _vm._v("Azerbaijan")
+                            ]),
+                            _vm._v(" "),
+                            _c("option", { attrs: { value: "BS" } }, [
+                              _vm._v("Bahamas")
+                            ]),
+                            _vm._v(" "),
+                            _c("option", { attrs: { value: "BH" } }, [
+                              _vm._v("Bahrain")
+                            ]),
+                            _vm._v(" "),
+                            _c("option", { attrs: { value: "BD" } }, [
+                              _vm._v("Bangladesh")
+                            ]),
+                            _vm._v(" "),
+                            _c("option", { attrs: { value: "BB" } }, [
+                              _vm._v("Barbados")
+                            ]),
+                            _vm._v(" "),
+                            _c("option", { attrs: { value: "BY" } }, [
+                              _vm._v("Belarus")
+                            ]),
+                            _vm._v(" "),
+                            _c("option", { attrs: { value: "BE" } }, [
+                              _vm._v("Belgium")
+                            ]),
+                            _vm._v(" "),
+                            _c("option", { attrs: { value: "BZ" } }, [
+                              _vm._v("Belize")
+                            ]),
+                            _vm._v(" "),
+                            _c("option", { attrs: { value: "BJ" } }, [
+                              _vm._v("Benin")
+                            ]),
+                            _vm._v(" "),
+                            _c("option", { attrs: { value: "BM" } }, [
+                              _vm._v("Bermuda")
+                            ]),
+                            _vm._v(" "),
+                            _c("option", { attrs: { value: "BT" } }, [
+                              _vm._v("Bhutan")
+                            ]),
+                            _vm._v(" "),
+                            _c("option", { attrs: { value: "BO" } }, [
+                              _vm._v("Bolivia")
+                            ]),
+                            _vm._v(" "),
+                            _c("option", { attrs: { value: "BA" } }, [
+                              _vm._v("Bosnia and Herzegovina")
+                            ]),
+                            _vm._v(" "),
+                            _c("option", { attrs: { value: "BW" } }, [
+                              _vm._v("Botswana")
+                            ]),
+                            _vm._v(" "),
+                            _c("option", { attrs: { value: "BV" } }, [
+                              _vm._v("Bouvet Island")
+                            ]),
+                            _vm._v(" "),
+                            _c("option", { attrs: { value: "BR" } }, [
+                              _vm._v("Brazil")
+                            ]),
+                            _vm._v(" "),
+                            _c("option", { attrs: { value: "IO" } }, [
+                              _vm._v("British Indian Ocean Territory")
+                            ]),
+                            _vm._v(" "),
+                            _c("option", { attrs: { value: "VG" } }, [
+                              _vm._v("British Virgin Islands")
+                            ]),
+                            _vm._v(" "),
+                            _c("option", { attrs: { value: "BN" } }, [
+                              _vm._v("Brunei")
+                            ]),
+                            _vm._v(" "),
+                            _c("option", { attrs: { value: "BG" } }, [
+                              _vm._v("Bulgaria")
+                            ]),
+                            _vm._v(" "),
+                            _c("option", { attrs: { value: "BF" } }, [
+                              _vm._v("Burkina Faso")
+                            ]),
+                            _vm._v(" "),
+                            _c("option", { attrs: { value: "BI" } }, [
+                              _vm._v("Burundi")
+                            ]),
+                            _vm._v(" "),
+                            _c("option", { attrs: { value: "KH" } }, [
+                              _vm._v("Cambodia")
+                            ]),
+                            _vm._v(" "),
+                            _c("option", { attrs: { value: "CM" } }, [
+                              _vm._v("Cameroon")
+                            ]),
+                            _vm._v(" "),
+                            _c("option", { attrs: { value: "CA" } }, [
+                              _vm._v("Canada")
+                            ]),
+                            _vm._v(" "),
+                            _c("option", { attrs: { value: "CV" } }, [
+                              _vm._v("Cape Verde")
+                            ]),
+                            _vm._v(" "),
+                            _c("option", { attrs: { value: "KY" } }, [
+                              _vm._v("Cayman Islands")
+                            ]),
+                            _vm._v(" "),
+                            _c("option", { attrs: { value: "CF" } }, [
+                              _vm._v("Central African Republic")
+                            ]),
+                            _vm._v(" "),
+                            _c("option", { attrs: { value: "TD" } }, [
+                              _vm._v("Chad")
+                            ]),
+                            _vm._v(" "),
+                            _c("option", { attrs: { value: "CL" } }, [
+                              _vm._v("Chile")
+                            ]),
+                            _vm._v(" "),
+                            _c("option", { attrs: { value: "CN" } }, [
+                              _vm._v("China")
+                            ]),
+                            _vm._v(" "),
+                            _c("option", { attrs: { value: "CX" } }, [
+                              _vm._v("Christmas Island")
+                            ]),
+                            _vm._v(" "),
+                            _c("option", { attrs: { value: "CC" } }, [
+                              _vm._v("Cocos [Keeling] Islands")
+                            ]),
+                            _vm._v(" "),
+                            _c("option", { attrs: { value: "CO" } }, [
+                              _vm._v("Colombia")
+                            ]),
+                            _vm._v(" "),
+                            _c("option", { attrs: { value: "KM" } }, [
+                              _vm._v("Comoros")
+                            ]),
+                            _vm._v(" "),
+                            _c("option", { attrs: { value: "CG" } }, [
+                              _vm._v("Congo - Brazzaville")
+                            ]),
+                            _vm._v(" "),
+                            _c("option", { attrs: { value: "CD" } }, [
+                              _vm._v("Congo - Kinshasa")
+                            ]),
+                            _vm._v(" "),
+                            _c("option", { attrs: { value: "CK" } }, [
+                              _vm._v("Cook Islands")
+                            ]),
+                            _vm._v(" "),
+                            _c("option", { attrs: { value: "CR" } }, [
+                              _vm._v("Costa Rica")
+                            ]),
+                            _vm._v(" "),
+                            _c("option", { attrs: { value: "CI" } }, [
+                              _vm._v("Côte d’Ivoire")
+                            ]),
+                            _vm._v(" "),
+                            _c("option", { attrs: { value: "HR" } }, [
+                              _vm._v("Croatia")
+                            ]),
+                            _vm._v(" "),
+                            _c("option", { attrs: { value: "CU" } }, [
+                              _vm._v("Cuba")
+                            ]),
+                            _vm._v(" "),
+                            _c("option", { attrs: { value: "CY" } }, [
+                              _vm._v("Cyprus")
+                            ]),
+                            _vm._v(" "),
+                            _c("option", { attrs: { value: "CZ" } }, [
+                              _vm._v("Czech Republic")
+                            ]),
+                            _vm._v(" "),
+                            _c("option", { attrs: { value: "DK" } }, [
+                              _vm._v("Denmark")
+                            ]),
+                            _vm._v(" "),
+                            _c("option", { attrs: { value: "DJ" } }, [
+                              _vm._v("Djibouti")
+                            ]),
+                            _vm._v(" "),
+                            _c("option", { attrs: { value: "DM" } }, [
+                              _vm._v("Dominica")
+                            ]),
+                            _vm._v(" "),
+                            _c("option", { attrs: { value: "DO" } }, [
+                              _vm._v("Dominican Republic")
+                            ]),
+                            _vm._v(" "),
+                            _c("option", { attrs: { value: "EC" } }, [
+                              _vm._v("Ecuador")
+                            ]),
+                            _vm._v(" "),
+                            _c("option", { attrs: { value: "EG" } }, [
+                              _vm._v("Egypt")
+                            ]),
+                            _vm._v(" "),
+                            _c("option", { attrs: { value: "SV" } }, [
+                              _vm._v("El Salvador")
+                            ]),
+                            _vm._v(" "),
+                            _c("option", { attrs: { value: "GQ" } }, [
+                              _vm._v("Equatorial Guinea")
+                            ]),
+                            _vm._v(" "),
+                            _c("option", { attrs: { value: "ER" } }, [
+                              _vm._v("Eritrea")
+                            ]),
+                            _vm._v(" "),
+                            _c("option", { attrs: { value: "EE" } }, [
+                              _vm._v("Estonia")
+                            ]),
+                            _vm._v(" "),
+                            _c("option", { attrs: { value: "ET" } }, [
+                              _vm._v("Ethiopia")
+                            ]),
+                            _vm._v(" "),
+                            _c("option", { attrs: { value: "FK" } }, [
+                              _vm._v("Falkland Islands")
+                            ]),
+                            _vm._v(" "),
+                            _c("option", { attrs: { value: "FO" } }, [
+                              _vm._v("Faroe Islands")
+                            ]),
+                            _vm._v(" "),
+                            _c("option", { attrs: { value: "FJ" } }, [
+                              _vm._v("Fiji")
+                            ]),
+                            _vm._v(" "),
+                            _c("option", { attrs: { value: "FI" } }, [
+                              _vm._v("Finland")
+                            ]),
+                            _vm._v(" "),
+                            _c("option", { attrs: { value: "FR" } }, [
+                              _vm._v("France")
+                            ]),
+                            _vm._v(" "),
+                            _c("option", { attrs: { value: "GF" } }, [
+                              _vm._v("French Guiana")
+                            ]),
+                            _vm._v(" "),
+                            _c("option", { attrs: { value: "PF" } }, [
+                              _vm._v("French Polynesia")
+                            ]),
+                            _vm._v(" "),
+                            _c("option", { attrs: { value: "TF" } }, [
+                              _vm._v("French Southern Territories")
+                            ]),
+                            _vm._v(" "),
+                            _c("option", { attrs: { value: "GA" } }, [
+                              _vm._v("Gabon")
+                            ]),
+                            _vm._v(" "),
+                            _c("option", { attrs: { value: "GM" } }, [
+                              _vm._v("Gambia")
+                            ]),
+                            _vm._v(" "),
+                            _c("option", { attrs: { value: "GE" } }, [
+                              _vm._v("Georgia")
+                            ]),
+                            _vm._v(" "),
+                            _c("option", { attrs: { value: "DE" } }, [
+                              _vm._v("Germany")
+                            ]),
+                            _vm._v(" "),
+                            _c("option", { attrs: { value: "GH" } }, [
+                              _vm._v("Ghana")
+                            ]),
+                            _vm._v(" "),
+                            _c("option", { attrs: { value: "GI" } }, [
+                              _vm._v("Gibraltar")
+                            ]),
+                            _vm._v(" "),
+                            _c("option", { attrs: { value: "GR" } }, [
+                              _vm._v("Greece")
+                            ]),
+                            _vm._v(" "),
+                            _c("option", { attrs: { value: "GL" } }, [
+                              _vm._v("Greenland")
+                            ]),
+                            _vm._v(" "),
+                            _c("option", { attrs: { value: "GD" } }, [
+                              _vm._v("Grenada")
+                            ]),
+                            _vm._v(" "),
+                            _c("option", { attrs: { value: "GP" } }, [
+                              _vm._v("Guadeloupe")
+                            ]),
+                            _vm._v(" "),
+                            _c("option", { attrs: { value: "GU" } }, [
+                              _vm._v("Guam")
+                            ]),
+                            _vm._v(" "),
+                            _c("option", { attrs: { value: "GT" } }, [
+                              _vm._v("Guatemala")
+                            ]),
+                            _vm._v(" "),
+                            _c("option", { attrs: { value: "GG" } }, [
+                              _vm._v("Guernsey")
+                            ]),
+                            _vm._v(" "),
+                            _c("option", { attrs: { value: "GN" } }, [
+                              _vm._v("Guinea")
+                            ]),
+                            _vm._v(" "),
+                            _c("option", { attrs: { value: "GW" } }, [
+                              _vm._v("Guinea-Bissau")
+                            ]),
+                            _vm._v(" "),
+                            _c("option", { attrs: { value: "GY" } }, [
+                              _vm._v("Guyana")
+                            ]),
+                            _vm._v(" "),
+                            _c("option", { attrs: { value: "HT" } }, [
+                              _vm._v("Haiti")
+                            ]),
+                            _vm._v(" "),
+                            _c("option", { attrs: { value: "HM" } }, [
+                              _vm._v("Heard Island and McDonald Islands")
+                            ]),
+                            _vm._v(" "),
+                            _c("option", { attrs: { value: "HN" } }, [
+                              _vm._v("Honduras")
+                            ]),
+                            _vm._v(" "),
+                            _c("option", { attrs: { value: "HK" } }, [
+                              _vm._v("Hong Kong SAR China")
+                            ]),
+                            _vm._v(" "),
+                            _c("option", { attrs: { value: "HU" } }, [
+                              _vm._v("Hungary")
+                            ]),
+                            _vm._v(" "),
+                            _c("option", { attrs: { value: "IS" } }, [
+                              _vm._v("Iceland")
+                            ]),
+                            _vm._v(" "),
+                            _c("option", { attrs: { value: "IN" } }, [
+                              _vm._v("India")
+                            ]),
+                            _vm._v(" "),
+                            _c("option", { attrs: { value: "ID" } }, [
+                              _vm._v("Indonesia")
+                            ]),
+                            _vm._v(" "),
+                            _c("option", { attrs: { value: "IR" } }, [
+                              _vm._v("Iran")
+                            ]),
+                            _vm._v(" "),
+                            _c("option", { attrs: { value: "IQ" } }, [
+                              _vm._v("Iraq")
+                            ]),
+                            _vm._v(" "),
+                            _c("option", { attrs: { value: "IE" } }, [
+                              _vm._v("Ireland")
+                            ]),
+                            _vm._v(" "),
+                            _c("option", { attrs: { value: "IM" } }, [
+                              _vm._v("Isle of Man")
+                            ]),
+                            _vm._v(" "),
+                            _c("option", { attrs: { value: "IL" } }, [
+                              _vm._v("Israel")
+                            ]),
+                            _vm._v(" "),
+                            _c("option", { attrs: { value: "IT" } }, [
+                              _vm._v("Italy")
+                            ]),
+                            _vm._v(" "),
+                            _c("option", { attrs: { value: "JM" } }, [
+                              _vm._v("Jamaica")
+                            ]),
+                            _vm._v(" "),
+                            _c("option", { attrs: { value: "JP" } }, [
+                              _vm._v("Japan")
+                            ]),
+                            _vm._v(" "),
+                            _c("option", { attrs: { value: "JE" } }, [
+                              _vm._v("Jersey")
+                            ]),
+                            _vm._v(" "),
+                            _c("option", { attrs: { value: "JO" } }, [
+                              _vm._v("Jordan")
+                            ]),
+                            _vm._v(" "),
+                            _c("option", { attrs: { value: "KZ" } }, [
+                              _vm._v("Kazakhstan")
+                            ]),
+                            _vm._v(" "),
+                            _c("option", { attrs: { value: "KE" } }, [
+                              _vm._v("Kenya")
+                            ]),
+                            _vm._v(" "),
+                            _c("option", { attrs: { value: "KI" } }, [
+                              _vm._v("Kiribati")
+                            ]),
+                            _vm._v(" "),
+                            _c("option", { attrs: { value: "KW" } }, [
+                              _vm._v("Kuwait")
+                            ]),
+                            _vm._v(" "),
+                            _c("option", { attrs: { value: "KG" } }, [
+                              _vm._v("Kyrgyzstan")
+                            ]),
+                            _vm._v(" "),
+                            _c("option", { attrs: { value: "LA" } }, [
+                              _vm._v("Laos")
+                            ]),
+                            _vm._v(" "),
+                            _c("option", { attrs: { value: "LV" } }, [
+                              _vm._v("Latvia")
+                            ]),
+                            _vm._v(" "),
+                            _c("option", { attrs: { value: "LB" } }, [
+                              _vm._v("Lebanon")
+                            ]),
+                            _vm._v(" "),
+                            _c("option", { attrs: { value: "LS" } }, [
+                              _vm._v("Lesotho")
+                            ]),
+                            _vm._v(" "),
+                            _c("option", { attrs: { value: "LR" } }, [
+                              _vm._v("Liberia")
+                            ]),
+                            _vm._v(" "),
+                            _c("option", { attrs: { value: "LY" } }, [
+                              _vm._v("Libya")
+                            ]),
+                            _vm._v(" "),
+                            _c("option", { attrs: { value: "LI" } }, [
+                              _vm._v("Liechtenstein")
+                            ]),
+                            _vm._v(" "),
+                            _c("option", { attrs: { value: "LT" } }, [
+                              _vm._v("Lithuania")
+                            ]),
+                            _vm._v(" "),
+                            _c("option", { attrs: { value: "LU" } }, [
+                              _vm._v("Luxembourg")
+                            ]),
+                            _vm._v(" "),
+                            _c("option", { attrs: { value: "MO" } }, [
+                              _vm._v("Macau SAR China")
+                            ]),
+                            _vm._v(" "),
+                            _c("option", { attrs: { value: "MK" } }, [
+                              _vm._v("Macedonia")
+                            ]),
+                            _vm._v(" "),
+                            _c("option", { attrs: { value: "MG" } }, [
+                              _vm._v("Madagascar")
+                            ]),
+                            _vm._v(" "),
+                            _c("option", { attrs: { value: "MW" } }, [
+                              _vm._v("Malawi")
+                            ]),
+                            _vm._v(" "),
+                            _c("option", { attrs: { value: "MY" } }, [
+                              _vm._v("Malaysia")
+                            ]),
+                            _vm._v(" "),
+                            _c("option", { attrs: { value: "MV" } }, [
+                              _vm._v("Maldives")
+                            ]),
+                            _vm._v(" "),
+                            _c("option", { attrs: { value: "ML" } }, [
+                              _vm._v("Mali")
+                            ]),
+                            _vm._v(" "),
+                            _c("option", { attrs: { value: "MT" } }, [
+                              _vm._v("Malta")
+                            ]),
+                            _vm._v(" "),
+                            _c("option", { attrs: { value: "MH" } }, [
+                              _vm._v("Marshall Islands")
+                            ]),
+                            _vm._v(" "),
+                            _c("option", { attrs: { value: "MQ" } }, [
+                              _vm._v("Martinique")
+                            ]),
+                            _vm._v(" "),
+                            _c("option", { attrs: { value: "MR" } }, [
+                              _vm._v("Mauritania")
+                            ]),
+                            _vm._v(" "),
+                            _c("option", { attrs: { value: "MU" } }, [
+                              _vm._v("Mauritius")
+                            ]),
+                            _vm._v(" "),
+                            _c("option", { attrs: { value: "YT" } }, [
+                              _vm._v("Mayotte")
+                            ]),
+                            _vm._v(" "),
+                            _c("option", { attrs: { value: "MX" } }, [
+                              _vm._v("Mexico")
+                            ]),
+                            _vm._v(" "),
+                            _c("option", { attrs: { value: "FM" } }, [
+                              _vm._v("Micronesia")
+                            ]),
+                            _vm._v(" "),
+                            _c("option", { attrs: { value: "MD" } }, [
+                              _vm._v("Moldova")
+                            ]),
+                            _vm._v(" "),
+                            _c("option", { attrs: { value: "MC" } }, [
+                              _vm._v("Monaco")
+                            ]),
+                            _vm._v(" "),
+                            _c("option", { attrs: { value: "MN" } }, [
+                              _vm._v("Mongolia")
+                            ]),
+                            _vm._v(" "),
+                            _c("option", { attrs: { value: "ME" } }, [
+                              _vm._v("Montenegro")
+                            ]),
+                            _vm._v(" "),
+                            _c("option", { attrs: { value: "MS" } }, [
+                              _vm._v("Montserrat")
+                            ]),
+                            _vm._v(" "),
+                            _c("option", { attrs: { value: "MA" } }, [
+                              _vm._v("Morocco")
+                            ]),
+                            _vm._v(" "),
+                            _c("option", { attrs: { value: "MZ" } }, [
+                              _vm._v("Mozambique")
+                            ]),
+                            _vm._v(" "),
+                            _c("option", { attrs: { value: "MM" } }, [
+                              _vm._v("Myanmar [Burma]")
+                            ]),
+                            _vm._v(" "),
+                            _c("option", { attrs: { value: "NA" } }, [
+                              _vm._v("Namibia")
+                            ]),
+                            _vm._v(" "),
+                            _c("option", { attrs: { value: "NR" } }, [
+                              _vm._v("Nauru")
+                            ]),
+                            _vm._v(" "),
+                            _c("option", { attrs: { value: "NP" } }, [
+                              _vm._v("Nepal")
+                            ]),
+                            _vm._v(" "),
+                            _c("option", { attrs: { value: "NL" } }, [
+                              _vm._v("Netherlands")
+                            ]),
+                            _vm._v(" "),
+                            _c("option", { attrs: { value: "AN" } }, [
+                              _vm._v("Netherlands Antilles")
+                            ]),
+                            _vm._v(" "),
+                            _c("option", { attrs: { value: "NC" } }, [
+                              _vm._v("New Caledonia")
+                            ]),
+                            _vm._v(" "),
+                            _c("option", { attrs: { value: "NZ" } }, [
+                              _vm._v("New Zealand")
+                            ]),
+                            _vm._v(" "),
+                            _c("option", { attrs: { value: "NI" } }, [
+                              _vm._v("Nicaragua")
+                            ]),
+                            _vm._v(" "),
+                            _c("option", { attrs: { value: "NE" } }, [
+                              _vm._v("Niger")
+                            ]),
+                            _vm._v(" "),
+                            _c("option", { attrs: { value: "NG" } }, [
+                              _vm._v("Nigeria")
+                            ]),
+                            _vm._v(" "),
+                            _c("option", { attrs: { value: "NU" } }, [
+                              _vm._v("Niue")
+                            ]),
+                            _vm._v(" "),
+                            _c("option", { attrs: { value: "NF" } }, [
+                              _vm._v("Norfolk Island")
+                            ]),
+                            _vm._v(" "),
+                            _c("option", { attrs: { value: "MP" } }, [
+                              _vm._v("Northern Mariana Islands")
+                            ]),
+                            _vm._v(" "),
+                            _c("option", { attrs: { value: "KP" } }, [
+                              _vm._v("North Korea")
+                            ]),
+                            _vm._v(" "),
+                            _c("option", { attrs: { value: "NO" } }, [
+                              _vm._v("Norway")
+                            ]),
+                            _vm._v(" "),
+                            _c("option", { attrs: { value: "OM" } }, [
+                              _vm._v("Oman")
+                            ]),
+                            _vm._v(" "),
+                            _c("option", { attrs: { value: "PK" } }, [
+                              _vm._v("Pakistan")
+                            ]),
+                            _vm._v(" "),
+                            _c("option", { attrs: { value: "PW" } }, [
+                              _vm._v("Palau")
+                            ]),
+                            _vm._v(" "),
+                            _c("option", { attrs: { value: "PS" } }, [
+                              _vm._v("Palestinian Territories")
+                            ]),
+                            _vm._v(" "),
+                            _c("option", { attrs: { value: "PA" } }, [
+                              _vm._v("Panama")
+                            ]),
+                            _vm._v(" "),
+                            _c("option", { attrs: { value: "PG" } }, [
+                              _vm._v("Papua New Guinea")
+                            ]),
+                            _vm._v(" "),
+                            _c("option", { attrs: { value: "PY" } }, [
+                              _vm._v("Paraguay")
+                            ]),
+                            _vm._v(" "),
+                            _c("option", { attrs: { value: "PE" } }, [
+                              _vm._v("Peru")
+                            ]),
+                            _vm._v(" "),
+                            _c("option", { attrs: { value: "PH" } }, [
+                              _vm._v("Philippines")
+                            ]),
+                            _vm._v(" "),
+                            _c("option", { attrs: { value: "PN" } }, [
+                              _vm._v("Pitcairn Islands")
+                            ]),
+                            _vm._v(" "),
+                            _c("option", { attrs: { value: "PL" } }, [
+                              _vm._v("Poland")
+                            ]),
+                            _vm._v(" "),
+                            _c("option", { attrs: { value: "PT" } }, [
+                              _vm._v("Portugal")
+                            ]),
+                            _vm._v(" "),
+                            _c("option", { attrs: { value: "PR" } }, [
+                              _vm._v("Puerto Rico")
+                            ]),
+                            _vm._v(" "),
+                            _c("option", { attrs: { value: "QA" } }, [
+                              _vm._v("Qatar")
+                            ]),
+                            _vm._v(" "),
+                            _c("option", { attrs: { value: "RE" } }, [
+                              _vm._v("Réunion")
+                            ]),
+                            _vm._v(" "),
+                            _c("option", { attrs: { value: "RO" } }, [
+                              _vm._v("Romania")
+                            ]),
+                            _vm._v(" "),
+                            _c("option", { attrs: { value: "RU" } }, [
+                              _vm._v("Russia")
+                            ]),
+                            _vm._v(" "),
+                            _c("option", { attrs: { value: "RW" } }, [
+                              _vm._v("Rwanda")
+                            ]),
+                            _vm._v(" "),
+                            _c("option", { attrs: { value: "BL" } }, [
+                              _vm._v("Saint Barthélemy")
+                            ]),
+                            _vm._v(" "),
+                            _c("option", { attrs: { value: "SH" } }, [
+                              _vm._v("Saint Helena")
+                            ]),
+                            _vm._v(" "),
+                            _c("option", { attrs: { value: "KN" } }, [
+                              _vm._v("Saint Kitts and Nevis")
+                            ]),
+                            _vm._v(" "),
+                            _c("option", { attrs: { value: "LC" } }, [
+                              _vm._v("Saint Lucia")
+                            ]),
+                            _vm._v(" "),
+                            _c("option", { attrs: { value: "MF" } }, [
+                              _vm._v("Saint Martin")
+                            ]),
+                            _vm._v(" "),
+                            _c("option", { attrs: { value: "PM" } }, [
+                              _vm._v("Saint Pierre and Miquelon")
+                            ]),
+                            _vm._v(" "),
+                            _c("option", { attrs: { value: "VC" } }, [
+                              _vm._v("Saint Vincent and the Grenadines")
+                            ]),
+                            _vm._v(" "),
+                            _c("option", { attrs: { value: "WS" } }, [
+                              _vm._v("Samoa")
+                            ]),
+                            _vm._v(" "),
+                            _c("option", { attrs: { value: "SM" } }, [
+                              _vm._v("San Marino")
+                            ]),
+                            _vm._v(" "),
+                            _c("option", { attrs: { value: "ST" } }, [
+                              _vm._v("São Tomé and Príncipe")
+                            ]),
+                            _vm._v(" "),
+                            _c("option", { attrs: { value: "SA" } }, [
+                              _vm._v("Saudi Arabia")
+                            ]),
+                            _vm._v(" "),
+                            _c("option", { attrs: { value: "SN" } }, [
+                              _vm._v("Senegal")
+                            ]),
+                            _vm._v(" "),
+                            _c("option", { attrs: { value: "RS" } }, [
+                              _vm._v("Serbia")
+                            ]),
+                            _vm._v(" "),
+                            _c("option", { attrs: { value: "SC" } }, [
+                              _vm._v("Seychelles")
+                            ]),
+                            _vm._v(" "),
+                            _c("option", { attrs: { value: "SL" } }, [
+                              _vm._v("Sierra Leone")
+                            ]),
+                            _vm._v(" "),
+                            _c("option", { attrs: { value: "SG" } }, [
+                              _vm._v("Singapore")
+                            ]),
+                            _vm._v(" "),
+                            _c("option", { attrs: { value: "SK" } }, [
+                              _vm._v("Slovakia")
+                            ]),
+                            _vm._v(" "),
+                            _c("option", { attrs: { value: "SI" } }, [
+                              _vm._v("Slovenia")
+                            ]),
+                            _vm._v(" "),
+                            _c("option", { attrs: { value: "SB" } }, [
+                              _vm._v("Solomon Islands")
+                            ]),
+                            _vm._v(" "),
+                            _c("option", { attrs: { value: "SO" } }, [
+                              _vm._v("Somalia")
+                            ]),
+                            _vm._v(" "),
+                            _c("option", { attrs: { value: "ZA" } }, [
+                              _vm._v("South Africa")
+                            ]),
+                            _vm._v(" "),
+                            _c("option", { attrs: { value: "GS" } }, [
+                              _vm._v("South Georgia")
+                            ]),
+                            _vm._v(" "),
+                            _c("option", { attrs: { value: "KR" } }, [
+                              _vm._v("South Korea")
+                            ]),
+                            _vm._v(" "),
+                            _c("option", { attrs: { value: "ES" } }, [
+                              _vm._v("Spain")
+                            ]),
+                            _vm._v(" "),
+                            _c("option", { attrs: { value: "LK" } }, [
+                              _vm._v("Sri Lanka")
+                            ]),
+                            _vm._v(" "),
+                            _c("option", { attrs: { value: "SD" } }, [
+                              _vm._v("Sudan")
+                            ]),
+                            _vm._v(" "),
+                            _c("option", { attrs: { value: "SR" } }, [
+                              _vm._v("Suriname")
+                            ]),
+                            _vm._v(" "),
+                            _c("option", { attrs: { value: "SJ" } }, [
+                              _vm._v("Svalbard and Jan Mayen")
+                            ]),
+                            _vm._v(" "),
+                            _c("option", { attrs: { value: "SZ" } }, [
+                              _vm._v("Swaziland")
+                            ]),
+                            _vm._v(" "),
+                            _c("option", { attrs: { value: "SE" } }, [
+                              _vm._v("Sweden")
+                            ]),
+                            _vm._v(" "),
+                            _c("option", { attrs: { value: "CH" } }, [
+                              _vm._v("Switzerland")
+                            ]),
+                            _vm._v(" "),
+                            _c("option", { attrs: { value: "SY" } }, [
+                              _vm._v("Syria")
+                            ]),
+                            _vm._v(" "),
+                            _c("option", { attrs: { value: "TW" } }, [
+                              _vm._v("Taiwan")
+                            ]),
+                            _vm._v(" "),
+                            _c("option", { attrs: { value: "TJ" } }, [
+                              _vm._v("Tajikistan")
+                            ]),
+                            _vm._v(" "),
+                            _c("option", { attrs: { value: "TZ" } }, [
+                              _vm._v("Tanzania")
+                            ]),
+                            _vm._v(" "),
+                            _c("option", { attrs: { value: "TH" } }, [
+                              _vm._v("Thailand")
+                            ]),
+                            _vm._v(" "),
+                            _c("option", { attrs: { value: "TL" } }, [
+                              _vm._v("Timor-Leste")
+                            ]),
+                            _vm._v(" "),
+                            _c("option", { attrs: { value: "TG" } }, [
+                              _vm._v("Togo")
+                            ]),
+                            _vm._v(" "),
+                            _c("option", { attrs: { value: "TK" } }, [
+                              _vm._v("Tokelau")
+                            ]),
+                            _vm._v(" "),
+                            _c("option", { attrs: { value: "TO" } }, [
+                              _vm._v("Tonga")
+                            ]),
+                            _vm._v(" "),
+                            _c("option", { attrs: { value: "TT" } }, [
+                              _vm._v("Trinidad and Tobago")
+                            ]),
+                            _vm._v(" "),
+                            _c("option", { attrs: { value: "TN" } }, [
+                              _vm._v("Tunisia")
+                            ]),
+                            _vm._v(" "),
+                            _c("option", { attrs: { value: "TR" } }, [
+                              _vm._v("Turkey")
+                            ]),
+                            _vm._v(" "),
+                            _c("option", { attrs: { value: "TM" } }, [
+                              _vm._v("Turkmenistan")
+                            ]),
+                            _vm._v(" "),
+                            _c("option", { attrs: { value: "TC" } }, [
+                              _vm._v("Turks and Caicos Islands")
+                            ]),
+                            _vm._v(" "),
+                            _c("option", { attrs: { value: "TV" } }, [
+                              _vm._v("Tuvalu")
+                            ]),
+                            _vm._v(" "),
+                            _c("option", { attrs: { value: "UG" } }, [
+                              _vm._v("Uganda")
+                            ]),
+                            _vm._v(" "),
+                            _c("option", { attrs: { value: "UA" } }, [
+                              _vm._v("Ukraine")
+                            ]),
+                            _vm._v(" "),
+                            _c("option", { attrs: { value: "AE" } }, [
+                              _vm._v("United Arab Emirates")
+                            ]),
+                            _vm._v(" "),
+                            _c(
+                              "option",
+                              { attrs: { value: "US", selected: "selected" } },
+                              [_vm._v("United Kingdom")]
+                            ),
+                            _vm._v(" "),
+                            _c("option", { attrs: { value: "UY" } }, [
+                              _vm._v("Uruguay")
+                            ]),
+                            _vm._v(" "),
+                            _c("option", { attrs: { value: "UM" } }, [
+                              _vm._v("U.S. Minor Outlying Islands")
+                            ]),
+                            _vm._v(" "),
+                            _c("option", { attrs: { value: "VI" } }, [
+                              _vm._v("U.S. Virgin Islands")
+                            ]),
+                            _vm._v(" "),
+                            _c("option", { attrs: { value: "UZ" } }, [
+                              _vm._v("Uzbekistan")
+                            ]),
+                            _vm._v(" "),
+                            _c("option", { attrs: { value: "VU" } }, [
+                              _vm._v("Vanuatu")
+                            ]),
+                            _vm._v(" "),
+                            _c("option", { attrs: { value: "VA" } }, [
+                              _vm._v("Vatican City")
+                            ]),
+                            _vm._v(" "),
+                            _c("option", { attrs: { value: "VE" } }, [
+                              _vm._v("Venezuela")
+                            ]),
+                            _vm._v(" "),
+                            _c("option", { attrs: { value: "VN" } }, [
+                              _vm._v("Vietnam")
+                            ]),
+                            _vm._v(" "),
+                            _c("option", { attrs: { value: "WF" } }, [
+                              _vm._v("Wallis and Futuna")
+                            ]),
+                            _vm._v(" "),
+                            _c("option", { attrs: { value: "EH" } }, [
+                              _vm._v("Western Sahara")
+                            ]),
+                            _vm._v(" "),
+                            _c("option", { attrs: { value: "YE" } }, [
+                              _vm._v("Yemen")
+                            ]),
+                            _vm._v(" "),
+                            _c("option", { attrs: { value: "ZM" } }, [
+                              _vm._v("Zambia")
+                            ]),
+                            _vm._v(" "),
+                            _c("option", { attrs: { value: "ZW" } }, [
+                              _vm._v("Zimbabwe")
+                            ])
+                          ]
+                        )
+                      ])
+                    ]),
+                    _vm._v(" "),
+                    _c("div", { staticClass: "col-lg-6 col-md-6 col-12" }, [
+                      _c("div", { staticClass: "form-group" }, [
+                        _c("label", [
+                          _vm._v("State / Divition"),
+                          _c("span", [_vm._v("*")])
+                        ]),
+                        _vm._v(" "),
+                        _c(
+                          "select",
+                          {
+                            staticClass: "form-control",
+                            attrs: {
+                              name: "state-province",
+                              id: "state-province"
+                            }
+                          },
+                          [
+                            _c(
+                              "option",
+                              {
+                                attrs: {
+                                  value: "divition",
+                                  selected: "selected"
+                                }
+                              },
+                              [_vm._v("New Yourk")]
+                            ),
+                            _vm._v(" "),
+                            _c("option", [_vm._v("Los Angeles")]),
+                            _vm._v(" "),
+                            _c("option", [_vm._v("Chicago")]),
+                            _vm._v(" "),
+                            _c("option", [_vm._v("Houston")]),
+                            _vm._v(" "),
+                            _c("option", [_vm._v("San Diego")]),
+                            _vm._v(" "),
+                            _c("option", [_vm._v("Dallas")]),
+                            _vm._v(" "),
+                            _c("option", [_vm._v("Charlotte")])
+                          ]
+                        )
+                      ])
+                    ]),
+                    _vm._v(" "),
+                    _c("div", { staticClass: "col-lg-6 col-md-6 col-12" }, [
+                      _c("div", { staticClass: "form-group" }, [
+                        _c("label", [
+                          _vm._v("Address Line 1"),
+                          _c("span", [_vm._v("*")])
+                        ]),
+                        _vm._v(" "),
+                        _c("input", {
+                          attrs: {
+                            type: "text",
+                            name: "address",
+                            placeholder: "",
+                            required: "required"
+                          }
+                        })
+                      ])
+                    ]),
+                    _vm._v(" "),
+                    _c("div", { staticClass: "col-lg-6 col-md-6 col-12" }, [
+                      _c("div", { staticClass: "form-group" }, [
+                        _c("label", [
+                          _vm._v("Address Line 2"),
+                          _c("span", [_vm._v("*")])
+                        ]),
+                        _vm._v(" "),
+                        _c("input", {
+                          attrs: {
+                            type: "text",
+                            name: "address",
+                            placeholder: "",
+                            required: "required"
+                          }
+                        })
+                      ])
+                    ]),
+                    _vm._v(" "),
+                    _c("div", { staticClass: "col-lg-6 col-md-6 col-12" }, [
+                      _c("div", { staticClass: "form-group" }, [
+                        _c("label", [
+                          _vm._v("Postal Code"),
+                          _c("span", [_vm._v("*")])
+                        ]),
+                        _vm._v(" "),
+                        _c("input", {
+                          attrs: {
+                            type: "text",
+                            name: "post",
+                            placeholder: "",
+                            required: "required"
+                          }
+                        })
+                      ])
+                    ]),
+                    _vm._v(" "),
+                    _c("div", { staticClass: "col-lg-6 col-md-6 col-12" }, [
+                      _c("div", { staticClass: "form-group" }, [
+                        _c("label", [
+                          _vm._v("Company"),
+                          _c("span", [_vm._v("*")])
+                        ]),
+                        _vm._v(" "),
+                        _c(
+                          "select",
+                          { attrs: { name: "company_name", id: "company" } },
+                          [
+                            _c(
+                              "option",
+                              {
+                                attrs: {
+                                  value: "company",
+                                  selected: "selected"
+                                }
+                              },
+                              [_vm._v("Microsoft")]
+                            ),
+                            _vm._v(" "),
+                            _c("option", [_vm._v("Apple")]),
+                            _vm._v(" "),
+                            _c("option", [_vm._v("Xaiomi")]),
+                            _vm._v(" "),
+                            _c("option", [_vm._v("Huawer")]),
+                            _vm._v(" "),
+                            _c("option", [_vm._v("Wpthemesgrid")]),
+                            _vm._v(" "),
+                            _c("option", [_vm._v("Samsung")]),
+                            _vm._v(" "),
+                            _c("option", [_vm._v("Motorola")])
+                          ]
+                        )
+                      ])
+                    ]),
+                    _vm._v(" "),
+                    _c("div", { staticClass: "col-12" }, [
+                      _c("div", { staticClass: "form-group create-account" }, [
+                        _c("input", {
+                          attrs: { id: "cbox", type: "checkbox" }
+                        }),
+                        _vm._v(" "),
+                        _c("label", [_vm._v("Create an account?")])
+                      ])
+                    ])
+                  ])
+                ]
+              )
+            ])
+          ]),
+          _vm._v(" "),
+          _c("div", { staticClass: "col-lg-4 col-12" }, [
+            _c("div", { staticClass: "order-details" }, [
+              _c("div", { staticClass: "single-widget" }, [
+                _c("h2", [_vm._v("CART  TOTALS")]),
+                _vm._v(" "),
+                _c("div", { staticClass: "content" }, [
+                  _c("ul", [
+                    _c("li", [
+                      _vm._v("Sub Total"),
+                      _c("span", [_vm._v("$330.00")])
+                    ]),
+                    _vm._v(" "),
+                    _c("li", [
+                      _vm._v("(+) Shipping"),
+                      _c("span", [_vm._v("$10.00")])
+                    ]),
+                    _vm._v(" "),
+                    _c("li", { staticClass: "last" }, [
+                      _vm._v("Total"),
+                      _c("span", [_vm._v("$340.00")])
+                    ])
+                  ])
+                ])
+              ]),
+              _vm._v(" "),
+              _c("div", { staticClass: "single-widget" }, [
+                _c("h2", [_vm._v("Payments")]),
+                _vm._v(" "),
+                _c("div", { staticClass: "content" }, [
+                  _c("div", { staticClass: "checkbox" }, [
+                    _c(
+                      "label",
+                      { staticClass: "checkbox-inline", attrs: { for: "1" } },
+                      [
+                        _c("input", {
+                          attrs: { name: "updates", id: "1", type: "checkbox" }
+                        }),
+                        _vm._v(" Check Payments")
+                      ]
+                    ),
+                    _vm._v(" "),
+                    _c(
+                      "label",
+                      { staticClass: "checkbox-inline", attrs: { for: "2" } },
+                      [
+                        _c("input", {
+                          attrs: { name: "news", id: "2", type: "checkbox" }
+                        }),
+                        _vm._v(" Cash On Delivery")
+                      ]
+                    ),
+                    _vm._v(" "),
+                    _c(
+                      "label",
+                      { staticClass: "checkbox-inline", attrs: { for: "3" } },
+                      [
+                        _c("input", {
+                          attrs: { name: "news", id: "3", type: "checkbox" }
+                        }),
+                        _vm._v(" PayPal")
+                      ]
+                    )
+                  ])
+                ])
+              ]),
+              _vm._v(" "),
+              _c("div", { staticClass: "single-widget payement" }, [
+                _c("div", { staticClass: "content" }, [
+                  _c("img", {
+                    attrs: { src: "images/payment-method.png", alt: "#" }
+                  })
+                ])
+              ]),
+              _vm._v(" "),
+              _c("div", { staticClass: "single-widget get-button" }, [
+                _c("div", { staticClass: "content" }, [
+                  _c("div", { staticClass: "button" }, [
+                    _c("a", { staticClass: "btn", attrs: { href: "#" } }, [
+                      _vm._v("proceed to checkout")
+                    ])
+                  ])
+                ])
+              ])
+            ])
+          ])
+        ])
+      ])
+    ])
+  },
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("section", { staticClass: "shop-services section home" }, [
+      _c("div", { staticClass: "container" }, [
+        _c("div", { staticClass: "row" }, [
+          _c("div", { staticClass: "col-lg-3 col-md-6 col-12" }, [
+            _c("div", { staticClass: "single-service" }, [
+              _c("i", { staticClass: "ti-rocket" }),
+              _vm._v(" "),
+              _c("h4", [_vm._v("Free shiping")]),
+              _vm._v(" "),
+              _c("p", [_vm._v("Orders over $100")])
+            ])
+          ]),
+          _vm._v(" "),
+          _c("div", { staticClass: "col-lg-3 col-md-6 col-12" }, [
+            _c("div", { staticClass: "single-service" }, [
+              _c("i", { staticClass: "ti-reload" }),
+              _vm._v(" "),
+              _c("h4", [_vm._v("Free Return")]),
+              _vm._v(" "),
+              _c("p", [_vm._v("Within 30 days returns")])
+            ])
+          ]),
+          _vm._v(" "),
+          _c("div", { staticClass: "col-lg-3 col-md-6 col-12" }, [
+            _c("div", { staticClass: "single-service" }, [
+              _c("i", { staticClass: "ti-lock" }),
+              _vm._v(" "),
+              _c("h4", [_vm._v("Sucure Payment")]),
+              _vm._v(" "),
+              _c("p", [_vm._v("100% secure payment")])
+            ])
+          ]),
+          _vm._v(" "),
+          _c("div", { staticClass: "col-lg-3 col-md-6 col-12" }, [
+            _c("div", { staticClass: "single-service" }, [
+              _c("i", { staticClass: "ti-tag" }),
+              _vm._v(" "),
+              _c("h4", [_vm._v("Best Peice")]),
+              _vm._v(" "),
+              _c("p", [_vm._v("Guaranteed price")])
+            ])
+          ])
+        ])
+      ])
+    ])
+  },
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("section", { staticClass: "shop-newsletter section" }, [
+      _c("div", { staticClass: "container" }, [
+        _c("div", { staticClass: "inner-top" }, [
+          _c("div", { staticClass: "row" }, [
+            _c("div", { staticClass: "col-lg-8 offset-lg-2 col-12" }, [
+              _c("div", { staticClass: "inner" }, [
+                _c("h4", [_vm._v("Newsletter")]),
+                _vm._v(" "),
+                _c("p", [
+                  _vm._v(" Subscribe to our newsletter and get "),
+                  _c("span", [_vm._v("10%")]),
+                  _vm._v(" off your first purchase")
+                ]),
+                _vm._v(" "),
+                _c(
+                  "form",
+                  {
+                    staticClass: "newsletter-inner",
+                    attrs: {
+                      action: "mail/mail.php",
+                      method: "get",
+                      target: "_blank"
+                    }
+                  },
+                  [
+                    _c("input", {
+                      attrs: {
+                        name: "EMAIL",
+                        placeholder: "Your email address",
+                        required: "",
+                        type: "email"
+                      }
+                    }),
+                    _vm._v(" "),
+                    _c("button", { staticClass: "btn" }, [_vm._v("Subscribe")])
+                  ]
+                )
+              ])
+            ])
+          ])
+        ])
+      ])
+    ])
+  }
+]
+render._withStripped = true
+
+
+
+/***/ }),
+
+/***/ "./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/vue-loader/lib/index.js??vue-loader-options!./resources/js/views/Contact.vue?vue&type=template&id=1d91a851&":
+/*!**************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/vue-loader/lib/index.js??vue-loader-options!./resources/js/views/Contact.vue?vue&type=template&id=1d91a851& ***!
+  \**************************************************************************************************************************************************************************************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   "render": () => (/* binding */ render),
+/* harmony export */   "staticRenderFns": () => (/* binding */ staticRenderFns)
+/* harmony export */ });
+var render = function() {
+  var _vm = this
+  var _h = _vm.$createElement
+  var _c = _vm._self._c || _h
+  return _c("div", [
+    _c("div", { staticClass: "breadcrumbs" }, [
+      _c("div", { staticClass: "container" }, [
+        _c("div", { staticClass: "row" }, [
+          _c("div", { staticClass: "col-12" }, [
+            _c("div", { staticClass: "bread-inner" }, [
+              _c("ul", { staticClass: "bread-list" }, [
+                _c(
+                  "li",
+                  [
+                    _c("router-link", { attrs: { to: "/" } }, [
+                      _vm._v("Home"),
+                      _c("i", { staticClass: "ti-arrow-right" })
+                    ])
+                  ],
+                  1
+                ),
+                _vm._v(" "),
+                _c(
+                  "li",
+                  { staticClass: "active" },
+                  [
+                    _c("router-link", { attrs: { to: "/contact" } }, [
+                      _vm._v("Contact")
+                    ])
+                  ],
+                  1
+                )
+              ])
+            ])
+          ])
+        ])
+      ])
+    ]),
+    _vm._v(" "),
+    _vm._m(0),
+    _vm._v(" "),
+    _vm._m(1),
+    _vm._v(" "),
+    _vm._m(2)
+  ])
+}
+var staticRenderFns = [
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c(
+      "section",
+      { staticClass: "contact-us section", attrs: { id: "contact-us" } },
+      [
+        _c("div", { staticClass: "container" }, [
+          _c("div", { staticClass: "contact-head" }, [
+            _c("div", { staticClass: "row" }, [
+              _c("div", { staticClass: "col-lg-8 col-12" }, [
+                _c("div", { staticClass: "form-main" }, [
+                  _c("div", { staticClass: "title" }, [
+                    _c("h4", [_vm._v("Get in touch")]),
+                    _vm._v(" "),
+                    _c("h3", [_vm._v("Write us a message")])
+                  ]),
+                  _vm._v(" "),
+                  _c(
+                    "form",
+                    {
+                      staticClass: "form",
+                      attrs: { method: "post", action: "mail/mail.php" }
+                    },
+                    [
+                      _c("div", { staticClass: "row" }, [
+                        _c("div", { staticClass: "col-lg-6 col-12" }, [
+                          _c("div", { staticClass: "form-group" }, [
+                            _c("label", [
+                              _vm._v("Your Name"),
+                              _c("span", [_vm._v("*")])
+                            ]),
+                            _vm._v(" "),
+                            _c("input", {
+                              attrs: {
+                                name: "name",
+                                type: "text",
+                                placeholder: ""
+                              }
+                            })
+                          ])
+                        ]),
+                        _vm._v(" "),
+                        _c("div", { staticClass: "col-lg-6 col-12" }, [
+                          _c("div", { staticClass: "form-group" }, [
+                            _c("label", [
+                              _vm._v("Your Subjects"),
+                              _c("span", [_vm._v("*")])
+                            ]),
+                            _vm._v(" "),
+                            _c("input", {
+                              attrs: {
+                                name: "subject",
+                                type: "text",
+                                placeholder: ""
+                              }
+                            })
+                          ])
+                        ]),
+                        _vm._v(" "),
+                        _c("div", { staticClass: "col-lg-6 col-12" }, [
+                          _c("div", { staticClass: "form-group" }, [
+                            _c("label", [
+                              _vm._v("Your Email"),
+                              _c("span", [_vm._v("*")])
+                            ]),
+                            _vm._v(" "),
+                            _c("input", {
+                              attrs: {
+                                name: "email",
+                                type: "email",
+                                placeholder: ""
+                              }
+                            })
+                          ])
+                        ]),
+                        _vm._v(" "),
+                        _c("div", { staticClass: "col-lg-6 col-12" }, [
+                          _c("div", { staticClass: "form-group" }, [
+                            _c("label", [
+                              _vm._v("Your Phone"),
+                              _c("span", [_vm._v("*")])
+                            ]),
+                            _vm._v(" "),
+                            _c("input", {
+                              attrs: {
+                                name: "company_name",
+                                type: "text",
+                                placeholder: ""
+                              }
+                            })
+                          ])
+                        ]),
+                        _vm._v(" "),
+                        _c("div", { staticClass: "col-12" }, [
+                          _c("div", { staticClass: "form-group message" }, [
+                            _c("label", [
+                              _vm._v("your message"),
+                              _c("span", [_vm._v("*")])
+                            ]),
+                            _vm._v(" "),
+                            _c("textarea", {
+                              attrs: { name: "message", placeholder: "" }
+                            })
+                          ])
+                        ]),
+                        _vm._v(" "),
+                        _c("div", { staticClass: "col-12" }, [
+                          _c("div", { staticClass: "form-group button" }, [
+                            _c(
+                              "button",
+                              {
+                                staticClass: "btn ",
+                                attrs: { type: "submit" }
+                              },
+                              [_vm._v("Send Message")]
+                            )
+                          ])
+                        ])
+                      ])
+                    ]
+                  )
+                ])
+              ]),
+              _vm._v(" "),
+              _c("div", { staticClass: "col-lg-4 col-12" }, [
+                _c("div", { staticClass: "single-head" }, [
+                  _c("div", { staticClass: "single-info" }, [
+                    _c("i", { staticClass: "fa fa-phone" }),
+                    _vm._v(" "),
+                    _c("h4", { staticClass: "title" }, [
+                      _vm._v("Call us Now:")
+                    ]),
+                    _vm._v(" "),
+                    _c("ul", [
+                      _c("li", [_vm._v("+123 456-789-1120")]),
+                      _vm._v(" "),
+                      _c("li", [_vm._v("+522 672-452-1120")])
+                    ])
+                  ]),
+                  _vm._v(" "),
+                  _c("div", { staticClass: "single-info" }, [
+                    _c("i", { staticClass: "fa fa-envelope-open" }),
+                    _vm._v(" "),
+                    _c("h4", { staticClass: "title" }, [_vm._v("Email:")]),
+                    _vm._v(" "),
+                    _c("ul", [
+                      _c("li", [
+                        _c(
+                          "a",
+                          { attrs: { href: "mailto:info@yourwebsite.com" } },
+                          [_vm._v("info@yourwebsite.com")]
+                        )
+                      ]),
+                      _vm._v(" "),
+                      _c("li", [
+                        _c(
+                          "a",
+                          { attrs: { href: "mailto:info@yourwebsite.com" } },
+                          [_vm._v("support@yourwebsite.com")]
+                        )
+                      ])
+                    ])
+                  ]),
+                  _vm._v(" "),
+                  _c("div", { staticClass: "single-info" }, [
+                    _c("i", { staticClass: "fa fa-location-arrow" }),
+                    _vm._v(" "),
+                    _c("h4", { staticClass: "title" }, [
+                      _vm._v("Our Address:")
+                    ]),
+                    _vm._v(" "),
+                    _c("ul", [
+                      _c("li", [
+                        _vm._v(
+                          "KA-62/1, Travel Agency, 45 Grand Central Terminal, New York."
+                        )
+                      ])
+                    ])
+                  ])
+                ])
+              ])
+            ])
+          ])
+        ])
+      ]
+    )
+  },
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("div", { staticClass: "map-section" }, [
+      _c("div", { attrs: { id: "myMap" } })
+    ])
+  },
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("section", { staticClass: "shop-newsletter section" }, [
+      _c("div", { staticClass: "container" }, [
+        _c("div", { staticClass: "inner-top" }, [
+          _c("div", { staticClass: "row" }, [
+            _c("div", { staticClass: "col-lg-8 offset-lg-2 col-12" }, [
+              _c("div", { staticClass: "inner" }, [
+                _c("h4", [_vm._v("Newsletter")]),
+                _vm._v(" "),
+                _c("p", [
+                  _vm._v(" Subscribe to our newsletter and get "),
+                  _c("span", [_vm._v("10%")]),
+                  _vm._v(" off your first purchase")
+                ]),
+                _vm._v(" "),
+                _c(
+                  "form",
+                  {
+                    staticClass: "newsletter-inner",
+                    attrs: {
+                      action: "mail/mail.php",
+                      method: "get",
+                      target: "_blank"
+                    }
+                  },
+                  [
+                    _c("input", {
+                      attrs: {
+                        name: "EMAIL",
+                        placeholder: "Your email address",
+                        required: "",
+                        type: "email"
+                      }
+                    }),
+                    _vm._v(" "),
+                    _c("button", { staticClass: "btn" }, [_vm._v("Subscribe")])
+                  ]
+                )
+              ])
+            ])
+          ])
+        ])
+      ])
+    ])
+  }
+]
 render._withStripped = true
 
 
@@ -53052,212 +58644,10 @@ render._withStripped = true
 
 /***/ }),
 
-/***/ "./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/vue-loader/lib/index.js??vue-loader-options!./resources/js/views/layouts/Footer.vue?vue&type=template&id=62828b80&":
-/*!*********************************************************************************************************************************************************************************************************************!*\
-  !*** ./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/vue-loader/lib/index.js??vue-loader-options!./resources/js/views/layouts/Footer.vue?vue&type=template&id=62828b80& ***!
-  \*********************************************************************************************************************************************************************************************************************/
-/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
-
-"use strict";
-__webpack_require__.r(__webpack_exports__);
-/* harmony export */ __webpack_require__.d(__webpack_exports__, {
-/* harmony export */   "render": () => (/* binding */ render),
-/* harmony export */   "staticRenderFns": () => (/* binding */ staticRenderFns)
-/* harmony export */ });
-var render = function() {
-  var _vm = this
-  var _h = _vm.$createElement
-  var _c = _vm._self._c || _h
-  return _vm._m(0)
-}
-var staticRenderFns = [
-  function() {
-    var _vm = this
-    var _h = _vm.$createElement
-    var _c = _vm._self._c || _h
-    return _c("footer", { staticClass: "footer" }, [
-      _c("div", { staticClass: "footer-top section" }, [
-        _c("div", { staticClass: "container" }, [
-          _c("div", { staticClass: "row" }, [
-            _c("div", { staticClass: "col-lg-5 col-md-6 col-12" }, [
-              _c("div", { staticClass: "single-footer about" }, [
-                _c("div", { staticClass: "logo" }, [
-                  _c("a", { attrs: { href: "index.html" } }, [
-                    _c("img", { attrs: { src: "images/logo2.png", alt: "#" } })
-                  ])
-                ]),
-                _vm._v(" "),
-                _c("p", { staticClass: "text" }, [
-                  _vm._v(
-                    "Praesent dapibus, neque id cursus ucibus, tortor neque egestas augue, magna\n\t\t\t\t\t\t\t\teros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor,\n\t\t\t\t\t\t\t\tfacilisis luctus, metus."
-                  )
-                ]),
-                _vm._v(" "),
-                _c("p", { staticClass: "call" }, [
-                  _vm._v("Got Question? Call us 24/7"),
-                  _c("span", [
-                    _c("a", { attrs: { href: "tel:123456789" } }, [
-                      _vm._v("+0123 456\n\t\t\t\t\t\t\t\t\t\t789")
-                    ])
-                  ])
-                ])
-              ])
-            ]),
-            _vm._v(" "),
-            _c("div", { staticClass: "col-lg-2 col-md-6 col-12" }, [
-              _c("div", { staticClass: "single-footer links" }, [
-                _c("h4", [_vm._v("Information")]),
-                _vm._v(" "),
-                _c("ul", [
-                  _c("li", [
-                    _c("a", { attrs: { href: "#" } }, [_vm._v("About Us")])
-                  ]),
-                  _vm._v(" "),
-                  _c("li", [
-                    _c("a", { attrs: { href: "#" } }, [_vm._v("Faq")])
-                  ]),
-                  _vm._v(" "),
-                  _c("li", [
-                    _c("a", { attrs: { href: "#" } }, [
-                      _vm._v("Terms & Conditions")
-                    ])
-                  ]),
-                  _vm._v(" "),
-                  _c("li", [
-                    _c("a", { attrs: { href: "#" } }, [_vm._v("Contact Us")])
-                  ]),
-                  _vm._v(" "),
-                  _c("li", [
-                    _c("a", { attrs: { href: "#" } }, [_vm._v("Help")])
-                  ])
-                ])
-              ])
-            ]),
-            _vm._v(" "),
-            _c("div", { staticClass: "col-lg-2 col-md-6 col-12" }, [
-              _c("div", { staticClass: "single-footer links" }, [
-                _c("h4", [_vm._v("Customer Service")]),
-                _vm._v(" "),
-                _c("ul", [
-                  _c("li", [
-                    _c("a", { attrs: { href: "#" } }, [
-                      _vm._v("Payment Methods")
-                    ])
-                  ]),
-                  _vm._v(" "),
-                  _c("li", [
-                    _c("a", { attrs: { href: "#" } }, [_vm._v("Money-back")])
-                  ]),
-                  _vm._v(" "),
-                  _c("li", [
-                    _c("a", { attrs: { href: "#" } }, [_vm._v("Returns")])
-                  ]),
-                  _vm._v(" "),
-                  _c("li", [
-                    _c("a", { attrs: { href: "#" } }, [_vm._v("Shipping")])
-                  ]),
-                  _vm._v(" "),
-                  _c("li", [
-                    _c("a", { attrs: { href: "#" } }, [
-                      _vm._v("Privacy Policy")
-                    ])
-                  ])
-                ])
-              ])
-            ]),
-            _vm._v(" "),
-            _c("div", { staticClass: "col-lg-3 col-md-6 col-12" }, [
-              _c("div", { staticClass: "single-footer social" }, [
-                _c("h4", [_vm._v("Get In Tuch")]),
-                _vm._v(" "),
-                _c("div", { staticClass: "contact" }, [
-                  _c("ul", [
-                    _c("li", [_vm._v("NO. 342 - London Oxford Street.")]),
-                    _vm._v(" "),
-                    _c("li", [_vm._v("012 United Kingdom.")]),
-                    _vm._v(" "),
-                    _c("li", [_vm._v("info@eshop.com")]),
-                    _vm._v(" "),
-                    _c("li", [_vm._v("+032 3456 7890")])
-                  ])
-                ]),
-                _vm._v(" "),
-                _c("ul", [
-                  _c("li", [
-                    _c("a", { attrs: { href: "#" } }, [
-                      _c("i", { staticClass: "ti-facebook" })
-                    ])
-                  ]),
-                  _vm._v(" "),
-                  _c("li", [
-                    _c("a", { attrs: { href: "#" } }, [
-                      _c("i", { staticClass: "ti-twitter" })
-                    ])
-                  ]),
-                  _vm._v(" "),
-                  _c("li", [
-                    _c("a", { attrs: { href: "#" } }, [
-                      _c("i", { staticClass: "ti-flickr" })
-                    ])
-                  ]),
-                  _vm._v(" "),
-                  _c("li", [
-                    _c("a", { attrs: { href: "#" } }, [
-                      _c("i", { staticClass: "ti-instagram" })
-                    ])
-                  ])
-                ])
-              ])
-            ])
-          ])
-        ])
-      ]),
-      _vm._v(" "),
-      _c("div", { staticClass: "copyright" }, [
-        _c("div", { staticClass: "container" }, [
-          _c("div", { staticClass: "inner" }, [
-            _c("div", { staticClass: "row" }, [
-              _c("div", { staticClass: "col-lg-6 col-12" }, [
-                _c("div", { staticClass: "left" }, [
-                  _c("p", [
-                    _vm._v("Copyright © 2020 "),
-                    _c(
-                      "a",
-                      {
-                        attrs: {
-                          href: "http://www.wpthemesgrid.com",
-                          target: "_blank"
-                        }
-                      },
-                      [_vm._v("Wpthemesgrid")]
-                    ),
-                    _vm._v(" - All Rights Reserved.")
-                  ])
-                ])
-              ]),
-              _vm._v(" "),
-              _c("div", { staticClass: "col-lg-6 col-12" }, [
-                _c("div", { staticClass: "right" }, [
-                  _c("img", { attrs: { src: "images/payments.png", alt: "#" } })
-                ])
-              ])
-            ])
-          ])
-        ])
-      ])
-    ])
-  }
-]
-render._withStripped = true
-
-
-
-/***/ }),
-
-/***/ "./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/vue-loader/lib/index.js??vue-loader-options!./resources/js/views/layouts/Header.vue?vue&type=template&id=201dc39c&scoped=true&":
-/*!*********************************************************************************************************************************************************************************************************************************!*\
-  !*** ./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/vue-loader/lib/index.js??vue-loader-options!./resources/js/views/layouts/Header.vue?vue&type=template&id=201dc39c&scoped=true& ***!
-  \*********************************************************************************************************************************************************************************************************************************/
+/***/ "./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/vue-loader/lib/index.js??vue-loader-options!./resources/js/views/layouts/DashboardHeader.vue?vue&type=template&id=04aebb6c&scoped=true&":
+/*!******************************************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/vue-loader/lib/index.js??vue-loader-options!./resources/js/views/layouts/DashboardHeader.vue?vue&type=template&id=04aebb6c&scoped=true& ***!
+  \******************************************************************************************************************************************************************************************************************************************/
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
@@ -53273,13 +58663,72 @@ var render = function() {
   return _c("header", { staticClass: "header shop" }, [
     _vm._m(0),
     _vm._v(" "),
-    _vm._m(1),
+    _c("div", { staticClass: "middle-inner" }, [
+      _c("div", { staticClass: "container" }, [
+        _c("div", { staticClass: "row" }, [
+          _c("div", { staticClass: "col-lg-2 col-md-2 col-12" }, [
+            _c(
+              "div",
+              { staticClass: "logo" },
+              [
+                _c("router-link", { attrs: { to: "/" } }, [
+                  _c("img", { attrs: { src: "images/logo.png", alt: "logo" } })
+                ])
+              ],
+              1
+            ),
+            _vm._v(" "),
+            _vm._m(1),
+            _vm._v(" "),
+            _c("div", { staticClass: "mobile-nav" })
+          ]),
+          _vm._v(" "),
+          _vm._m(2),
+          _vm._v(" "),
+          _c("div", { staticClass: "col-lg-2 col-md-3 col-12" }, [
+            _c("div", { staticClass: "right-bar" }, [
+              _vm._m(3),
+              _vm._v(" "),
+              _vm._m(4),
+              _vm._v(" "),
+              _c("div", { staticClass: "sinlge-bar shopping" }, [
+                _vm._m(5),
+                _vm._v(" "),
+                _c("div", { staticClass: "shopping-item" }, [
+                  _vm._m(6),
+                  _vm._v(" "),
+                  _vm._m(7),
+                  _vm._v(" "),
+                  _c(
+                    "div",
+                    { staticClass: "bottom" },
+                    [
+                      _vm._m(8),
+                      _vm._v(" "),
+                      _c(
+                        "router-link",
+                        {
+                          staticClass: "btn animate",
+                          attrs: { to: "checkout" }
+                        },
+                        [_vm._v("Checkout")]
+                      )
+                    ],
+                    1
+                  )
+                ])
+              ])
+            ])
+          ])
+        ])
+      ])
+    ]),
     _vm._v(" "),
     _c("div", { staticClass: "header-inner" }, [
       _c("div", { staticClass: "container" }, [
         _c("div", { staticClass: "cat-nav-head" }, [
           _c("div", { staticClass: "row" }, [
-            _vm._m(2),
+            _vm._m(9),
             _vm._v(" "),
             _c("div", { staticClass: "col-lg-9 col-12" }, [
               _c("div", { staticClass: "menu-area" }, [
@@ -53290,14 +58739,30 @@ var render = function() {
                         "ul",
                         { staticClass: "nav main-menu menu navbar-nav" },
                         [
-                          _vm._m(3),
+                          _vm._m(10),
                           _vm._v(" "),
-                          _vm._m(4),
-                          _vm._v(" "),
-                          _vm._m(5),
+                          _vm._m(11),
                           _vm._v(" "),
                           _c("li", [
-                            _vm._m(6),
+                            _vm._m(12),
+                            _vm._v(" "),
+                            _c("ul", { staticClass: "dropdown" }, [
+                              _c(
+                                "li",
+                                [
+                                  _c(
+                                    "router-link",
+                                    { attrs: { to: "/contact" } },
+                                    [_vm._v("Contact Us")]
+                                  )
+                                ],
+                                1
+                              )
+                            ])
+                          ]),
+                          _vm._v(" "),
+                          _c("li", [
+                            _vm._m(13),
                             _vm._v(" "),
                             _c("ul", { staticClass: "dropdown" }, [
                               _c(
@@ -53326,11 +58791,25 @@ var render = function() {
                             ])
                           ]),
                           _vm._v(" "),
-                          _vm._m(7),
+                          _vm._m(14),
                           _vm._v(" "),
-                          _vm._m(8),
-                          _vm._v(" "),
-                          _vm._m(9)
+                          _c("li", [
+                            _vm._m(15),
+                            _vm._v(" "),
+                            _c("ul", { staticClass: "dropdown" }, [
+                              _c(
+                                "li",
+                                [
+                                  _c(
+                                    "router-link",
+                                    { attrs: { to: "/blog" } },
+                                    [_vm._v("Blog Single Sidebar")]
+                                  )
+                                ],
+                                1
+                              )
+                            ])
+                          ])
                         ]
                       )
                     ])
@@ -53403,214 +58882,176 @@ var staticRenderFns = [
     var _vm = this
     var _h = _vm.$createElement
     var _c = _vm._self._c || _h
-    return _c("div", { staticClass: "middle-inner" }, [
-      _c("div", { staticClass: "container" }, [
-        _c("div", { staticClass: "row" }, [
-          _c("div", { staticClass: "col-lg-2 col-md-2 col-12" }, [
-            _c("div", { staticClass: "logo" }, [
-              _c("a", { attrs: { href: "index.html" } }, [
-                _c("img", {
-                  attrs: {
-                    src: __webpack_require__(/*! ../../../../public/assets/images/logo.png */ "./public/assets/images/logo.png"),
-                    alt: "logo"
-                  }
-                })
-              ])
+    return _c("div", { staticClass: "search-top" }, [
+      _c("div", { staticClass: "top-search" }, [
+        _c("a", { attrs: { href: "#0" } }, [
+          _c("i", { staticClass: "ti-search" })
+        ])
+      ]),
+      _vm._v(" "),
+      _c("div", { staticClass: "search-top" }, [
+        _c("form", { staticClass: "search-form" }, [
+          _c("input", {
+            attrs: {
+              type: "text",
+              placeholder: "Search here...",
+              name: "search"
+            }
+          }),
+          _vm._v(" "),
+          _c("button", { attrs: { value: "search", type: "submit" } }, [
+            _c("i", { staticClass: "ti-search" })
+          ])
+        ])
+      ])
+    ])
+  },
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("div", { staticClass: "col-lg-8 col-md-7 col-12" }, [
+      _c("div", { staticClass: "search-bar-top" }, [
+        _c("div", { staticClass: "search-bar" }, [
+          _c("select", [
+            _c("option", { attrs: { selected: "selected" } }, [
+              _vm._v("All Category")
             ]),
             _vm._v(" "),
-            _c("div", { staticClass: "search-top" }, [
-              _c("div", { staticClass: "top-search" }, [
-                _c("a", { attrs: { href: "#0" } }, [
-                  _c("i", { staticClass: "ti-search" })
-                ])
-              ]),
-              _vm._v(" "),
-              _c("div", { staticClass: "search-top" }, [
-                _c("form", { staticClass: "search-form" }, [
-                  _c("input", {
-                    attrs: {
-                      type: "text",
-                      placeholder: "Search here...",
-                      name: "search"
-                    }
-                  }),
-                  _vm._v(" "),
-                  _c("button", { attrs: { value: "search", type: "submit" } }, [
-                    _c("i", { staticClass: "ti-search" })
-                  ])
-                ])
-              ])
-            ]),
+            _c("option", [_vm._v("watch")]),
             _vm._v(" "),
-            _c("div", { staticClass: "mobile-nav" })
+            _c("option", [_vm._v("mobile")]),
+            _vm._v(" "),
+            _c("option", [_vm._v("kid’s item")])
           ]),
           _vm._v(" "),
-          _c("div", { staticClass: "col-lg-8 col-md-7 col-12" }, [
-            _c("div", { staticClass: "search-bar-top" }, [
-              _c("div", { staticClass: "search-bar" }, [
-                _c("select", [
-                  _c("option", { attrs: { selected: "selected" } }, [
-                    _vm._v("All Category")
-                  ]),
-                  _vm._v(" "),
-                  _c("option", [_vm._v("watch")]),
-                  _vm._v(" "),
-                  _c("option", [_vm._v("mobile")]),
-                  _vm._v(" "),
-                  _c("option", [_vm._v("kid’s item")])
-                ]),
-                _vm._v(" "),
-                _c("form", [
-                  _c("input", {
-                    attrs: {
-                      name: "search",
-                      placeholder: "Search Products Here.....",
-                      type: "search"
-                    }
-                  }),
-                  _vm._v(" "),
-                  _c("button", { staticClass: "btnn" }, [
-                    _c("i", { staticClass: "ti-search" })
-                  ])
-                ])
-              ])
-            ])
-          ]),
-          _vm._v(" "),
-          _c("div", { staticClass: "col-lg-2 col-md-3 col-12" }, [
-            _c("div", { staticClass: "right-bar" }, [
-              _c("div", { staticClass: "sinlge-bar" }, [
-                _c("a", { staticClass: "single-icon", attrs: { href: "#" } }, [
-                  _c("i", {
-                    staticClass: "fa fa-heart-o",
-                    attrs: { "aria-hidden": "true" }
-                  })
-                ])
-              ]),
-              _vm._v(" "),
-              _c("div", { staticClass: "sinlge-bar" }, [
-                _c("a", { staticClass: "single-icon", attrs: { href: "#" } }, [
-                  _c("i", {
-                    staticClass: "fa fa-user-circle-o",
-                    attrs: { "aria-hidden": "true" }
-                  })
-                ])
-              ]),
-              _vm._v(" "),
-              _c("div", { staticClass: "sinlge-bar shopping" }, [
-                _c("a", { staticClass: "single-icon", attrs: { href: "#" } }, [
-                  _c("i", { staticClass: "ti-bag" }),
-                  _vm._v(" "),
-                  _c("span", { staticClass: "total-count" }, [_vm._v("2")])
-                ]),
-                _vm._v(" "),
-                _c("div", { staticClass: "shopping-item" }, [
-                  _c("div", { staticClass: "dropdown-cart-header" }, [
-                    _c("span", [_vm._v("2 Items")]),
-                    _vm._v(" "),
-                    _c("a", { attrs: { href: "#" } }, [_vm._v("View Cart")])
-                  ]),
-                  _vm._v(" "),
-                  _c("ul", { staticClass: "shopping-list" }, [
-                    _c("li", [
-                      _c(
-                        "a",
-                        {
-                          staticClass: "remove",
-                          attrs: { href: "#", title: "Remove this item" }
-                        },
-                        [_c("i", { staticClass: "fa fa-remove" })]
-                      ),
-                      _vm._v(" "),
-                      _c(
-                        "a",
-                        { staticClass: "cart-img", attrs: { href: "#" } },
-                        [
-                          _c("img", {
-                            attrs: {
-                              src: "https://via.placeholder.com/70x70",
-                              alt: "#"
-                            }
-                          })
-                        ]
-                      ),
-                      _vm._v(" "),
-                      _c("h4", [
-                        _c("a", { attrs: { href: "#" } }, [
-                          _vm._v("Woman Ring")
-                        ])
-                      ]),
-                      _vm._v(" "),
-                      _c("p", { staticClass: "quantity" }, [
-                        _vm._v("1x - "),
-                        _c("span", { staticClass: "amount" }, [
-                          _vm._v("$99.00")
-                        ])
-                      ])
-                    ]),
-                    _vm._v(" "),
-                    _c("li", [
-                      _c(
-                        "a",
-                        {
-                          staticClass: "remove",
-                          attrs: { href: "#", title: "Remove this item" }
-                        },
-                        [_c("i", { staticClass: "fa fa-remove" })]
-                      ),
-                      _vm._v(" "),
-                      _c(
-                        "a",
-                        { staticClass: "cart-img", attrs: { href: "#" } },
-                        [
-                          _c("img", {
-                            attrs: {
-                              src: "https://via.placeholder.com/70x70",
-                              alt: "#"
-                            }
-                          })
-                        ]
-                      ),
-                      _vm._v(" "),
-                      _c("h4", [
-                        _c("a", { attrs: { href: "#" } }, [
-                          _vm._v("Woman Necklace")
-                        ])
-                      ]),
-                      _vm._v(" "),
-                      _c("p", { staticClass: "quantity" }, [
-                        _vm._v("1x - "),
-                        _c("span", { staticClass: "amount" }, [
-                          _vm._v("$35.00")
-                        ])
-                      ])
-                    ])
-                  ]),
-                  _vm._v(" "),
-                  _c("div", { staticClass: "bottom" }, [
-                    _c("div", { staticClass: "total" }, [
-                      _c("span", [_vm._v("Total")]),
-                      _vm._v(" "),
-                      _c("span", { staticClass: "total-amount" }, [
-                        _vm._v("$134.00")
-                      ])
-                    ]),
-                    _vm._v(" "),
-                    _c(
-                      "a",
-                      {
-                        staticClass: "btn animate",
-                        attrs: { href: "checkout.html" }
-                      },
-                      [_vm._v("Checkout")]
-                    )
-                  ])
-                ])
-              ])
+          _c("form", [
+            _c("input", {
+              attrs: {
+                name: "search",
+                placeholder: "Search Products Here.....",
+                type: "search"
+              }
+            }),
+            _vm._v(" "),
+            _c("button", { staticClass: "btnn" }, [
+              _c("i", { staticClass: "ti-search" })
             ])
           ])
         ])
       ])
+    ])
+  },
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("div", { staticClass: "sinlge-bar" }, [
+      _c("a", { staticClass: "single-icon", attrs: { href: "#" } }, [
+        _c("i", {
+          staticClass: "fa fa-heart-o",
+          attrs: { "aria-hidden": "true" }
+        })
+      ])
+    ])
+  },
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("div", { staticClass: "sinlge-bar" }, [
+      _c("a", { staticClass: "single-icon", attrs: { href: "#" } }, [
+        _c("i", {
+          staticClass: "fa fa-user-circle-o",
+          attrs: { "aria-hidden": "true" }
+        })
+      ])
+    ])
+  },
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("a", { staticClass: "single-icon", attrs: { href: "#" } }, [
+      _c("i", { staticClass: "ti-bag" }),
+      _vm._v(" "),
+      _c("span", { staticClass: "total-count" }, [_vm._v("2")])
+    ])
+  },
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("div", { staticClass: "dropdown-cart-header" }, [
+      _c("span", [_vm._v("2 Items")]),
+      _vm._v(" "),
+      _c("a", { attrs: { href: "#" } }, [_vm._v("View Cart")])
+    ])
+  },
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("ul", { staticClass: "shopping-list" }, [
+      _c("li", [
+        _c(
+          "a",
+          {
+            staticClass: "remove",
+            attrs: { href: "#", title: "Remove this item" }
+          },
+          [_c("i", { staticClass: "fa fa-remove" })]
+        ),
+        _vm._v(" "),
+        _c("a", { staticClass: "cart-img", attrs: { href: "#" } }, [
+          _c("img", {
+            attrs: { src: "https://via.placeholder.com/70x70", alt: "#" }
+          })
+        ]),
+        _vm._v(" "),
+        _c("h4", [_c("a", { attrs: { href: "#" } }, [_vm._v("Woman Ring")])]),
+        _vm._v(" "),
+        _c("p", { staticClass: "quantity" }, [
+          _vm._v("1x - "),
+          _c("span", { staticClass: "amount" }, [_vm._v("$99.00")])
+        ])
+      ]),
+      _vm._v(" "),
+      _c("li", [
+        _c(
+          "a",
+          {
+            staticClass: "remove",
+            attrs: { href: "#", title: "Remove this item" }
+          },
+          [_c("i", { staticClass: "fa fa-remove" })]
+        ),
+        _vm._v(" "),
+        _c("a", { staticClass: "cart-img", attrs: { href: "#" } }, [
+          _c("img", {
+            attrs: { src: "https://via.placeholder.com/70x70", alt: "#" }
+          })
+        ]),
+        _vm._v(" "),
+        _c("h4", [
+          _c("a", { attrs: { href: "#" } }, [_vm._v("Woman Necklace")])
+        ]),
+        _vm._v(" "),
+        _c("p", { staticClass: "quantity" }, [
+          _vm._v("1x - "),
+          _c("span", { staticClass: "amount" }, [_vm._v("$35.00")])
+        ])
+      ])
+    ])
+  },
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("div", { staticClass: "total" }, [
+      _c("span", [_vm._v("Total")]),
+      _vm._v(" "),
+      _c("span", { staticClass: "total-amount" }, [_vm._v("$134.00")])
     ])
   },
   function() {
@@ -53793,6 +59234,783 @@ var staticRenderFns = [
     var _vm = this
     var _h = _vm.$createElement
     var _c = _vm._self._c || _h
+    return _c("a", { attrs: { href: "#" } }, [
+      _vm._v("Service"),
+      _c("i", { staticClass: "ti-angle-down" })
+    ])
+  },
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("a", { attrs: { href: "#" } }, [
+      _vm._v("Shop"),
+      _c("i", { staticClass: "ti-angle-down" }),
+      _c("span", { staticClass: "new" }, [_vm._v("New")])
+    ])
+  },
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("li", [_c("a", { attrs: { href: "#" } }, [_vm._v("Pages")])])
+  },
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("a", { attrs: { href: "#" } }, [
+      _vm._v("Blog"),
+      _c("i", { staticClass: "ti-angle-down" })
+    ])
+  }
+]
+render._withStripped = true
+
+
+
+/***/ }),
+
+/***/ "./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/vue-loader/lib/index.js??vue-loader-options!./resources/js/views/layouts/Footer.vue?vue&type=template&id=62828b80&":
+/*!*********************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/vue-loader/lib/index.js??vue-loader-options!./resources/js/views/layouts/Footer.vue?vue&type=template&id=62828b80& ***!
+  \*********************************************************************************************************************************************************************************************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   "render": () => (/* binding */ render),
+/* harmony export */   "staticRenderFns": () => (/* binding */ staticRenderFns)
+/* harmony export */ });
+var render = function() {
+  var _vm = this
+  var _h = _vm.$createElement
+  var _c = _vm._self._c || _h
+  return _c("footer", { staticClass: "footer" }, [
+    _c("div", { staticClass: "footer-top section" }, [
+      _c("div", { staticClass: "container" }, [
+        _c("div", { staticClass: "row" }, [
+          _c("div", { staticClass: "col-lg-4 col-md-6 col-12" }, [
+            _c("div", { staticClass: "single-footer about" }, [
+              _c(
+                "div",
+                { staticClass: "logo" },
+                [
+                  _c("router-link", { attrs: { to: "/" } }, [
+                    _c("img", {
+                      attrs: { src: "assets/images/logo2.png", alt: "#" }
+                    })
+                  ])
+                ],
+                1
+              ),
+              _vm._v(" "),
+              _c("iframe", {
+                staticStyle: { border: "0" },
+                attrs: {
+                  src:
+                    "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3957.2205569514417!2d112.69274392835857!3d-7.329107746573339!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2dd7fdbf605ffd45%3A0x3539f29c220a23cb!2sGrand%20Harvest%2C%20Cluster%20Caspia%2C%20CD%2020!5e0!3m2!1sid!2sid!4v1628826753717!5m2!1sid!2sid",
+                  width: "350",
+                  height: "175",
+                  allowfullscreen: "",
+                  loading: "lazy"
+                }
+              }),
+              _vm._v(" "),
+              _vm._m(0)
+            ])
+          ]),
+          _vm._v(" "),
+          _vm._m(1)
+        ])
+      ])
+    ]),
+    _vm._v(" "),
+    _vm._m(2)
+  ])
+}
+var staticRenderFns = [
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("div", { staticClass: "single-footer social call" }, [
+      _c("div", { staticClass: "contact" }, [
+        _c("ul", [
+          _c("li", [_vm._v("NO. 342 - London Oxford Street.")]),
+          _vm._v(" "),
+          _c("li", [_vm._v("012 United Kingdom.")]),
+          _vm._v(" "),
+          _c("li", [_vm._v("info@eshop.com")]),
+          _vm._v(" "),
+          _c("li", [_vm._v("+032 3456 7890")])
+        ])
+      ]),
+      _vm._v(" "),
+      _c("ul", [
+        _c("li", [
+          _c("a", { attrs: { href: "#" } }, [
+            _c("i", { staticClass: "ti-facebook" })
+          ])
+        ]),
+        _vm._v(" "),
+        _c("li", [
+          _c("a", { attrs: { href: "#" } }, [
+            _c("i", { staticClass: "ti-twitter" })
+          ])
+        ]),
+        _vm._v(" "),
+        _c("li", [
+          _c("a", { attrs: { href: "#" } }, [
+            _c("i", { staticClass: "ti-flickr" })
+          ])
+        ]),
+        _vm._v(" "),
+        _c("li", [
+          _c("a", { attrs: { href: "#" } }, [
+            _c("i", { staticClass: "ti-instagram" })
+          ])
+        ])
+      ])
+    ])
+  },
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("div", { staticClass: "col-lg-8 col-md-6 col-12" }, [
+      _c("div", { staticClass: "row" }, [
+        _c("div", { staticClass: "col-lg-4 col-md-6 col-12" }, [
+          _c("div", { staticClass: "single-footer links" }, [
+            _c("h4", [_vm._v("Information")]),
+            _vm._v(" "),
+            _c("ul", [
+              _c("li", [_c("a", { attrs: { href: "#" } }, [_vm._v("Faq")])]),
+              _vm._v(" "),
+              _c("li", [
+                _c("a", { attrs: { href: "#" } }, [_vm._v("Contact Us")])
+              ]),
+              _vm._v(" "),
+              _c("li", [
+                _c("a", { attrs: { href: "#" } }, [_vm._v("Affiliate")])
+              ])
+            ])
+          ])
+        ]),
+        _vm._v(" "),
+        _c("div", { staticClass: "col-lg-4 col-md-6 col-12" }, [
+          _c("div", { staticClass: "single-footer links" }, [
+            _c("h4", [_vm._v("Customer Service")]),
+            _vm._v(" "),
+            _c("ul", [
+              _c("li", [
+                _c("a", { attrs: { href: "#" } }, [_vm._v("Payment Methods")])
+              ]),
+              _vm._v(" "),
+              _c("li", [
+                _c("a", { attrs: { href: "#" } }, [_vm._v("Shipping")])
+              ])
+            ])
+          ])
+        ]),
+        _vm._v(" "),
+        _c("div", { staticClass: "col-lg-4 col-md-6 col-12" }, [
+          _c("div", { staticClass: "single-footer social" }, [
+            _c("h4", [_vm._v("Akun")]),
+            _vm._v(" "),
+            _c("ul", [
+              _c("li", [_vm._v("Login")]),
+              _vm._v(" "),
+              _c("li", [_vm._v("Register")])
+            ])
+          ])
+        ])
+      ]),
+      _vm._v(" "),
+      _c("div", { staticClass: "row mt-4" }, [
+        _c("div", { staticClass: "col-lg-8 col-md-6 col-12" }, [
+          _c("div", { staticClass: "single-footer " }, [
+            _c("h4", { staticClass: "mb-4" }, [_vm._v("Nearest Branch")]),
+            _vm._v(" "),
+            _c("div", { staticClass: "row" }, [
+              _c("div", { staticClass: "col-auto" }, [
+                _c("div", { staticClass: "d-flex mb-3" }, [
+                  _c("div", { staticClass: "col-3 p-0" }, [
+                    _c("img", {
+                      staticClass: "brand-img img-fluid rounded",
+                      attrs: { src: "images/icon-jalan/1.jpg", alt: "brand" }
+                    })
+                  ]),
+                  _vm._v(" "),
+                  _c("div", { staticClass: "col-auto" }, [
+                    _c("p", { staticClass: "text-white font-weight-bold" }, [
+                      _vm._v("WARDAH")
+                    ]),
+                    _vm._v(" "),
+                    _c("p", [_vm._v("Kecamatan, Surabaya")])
+                  ])
+                ]),
+                _vm._v(" "),
+                _c("div", { staticClass: "d-flex mb-3" }, [
+                  _c("div", { staticClass: "col-3 p-0" }, [
+                    _c("img", {
+                      staticClass: "brand-img img-fluid rounded",
+                      attrs: { src: "images/icon-jalan/1.jpg", alt: "brand" }
+                    })
+                  ]),
+                  _vm._v(" "),
+                  _c("div", { staticClass: "col-auto" }, [
+                    _c("p", { staticClass: "text-white font-weight-bold" }, [
+                      _vm._v("WARDAH")
+                    ]),
+                    _vm._v(" "),
+                    _c("p", [_vm._v("Kecamatan, Surabaya")])
+                  ])
+                ]),
+                _vm._v(" "),
+                _c("div", { staticClass: "d-flex mb-3" }, [
+                  _c("div", { staticClass: "col-3 p-0" }, [
+                    _c("img", {
+                      staticClass: "brand-img img-fluid rounded",
+                      attrs: { src: "images/icon-jalan/1.jpg", alt: "brand" }
+                    })
+                  ]),
+                  _vm._v(" "),
+                  _c("div", { staticClass: "col-auto" }, [
+                    _c("p", { staticClass: "text-white font-weight-bold" }, [
+                      _vm._v("WARDAH")
+                    ]),
+                    _vm._v(" "),
+                    _c("p", [_vm._v("Kecamatan, Surabaya")])
+                  ])
+                ])
+              ]),
+              _vm._v(" "),
+              _c("div", { staticClass: "col-auto" }, [
+                _c("div", { staticClass: "d-flex mb-3" }, [
+                  _c("div", { staticClass: "col-3 p-0" }, [
+                    _c("img", {
+                      staticClass: "brand-img img-fluid rounded",
+                      attrs: { src: "images/icon-jalan/1.jpg", alt: "brand" }
+                    })
+                  ]),
+                  _vm._v(" "),
+                  _c("div", { staticClass: "col-auto" }, [
+                    _c("p", { staticClass: "text-white font-weight-bold" }, [
+                      _vm._v("WARDAH")
+                    ]),
+                    _vm._v(" "),
+                    _c("p", [_vm._v("Kecamatan, Surabaya")])
+                  ])
+                ]),
+                _vm._v(" "),
+                _c("div", { staticClass: "d-flex mb-3" }, [
+                  _c("div", { staticClass: "col-3 p-0" }, [
+                    _c("img", {
+                      staticClass: "brand-img img-fluid rounded",
+                      attrs: { src: "images/icon-jalan/1.jpg", alt: "brand" }
+                    })
+                  ]),
+                  _vm._v(" "),
+                  _c("div", { staticClass: "col-auto" }, [
+                    _c("p", { staticClass: "text-white font-weight-bold" }, [
+                      _vm._v("WARDAH")
+                    ]),
+                    _vm._v(" "),
+                    _c("p", [_vm._v("Kecamatan, Surabaya")])
+                  ])
+                ]),
+                _vm._v(" "),
+                _c("div", { staticClass: "d-flex mb-3" }, [
+                  _c("div", { staticClass: "col-3 p-0" }, [
+                    _c("img", {
+                      staticClass: "brand-img img-fluid rounded",
+                      attrs: { src: "images/icon-jalan/1.jpg", alt: "brand" }
+                    })
+                  ]),
+                  _vm._v(" "),
+                  _c("div", { staticClass: "col-auto" }, [
+                    _c("p", { staticClass: "text-white font-weight-bold" }, [
+                      _vm._v("WARDAH")
+                    ]),
+                    _vm._v(" "),
+                    _c("p", [_vm._v("Kecamatan, Surabaya")])
+                  ])
+                ])
+              ])
+            ])
+          ])
+        ])
+      ])
+    ])
+  },
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("div", { staticClass: "copyright" }, [
+      _c("div", { staticClass: "container" }, [
+        _c("div", { staticClass: "inner" }, [
+          _c("div", { staticClass: "row" }, [
+            _c("div", { staticClass: "col-lg-6 col-12" }, [
+              _c("div", { staticClass: "left" }, [
+                _c("p", [
+                  _vm._v("Copyright © 2020 "),
+                  _c(
+                    "a",
+                    {
+                      attrs: {
+                        href: "http://www.wpthemesgrid.com",
+                        target: "_blank"
+                      }
+                    },
+                    [_vm._v("Wpthemesgrid")]
+                  ),
+                  _vm._v(" - All Rights Reserved.")
+                ])
+              ])
+            ]),
+            _vm._v(" "),
+            _c("div", { staticClass: "col-lg-6 col-12" }, [
+              _c("div", { staticClass: "right" }, [
+                _c("img", {
+                  attrs: { src: "assets/images/payments.png", alt: "#" }
+                })
+              ])
+            ])
+          ])
+        ])
+      ])
+    ])
+  }
+]
+render._withStripped = true
+
+
+
+/***/ }),
+
+/***/ "./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/vue-loader/lib/index.js??vue-loader-options!./resources/js/views/layouts/Header.vue?vue&type=template&id=201dc39c&scoped=true&":
+/*!*********************************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/vue-loader/lib/index.js??vue-loader-options!./resources/js/views/layouts/Header.vue?vue&type=template&id=201dc39c&scoped=true& ***!
+  \*********************************************************************************************************************************************************************************************************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   "render": () => (/* binding */ render),
+/* harmony export */   "staticRenderFns": () => (/* binding */ staticRenderFns)
+/* harmony export */ });
+var render = function() {
+  var _vm = this
+  var _h = _vm.$createElement
+  var _c = _vm._self._c || _h
+  return _c("header", { staticClass: "header shop" }, [
+    _vm._m(0),
+    _vm._v(" "),
+    _c("div", { staticClass: "middle-inner" }, [
+      _c("div", { staticClass: "container" }, [
+        _c("div", { staticClass: "row" }, [
+          _c("div", { staticClass: "col-lg-2 col-md-2 col-12" }, [
+            _c(
+              "div",
+              { staticClass: "logo" },
+              [
+                _c("router-link", { attrs: { to: "/" } }, [
+                  _c("img", { attrs: { src: "images/logo.png", alt: "logo" } })
+                ])
+              ],
+              1
+            ),
+            _vm._v(" "),
+            _vm._m(1),
+            _vm._v(" "),
+            _c("div", { staticClass: "mobile-nav" })
+          ]),
+          _vm._v(" "),
+          _vm._m(2),
+          _vm._v(" "),
+          _c("div", { staticClass: "col-lg-2 col-md-3 col-12" }, [
+            _c("div", { staticClass: "right-bar" }, [
+              _vm._m(3),
+              _vm._v(" "),
+              _vm._m(4),
+              _vm._v(" "),
+              _c("div", { staticClass: "sinlge-bar shopping" }, [
+                _vm._m(5),
+                _vm._v(" "),
+                _c("div", { staticClass: "shopping-item" }, [
+                  _vm._m(6),
+                  _vm._v(" "),
+                  _vm._m(7),
+                  _vm._v(" "),
+                  _c(
+                    "div",
+                    { staticClass: "bottom" },
+                    [
+                      _vm._m(8),
+                      _vm._v(" "),
+                      _c(
+                        "router-link",
+                        {
+                          staticClass: "btn animate",
+                          attrs: { to: "/checkout" }
+                        },
+                        [_vm._v("Checkout")]
+                      )
+                    ],
+                    1
+                  )
+                ])
+              ])
+            ])
+          ])
+        ])
+      ])
+    ]),
+    _vm._v(" "),
+    _c("div", { staticClass: "header-inner" }, [
+      _c("div", { staticClass: "container" }, [
+        _c("div", { staticClass: "cat-nav-head" }, [
+          _c("div", { staticClass: "row" }, [
+            _c("div", { staticClass: "col-12" }, [
+              _c("div", { staticClass: "menu-area" }, [
+                _c("nav", { staticClass: "navbar navbar-expand-lg" }, [
+                  _c("div", { staticClass: "navbar-collapse" }, [
+                    _c("div", { staticClass: "nav-inner" }, [
+                      _c(
+                        "ul",
+                        { staticClass: "nav main-menu menu navbar-nav" },
+                        [
+                          _vm._m(9),
+                          _vm._v(" "),
+                          _vm._m(10),
+                          _vm._v(" "),
+                          _vm._m(11),
+                          _vm._v(" "),
+                          _c("li", [
+                            _vm._m(12),
+                            _vm._v(" "),
+                            _c("ul", { staticClass: "dropdown" }, [
+                              _c(
+                                "li",
+                                [
+                                  _c(
+                                    "router-link",
+                                    { attrs: { to: "/cart" } },
+                                    [_vm._v("Cart")]
+                                  )
+                                ],
+                                1
+                              ),
+                              _vm._v(" "),
+                              _c(
+                                "li",
+                                [
+                                  _c(
+                                    "router-link",
+                                    { attrs: { to: "/checkout" } },
+                                    [_vm._v("Checkout")]
+                                  )
+                                ],
+                                1
+                              )
+                            ])
+                          ]),
+                          _vm._v(" "),
+                          _vm._m(13),
+                          _vm._v(" "),
+                          _c("li", [
+                            _vm._m(14),
+                            _vm._v(" "),
+                            _c("ul", { staticClass: "dropdown" }, [
+                              _c(
+                                "li",
+                                [
+                                  _c(
+                                    "router-link",
+                                    { attrs: { to: "/blog" } },
+                                    [_vm._v("Blog Single Sidebar")]
+                                  )
+                                ],
+                                1
+                              )
+                            ])
+                          ]),
+                          _vm._v(" "),
+                          _c(
+                            "li",
+                            [
+                              _c("router-link", { attrs: { to: "/contact" } }, [
+                                _vm._v("Contact Us")
+                              ])
+                            ],
+                            1
+                          )
+                        ]
+                      )
+                    ])
+                  ])
+                ])
+              ])
+            ])
+          ])
+        ])
+      ])
+    ])
+  ])
+}
+var staticRenderFns = [
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("div", { staticClass: "topbar" }, [
+      _c("div", { staticClass: "container" }, [
+        _c("div", { staticClass: "row" }, [
+          _c("div", { staticClass: "col-lg-5 col-md-12 col-12" }, [
+            _c("div", { staticClass: "top-left" }, [
+              _c("ul", { staticClass: "list-main" }, [
+                _c("li", [
+                  _c("i", { staticClass: "ti-headphone-alt" }),
+                  _vm._v(" +060 (800) 801-582")
+                ]),
+                _vm._v(" "),
+                _c("li", [
+                  _c("i", { staticClass: "ti-email" }),
+                  _vm._v(" support@shophub.com")
+                ])
+              ])
+            ])
+          ]),
+          _vm._v(" "),
+          _c("div", { staticClass: "col-lg-7 col-md-12 col-12" }, [
+            _c("div", { staticClass: "right-content" }, [
+              _c("ul", { staticClass: "list-main" }, [
+                _c("li", [
+                  _c("i", { staticClass: "ti-location-pin" }),
+                  _vm._v(" Store location")
+                ]),
+                _vm._v(" "),
+                _c("li", [
+                  _c("i", { staticClass: "ti-alarm-clock" }),
+                  _vm._v(" "),
+                  _c("a", { attrs: { href: "#" } }, [_vm._v("Daily deal")])
+                ]),
+                _vm._v(" "),
+                _c("li", [
+                  _c("i", { staticClass: "ti-user" }),
+                  _vm._v(" "),
+                  _c("a", { attrs: { href: "#" } }, [_vm._v("My account")])
+                ]),
+                _vm._v(" "),
+                _c("li", [
+                  _c("i", { staticClass: "ti-power-off" }),
+                  _c("a", { attrs: { href: "login.html#" } }, [_vm._v("Login")])
+                ])
+              ])
+            ])
+          ])
+        ])
+      ])
+    ])
+  },
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("div", { staticClass: "search-top" }, [
+      _c("div", { staticClass: "top-search" }, [
+        _c("a", { attrs: { href: "#0" } }, [
+          _c("i", { staticClass: "ti-search" })
+        ])
+      ]),
+      _vm._v(" "),
+      _c("div", { staticClass: "search-top" }, [
+        _c("form", { staticClass: "search-form" }, [
+          _c("input", {
+            attrs: {
+              type: "text",
+              placeholder: "Search here...",
+              name: "search"
+            }
+          }),
+          _vm._v(" "),
+          _c("button", { attrs: { value: "search", type: "submit" } }, [
+            _c("i", { staticClass: "ti-search" })
+          ])
+        ])
+      ])
+    ])
+  },
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("div", { staticClass: "col-lg-8 col-md-7 col-12" }, [
+      _c("div", { staticClass: "search-bar-top" }, [
+        _c("div", { staticClass: "search-bar" }, [
+          _c("select", [
+            _c("option", { attrs: { selected: "selected" } }, [
+              _vm._v("All Category")
+            ]),
+            _vm._v(" "),
+            _c("option", [_vm._v("watch")]),
+            _vm._v(" "),
+            _c("option", [_vm._v("mobile")]),
+            _vm._v(" "),
+            _c("option", [_vm._v("kid’s item")])
+          ]),
+          _vm._v(" "),
+          _c("form", [
+            _c("input", {
+              attrs: {
+                name: "search",
+                placeholder: "Search Products Here.....",
+                type: "search"
+              }
+            }),
+            _vm._v(" "),
+            _c("button", { staticClass: "btnn" }, [
+              _c("i", { staticClass: "ti-search" })
+            ])
+          ])
+        ])
+      ])
+    ])
+  },
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("div", { staticClass: "sinlge-bar" }, [
+      _c("a", { staticClass: "single-icon", attrs: { href: "#" } }, [
+        _c("i", {
+          staticClass: "fa fa-heart-o",
+          attrs: { "aria-hidden": "true" }
+        })
+      ])
+    ])
+  },
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("div", { staticClass: "sinlge-bar" }, [
+      _c("a", { staticClass: "single-icon", attrs: { href: "#" } }, [
+        _c("i", {
+          staticClass: "fa fa-user-circle-o",
+          attrs: { "aria-hidden": "true" }
+        })
+      ])
+    ])
+  },
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("a", { staticClass: "single-icon", attrs: { href: "#" } }, [
+      _c("i", { staticClass: "ti-bag" }),
+      _vm._v(" "),
+      _c("span", { staticClass: "total-count" }, [_vm._v("2")])
+    ])
+  },
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("div", { staticClass: "dropdown-cart-header" }, [
+      _c("span", [_vm._v("2 Items")]),
+      _vm._v(" "),
+      _c("a", { attrs: { href: "#" } }, [_vm._v("View Cart")])
+    ])
+  },
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("ul", { staticClass: "shopping-list" }, [
+      _c("li", [
+        _c(
+          "a",
+          {
+            staticClass: "remove",
+            attrs: { href: "#", title: "Remove this item" }
+          },
+          [_c("i", { staticClass: "fa fa-remove" })]
+        ),
+        _vm._v(" "),
+        _c("a", { staticClass: "cart-img", attrs: { href: "#" } }, [
+          _c("img", {
+            attrs: { src: "https://via.placeholder.com/70x70", alt: "#" }
+          })
+        ]),
+        _vm._v(" "),
+        _c("h4", [_c("a", { attrs: { href: "#" } }, [_vm._v("Woman Ring")])]),
+        _vm._v(" "),
+        _c("p", { staticClass: "quantity" }, [
+          _vm._v("1x - "),
+          _c("span", { staticClass: "amount" }, [_vm._v("$99.00")])
+        ])
+      ]),
+      _vm._v(" "),
+      _c("li", [
+        _c(
+          "a",
+          {
+            staticClass: "remove",
+            attrs: { href: "#", title: "Remove this item" }
+          },
+          [_c("i", { staticClass: "fa fa-remove" })]
+        ),
+        _vm._v(" "),
+        _c("a", { staticClass: "cart-img", attrs: { href: "#" } }, [
+          _c("img", {
+            attrs: { src: "https://via.placeholder.com/70x70", alt: "#" }
+          })
+        ]),
+        _vm._v(" "),
+        _c("h4", [
+          _c("a", { attrs: { href: "#" } }, [_vm._v("Woman Necklace")])
+        ]),
+        _vm._v(" "),
+        _c("p", { staticClass: "quantity" }, [
+          _vm._v("1x - "),
+          _c("span", { staticClass: "amount" }, [_vm._v("$35.00")])
+        ])
+      ])
+    ])
+  },
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("div", { staticClass: "total" }, [
+      _c("span", [_vm._v("Total")]),
+      _vm._v(" "),
+      _c("span", { staticClass: "total-amount" }, [_vm._v("$134.00")])
+    ])
+  },
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("li", { staticClass: "active" }, [
+      _c("a", { attrs: { href: "#" } }, [_vm._v("Home")])
+    ])
+  },
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("li", [_c("a", { attrs: { href: "#" } }, [_vm._v("Product")])])
+  },
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
     return _c("li", [_c("a", { attrs: { href: "#" } }, [_vm._v("Service")])])
   },
   function() {
@@ -53815,27 +60033,9 @@ var staticRenderFns = [
     var _vm = this
     var _h = _vm.$createElement
     var _c = _vm._self._c || _h
-    return _c("li", [
-      _c("a", { attrs: { href: "#" } }, [
-        _vm._v("Blog"),
-        _c("i", { staticClass: "ti-angle-down" })
-      ]),
-      _vm._v(" "),
-      _c("ul", { staticClass: "dropdown" }, [
-        _c("li", [
-          _c("a", { attrs: { href: "blog-single-sidebar.html" } }, [
-            _vm._v("Blog Single Sidebar")
-          ])
-        ])
-      ])
-    ])
-  },
-  function() {
-    var _vm = this
-    var _h = _vm.$createElement
-    var _c = _vm._self._c || _h
-    return _c("li", [
-      _c("a", { attrs: { href: "contact.html" } }, [_vm._v("Contact Us")])
+    return _c("a", { attrs: { href: "#" } }, [
+      _vm._v("Blog"),
+      _c("i", { staticClass: "ti-angle-down" })
     ])
   }
 ]

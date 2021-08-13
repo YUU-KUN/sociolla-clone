@@ -21,6 +21,7 @@ Route::middleware('auth:api')->get('/user', function (Request $request) {
     return $request->user();
 });
 
+Route::get('timeBomb', [UserController::class, 'timeBomb']);
 
 // AUTH 
 Route::get('profile', [UserController::class, 'getAuthenticatedUser']);

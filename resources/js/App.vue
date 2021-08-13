@@ -18,6 +18,7 @@
             <router-link to="/product">Product</router-link> |
             <router-link to="/dashboard">Dashboard</router-link>
         </div> -->
+        <router-view name="DashboardHeader"/>
         <router-view name="Header"/>
         <router-view name="Slider"/>
         <router-view name="StartSmallBanner"/>

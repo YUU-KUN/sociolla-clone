@@ -15,6 +15,13 @@ import axios from 'axios';
 import { routes } from './routes';
 
 // CSS
+
+
+import '../../public/assets/css/bootstrap.css'
+import '../../public/assets/css/reset.css'
+import '../../public/assets/css/style.css'
+import '../../public/assets/css/responsive.css'
+
 import '../../public/assets/css/magnific-popup.min.css'
 import '../../public/assets/css/font-awesome.css'
 import '../../public/assets/css/jquery.fancybox.min.css'
@@ -25,11 +32,6 @@ import '../../public/assets/css/owl-carousel.css'
 
 import '../../public/assets/css/niceselect.css'
 import '../../public/assets/css/slicknav.min.css'
-
-import '../../public/assets/css/responsive.css'
-import '../../public/assets/css/bootstrap.css'
-import '../../public/assets/css/reset.css'
-import '../../public/assets/css/style.css'
 
 Vue.component('example-component', require('./components/ExampleComponent.vue').default);
 Vue.use(VueRouter)

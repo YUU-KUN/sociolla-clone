@@ -4,11 +4,12 @@ namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
 use App\Models\User;
+use App\Models\Cart;
 use Hash;
 use Auth;
 use JWTAuth;
 use JWTException;
-    
+use Carbon\Carbon;
 
 class UserController extends Controller
 {
@@ -97,5 +98,17 @@ class UserController extends Controller
     // {
     //     $user = JWTAuth::parseToken()->authenticate();
     //     return $user;
+    // }
+
+    // public function timeBomb()
+    // {
+    //     config(['app.locale' => 'id']);
+    //     if (Carbon::now('Asia/Jakarta')->format('H:i:s') >= '20:00:00') {
+    //         Cart::truncate();
+    //         return response()->json([
+    //             'mesage' => 'Data keranjang berhasil dihapus. Have a nice day.',
+    //             'cart' => Cart::all()
+    //         ]);
+    //     }
     // }
 }
