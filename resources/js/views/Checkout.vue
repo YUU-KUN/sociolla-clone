@@ -309,7 +309,7 @@
 									<div class="col-lg-6 col-md-6 col-12">
 										<div class="form-group">
 											<label>State / Divition<span>*</span></label>
-											<select class="form-control" name="state-province" id="state-province">
+											<select name="state-province" id="state-province">
 												<option value="divition" selected="selected">New Yourk</option>
 												<option>Los Angeles</option>
 												<option>Chicago</option>
