@@ -65,11 +65,13 @@
 							</div>
 							<div class="col-lg-4 col-md-6 col-12">
 								<div class="single-footer social">
-									<h4>Akun</h4>
-									<ul>
-										<li>Login</li>
-										<li>Register</li>
-									</ul>
+									<h4>Account</h4>
+									<div class="contact">
+										<ul>
+											<li>Login</li>
+											<li>Register</li>
+										</ul>
+									</div>
 								</div>
 							</div>
 						</div>
