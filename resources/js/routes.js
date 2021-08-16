@@ -64,8 +64,8 @@ export const routes = [
     {
       path: '/product',
       name: 'Product',
-      // component: Product
-      component: ProductComponent
+      components: {default: Product, Header, Footer}
+      // component: ProductComponent
     },
     {
       path: '/vue',

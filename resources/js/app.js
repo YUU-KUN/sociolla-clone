@@ -15,8 +15,6 @@ import axios from 'axios';
 import { routes } from './routes';
 
 // CSS
-
-
 import '../../public/assets/css/bootstrap.css'
 import '../../public/assets/css/reset.css'
 import '../../public/assets/css/style.css'
