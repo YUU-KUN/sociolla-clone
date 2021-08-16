@@ -132,25 +132,27 @@
 									<div class="navbar-collapse">	
 										<div class="nav-inner">	
 											<ul class="nav main-menu menu navbar-nav">
-												<li class="active"><a href="#">Home</a></li>
-												<li><a href="#">Product</a></li>												
-												<li><a href="#">Service</a></li>
+												<li class="active"><router-link to="/">Home</router-link></li>
+												<li><router-link to="/product">Product</router-link></li>
+												<li><a href="#">Service<i class="ti-angle-down"></i></a>
+													<ul class="dropdown">
+														<li><router-link to="/contact">Contact Us</router-link></li>
+													</ul>
+												</li>
 												<li><a href="#">Shop<i class="ti-angle-down"></i><span class="new">New</span></a>
 													<ul class="dropdown">
 														<li><router-link to="/cart">Cart</router-link></li>
 														<li><router-link to="/checkout">Checkout</router-link></li>
-														<!-- <li><a href="cart.html">Cart</a></li>
-														<li><a href="checkout.html">Checkout</a></li> -->
 													</ul>
 												</li>
-												<li><a href="#">Pages</a></li>									
+												<!-- <li><a href="#">Pages</a></li> -->
 												<li><a href="#">Blog<i class="ti-angle-down"></i></a>
 													<ul class="dropdown">
 														<li><router-link to="/blog">Blog Single Sidebar</router-link></li>
 														<!-- <li><a href="blog-single-sidebar.html">Blog Single Sidebar</a></li> -->
 													</ul>
 												</li>
-												<li><router-link to="/contact">Contact Us</router-link></li>
+												<!-- <li><router-link to="/contact">Contact Us</router-link></li> -->
 												<!-- <li><a href="contact.html">Contact Us</a></li> -->
 											</ul>
 										</div>

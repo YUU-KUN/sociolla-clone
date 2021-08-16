@@ -127,13 +127,66 @@
 				<div class="cat-nav-head">
 					<div class="row">
 						<div class="col-lg-3">
-							<div class="all-category">
-								<h3 class="cat-heading"><i class="fa fa-bars" aria-hidden="true"></i>CATEGORIES</h3>
-								<ul class="main-category">
-									<li><a href="#">New Arrivals <i class="fa fa-angle-right" aria-hidden="true"></i></a>
-										<ul class="sub-category">
+							<div class="header">
+								<div class="shop">
+
+									<div class="all-category">
+										<h3 class="cat-heading"><i class="fa fa-bars" aria-hidden="true"></i>CATEGORIES</h3>
+										<ul class="main-category">
+											<li><a href="#">New Arrivals <i class="fa fa-angle-right" aria-hidden="true"></i></a>
+												<ul class="sub-category">
+													<li><a href="#">accessories</a></li>
+													<li><a href="#">best selling</a></li>
+													<li><a href="#">top 100 offer</a></li>
+													<li><a href="#">sunglass</a></li>
+													<li><a href="#">watch</a></li>
+													<li><a href="#">man’s product</a></li>
+													<li><a href="#">ladies</a></li>
+													<li><a href="#">westrn dress</a></li>
+													<li><a href="#">denim </a></li>
+												</ul>
+											</li>
+											<li class="main-mega"><a href="#">best selling <i class="fa fa-angle-right" aria-hidden="true"></i></a>
+												<ul class="mega-menu">
+													<li class="single-menu">
+														<a href="#" class="title-link">Shop Kid's</a>
+														<div class="image">
+															<img src="images/225/1.jpg" alt="#">
+														</div>
+														<div class="inner-link">
+															<a href="#">Kids Toys</a>
+															<a href="#">Kids Travel Car</a>
+															<a href="#">Kids Color Shape</a>
+															<a href="#">Kids Tent</a>
+														</div>
+													</li>
+													<li class="single-menu">
+														<a href="#" class="title-link">Shop Men's</a>
+														<div class="image">
+															<img src="images/225/2.jpg" alt="#">
+														</div>
+														<div class="inner-link">
+															<a href="#">Watch</a>
+															<a href="#">T-shirt</a>
+															<a href="#">Hoodies</a>
+															<a href="#">Formal Pant</a>
+														</div>
+													</li>
+													<li class="single-menu">
+														<a href="#" class="title-link">Shop Women's</a>
+														<div class="image">
+															<img src="images/225/3.jpg" alt="#">
+														</div>
+														<div class="inner-link">
+															<a href="#">Ladies Shirt</a>
+															<a href="#">Ladies Frog</a>
+															<a href="#">Ladies Sun Glass</a>
+															<a href="#">Ladies Watch</a>
+														</div>
+													</li>
+												</ul>
+											</li>
 											<li><a href="#">accessories</a></li>
-											<li><a href="#">best selling</a></li>
 											<li><a href="#">top 100 offer</a></li>
 											<li><a href="#">sunglass</a></li>
 											<li><a href="#">watch</a></li>
@@ -142,56 +195,8 @@
 											<li><a href="#">westrn dress</a></li>
 											<li><a href="#">denim </a></li>
 										</ul>
-									</li>
-									<li class="main-mega"><a href="#">best selling <i class="fa fa-angle-right" aria-hidden="true"></i></a>
-										<ul class="mega-menu">
-											<li class="single-menu">
-												<a href="#" class="title-link">Shop Kid's</a>
-												<div class="image">
-													<img src="images/225/1.jpg" alt="#">
-												</div>
-												<div class="inner-link">
-													<a href="#">Kids Toys</a>
-													<a href="#">Kids Travel Car</a>
-													<a href="#">Kids Color Shape</a>
-													<a href="#">Kids Tent</a>
-												</div>
-											</li>
-											<li class="single-menu">
-												<a href="#" class="title-link">Shop Men's</a>
-												<div class="image">
-													<img src="images/225/2.jpg" alt="#">
-												</div>
-												<div class="inner-link">
-													<a href="#">Watch</a>
-													<a href="#">T-shirt</a>
-													<a href="#">Hoodies</a>
-													<a href="#">Formal Pant</a>
-												</div>
-											</li>
-											<li class="single-menu">
-												<a href="#" class="title-link">Shop Women's</a>
-												<div class="image">
-													<img src="images/225/3.jpg" alt="#">
-												</div>
-												<div class="inner-link">
-													<a href="#">Ladies Shirt</a>
-													<a href="#">Ladies Frog</a>
-													<a href="#">Ladies Sun Glass</a>
-													<a href="#">Ladies Watch</a>
-												</div>
-											</li>
-										</ul>
-									</li>
-									<li><a href="#">accessories</a></li>
-									<li><a href="#">top 100 offer</a></li>
-									<li><a href="#">sunglass</a></li>
-									<li><a href="#">watch</a></li>
-									<li><a href="#">man’s product</a></li>
-									<li><a href="#">ladies</a></li>
-									<li><a href="#">westrn dress</a></li>
-									<li><a href="#">denim </a></li>
-								</ul>
+									</div>
+								</div>
 							</div>
 						</div>
 						<div class="col-lg-9 col-12">
@@ -201,9 +206,8 @@
 									<div class="navbar-collapse">	
 										<div class="nav-inner">	
 											<ul class="nav main-menu menu navbar-nav">
-													<li class="active"><a href="#">Home</a></li>
-													<li><a href="#">Product</a></li>												
-													<!-- <li><a href="#">Service</a></li> -->
+													<li class="active"><router-link to="/">Home</router-link></li>
+													<li><router-link to="/product">Product</router-link></li>
 													<li><a href="#">Service<i class="ti-angle-down"></i></a>
 														<ul class="dropdown">
 															<li><router-link to="/contact">Contact Us</router-link></li>
@@ -211,13 +215,11 @@
 													</li>
 													<li><a href="#">Shop<i class="ti-angle-down"></i><span class="new">New</span></a>
 														<ul class="dropdown">
-															<!-- <li><a href="cart.html">Cart</a></li> -->
-															<!-- <li><a href="checkout.html">Checkout</a></li> -->
 															<li><router-link to="/cart">Cart</router-link></li>
 															<li><router-link to="/checkout">Checkout</router-link></li>
 														</ul>
 													</li>
-													<li><a href="#">Pages</a></li>									
+													<!-- <li><a href="#">Pages</a></li>									 -->
 													<li><a href="#">Blog<i class="ti-angle-down"></i></a>
 														<ul class="dropdown">
 															<li><router-link to="/blog">Blog Single Sidebar</router-link></li>
