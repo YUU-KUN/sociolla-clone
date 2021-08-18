@@ -77,23 +77,23 @@
 									<i class="fa fa-phone"></i>
 									<h4 class="title">Call us Now:</h4>
 									<ul>
-										<li>+123 456-789-1120</li>
-										<li>+522 672-452-1120</li>
+										<li>031-99754722</li>
+										<li>+62 821-4183-3945</li>
 									</ul>
 								</div>
 								<div class="single-info">
 									<i class="fa fa-envelope-open"></i>
 									<h4 class="title">Email:</h4>
 									<ul>
-										<li><a href="mailto:info@yourwebsite.com">info@yourwebsite.com</a></li>
-										<li><a href="mailto:info@yourwebsite.com">support@yourwebsite.com</a></li>
+										<li><a href="mailto:info@ab2.co.id">info@ab2.co.id</a></li>
+										<li><a href="mailto:cs@ab2.co.id">cs@ab2.co.id</a></li>
 									</ul>
 								</div>
 								<div class="single-info">
 									<i class="fa fa-location-arrow"></i>
 									<h4 class="title">Our Address:</h4>
 									<ul>
-										<li>KA-62/1, Travel Agency, 45 Grand Central Terminal, New York.</li>
+										<li>Soho Harvest One no. 3, Perumahan Grand Harvest, Surabaya, East Java.</li>
 									</ul>
 								</div>
 							</div>
