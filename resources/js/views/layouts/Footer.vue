@@ -8,7 +8,7 @@
 						<!-- Single Widget -->
 						<div class="single-footer about">
 							<div class="logo">
-								<router-link to="/"><img src="assets/images/logo2.png" alt="#"></router-link>
+								<router-link to="/"><img src="images/logo/1.jpg" alt="#"></router-link>
 								<!-- <a href="index.html"><img src="images/logo2.png" alt="#"></a> -->
 							</div>
 							<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3957.2205569514417!2d112.69274392835857!3d-7.329107746573339!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2dd7fdbf605ffd45%3A0x3539f29c220a23cb!2sGrand%20Harvest%2C%20Cluster%20Caspia%2C%20CD%2020!5e0!3m2!1sid!2sid!4v1628826753717!5m2!1sid!2sid" width="350" height="175" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
@@ -20,10 +20,10 @@
 							<!-- Single Widget -->
 							<div class="contact">
 								<ul>
-									<li>NO. 342 - London Oxford Street.</li>
-									<li>012 United Kingdom.</li>
-									<li>info@eshop.com</li>
-									<li>+032 3456 7890</li>
+									<li>Soho Harvest One no. 3, Perumahan Grand Harvest</li>
+									<li>info@ab2.co.id | cs@ab2.co.id</li>
+									<li><b>Telp:</b> 031-99754722</li>
+									<li><b>WhatsApp:</b> +6282141833945</li>
 								</ul>
 							</div>
 							<!-- End Single Widget -->
