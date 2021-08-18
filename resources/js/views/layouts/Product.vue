@@ -57,10 +57,10 @@
 										<div class="col-xl-3 col-lg-4 col-md-4 col-12">
 											<div class="single-product">
 												<div class="product-img">
-													<a href="product-details.html">
-														<img class="default-img" src="https://via.placeholder.com/550x750" alt="#">
-														<img class="hover-img" src="https://via.placeholder.com/550x750" alt="#">
-													</a>
+													<router-link to="/product-detail">
+														<img class="default-img" src="images/550/1.jpg" alt="#">
+														<img class="hover-img" src="images/550/1.jpg" alt="#">
+													</router-link>
 													<div class="button-head">
 														<div class="product-action">
 															<a data-toggle="modal" data-target="#exampleModal" title="Quick View" href="#"><i class=" ti-eye"></i><span>Quick Shop</span></a>
@@ -84,8 +84,8 @@
 											<div class="single-product">
 												<div class="product-img">
 													<a href="product-details.html">
-														<img class="default-img" src="https://via.placeholder.com/550x750" alt="#">
-														<img class="hover-img" src="https://via.placeholder.com/550x750" alt="#">
+														<img class="default-img" src="images/550/2.jpg" alt="#">
+														<img class="hover-img" src="images/550/2.jpg" alt="#">
 													</a>
 													<div class="button-head">
 														<div class="product-action">
@@ -110,8 +110,8 @@
 											<div class="single-product">
 												<div class="product-img">
 													<a href="product-details.html">
-														<img class="default-img" src="https://via.placeholder.com/550x750" alt="#">
-														<img class="hover-img" src="https://via.placeholder.com/550x750" alt="#">
+														<img class="default-img" src="images/550/3.jpg" alt="#">
+														<img class="hover-img" src="images/550/3.jpg" alt="#">
 													</a>
 													<div class="button-head">
 														<div class="product-action">
@@ -136,8 +136,8 @@
 											<div class="single-product">
 												<div class="product-img">
 													<a href="product-details.html">
-														<img class="default-img" src="https://via.placeholder.com/550x750" alt="#">
-														<img class="hover-img" src="https://via.placeholder.com/550x750" alt="#">
+														<img class="default-img" src="images/550/4.jpg" alt="#">
+														<img class="hover-img" src="images/550/4.jpg" alt="#">
 														<span class="new">New</span>
 													</a>
 													<div class="button-head">
@@ -163,8 +163,8 @@
 											<div class="single-product">
 												<div class="product-img">
 													<a href="product-details.html">
-														<img class="default-img" src="https://via.placeholder.com/550x750" alt="#">
-														<img class="hover-img" src="https://via.placeholder.com/550x750" alt="#">
+														<img class="default-img" src="images/550/5.jpg" alt="#">
+														<img class="hover-img" src="images/550/5.jpg" alt="#">
 													</a>
 													<div class="button-head">
 														<div class="product-action">
@@ -189,8 +189,8 @@
 											<div class="single-product">
 												<div class="product-img">
 													<a href="product-details.html">
-														<img class="default-img" src="https://via.placeholder.com/550x750" alt="#">
-														<img class="hover-img" src="https://via.placeholder.com/550x750" alt="#">
+														<img class="default-img" src="images/550/6.jpg" alt="#">
+														<img class="hover-img" src="images/550/6.jpg" alt="#">
 														<span class="price-dec">30% Off</span>
 													</a>
 													<div class="button-head">
@@ -216,8 +216,8 @@
 											<div class="single-product">
 												<div class="product-img">
 													<a href="product-details.html">
-														<img class="default-img" src="https://via.placeholder.com/550x750" alt="#">
-														<img class="hover-img" src="https://via.placeholder.com/550x750" alt="#">
+														<img class="default-img" src="images/550/7.jpg" alt="#">
+														<img class="hover-img" src="images/550/7.jpg" alt="#">
 													</a>
 													<div class="button-head">
 														<div class="product-action">
@@ -242,8 +242,8 @@
 											<div class="single-product">
 												<div class="product-img">
 													<a href="product-details.html">
-														<img class="default-img" src="https://via.placeholder.com/550x750" alt="#">
-														<img class="hover-img" src="https://via.placeholder.com/550x750" alt="#">
+														<img class="default-img" src="images/550/8.jpg" alt="#">
+														<img class="hover-img" src="images/550/8.jpg" alt="#">
 														<span class="out-of-stock">Hot</span>
 													</a>
 													<div class="button-head">
@@ -278,8 +278,8 @@
 											<div class="single-product">
 												<div class="product-img">
 													<a href="product-details.html">
-														<img class="default-img" src="https://via.placeholder.com/550x750" alt="#">
-														<img class="hover-img" src="https://via.placeholder.com/550x750" alt="#">
+														<img class="default-img" src="images/550/9.jpg" alt="#">
+														<img class="hover-img" src="images/550/9.jpg" alt="#">
 													</a>
 													<div class="button-head">
 														<div class="product-action">
@@ -304,8 +304,8 @@
 											<div class="single-product">
 												<div class="product-img">
 													<a href="product-details.html">
-														<img class="default-img" src="https://via.placeholder.com/550x750" alt="#">
-														<img class="hover-img" src="https://via.placeholder.com/550x750" alt="#">
+														<img class="default-img" src="images/550/10.jpg" alt="#">
+														<img class="hover-img" src="images/550/10.jpg" alt="#">
 													</a>
 													<div class="button-head">
 														<div class="product-action">
@@ -330,8 +330,8 @@
 											<div class="single-product">
 												<div class="product-img">
 													<a href="product-details.html">
-														<img class="default-img" src="https://via.placeholder.com/550x750" alt="#">
-														<img class="hover-img" src="https://via.placeholder.com/550x750" alt="#">
+														<img class="default-img" src="images/550/11.jpg" alt="#">
+														<img class="hover-img" src="images/550/11.jpg" alt="#">
 													</a>
 													<div class="button-head">
 														<div class="product-action">
@@ -356,8 +356,8 @@
 											<div class="single-product">
 												<div class="product-img">
 													<a href="product-details.html">
-														<img class="default-img" src="https://via.placeholder.com/550x750" alt="#">
-														<img class="hover-img" src="https://via.placeholder.com/550x750" alt="#">
+														<img class="default-img" src="images/550/12.jpg" alt="#">
+														<img class="hover-img" src="images/550/12.jpg" alt="#">
 														<span class="new">New</span>
 													</a>
 													<div class="button-head">
@@ -383,8 +383,8 @@
 											<div class="single-product">
 												<div class="product-img">
 													<a href="product-details.html">
-														<img class="default-img" src="https://via.placeholder.com/550x750" alt="#">
-														<img class="hover-img" src="https://via.placeholder.com/550x750" alt="#">
+														<img class="default-img" src="images/550/13.jpg" alt="#">
+														<img class="hover-img" src="images/550/13.jpg" alt="#">
 													</a>
 													<div class="button-head">
 														<div class="product-action">
@@ -409,8 +409,8 @@
 											<div class="single-product">
 												<div class="product-img">
 													<a href="product-details.html">
-														<img class="default-img" src="https://via.placeholder.com/550x750" alt="#">
-														<img class="hover-img" src="https://via.placeholder.com/550x750" alt="#">
+														<img class="default-img" src="images/550/14.jpg" alt="#">
+														<img class="hover-img" src="images/550/14.jpg" alt="#">
 														<span class="price-dec">30% Off</span>
 													</a>
 													<div class="button-head">
@@ -436,8 +436,8 @@
 											<div class="single-product">
 												<div class="product-img">
 													<a href="product-details.html">
-														<img class="default-img" src="https://via.placeholder.com/550x750" alt="#">
-														<img class="hover-img" src="https://via.placeholder.com/550x750" alt="#">
+														<img class="default-img" src="images/550/15.jpg" alt="#">
+														<img class="hover-img" src="images/550/15.jpg" alt="#">
 													</a>
 													<div class="button-head">
 														<div class="product-action">
@@ -462,8 +462,8 @@
 											<div class="single-product">
 												<div class="product-img">
 													<a href="product-details.html">
-														<img class="default-img" src="https://via.placeholder.com/550x750" alt="#">
-														<img class="hover-img" src="https://via.placeholder.com/550x750" alt="#">
+														<img class="default-img" src="images/550/16.jpg" alt="#">
+														<img class="hover-img" src="images/550/16.jpg" alt="#">
 														<span class="out-of-stock">Hot</span>
 													</a>
 													<div class="button-head">
@@ -498,8 +498,8 @@
 											<div class="single-product">
 												<div class="product-img">
 													<a href="product-details.html">
-														<img class="default-img" src="https://via.placeholder.com/550x750" alt="#">
-														<img class="hover-img" src="https://via.placeholder.com/550x750" alt="#">
+														<img class="default-img" src="images/550/17.jpg" alt="#">
+														<img class="hover-img" src="images/550/17.jpg" alt="#">
 													</a>
 													<div class="button-head">
 														<div class="product-action">
@@ -524,8 +524,8 @@
 											<div class="single-product">
 												<div class="product-img">
 													<a href="product-details.html">
-														<img class="default-img" src="https://via.placeholder.com/550x750" alt="#">
-														<img class="hover-img" src="https://via.placeholder.com/550x750" alt="#">
+														<img class="default-img" src="images/550/18.jpg" alt="#">
+														<img class="hover-img" src="images/550/18.jpg" alt="#">
 													</a>
 													<div class="button-head">
 														<div class="product-action">
@@ -550,8 +550,8 @@
 											<div class="single-product">
 												<div class="product-img">
 													<a href="product-details.html">
-														<img class="default-img" src="https://via.placeholder.com/550x750" alt="#">
-														<img class="hover-img" src="https://via.placeholder.com/550x750" alt="#">
+														<img class="default-img" src="images/550/19.jpg" alt="#">
+														<img class="hover-img" src="images/550/19.jpg" alt="#">
 													</a>
 													<div class="button-head">
 														<div class="product-action">
@@ -576,8 +576,8 @@
 											<div class="single-product">
 												<div class="product-img">
 													<a href="product-details.html">
-														<img class="default-img" src="https://via.placeholder.com/550x750" alt="#">
-														<img class="hover-img" src="https://via.placeholder.com/550x750" alt="#">
+														<img class="default-img" src="images/550/20.jpg" alt="#">
+														<img class="hover-img" src="images/550/20.jpg" alt="#">
 														<span class="new">New</span>
 													</a>
 													<div class="button-head">
@@ -603,8 +603,8 @@
 											<div class="single-product">
 												<div class="product-img">
 													<a href="product-details.html">
-														<img class="default-img" src="https://via.placeholder.com/550x750" alt="#">
-														<img class="hover-img" src="https://via.placeholder.com/550x750" alt="#">
+														<img class="default-img" src="images/550/21.jpg" alt="#">
+														<img class="hover-img" src="images/550/21.jpg" alt="#">
 													</a>
 													<div class="button-head">
 														<div class="product-action">
@@ -629,8 +629,8 @@
 											<div class="single-product">
 												<div class="product-img">
 													<a href="product-details.html">
-														<img class="default-img" src="https://via.placeholder.com/550x750" alt="#">
-														<img class="hover-img" src="https://via.placeholder.com/550x750" alt="#">
+														<img class="default-img" src="images/550/22.jpg" alt="#">
+														<img class="hover-img" src="images/550/22.jpg" alt="#">
 														<span class="price-dec">30% Off</span>
 													</a>
 													<div class="button-head">
@@ -656,8 +656,8 @@
 											<div class="single-product">
 												<div class="product-img">
 													<a href="product-details.html">
-														<img class="default-img" src="https://via.placeholder.com/550x750" alt="#">
-														<img class="hover-img" src="https://via.placeholder.com/550x750" alt="#">
+														<img class="default-img" src="images/550/23.jpg" alt="#">
+														<img class="hover-img" src="images/550/23.jpg" alt="#">
 													</a>
 													<div class="button-head">
 														<div class="product-action">
@@ -682,8 +682,8 @@
 											<div class="single-product">
 												<div class="product-img">
 													<a href="product-details.html">
-														<img class="default-img" src="https://via.placeholder.com/550x750" alt="#">
-														<img class="hover-img" src="https://via.placeholder.com/550x750" alt="#">
+														<img class="default-img" src="images/550/24.jpg" alt="#">
+														<img class="hover-img" src="images/550/24.jpg" alt="#">
 														<span class="out-of-stock">Hot</span>
 													</a>
 													<div class="button-head">
@@ -718,8 +718,8 @@
 											<div class="single-product">
 												<div class="product-img">
 													<a href="product-details.html">
-														<img class="default-img" src="https://via.placeholder.com/550x750" alt="#">
-														<img class="hover-img" src="https://via.placeholder.com/550x750" alt="#">
+														<img class="default-img" src="images/550/25.jpg" alt="#">
+														<img class="hover-img" src="images/550/25.jpg" alt="#">
 													</a>
 													<div class="button-head">
 														<div class="product-action">
@@ -744,8 +744,8 @@
 											<div class="single-product">
 												<div class="product-img">
 													<a href="product-details.html">
-														<img class="default-img" src="https://via.placeholder.com/550x750" alt="#">
-														<img class="hover-img" src="https://via.placeholder.com/550x750" alt="#">
+														<img class="default-img" src="images/550/26.jpg" alt="#">
+														<img class="hover-img" src="images/550/26.jpg" alt="#">
 													</a>
 													<div class="button-head">
 														<div class="product-action">
@@ -770,8 +770,8 @@
 											<div class="single-product">
 												<div class="product-img">
 													<a href="product-details.html">
-														<img class="default-img" src="https://via.placeholder.com/550x750" alt="#">
-														<img class="hover-img" src="https://via.placeholder.com/550x750" alt="#">
+														<img class="default-img" src="images/550/27.jpg" alt="#">
+														<img class="hover-img" src="images/550/27.jpg" alt="#">
 													</a>
 													<div class="button-head">
 														<div class="product-action">
@@ -796,8 +796,8 @@
 											<div class="single-product">
 												<div class="product-img">
 													<a href="product-details.html">
-														<img class="default-img" src="https://via.placeholder.com/550x750" alt="#">
-														<img class="hover-img" src="https://via.placeholder.com/550x750" alt="#">
+														<img class="default-img" src="images/550/28.jpg" alt="#">
+														<img class="hover-img" src="images/550/28.jpg" alt="#">
 														<span class="new">New</span>
 													</a>
 													<div class="button-head">
@@ -823,8 +823,8 @@
 											<div class="single-product">
 												<div class="product-img">
 													<a href="product-details.html">
-														<img class="default-img" src="https://via.placeholder.com/550x750" alt="#">
-														<img class="hover-img" src="https://via.placeholder.com/550x750" alt="#">
+														<img class="default-img" src="images/550/29.jpg" alt="#">
+														<img class="hover-img" src="images/550/29.jpg" alt="#">
 													</a>
 													<div class="button-head">
 														<div class="product-action">
@@ -849,8 +849,8 @@
 											<div class="single-product">
 												<div class="product-img">
 													<a href="product-details.html">
-														<img class="default-img" src="https://via.placeholder.com/550x750" alt="#">
-														<img class="hover-img" src="https://via.placeholder.com/550x750" alt="#">
+														<img class="default-img" src="images/550/30.jpg" alt="#">
+														<img class="hover-img" src="images/550/30.jpg" alt="#">
 														<span class="price-dec">30% Off</span>
 													</a>
 													<div class="button-head">
@@ -876,8 +876,8 @@
 											<div class="single-product">
 												<div class="product-img">
 													<a href="product-details.html">
-														<img class="default-img" src="https://via.placeholder.com/550x750" alt="#">
-														<img class="hover-img" src="https://via.placeholder.com/550x750" alt="#">
+														<img class="default-img" src="images/550/31.jpg" alt="#">
+														<img class="hover-img" src="images/550/31.jpg" alt="#">
 													</a>
 													<div class="button-head">
 														<div class="product-action">
@@ -902,8 +902,8 @@
 											<div class="single-product">
 												<div class="product-img">
 													<a href="product-details.html">
-														<img class="default-img" src="https://via.placeholder.com/550x750" alt="#">
-														<img class="hover-img" src="https://via.placeholder.com/550x750" alt="#">
+														<img class="default-img" src="images/550/32.jpg" alt="#">
+														<img class="hover-img" src="images/550/32.jpg" alt="#">
 														<span class="out-of-stock">Hot</span>
 													</a>
 													<div class="button-head">
@@ -938,8 +938,8 @@
 											<div class="single-product">
 												<div class="product-img">
 													<a href="product-details.html">
-														<img class="default-img" src="https://via.placeholder.com/550x750" alt="#">
-														<img class="hover-img" src="https://via.placeholder.com/550x750" alt="#">
+														<img class="default-img" src="images/550/33.jpg" alt="#">
+														<img class="hover-img" src="images/550/33.jpg" alt="#">
 													</a>
 													<div class="button-head">
 														<div class="product-action">
@@ -964,8 +964,8 @@
 											<div class="single-product">
 												<div class="product-img">
 													<a href="product-details.html">
-														<img class="default-img" src="https://via.placeholder.com/550x750" alt="#">
-														<img class="hover-img" src="https://via.placeholder.com/550x750" alt="#">
+														<img class="default-img" src="images/550/34.jpg" alt="#">
+														<img class="hover-img" src="images/550/34.jpg" alt="#">
 													</a>
 													<div class="button-head">
 														<div class="product-action">
@@ -990,8 +990,8 @@
 											<div class="single-product">
 												<div class="product-img">
 													<a href="product-details.html">
-														<img class="default-img" src="https://via.placeholder.com/550x750" alt="#">
-														<img class="hover-img" src="https://via.placeholder.com/550x750" alt="#">
+														<img class="default-img" src="images/550/35.jpg" alt="#">
+														<img class="hover-img" src="images/550/35.jpg" alt="#">
 													</a>
 													<div class="button-head">
 														<div class="product-action">
@@ -1016,8 +1016,8 @@
 											<div class="single-product">
 												<div class="product-img">
 													<a href="product-details.html">
-														<img class="default-img" src="https://via.placeholder.com/550x750" alt="#">
-														<img class="hover-img" src="https://via.placeholder.com/550x750" alt="#">
+														<img class="default-img" src="images/550/36.jpg" alt="#">
+														<img class="hover-img" src="images/550/36.jpg" alt="#">
 														<span class="new">New</span>
 													</a>
 													<div class="button-head">
@@ -1043,8 +1043,8 @@
 											<div class="single-product">
 												<div class="product-img">
 													<a href="product-details.html">
-														<img class="default-img" src="https://via.placeholder.com/550x750" alt="#">
-														<img class="hover-img" src="https://via.placeholder.com/550x750" alt="#">
+														<img class="default-img" src="images/550/37.jpg" alt="#">
+														<img class="hover-img" src="images/550/37.jpg" alt="#">
 													</a>
 													<div class="button-head">
 														<div class="product-action">
@@ -1069,8 +1069,8 @@
 											<div class="single-product">
 												<div class="product-img">
 													<a href="product-details.html">
-														<img class="default-img" src="https://via.placeholder.com/550x750" alt="#">
-														<img class="hover-img" src="https://via.placeholder.com/550x750" alt="#">
+														<img class="default-img" src="images/550/38.jpg" alt="#">
+														<img class="hover-img" src="images/550/38.jpg" alt="#">
 														<span class="price-dec">30% Off</span>
 													</a>
 													<div class="button-head">
@@ -1096,8 +1096,8 @@
 											<div class="single-product">
 												<div class="product-img">
 													<a href="product-details.html">
-														<img class="default-img" src="https://via.placeholder.com/550x750" alt="#">
-														<img class="hover-img" src="https://via.placeholder.com/550x750" alt="#">
+														<img class="default-img" src="images/550/39.jpg" alt="#">
+														<img class="hover-img" src="images/550/39.jpg" alt="#">
 													</a>
 													<div class="button-head">
 														<div class="product-action">
@@ -1122,8 +1122,8 @@
 											<div class="single-product">
 												<div class="product-img">
 													<a href="product-details.html">
-														<img class="default-img" src="https://via.placeholder.com/550x750" alt="#">
-														<img class="hover-img" src="https://via.placeholder.com/550x750" alt="#">
+														<img class="default-img" src="images/550/40.jpg" alt="#">
+														<img class="hover-img" src="images/550/40.jpg" alt="#">
 														<span class="out-of-stock">Hot</span>
 													</a>
 													<div class="button-head">
@@ -1158,8 +1158,8 @@
 											<div class="single-product">
 												<div class="product-img">
 													<a href="product-details.html">
-														<img class="default-img" src="https://via.placeholder.com/550x750" alt="#">
-														<img class="hover-img" src="https://via.placeholder.com/550x750" alt="#">
+														<img class="default-img" src="images/550/41.jpg" alt="#">
+														<img class="hover-img" src="images/550/41.jpg" alt="#">
 													</a>
 													<div class="button-head">
 														<div class="product-action">
@@ -1184,8 +1184,8 @@
 											<div class="single-product">
 												<div class="product-img">
 													<a href="product-details.html">
-														<img class="default-img" src="https://via.placeholder.com/550x750" alt="#">
-														<img class="hover-img" src="https://via.placeholder.com/550x750" alt="#">
+														<img class="default-img" src="images/550/42.jpg" alt="#">
+														<img class="hover-img" src="images/550/42.jpg" alt="#">
 													</a>
 													<div class="button-head">
 														<div class="product-action">
@@ -1210,8 +1210,8 @@
 											<div class="single-product">
 												<div class="product-img">
 													<a href="product-details.html">
-														<img class="default-img" src="https://via.placeholder.com/550x750" alt="#">
-														<img class="hover-img" src="https://via.placeholder.com/550x750" alt="#">
+														<img class="default-img" src="images/550/43.jpg" alt="#">
+														<img class="hover-img" src="images/550/43.jpg" alt="#">
 													</a>
 													<div class="button-head">
 														<div class="product-action">
@@ -1236,8 +1236,8 @@
 											<div class="single-product">
 												<div class="product-img">
 													<a href="product-details.html">
-														<img class="default-img" src="https://via.placeholder.com/550x750" alt="#">
-														<img class="hover-img" src="https://via.placeholder.com/550x750" alt="#">
+														<img class="default-img" src="images/550/44.jpg" alt="#">
+														<img class="hover-img" src="images/550/44.jpg" alt="#">
 														<span class="new">New</span>
 													</a>
 													<div class="button-head">
@@ -1263,8 +1263,8 @@
 											<div class="single-product">
 												<div class="product-img">
 													<a href="product-details.html">
-														<img class="default-img" src="https://via.placeholder.com/550x750" alt="#">
-														<img class="hover-img" src="https://via.placeholder.com/550x750" alt="#">
+														<img class="default-img" src="images/550/45.jpg" alt="#">
+														<img class="hover-img" src="images/550/45.jpg" alt="#">
 													</a>
 													<div class="button-head">
 														<div class="product-action">
@@ -1289,8 +1289,8 @@
 											<div class="single-product">
 												<div class="product-img">
 													<a href="product-details.html">
-														<img class="default-img" src="https://via.placeholder.com/550x750" alt="#">
-														<img class="hover-img" src="https://via.placeholder.com/550x750" alt="#">
+														<img class="default-img" src="images/550/46.jpg" alt="#">
+														<img class="hover-img" src="images/550/46.jpg" alt="#">
 														<span class="price-dec">30% Off</span>
 													</a>
 													<div class="button-head">
@@ -1316,8 +1316,8 @@
 											<div class="single-product">
 												<div class="product-img">
 													<a href="product-details.html">
-														<img class="default-img" src="https://via.placeholder.com/550x750" alt="#">
-														<img class="hover-img" src="https://via.placeholder.com/550x750" alt="#">
+														<img class="default-img" src="images/550/47.jpg" alt="#">
+														<img class="hover-img" src="images/550/47.jpg" alt="#">
 													</a>
 													<div class="button-head">
 														<div class="product-action">
@@ -1342,8 +1342,8 @@
 											<div class="single-product">
 												<div class="product-img">
 													<a href="product-details.html">
-														<img class="default-img" src="https://via.placeholder.com/550x750" alt="#">
-														<img class="hover-img" src="https://via.placeholder.com/550x750" alt="#">
+														<img class="default-img" src="images/550/48.jpg" alt="#">
+														<img class="hover-img" src="images/550/48.jpg" alt="#">
 														<span class="out-of-stock">Hot</span>
 													</a>
 													<div class="button-head">
