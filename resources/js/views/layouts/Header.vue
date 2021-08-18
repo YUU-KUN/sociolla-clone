@@ -37,7 +37,7 @@
 						<!-- Logo -->
 						<div class="logo">
 							<router-link to="/">
-								<img src="images/logo.png" alt="logo">
+								<img src="images/logo/1.jpg" alt="logo">
 							</router-link>
 							<!-- <a href="index.html"><img src="images/logo.png" alt="logo"></a> -->
 						</div>
@@ -88,18 +88,22 @@
 								<div class="shopping-item">
 									<div class="dropdown-cart-header">
 										<span>2 Items</span>
-										<a href="#">View Cart</a>
+										<router-link to="/cart">View Cart</router-link>
 									</div>
 									<ul class="shopping-list">
 										<li>
 											<a href="#" class="remove" title="Remove this item"><i class="fa fa-remove"></i></a>
-											<a class="cart-img" href="#"><img src="https://via.placeholder.com/70x70" alt="#"></a>
+											<router-link to="/product-detail" class="cart-img">
+												<img src="images/100x100/1.jpg" alt="product cart 1">
+											</router-link>
 											<h4><a href="#">Woman Ring</a></h4>
 											<p class="quantity">1x - <span class="amount">$99.00</span></p>
 										</li>
 										<li>
 											<a href="#" class="remove" title="Remove this item"><i class="fa fa-remove"></i></a>
-											<a class="cart-img" href="#"><img src="https://via.placeholder.com/70x70" alt="#"></a>
+											<router-link to="/product-detail" class="cart-img">
+												<img src="images/100x100/2.jpg" alt="product cart 2">
+											</router-link>
 											<h4><a href="#">Woman Necklace</a></h4>
 											<p class="quantity">1x - <span class="amount">$35.00</span></p>
 										</li>
