@@ -232,10 +232,8 @@
                                             </li>
                                         </ul>
                                         <div class="button5">
-                                            <a href="#" class="btn">Checkout</a>
-                                            <a href="#" class="btn"
-                                                >Continue shopping</a
-                                            >
+                                            <router-link to="/checkout" class="btn">Checkout</router-link>
+                                            <router-link to="/" class="btn">Continue shopping</router-link>
                                         </div>
                                     </div>
                                 </div>
