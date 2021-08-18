@@ -5,6 +5,7 @@ import Cart from './views/Cart.vue'
 import Checkout from './views/Checkout.vue'
 import Contact from './views/Contact.vue'
 import Blog from './views/Blog.vue'
+import ProductDetail from './views/ProductDetail.vue'
 
 // layouts
 import DashboardHeader from './views/layouts/DashboardHeader.vue'
@@ -36,6 +37,11 @@ export const routes = [
     //     component: EditProduct
     // }
 
+    {
+      path: '/product-detail',
+      name: 'ProductDetail',
+      components: {default: ProductDetail, Header, Footer}
+    },
     {
       path: '/blog',
       name: 'Blog',
