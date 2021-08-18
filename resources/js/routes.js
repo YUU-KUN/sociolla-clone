@@ -8,6 +8,7 @@ import ProductDetail from './views/ProductDetail.vue'
 import FAQ from './views/FAQ.vue'
 import Affiliate from './views/Affiliate.vue'
 import Shipping from './views/Shipping.vue'
+import Account from './views/Account.vue'
 
 // auth
 import Register from './views/auth/Register.vue'
@@ -43,6 +44,11 @@ export const routes = [
     //     component: EditProduct
     // }
 
+    {
+      path: '/account',
+      name: 'Account',
+      component: Account
+    },
     {
       path: '/shipping',
       name: 'Shipping',
