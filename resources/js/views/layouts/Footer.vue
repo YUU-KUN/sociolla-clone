@@ -46,9 +46,15 @@
 								<div class="single-footer links">
 									<h4>Information</h4>
 									<ul>
-										<li><a href="#">Faq</a></li>
-										<li><a href="#">Contact Us</a></li>
-										<li><a href="#">Affiliate</a></li>
+										<li>
+											<router-link to="/faq">FAQ</router-link>
+										</li>
+										<li>
+											<router-link to="/contact">Contact Us</router-link>
+										</li>
+										<li>
+											<router-link to="/affiliate">Affiliate</router-link>
+										</li>
 									</ul>
 								</div>
 								<!-- End Single Widget -->
@@ -57,9 +63,13 @@
 								<!-- Single Widget -->
 								<div class="single-footer links">
 									<h4>Customer Service</h4>
-									<ul>
-										<li><a href="#">Payment Methods</a></li>
-										<li><a href="#">Shipping</a></li>
+									<ul>	
+										<li>
+											<router-link to="/payment-method">Payment Methods</router-link>
+										</li>
+										<li>
+											<router-link to="/shipping">Shipping</router-link>
+										</li>
 									</ul>
 								</div>
 							</div>
@@ -68,8 +78,12 @@
 									<h4>Account</h4>
 									<div class="contact">
 										<ul>
-											<li>Login</li>
-											<li>Register</li>
+											<li>
+												<router-link to="/login">Login</router-link>
+											</li>
+											<li>
+												<router-link to="/register">Register</router-link>
+											</li>
 										</ul>
 									</div>
 								</div>
@@ -83,7 +97,7 @@
 										<div class="col-auto">
 											<div class="d-flex mb-3">
 												<div class="col-3 p-0">
-													<img class="brand-img img-fluid rounded" src="images/icon-jalan/1.jpg" alt="brand">
+													<img class="brand-img img-fluid rounded" src="images/brand-icon/1.jpg" alt="brand">
 												</div>
 												<div class="col-auto">
 													<p class="text-white font-weight-bold">WARDAH</p>
@@ -92,7 +106,7 @@
 											</div>
 											<div class="d-flex mb-3">
 												<div class="col-3 p-0">
-													<img class="brand-img img-fluid rounded" src="images/icon-jalan/1.jpg" alt="brand">
+													<img class="brand-img img-fluid rounded" src="images/brand-icon/1.jpg" alt="brand">
 												</div>
 												<div class="col-auto">
 													<p class="text-white font-weight-bold">WARDAH</p>
@@ -101,7 +115,7 @@
 											</div>
 											<div class="d-flex mb-3">
 												<div class="col-3 p-0">
-													<img class="brand-img img-fluid rounded" src="images/icon-jalan/1.jpg" alt="brand">
+													<img class="brand-img img-fluid rounded" src="images/brand-icon/1.jpg" alt="brand">
 												</div>
 												<div class="col-auto">
 													<p class="text-white font-weight-bold">WARDAH</p>
@@ -112,7 +126,7 @@
 										<div class="col-auto">
 											<div class="d-flex mb-3">
 												<div class="col-3 p-0">
-													<img class="brand-img img-fluid rounded" src="images/icon-jalan/1.jpg" alt="brand">
+													<img class="brand-img img-fluid rounded" src="images/brand-icon/1.jpg" alt="brand">
 												</div>
 												<div class="col-auto">
 													<p class="text-white font-weight-bold">WARDAH</p>
@@ -121,7 +135,7 @@
 											</div>
 											<div class="d-flex mb-3">
 												<div class="col-3 p-0">
-													<img class="brand-img img-fluid rounded" src="images/icon-jalan/1.jpg" alt="brand">
+													<img class="brand-img img-fluid rounded" src="images/brand-icon/1.jpg" alt="brand">
 												</div>
 												<div class="col-auto">
 													<p class="text-white font-weight-bold">WARDAH</p>
@@ -130,7 +144,7 @@
 											</div>
 											<div class="d-flex mb-3">
 												<div class="col-3 p-0">
-													<img class="brand-img img-fluid rounded" src="images/icon-jalan/1.jpg" alt="brand">
+													<img class="brand-img img-fluid rounded" src="images/brand-icon/1.jpg" alt="brand">
 												</div>
 												<div class="col-auto">
 													<p class="text-white font-weight-bold">WARDAH</p>
