@@ -1,4 +1,3 @@
-import Home from './views/Home.vue'
 // import Product from './views/Product.vue'
 import Dashboard from './views/Dashboard.vue'
 import Cart from './views/Cart.vue'
@@ -6,6 +5,13 @@ import Checkout from './views/Checkout.vue'
 import Contact from './views/Contact.vue'
 import Blog from './views/Blog.vue'
 import ProductDetail from './views/ProductDetail.vue'
+import FAQ from './views/FAQ.vue'
+import Affiliate from './views/Affiliate.vue'
+import Shipping from './views/Shipping.vue'
+
+// auth
+import Register from './views/auth/Register.vue'
+import Login from './views/auth/Login.vue'
 
 // layouts
 import DashboardHeader from './views/layouts/DashboardHeader.vue'
@@ -37,6 +43,21 @@ export const routes = [
     //     component: EditProduct
     // }
 
+    {
+      path: '/shipping',
+      name: 'Shipping',
+      component: Shipping
+    },
+    {
+      path: '/affiliate',
+      name: 'Affiliate',
+      component: Affiliate
+    },
+    {
+      path: '/faq',
+      name: 'FAQ',
+      component: FAQ
+    },
     {
       path: '/product-detail',
       name: 'ProductDetail',
@@ -74,9 +95,14 @@ export const routes = [
       // component: ProductComponent
     },
     {
-      path: '/vue',
-      name: 'Home',
-      component: Home
+      path: '/login',
+      name: 'Login',
+      component: Login
+    },
+    {
+      path: '/register',
+      name: 'Register',
+      component: Register
     },
     {
       path: '/about',
