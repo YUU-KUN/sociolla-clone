@@ -9,18 +9,18 @@
 							<div class="title d-flex justify-content-center fw-bolder">
 								<h4>Login</h4>
 							</div>
-							<form class="form">
+							<form class="form" @submit.prevent="login">
 								<div class="row">
 									<div class="col-lg-12 col-12">
 										<div class="form-group">
 											<label>Email</label>
-											<input name="email" type="email" placeholder="">
+											<input v-model="email" type="email" placeholder="">
 										</div>	
 									</div>
 									<div class="col-lg-12 col-12">
 										<div class="form-group">
 											<label>Password</label>
-											<input name="password" type="password" placeholder="">
+											<input v-model="password" type="password" placeholder="">
 										</div>	
 									</div>
 									<div class="col-12">
@@ -41,7 +41,25 @@
 
 <script>
 export default {
-
+	data() {
+		return {
+			email: '',
+			password: '',
+		}
+	},
+	methods: {
+		login(){
+			let email = this.email
+			let password = this.password
+            this.$store.dispatch('login', { email, password })
+            .then((response) => {
+                this.message = response.data.message
+				alert(this.message)
+                this.$router.push('/')
+            })
+            .catch(err => console.log(err))
+        }
+	}
 }
 </script>
 

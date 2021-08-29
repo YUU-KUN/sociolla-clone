@@ -19,6 +19,8 @@
 		</div>
 		<!-- End Breadcrumbs -->
 				
+		<pre>{{checkouts}}</pre>
+		<pre>{{profile}}</pre>
 		<!-- Start Checkout -->
 		<section class="shop checkout section">
 			<div class="container">
@@ -45,7 +47,7 @@
 									<div class="col-lg-6 col-md-6 col-12">
 										<div class="form-group">
 											<label>Email Address<span>*</span></label>
-											<input type="email" name="email" placeholder="" required="required">
+											<input type="email" v-model="profile.email" placeholder="" required="required">
 										</div>
 									</div>
 									<div class="col-lg-6 col-md-6 col-12">
@@ -339,23 +341,13 @@
 										</div>
 									</div>
 									<div class="col-lg-6 col-md-6 col-12">
+											<!-- <div class="custom-file">
+												<input type="file" class="custom-file-input" id="customFileLang" lang="en">
+												<label class="custom-file-label" for="customFileLang">Select file</label>
+											</div> -->
 										<div class="form-group">
-											<label>Company<span>*</span></label>
-											<select name="company_name" id="company">
-												<option value="company" selected="selected">Microsoft</option>
-												<option>Apple</option>
-												<option>Xaiomi</option>
-												<option>Huawer</option>
-												<option>Wpthemesgrid</option>
-												<option>Samsung</option>
-												<option>Motorola</option>
-											</select>
-										</div>
-									</div>
-									<div class="col-12">
-										<div class="form-group create-account">
-											<input id="cbox" type="checkbox">
-											<label>Create an account?</label>
+											<label for="formFile" class="form-label">Payment Image</label>
+  											<input class="form-control" type="file" id="formFile">
 										</div>
 									</div>
 								</div>
@@ -370,9 +362,11 @@
 								<h2>CART  TOTALS</h2>
 								<div class="content">
 									<ul>
-										<li>Sub Total<span>$330.00</span></li>
-										<li>(+) Shipping<span>$10.00</span></li>
-										<li class="last">Total<span>$340.00</span></li>
+										<li>Sub Total<span>{{getCartTotal | rupiah}}</span></li>
+										<li>(+) Shipping<span>FREE</span></li>
+										<!-- <li>(+) Shipping<span>$10.00</span></li> -->
+										<!-- <li class="last">Total<span>$340.00</span></li> -->
+										<li class="last">Total<span>{{getCartTotal | rupiah}}</span></li>
 									</ul>
 								</div>
 							</div>
@@ -400,7 +394,7 @@
 							<div class="single-widget get-button">
 								<div class="content">
 									<div class="button">
-										<a href="#" class="btn">proceed to checkout</a>
+										<a href="#" @click="proceedCheckout" class="btn">proceed checkout</a>
 									</div>
 								</div>
 							</div>
@@ -461,10 +455,47 @@
 
 <script>
 export default {
-
+	data() {
+		return {
+			checkouts: '',
+			profile: '',
+		}
+	},
+	methods: {
+		getCheckout() {
+			this.checkouts = this.$route.params.cart
+		},
+		getProfile() {
+			this.axios.get('profile').then(response => {
+				console.log(response.data)
+				this.profile = response.data;
+			}).catch(error => {
+				console.log(error.response)
+			})
+		},
+		proceedCheckout() {
+			const  data = {
+				cart: this.checkouts,
+				total: this.total
+			}
+			this.axios.post('transaction', data).then(response => {
+				console.log(response.data)
+			}).catch(error => {
+				console.logi(error.response)
+			})
+		}
+	},
+	computed: {
+		getCartTotal() {
+			// for (let index = 0; index < this.checkouts.length; index++) {
+			// 	this.cartTotal =+ this.checkouts[index].total;
+			// }
+			return this.$route.params.total
+		}
+	},
+	mounted() {
+		this.getCheckout()
+		this.getProfile()
+	}
 }
 </script>
-
-<style>
-
-</style>

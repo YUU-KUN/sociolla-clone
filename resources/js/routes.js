@@ -1,3 +1,7 @@
+import Vue from 'vue';
+import store from './store';
+import VueRouter from 'vue-router';
+
 // import Product from './views/Product.vue'
 import Dashboard from './views/Dashboard.vue'
 import Cart from './views/Cart.vue'
@@ -23,9 +27,8 @@ import Slider from './views/layouts/Slider.vue'
 import StartMediumBanner from './views/layouts/StartMediumBanner.vue'
 import StartSmallBanner from './views/layouts/StartSmallBanner.vue'
 
+Vue.use(VueRouter)
 
-// component
-import ProductComponent from './components/ProductComponent.vue'
 
 export const routes = [
     // {
@@ -65,7 +68,7 @@ export const routes = [
       component: FAQ
     },
     {
-      path: '/product-detail',
+      path: '/product-detail/:product_id',
       name: 'ProductDetail',
       components: {default: ProductDetail, Header, Footer}
     },
@@ -92,13 +95,16 @@ export const routes = [
     {
       path: '/',
       name: 'Dashboard',
-      components: {default: Dashboard, DashboardHeader, Footer, Slider, StartSmallBanner}
+      components: {default: Dashboard, DashboardHeader, Footer, Slider, StartSmallBanner},
+      meta: {
+        title: "Dashboard",
+        requiresAuth: true
+      }
     },
     {
       path: '/product',
       name: 'Product',
       components: {default: Product, Header, Footer}
-      // component: ProductComponent
     },
     {
       path: '/login',
@@ -119,3 +125,23 @@ export const routes = [
       component: () => import(/* webpackChunkName: "about" */ './views/About.vue')
     }
 ];
+
+const router = new VueRouter({
+  mode: 'hash',
+  base: process.env.BASE_URL,
+  routes
+});
+
+router.beforeEach((to, from, next) => {
+  if(to.matched.some(record => record.meta.requiresAuth)) {
+    if (store.getters.isLoggedIn) {
+      next()
+      return
+    }
+    next('/login') 
+  } else {
+    next() 
+  }
+})
+
+export default router

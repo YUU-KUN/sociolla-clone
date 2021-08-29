@@ -145,7 +145,7 @@
 												</li>
 												<li><a href="#">Shop<i class="ti-angle-down"></i><span class="new">New</span></a>
 													<ul class="dropdown">
-														<li><router-link to="/cart">Cart</router-link></li>
+														<li><router-link class="d-flex justify-content-between" to="/cart">Cart <span class="badge badge-primary d-flex align-items-center">24</span></router-link></li>
 														<li><router-link to="/checkout">Checkout</router-link></li>
 													</ul>
 												</li>

@@ -22,7 +22,9 @@
 								<li><i class="ti-location-pin"></i> Store location</li>
 								<li><i class="ti-alarm-clock"></i> <a href="#">Daily deal</a></li>
 								<li><i class="ti-user"></i><router-link to="/account">My account</router-link></li>
-								<li><i class="ti-power-off"></i><router-link to="/login">Login</router-link></li>
+								<!-- <li v-if="this.$store.getters.isLoggedIn" @click="logout"><i class="ti-power-off"></i>Logout</li> -->
+								<li v-if="this.$store.getters.isLoggedIn"><i class="ti-power-off"></i><span class="logout-text" @click="logout">Logout</span></li>
+								<li v-else><i class="ti-power-off"></i><router-link to="/login">Login</router-link></li>
 							</ul>
 						</div>
 						<!-- End Top Right -->
@@ -250,7 +252,17 @@
 
 <script>
 export default {
+	data() {
+		return {
 
+		}
+	}, 
+	methods: {
+		logout() {
+			this.$store.dispatch('logout')
+			this.$router.push('/login')
+		}
+	}
 }
 </script>
 
@@ -258,5 +270,8 @@ export default {
 	.menu-area ul.navbar-nav li a{
 		color: black;
 		/* color:red */
+	}
+	.logout-text:hover {
+		cursor: pointer;
 	}
 </style>

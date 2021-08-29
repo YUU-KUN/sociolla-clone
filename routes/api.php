@@ -6,6 +6,7 @@ use App\Http\Controllers\UserController;
 use App\Http\Controllers\ProductController;
 use App\Http\Controllers\BrandController;
 use App\Http\Controllers\CartController;
+use App\Http\Controllers\TransactionController;
 /*
 |--------------------------------------------------------------------------
 | API Routes
@@ -27,9 +28,14 @@ Route::get('timeBomb', [UserController::class, 'timeBomb']);
 Route::get('profile', [UserController::class, 'getAuthenticatedUser']);
 Route::post('user-register', [UserController::class, 'register']);
 Route::post('user-login', [UserController::class, 'login']);
+Route::put('update-profile', [UserController::class, 'updateProfile']);
 
 // USER
-Route::get('user', [UserController::class, 'getAllUser'])->middleware('superadmin');
+Route::get('user', [UserController::class, 'getAllUser']);
+Route::get('user/{id}', [UserController::class, 'getUser']);
+Route::put('user/{id}', [UserController::class, 'updateUser']);
+Route::delete('user/{id}', [UserController::class, 'deleteUser']);
+// Route::get('user', [UserController::class, 'getAllUser'])->middleware('superadmin');
 
 // PRODUCT
 Route::resource('product', ProductController::class);
@@ -40,3 +46,6 @@ Route::resource('brand', BrandController::class);
 // CART
 // Route::put('addQuantity/{id}', [CartController::class, 'addQuantity']);
 Route::resource('cart', CartController::class);
+
+// TRANSACTION
+Route::resource('transaction', TransactionController::class);
