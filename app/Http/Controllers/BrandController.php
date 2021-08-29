@@ -4,6 +4,7 @@ namespace App\Http\Controllers;
 
 use App\Models\Brand;
 use Illuminate\Http\Request;
+use App\Http\Requests\StoreBrand;
 
 class BrandController extends Controller
 {
@@ -33,9 +34,16 @@ class BrandController extends Controller
      * @param  \Illuminate\Http\Request  $request
      * @return \Illuminate\Http\Response
      */
-    public function store(Request $request)
+    public function store(StoreBrand $request)
     {
-        $brand = Brand::create($request->all());
+        $input = $request->all();
+        $image = $request->file('image');
+        if ($image) {
+            $input['image'] = $image->getClientOriginalName();
+            $image->move(public_path('brand_image'),$input['image']);
+        }
+
+        $brand = Brand::create($input);
         return $brand;
     }
 
@@ -70,7 +78,16 @@ class BrandController extends Controller
      */
     public function update(Request $request, Brand $brand)
     {
-        $brand->update($request->all());
+        $input = $request->all();
+        $image = $request->file('image');
+        if($image){
+            $input['image'] = $image->getClientOriginalName();
+            $image->move(public_path('brand_image'),$input['image']);
+        } else {
+            $input['image'] = $brand->image;
+        }
+
+        $brand->update($input);
         return $brand;
     }
 
