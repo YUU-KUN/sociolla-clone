@@ -28,13 +28,14 @@ class StoreProduct extends FormRequest
             'title' => 'required | max:100',
             'name' => 'required | max:100',
             'description' => 'required',
-            'isPreOrder' => 'required | max:1',
             'price' => 'required | integer',
-            'hasVoucher' => 'required | max:1',
-            'rating' => 'required | integer | min:1 | max:5',
-            // 'totalRating' => 'required | integer',
             'variant' => 'required',
-            'stock' => 'required | integer | min:0'
+            'stock' => 'required | integer | min:0',
+            'image' => 'required',
+            // 'isPreOrder' => 'max:1',
+            // 'hasVoucher' => 'max:1',
+            // 'rating' => 'required | integer | min:1 | max:5',
+            // 'totalRating' => 'required | integer',
         ];
     }
 

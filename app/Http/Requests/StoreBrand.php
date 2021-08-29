@@ -13,7 +13,7 @@ class StoreBrand extends FormRequest
      */
     public function authorize()
     {
-        return false;
+        return true;
     }
 
     /**
@@ -24,7 +24,10 @@ class StoreBrand extends FormRequest
     public function rules()
     {
         return [
-            //
+            'name' => 'required',
+            'origin' => 'required',
+            // 'description' => 'required',
+            // 'image' => 'required',
         ];
     }
 }
