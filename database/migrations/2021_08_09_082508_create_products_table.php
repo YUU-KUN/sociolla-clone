@@ -20,8 +20,10 @@ class CreateProductsTable extends Migration
             $table->string('name', 100);
             $table->text('description');
             // $table->string('image');
-            $table->enum('iSPreOrder', ['1', '0'])->default('0');
+            $table->enum('isPreOrder', ['1', '0'])->default('0');
             $table->integer('price');
+            $table->integer('price_after_discount');
+            $table->integer('discount');
             $table->enum('hasVoucher', ['1', '0'])->default('0');
             $table->float('rating')->default(0)->max(5);
             $table->integer('totalRating')->default(0);
