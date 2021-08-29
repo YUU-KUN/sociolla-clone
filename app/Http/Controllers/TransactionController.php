@@ -4,6 +4,7 @@ namespace App\Http\Controllers;
 
 use App\Models\Transaction;
 use Illuminate\Http\Request;
+use JWTAuth;
 
 class TransactionController extends Controller
 {
@@ -14,7 +15,7 @@ class TransactionController extends Controller
      */
     public function index()
     {
-        //
+        return Transaction::all();
     }
 
     /**
@@ -35,7 +36,26 @@ class TransactionController extends Controller
      */
     public function store(Request $request)
     {
-        //
+        $input = $request->all();
+        // return $input;
+        
+        $input['user_id'] = '1';
+        // $input['user_id'] = JWTAuth::user()->id;
+        for ($i=0; $i < count($input['cart']); $i++) {
+            // $input['cart'][$i]['product_id'] = $input[$i]['product_id'];
+            // $input['cart'][$i]['quantity'] = $input[$i]['quantity'];
+            $input['product_id'] = $input['cart'][$i]['product_id'];
+            $input['quantity'] = $input['cart'][$i]['quantity'];
+            if ($input['cart'][$i]['product']['discount'] > 0) {
+                $input['total'] = $input['cart'][$i]['product']['price_after_discount'];
+            } else {
+                $input['total'] = $input['cart'][$i]['product']['price'];
+                // $input['total'] = $input[$i]['total'];
+            }
+            $input['status'] = 'pending';
+            Transaction::create($input);
+        }
+        return $request->all();
     }
 
     /**
@@ -80,6 +100,7 @@ class TransactionController extends Controller
      */
     public function destroy(Transaction $transaction)
     {
-        //
+        $transaction->delete();
+        return 'Berhasil menghapus Transaksi';
     }
 }

@@ -20,6 +20,28 @@ class UserController extends Controller
         return response()->json($users);
     }
 
+    public function getUser(Request $request, $id)
+    {
+        $user = User::find($id);
+        return $user;
+    }
+
+    public function updateUser(Request $request, $id)
+    {
+        $input = $request->all();
+        $user = User::find($id);
+        $input['password'] = $user->password;
+        $user->update($input);
+        return $user;
+    }
+
+    public function deleteUser(Request $request, $id)
+    {
+        $user = User::find($id);
+        $user->delete();
+        return 'Berhasil menghapus user';
+    }
+
     public function register(Request $request)
     {
         $input = $request->all();
@@ -46,6 +68,7 @@ class UserController extends Controller
         $user = User::where('email', $credentials['email'])->first();
         return response()->json([
             'success' => true,
+            'message' => 'Login Success',
             'token' => $jwt_token,
             'user' => JWTAuth::user()
         ]);
@@ -53,7 +76,8 @@ class UserController extends Controller
 
     public function updateProfile()
     {
-        $user = User::where('id', Auth::user()->id)->first();
+        // $user = User::where('id', Auth::user()->id)->first();
+        $user = JWTAuth::user();
         $user->update($request->all());
         return response()->json([
             'success' => 1,
@@ -70,6 +94,9 @@ class UserController extends Controller
 
     public function getAuthenticatedUser()
     {
+
+        return User::where('id', '1')->first();
+
         try {
 
             if (! $user = JWTAuth::parseToken()->authenticate()) {
@@ -90,7 +117,7 @@ class UserController extends Controller
 
         }
 
-        return response()->json($user);
+        return response()->json($user); // nanti pake ini
     }
 
     // BISA JUGA
