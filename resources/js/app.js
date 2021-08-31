@@ -15,6 +15,8 @@ import axios from 'axios';
 import router from './routes';
 import BootstrapVue from 'bootstrap-vue';
 import VueCurrency from 'vue-currency-filter'
+// import vSelect from 'vue-select'
+
 
 import '../../public/assets/js/jquery.min.js'
 import '../../public/assets/js/jquery-ui.min.js'
@@ -38,6 +40,7 @@ import '../../public/assets/js/popper.min.js'
 // import '../../public/assets/js/ytplayer.min.js'
 
 // CSS
+import 'vue-select/dist/vue-select.css';
 import '../../public/assets/css/bootstrap.css'
 import '../../public/assets/css/reset.css'
 import '../../public/assets/css/style.css'
@@ -58,6 +61,7 @@ import '../../public/assets/css/slicknav.min.css'
 axios.defaults.baseURL = 'http://localhost:8000/api/';
 
 Vue.component('example-component', require('./components/ExampleComponent.vue').default);
+// Vue.component('v-select', VueSelect.VueSelect);
 
 Vue.use(VueCurrency, {
     name: 'rupiah',
