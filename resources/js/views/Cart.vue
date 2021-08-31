@@ -23,6 +23,8 @@
         </div>
         <!-- End Breadcrumbs -->
 
+        <pre>{{carts}}</pre>
+
         <!-- Shopping Cart -->
         <div class="shopping-cart section">
             <div v-if="carts.length < 1" class="container text-center mb-5">
@@ -282,13 +284,17 @@ export default {
             //     cart: this.carts,
             //     total: this.total,
             // }
-            this.$router.push({
-                name: 'Checkout',
-                params: {
-                    cart: this.carts,
-                    total: this.total
-                }
-            })
+            if (!this.$store.getters.isLoggedIn) {
+                this.$router.push('/login')
+            } else {
+                this.$router.push({
+                    name: 'Checkout',
+                    params: {
+                        cart: this.carts,
+                        total: this.total
+                    }
+                })
+            }
             // this.axios.post('transaction', data).then(response => {
             //     console.log(response.data)
             //     this.$router.push('/checkout')
