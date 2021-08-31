@@ -35,6 +35,12 @@ Route::get('user', [UserController::class, 'getAllUser']);
 Route::get('user/{id}', [UserController::class, 'getUser']);
 Route::put('user/{id}', [UserController::class, 'updateUser']);
 Route::delete('user/{id}', [UserController::class, 'deleteUser']);
+
+// ADDRESS
+Route::get('province', [UserController::class, 'getProvince']);
+Route::get('regency/{province_id}', [UserController::class, 'getRegency']);
+Route::get('district/{regency_id}', [UserController::class, 'getDisctrict']);
+Route::get('village/{district_id}', [UserController::class, 'getVillage']);
 // Route::get('user', [UserController::class, 'getAllUser'])->middleware('superadmin');
 
 // PRODUCT
