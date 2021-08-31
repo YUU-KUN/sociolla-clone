@@ -11,6 +11,11 @@ use JWTAuth;
 use JWTException;
 use Carbon\Carbon;
 
+use App\Models\Province;
+use App\Models\Regency;
+use App\Models\District;
+use App\Models\Village;
+
 class UserController extends Controller
 {
 
@@ -138,4 +143,29 @@ class UserController extends Controller
     //         ]);
     //     }
     // }
+
+
+    public function getProvince()
+    {
+        $provinces = Province::get();
+        return $provinces;
+    }
+
+    public function getRegency(Request $request)
+    {
+        $regencies = Regency::where('province_id', $request->province_id)->get();
+        return $regencies;
+    }
+
+    public function getDisctrict(Request $request)
+    {
+        $districts = District::where('regency_id', $request->regency_id)->get();
+        return $districts;
+    }
+
+    public function getVillage(Request $request)
+    {
+        $villages = Village::where('district_id', $request->district_id)->get();
+        return $villages;
+    }
 }
